@@ -1,0 +1,198 @@
+<%@ jet
+	imports="pdstore.* java.util.Date pdstore.dal.* nz.ac.auckland.se.genoupe.tools.Debug" 
+	package="pdstore.dal.jet" 
+	class="PDGetSetRemoveGen" 
+%>
+
+<%
+PDRole role2 = (PDRole) argument;
+String roleName = role2.getName();
+String camelName = PDGen.makeFirstSmall(PDGen.makeCamelCase(roleName));
+String upperCamelName = PDGen.makeFirstBig(camelName);
+PDType type2 = role2.getOwner();
+
+// determine the kind of object to use as parameter in a getter/setter
+boolean useGeneratedClass = 
+	// use generated class if the type is not primitive...
+	!((type2.getIsPrimitive()==null)? false : type2.getIsPrimitive()) 
+	// ...or if the type is Object
+	|| type2.getId().equals(PDStore.OBJECT_TYPEID);
+
+// determine the corresponding java type to use for the parameter
+String javaTypeName = null;
+Class<?> javaValueType = GUID.class;
+
+if (useGeneratedClass) {
+	Class<?> registeredClass = DALClassRegister.getDataClass(type2.getId());
+	if (registeredClass != null) {
+    	// if a DAL class was already registered, use its name
+    	javaTypeName = registeredClass.getSimpleName();
+	} else if (type2.getId().equals(PDStore.OBJECT_TYPEID)) {
+		// if the relation is to Object, then use PDInstance
+		javaTypeName = "PDInstance";
+	} else {
+	    // if no class was registered, use the default name
+	    // for generated access classes
+	    javaTypeName = "PD" + PDGen.makeCamelCase(type2.getName());
+	}
+} else {
+	// if it is a primitive non-Object type (e.g. String), 
+	// then use corresponding Java primitive type
+	javaValueType = PDGen.getJavaValueType(type2);
+	javaTypeName = javaValueType.getSimpleName();
+}
+%>
+
+<%//GETTER METHOD GENERATION%>
+	/**
+	 * Returns the instance connected to this instance through the role "<%=roleName%>".
+	 * @return the connected instance
+	 * @throws PDStoreException
+	 */
+	 public <%=javaTypeName%> get<%=upperCamelName%>() throws PDStoreException {
+	 	return (<%=javaTypeName%>)pdWorkingCopy.getInstance(this, role<%=upperCamelName%>Id);
+	 }
+
+	/**
+	 * Returns the instance(s) connected to this instance through the role "<%=roleName%>".
+	 * @return the connected instance(s)
+	 * @throws PDStoreException
+	 */
+	 public Collection<<%=javaTypeName%>> get<%=upperCamelName%>s() throws PDStoreException {
+	 	Set<<%=javaTypeName%>> result = new HashSet<<%=javaTypeName%>>();
+	 	GUID <%=javaTypeName%>TypeId = new GUID("<%=type2.getId()%>");
+		pdWorkingCopy.getInstances(this, role<%=upperCamelName%>Id, <%=javaTypeName%>.class, <%=javaTypeName%>TypeId, result);
+	 	return result;
+	 }
+	 
+<%//ADDER METHOD GENERATION%>
+   /**
+	 * Connects this instance to the given instance using role "<%=roleName%>".
+	 * If the given instance is null, nothing happens.
+	 * @param <%=camelName%> the instance to connect
+	 * @throws PDStoreException
+	 */
+	public void add<%=upperCamelName%>(<%=javaValueType.getSimpleName()%> <%=camelName%>) throws PDStoreException {
+
+			if (<%=camelName%> != null) {
+				<%//since we are using addLink it shouldn't matter whether it is an add or a set%>
+				pdWorkingCopy.addLink(this.id, role<%=upperCamelName%>Id, <%=camelName%>);
+			}
+
+	}
+
+<%	// If no DAL class is used for the owner type of this role, 
+	// then offer power version of add() for the primitive type
+	// associated with the owner type of the role. This is to avoid 
+	// a Java type system conflict between the two add..s(),one with 
+	// the primitive and one with a DAL type (see below). 
+	if (!useGeneratedClass) { %>
+	/**
+	 * Connects this instance to the given instances using role "<%=roleName%>".
+	 * If the given collection of instances is null, nothing happens.
+	 * @param <%=camelName%> the Collection of instances to connect
+	 * @throws PDStoreException
+	 */
+	public void add<%=upperCamelName%>s(Collection<<%=javaValueType.getSimpleName()%>> <%=camelName%>s) throws PDStoreException {
+		if (<%=camelName%>s == null)
+			return;
+
+		for (<%=javaValueType.getSimpleName()%> instance : <%=camelName%>s)
+			add<%=upperCamelName%>(instance);
+	}
+<%}%>
+
+<%	// If a DAL class is used for the owner type of this role, 
+	// then offer to use it in another version of add().
+	if (useGeneratedClass) { %>
+	/**
+	 * Connects this instance to the given instance using role "<%=roleName%>".
+	 * If the given instance is null, nothing happens.
+	 * @param <%=camelName%> the instance to connect
+	 * @throws PDStoreException
+	 */
+	public void add<%=upperCamelName%>(<%=javaTypeName%> <%=camelName%>) throws PDStoreException {
+		if (<%=camelName%> != null) {
+			add<%=upperCamelName%>(<%=camelName%>.getId());
+		}		
+	}
+	
+	/**
+	 * Connects this instance to the given instance using role "<%=roleName%>".
+	 * If the given collection of instances is null, nothing happens.
+	 * @param <%=camelName%> the Collection of instances to connect
+	 * @throws PDStoreException
+	 */
+	public void add<%=upperCamelName%>s(Collection<<%=javaTypeName%>> <%=camelName%>s) throws PDStoreException {
+		if (<%=camelName%>s == null)
+			return;
+		
+		for (<%=javaTypeName%> instance : <%=camelName%>s)
+			add<%=upperCamelName%>(instance);	
+	}
+<%}%>
+
+<%//REMOVER METHOD GENERATION%>
+	/**
+	 * Removes the link from this instance through role "<%=roleName%>".
+	 * @throws PDStoreException
+	 */
+	public void remove<%=upperCamelName%>() throws PDStoreException {
+		pdWorkingCopy.removeLink(this.id, role<%=upperCamelName%>Id, 
+			pdWorkingCopy.getInstance(this, role<%=upperCamelName%>Id));
+	}
+
+	/**
+	 * Removes the link from this instance through role "<%=roleName%>" to the given instance, if the link exists.
+	 * If there is no such link, nothing happens.
+	 * If the given instance is null, nothing happens.
+	 * @throws PDStoreException
+	 */
+	public void remove<%=upperCamelName%>(Object <%=camelName%>) throws PDStoreException {
+		if (<%=camelName%> == null)
+			return;
+		pdWorkingCopy.removeLink(this.id, role<%=upperCamelName%>Id, <%=camelName%>);
+	}
+
+<%	// If a DAL class is used for the owner type of this role, 
+	// then offer to use it in a power version of remove().
+	if (useGeneratedClass) { %>
+	/**
+	 * Removes the links from this instance through role "<%=roleName%>" to the instances 
+	 * in the given Collection, if the links exist.
+	 * If there are no such links or the collection argument is null, nothing happens.
+	 * @throws PDStoreException
+	 */
+	public void remove<%=upperCamelName%>s(Collection<<%=javaTypeName%>> <%=camelName%>s) throws PDStoreException {
+		if (<%=camelName%>s == null)
+			return;
+		
+		for (<%=javaTypeName%> instance : <%=camelName%>s)
+			pdWorkingCopy.removeLink(this.id, role<%=upperCamelName%>Id, instance);
+	}
+<%}%>
+
+<%//SETTER METHOD GENERATION%>
+   /**
+	 * Connects this instance to the given instance using role "<%=roleName%>".
+	 * If there is already an instance connected to this instance through role "<%=roleName%>", the link will be overwritten.
+	 * If the given instance is null, an existing link is removed."
+	 * @param <%=camelName%> the instance to connect
+	 * @throws PDStoreException
+	 */
+	public void set<%=upperCamelName%>(<%=javaValueType.getSimpleName()%> <%=camelName%>) throws PDStoreException {
+		pdWorkingCopy.setLink(this.id,  role<%=upperCamelName%>Id, <%=camelName%>);	
+	}
+<%	if (useGeneratedClass) { //overload it%>
+	/**
+	 * Connects this instance to the given instance using role "<%=roleName%>".
+	 * If there is already an instance connected to this instance through role "<%=roleName%>", the link will be overwritten.
+	 * If the given instance is null, an existing link is removed."
+	 * @param <%=camelName%> the instance to connect
+	 * @throws PDStoreException
+	 */
+	public void set<%=upperCamelName%>(<%=javaTypeName%> <%=camelName%>) throws PDStoreException {
+		set<%=upperCamelName%>(<%=camelName%>.getId());
+	}
+
+<%	}%>

@@ -1,0 +1,215 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.4/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.4/ http://www.mediawiki.org/xml/export-0.4.xsd" version="0.4" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.16wmf4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Enzo Ferrari (automobile)</title>
+    <id>616087</id>
+    <revision>
+      <id>367996841</id>
+      <timestamp>2010-06-14T16:38:56Z</timestamp>
+      <contributor>
+        <username>SmackBot</username>
+        <id>433328</id>
+      </contributor>
+      <minor/>
+      <comment>remove deprecated parameter from cite template</comment>
+      <text xml:space="preserve">{{Fixbunching|beg}}
+{{Infobox Automobile
+| name              = Enzo Ferrari
+| image             = [[File:SC06 2003 Enzo Ferrari 2.jpg|285px|Enzo Ferrari]]
+| manufacturer      = [[Ferrari]]
+| parent_company    = [[Fiat Group]]
+| aka               =
+| production        = 2002–2004&lt;br/&gt;&lt;!-- NOTE there WERE 400 produced, originally 399 but another 1 was produced, see the production section --&gt;400 produced
+| model_years       =
+| assembly          =
+| predecessor       = [[Ferrari F50]]
+| successor         = [[Ferrari F70]]
+| class             = [[Sports car]]
+| body_style        = 2-seat [[Berlinetta]]
+| layout            = [[Rear mid-engine, rear-wheel drive layout|RMR layout]]
+| platform          =
+| engine            = 6.0&amp;nbsp;L [[V12 engine|V12]]
+| transmission      = 6-speed [[semi-automatic transmission|semi-automatic]]
+| wheelbase         = {{convert|2650|mm|in||abbr=on}}
+| length            = {{convert|4702|mm|in||abbr=on}}
+| width             = {{convert|2035|mm|in||abbr=on}}
+| height            = {{convert|1147|mm|in||abbr=on}}
+| weight            = {{convert|1365|kg|lb||abbr=on}}
+| related           = [[Ferrari FXX]]
+| designer          = [[Pininfarina]]
+| sp                = us
+}}
+{{Fixbunching|mid}}
+[[Image:Enzo side.JPG|right|thumb|220px|Side view.]]
+{{Fixbunching|mid}}
+[[Image:Enzo rear.JPG|right|thumb|220px|Rear view.]]
+{{FixBunching|mid}}
+[[Image:Enzo Ferrari Monaco.jpg|right|thumb|220px|Enzo Ferrari Nero - Monaco.]]
+{{FixBunching|mid}}
+[[Image:Ferrari Enzo Engine.jpg|thumb|220px|Engine.]]
+{{Fixbunching|end}}
+The '''Enzo Ferrari ''' is a [[V12 engine|12 cylinder]] [[rear mid-engine, rear-wheel drive layout|mid-engine]] [[berlinetta]] named after the company's founder, [[Enzo Ferrari]].  It was built in 2002 using [[Formula One]] technology, such as a [[Graphite-reinforced plastic|carbon-fibre]] body, F1-style [[electrohydraulic manual transmission|electrohydraulic shift transmission]], and [[reinforced carbon-carbon#Similar products|Carbon fibre-reinforced Silicon Carbide]] (C/SiC) [[ceramic]] composite [[disc brake]]s. Also used are technologies not allowed in F1 such as active aerodynamics and traction control. After a [[downforce]] of {{convert|775|kg|lb|0|abbr=on}} is reached at {{convert|355.6|km/h|mi/h|0|abbr=on}} the rear wing is actuated by computer to maintain that downforce.
+
+The Enzo's [[V12 engine]] is the first of a new generation for Ferrari.  It is based on the architecture of the [[V8]] found in sister-company [[Maserati]]'s [[Maserati Quattroporte|Quattroporte]], using the same basic architecture and 104&amp;nbsp;mm (4.1&amp;nbsp;in) bore spacing.  This design will replace the former architectures seen in V12 and V8 engines used in most other contemporary Ferraris.  The 2005 [[Ferrari F430|F430]] is the second Ferrari to get a version of this new powerplant.
+
+In 2004, American magazine ''[[Sports Car International]]'' named the Enzo Ferrari number three on their list of [[Sports Car International Top Sports Cars|Top Sports Cars of the 2000s]]. American magazine ''[[Motor Trend|Motor Trend Classic]]'' named the Enzo as number four in their list of the ten &quot;Greatest Ferraris of all time&quot;.
+
+==Name==
+Though officially known as the ''Enzo Ferrari'',&lt;ref&gt;[http://www.ferrari.com/English/GT_Sport%20Cars/Classiche/All_Models/Pages/Enzo_Ferrari.aspx Enzo Ferrari], www.Ferrari.com. Retrieved on 2009-07-01.&lt;/ref&gt; the car is sometimes referred to colloquially as the &quot;'''Ferrari Enzo'''&quot;, or simply as &quot;'''Enzo'''&quot; with no marque or other words attached.
+
+Celebrating its first World Championship of the new Millennium, in Formula One, Ferrari built the Enzo to celebrate this achievement and the company named the car after its founder, Enzo Ferrari, who died in 1988.&lt;ref&gt;{{cite web|url=http://auto.howstuffworks.com/enzo.htm|title=How the Enzo Ferrari Works|publisher=How Stuff Works|last=Grabianowski|first=Edward|accessdate=2007-04-09}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.ferrariworld.com/FWorld/fw/index.jsp|title=Enzo Ferrari}}&lt;/ref&gt;
+
+==Production==
+The Enzo was initially announced at the 2002 [[Paris Motor Show]] with a limited production run of 349  and  at US $659,330.  The company sent invitations to existing customers, specifically, those who had previously bought the [[Ferrari F40]] and [[Ferrari F50]].  All 349 cars were sold in this way before production began.  Later, after numerous requests, Ferrari decided to build 50 more Enzos, bringing the total to 399. Before being unveiled at the Paris Motor show, the Enzo (that was used in the show) was flown from Italy to California to be filmed in ''[[Charlie's Angels: Full Throttle]]''. It was driven on a beach by actress [[Demi Moore]]. After filming was complete, the Enzo was flown to France to be in the Motor Show.&lt;ref&gt;According to ''[[Charlie's Angels: Full Throttle]]'' director [[McG]]. ''[[Charlie's Angels: Full Throttle]]'' DVD, special feature.&lt;/ref&gt; Enzos are listed as being built in 2003.
+
+Ferrari built one more Enzo&amp;nbsp;— the 400th car&amp;nbsp;— and it was auctioned by [[Sotheby's]] Maranello Auction on June 28, 2005, to benefit survivors of the [[2004 Indian Ocean earthquake|2004 Tsunami]] for [[Euro|€]]950,000 ([[United States dollar|US$]]1,274,229), almost twice its list price.  This sum was presented to [[Pope Benedict XVI]], while former Ferrari [[Formula One]] driver [[Michael Schumacher]] gave the pope a steering wheel to commemorate the donation.  This wheel included a plaque which read, &quot;The Formula 1 World Champion's steering wheel to His Holiness Benedict XVI, Catholicism's driver.&quot;
+
+The Enzo Ferrari typically trades above $1,000,000 (£500,000) at auction.&lt;ref&gt;{{cite web|url=http://www.sportscarmarket.com/profiles/2006/January/Ferrari/index.html|title=2005 Enzo Ferrari|last=Ahlgrim|first=Steve|accessdate=2007-03-04|publisher=[[Sports Car Market]]}}&lt;/ref&gt;
+
+Three prototype &quot;mules&quot; were built, M1, M2, and M3.  Each was bodied to look like a [[Ferrari 348|348]], even though the mules were built in 2000.  The third mule was offered for auction alongside the 400th Enzo in June, 2005, bringing €195,500 (US$236,300).&lt;ref&gt;{{cite web|url=http://www.supercars.net/cars/3171.html|title=Ferrari M3 348 for sale|accessdate=2006-08-11|publisher= Supercars.net}}&lt;/ref&gt;
+
+==Specifications==
+===Engine===
+{{Main|Ferrari Dino engine#V12}}
+The Enzo is a [[RMR layout|mid-engined]] car with a 43.9/56.1 front/rear weight distribution.  The engine is Ferrari's [[Ferrari Dino engine|F140]] 65° [[V12 engine|V12]] with [[multi-valve|4 valves per cylinder]], [[dual overhead cam]]s and [[variable valve timing]].  [[Robert Bosch GmbH|Bosch]] Motronic ME7 [[fuel injection]] is used and the engine is [[naturally aspirated]].  It displaces 5998&amp;nbsp;cc (366&amp;nbsp;in³) and produces {{Convert|660|PS|kW hp|0|abbr=on}} at 7800&amp;nbsp;rpm and {{Convert|657|Nm|lb·ft|abbr=on}} at 5500&amp;nbsp;[[Revolutions per minute|rpm]].&lt;ref name=&quot;How engine works&quot; /&gt;  The [[redline]] is 8000&amp;nbsp;rpm.&lt;ref name=&quot;RSportsCars&quot;&gt;{{cite web | title = 2002 Ferrari Enzo | publisher = RSportsCars | url = http://www.rsportscars.com/eng/cars/ferrari_enzo.asp | accessdate = 2007-02-08 }}&lt;/ref&gt;
+
+===Chassis===
+The Enzo has a [[semi-automatic transmission]] (also known as the F1 gearbox) using paddles to control an automated shifting and clutch mechanism, with LED lights on the steering wheel telling the driver when to change gears.  The gearbox has a [[shift time]] of just 150&amp;nbsp;milliseconds.  The transmission was a first generation &quot;clutchless&quot; design from the late 1990s, and there have been complaints about its abrupt shifting.&lt;ref name=&quot;How engine works&quot; /&gt;&lt;ref&gt;{{cite web|url=http://paultan.org/archives/2006/06/26/vw-phases-out-automatics-makes-way-for-dsg/|title=Volkswagen makes way for DSG|accessdate=2006-08-11|publisher= Paul Tan}}&lt;/ref&gt;
+
+The Enzo Ferrari has 4 wheel independent suspension with push-rod actuated [[shock absorber]]s which can be adjusted from the cabin, complemented with [[anti-roll bar]]s at the front and rear.&lt;ref&gt;{{cite web|url=http://auto.howstuffworks.com/enzo2.htm| title=Turning Point| publisher=[[How Stuff Works]]| first=Edward| last=Grabianowski| accessdate=2007-03-25}}&lt;/ref&gt;
+
+The Enzo uses {{convert|483|mm|0|adj=on}} wheels and has {{convert|381|mm|0|adj=on}} [[Brembo]] [[disc brake]]s. The Enzo uses 19&quot; wheels held by a single lug nut and [[Bridgestone]] Potenza Scuderia RE050A tires.&lt;ref&gt;{{cite web|author=Posted by **TIME AGO** |url=http://www.caranddriver.com/news/car/03q1/ferrari_enzo-auto_shows |title=Ferrari Enzo - Auto Shows |publisher=Car and Driver |date= |accessdate=2010-02-20}}&lt;/ref&gt;
+
+{| class=wikitable
+|-
+!Gear!!1!!2!!3!!4!!5!!6!!Final Drive
+|-
+|'''Ratio'''||3.15:1||2.18:1||1.57:1||1.19:1||0.94:1||0.76:1||4.1:1
+|}
+
+===Performance===
+The Enzo can accelerate to {{convert|60|mi/h|km/h|abbr=on}} in 3.14 (3.1) seconds&lt;ref&gt;[http://www.motortrend.com/roadtests/coupes/112_0308_2003_ferrari_enzo/specs_price.html 2003 Ferrari Enzo Engine, Chassis, Dimensions, Price &amp; Performance Data - Road Test Review - Motor Trend&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; and can reach {{convert|100|mi/h|km/h|abbr=on}} in 6.6&amp;nbsp;seconds.&lt;ref name=&quot;How engine works&quot;&gt;{{cite web  | last =Grabianowski  | first =Edward  | authorlink =  | coauthors =  | title =Power and Glory | work =  | publisher =[[How Stuff Works]]  | date =  | url =http://auto.howstuffworks.com/enzo1.htm  | doi =  | accessdate =2007-02-08  }}&lt;/ref&gt;  The ¼&amp;nbsp;mile (~400&amp;nbsp;m) time is 11.0 at {{convert|136|mi/h|km/h|abbr=on}} and the top speed has been recorded to be as high as {{convert|363|km/h}}.&lt;ref&gt;{{cite web|url=http://www.auto-motor-und-sport.de/fahrberichte/die-300-km-h-elite-auf-die-schnelle-675856.html|language=German|title=The 300kmh elite|publisher=Autor-Motor-Sport}}&lt;/ref&gt;  It is rated at {{convert|12|mpgus|lk=off }} in the city and {{convert|18|mpgus|lk=off }} on the highway.
+
+Despite the Enzo's extraordinary performance and price, the [[Ferrari F430#430 Scuderia|Ferrari 430 Scuderia]] (an improved version of Ferrari's standard F430 production car) is capable of lapping the Ferrari test track just as quickly as the Enzo.&lt;ref&gt;{{cite web|url=http://www.edmunds.com/apps/vdpcontainers/do/vdp/articleId=122823/pageNumber=1|title=First Drive: 2008 Ferrari 430 Scuderia|author=Simon Green|publisher=Edmunds|date=2007-09-30|accessdate=2007-12-19}}&lt;/ref&gt;
+
+[[Evo (magazine)|Evo]] magazine tested the Enzo on the famed [[Nürburgring|Nordschleife Circuit]] and ran a 7:25.21 lap time. The Enzo in the test had a broken electronic damper.
+
+==Enzo-based cars==
+===Ferrari FXX===
+{{Main|Ferrari FXX}}
+[[Image:Ferrari FXX.jpg|thumb|Ferrari FXX]]
+As the result of the Enzo, Ferrari has decided to use some of the technology developed for it in a small-scale program to get more feedback from certain customers for use in future car design as well as their racing program.  The core of this program is a car called the Ferrari FXX.  It is loosely based on the Enzo's design with a highly-tuned 6.3 litre version of the Enzo's engine putting out roughly {{convert|800|PS|kW hp||abbr=on}}.  The gearbox is new as well as the tires (custom-designed for this car by [[Bridgestone]]) and the brakes (developed by [[Brembo]]).  In addition, the car is fitted with extensive data-recording and telemetry systems to allow Ferrari to record the car's behavior.  This information will be used by Ferrari to develop their next sports car.
+
+Like the Enzo, the car was sold to specially selected existing clients of Ferrari only; the initial price was €1.3 million.  Unlike the Enzo, the clients did not take delivery of the car themselves.  Rather, it is maintained by Ferrari and available for the client's use on various circuits as arranged by Ferrari and also during private track sessions.  The car is not expected to be street-legal or suitable for road use.
+
+The Ferrari FXX program will continue until 2008/2009 with the Ferrari FXX Evoluźione.  The car will continue to be improved under the Evolution kit, which will continually adjust specifics to create more power, change gearing, and remove drag.  The 6262 cc V12 engine will be pushing out {{convert|860|PS|kW hp||abbr=on}} at 9500 rpm.  There will be gearbox changes so that shift time will be reduced to 60 milliseconds per shift, a reduction of 20 milliseconds.  The car will also undergo aerodynamic changes and improvements to the traction control system. Its top speed is 227&amp;nbsp;mph.&lt;ref&gt;[http://www.carautoportal.com/ferrari/ferrari-fxx.php Ferrari FXX Development&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+===Ferrari P4/5 by Pininfarina===
+{{Main|Ferrari P4/5 by Pininfarina}}
+[[Image:Ferrari P4-5.jpg|thumb|Ferrari P4/5]]
+[[Pininfarina]] be officially badged as a Ferrari and along with Andrea Pininfarina and James Glickenhaus agreed that its official name would be &quot;had wanted to do a special one-off Enzo-based supercar and was looking for a backer.  After sending out feelers to its clients, American Ferrari collector, [[James Glickenhaus]] eventually agreed to back the project by commissioning the car as a modern homage to great Ferrari sports racing cars such as the [[Ferrari P|330 P3/4, 512 S, 312 P, and 333 SP]] on the last unregistered U.S.-spec Enzo chassis.&lt;ref name=&quot;The Beast of Turin&quot;&gt;{{cite journal|journal=[[Car and Driver]]|issue=September 2006|pages=86–93|title=The Beast of Turin}}&lt;/ref&gt;  The car was dubbed the Ferrari P4/5 by Pininfarina,&lt;ref&gt;{{cite web|url=http://www.autoexpress.co.uk/news/motoringpreviews/202264/ferrari_612_p45.html|title=Ferrari 612 P4/5|work=Autoexpress.co.uk|accessdate=August 11, 2006}}&lt;/ref&gt; and retains the Enzo's drivetrain and [[vehicle identification number]].&lt;ref&gt;{{cite web|url=http://www.ferrarip45.com|title=Ferrari P 4/5 by Pininfarina and James Glickenhaus|work=FerrariP45.com|accessdate=August 1, 2006}}&lt;/ref&gt;  The car was unveiled at the 2006 [[Pebble Beach Concours d'Elegance]] and appeared in the September issue of ''[[Car and Driver]]''.  The &quot;photos&quot; previously shown in ''[[AutoWeek]]'' and ''Octane'' were not close to what the car looks like.  After its unveiling at Pebble Beach, the P4/5 returned to Europe for high speed testing, press days, and an appearance at the [[Paris Auto Show]] in September.
+
+Upon seeing P 4/5, Luca di Montezemolo felt that the car deserved to Ferrari P 4/5 by Pininfarina&quot;.  Ted West wrote an article in ''Car and Driver'' about how this came to be: &quot;The Beast of Turin&quot;.&lt;ref name=&quot;The Beast of Turin&quot;/&gt;
+
+===Maserati MC12===
+[[Image:Maserati.MC12.JPG|thumb|Maserati MC12]]
+{{Main|Maserati MC12}}
+The Maserati MC12 is a two-seat [[RMR layout|mid-engined]] sports car derivative of the Enzo Ferrari developed by [[Maserati]] while under control of Ferrari.  It was developed specifically to be [[homologation|homologated]] for racing in the [[FIA GT Championship]], with a minimum requirement of 25 road versions to be produced before the car could be allowed to compete.  Maserati built 50 units, all of which were presold to selected customers.  A further variation, the [[Maserati MC12#MC12 Corsa|MC12 Corsa]] is a track day car, similar to the [[Ferrari FXX]].
+
+The Maserati MC12 has the same engine, chassis and gearbox as the Enzo but the only externally visible component from the Enzo is the windshield.&lt;ref&gt;{{cite web|url=http://www.worldcarfans.com/features.cfm/featureID/1060609.001/country/ecf/maserati/wcf-test-drive-maserati-mc12r-by-edo|title=World Car Fans test drive MC12|accessdate=2006-09-28|publisher=World Car Fans}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.motortrend.com/roadtests/coupe/112_0506_maserati_mc12/|title=Motor Trend Road Test|accessdate=2006-10-02|publisher=Motor Trend}}&lt;/ref&gt;  The MC12 is slower accelerating (0–100&amp;nbsp;km/h in 3.8 s) and has a lower top speed (330&amp;nbsp;km/h) or 208&amp;nbsp;mph and less drag coefficient (due to sharper nose and smoother curves) than the Enzo due to engine tuning.&lt;ref&gt;{{cite web|url=http://www.carfolio.com/specifications/models/car/?car=118481&amp;Maserati|title=Carfolio: Maserati MC12|accessdate=2006-09-28|publisher=Carfolio}}&lt;/ref&gt;  However, the MC12 has lapped race tracks faster than the Enzo before, specifically on the UK motoring show [[Top Gear (current format)|Top Gear]], and the Nurburgring Nordschleife (at colder outside temperature).  However this could be attributed to the MC12's Pirelli PZero Corsa tires which have more grip than the Enzo's Bridgestone Scuderias&lt;ref&gt;{{cite web|url=http://www.topgear.com/content/tgonbbc2/laptimes/thestig/|title=The Stig's lap times|publisher=Top Gear website|accessdate=2007-12-19}}&lt;/ref&gt; and MC12 has sharper nose and smoother curves than Enzo.
+
+===Maserati Birdcage 75th===
+[[Image:Maseratibirdcage.jpg|thumb|right|The Maserati Birdcage 75th at the 2006 [[LA Auto Show]].]]
+{{Main|Maserati Birdcage 75th}}
+The Maserati Birdcage 75th is a [[concept car]] created by automobile manufacturer [[Maserati]] and designed by [[Pininfarina]]. It was first introduced at the 2005 [[Geneva Auto Show]].  It draws inspiration from the [[Maserati Tipo 61|Maserati Tipo Birdcages]] of the 1960s and was made as a celebration of [[Pininfarina]]'s 75th [[anniversary]].&lt;ref&gt;{{cite web|url=http://www.topgear.com/content/features/stories/2005/06/stories/08/2.html|title=Maserati's bird of paradise|publisher=[[Top Gear (current format)|Top Gear]]|date=2005-06-01|accessdate=2006-02-22}}&lt;/ref&gt; It is an evolution of the Enzo's MC12 cousin.
+
+===Maserati MC12 Corsa===
+{{Main|Maserati MC12 Corsa}}
+[[Image:Maserati MC12 Corsa.jpg|thumb|left|Maserati MC 12 Corsa at the IAA 2007]]
+The Maserati MC12 Corsa is a variant of the MC12 intended for [[racetrack]] use. In contrast to the race version of the MC12, of which street-legal versions were produced for homologation purposes, the MC12 Corsa is intended for private use, albeit restricted to the track, as the Corsa's modifications make it illegal to drive on the road.
+
+The Corsa was developed directly from the MC12 GT1, which won the 2005 FIA GT Manufacturers Cup.&lt;ref name=&quot;maserati ultimate&quot;&gt;{{cite web|url=http://www.maserati.com.au/default.asp?action=article&amp;ID=248&amp;KeyWords=Italian%2CGT|title=Maserati Launches its Ultimate Super car|publisher=[[Maserati]]|accessdate=2006-10-29}}&lt;/ref&gt; The car was released in mid-2006, &quot;in response to the customer demand to own the MC12 racing car and fueled by the growth in track days, where owners can drive their cars at high speeds in the safety of a race track&quot;, as stated by Edward Butler, General Manager for Maserati in [[Australia]] and [[New Zealand]].&lt;ref name=&quot;RSportsCars&quot;&gt;{{cite web|url=http://www.rsportscars.com/eng/cars/mc12_corsa.asp|title=RSportsCars: Maserati MC12 Corsa|accessdate=2006-09-28|publisher=RSportsCars}}&lt;/ref&gt;&lt;ref name=&quot;maserati ultimate&quot; /&gt; In similar fashion to the [[Ferrari FXX]], although the owners are private individuals, Maserati is responsible for the storage, upkeep, and maintenance of the cars, and they are only driven on specially organized [[track day]]s. Unlike the FXX, Corsas are not used for research and development, and are used only for entertainment.&lt;ref name=&quot;IGN Corsa&quot;&gt;{{cite web|url=http://cars.ign.com/articles/711/711087p1.html|title=IGN: Maserati MC12 Corsa|accessdate=2006-10-02|publisher=IGN}}&lt;/ref&gt; A single MC12 Corsa has been modified by its owner to make it [[Street-legal vehicle|street-legal]].&lt;ref name=&quot;maserati ultimate&quot;/&gt;
+
+Only twelve MC12 Corsas were sold to selected customers, each of whom paid €1&amp;nbsp;million (US$1.47&amp;nbsp;million) for the privilege. Another three vehicles were produced for testing and publicity purposes.&lt;ref name=&quot;RSportsCars&quot; /&gt;&lt;ref name=&quot;ultimatecarpage&quot;&gt;{{cite web|url=http://www.ultimatecarpage.com/frame.php?file=car.php&amp;carnum=2798|title=Ultimate Car Page: Maserati MC12 Corsa|accessdate=2006-09-29|publisher=Ultimate Car Page}}&lt;/ref&gt; The Corsa shares its engine with the MC12 GT1; the powerplant produces {{convert|755|PS|kW hp||abbr=on}} at 8000&amp;nbsp;rpm, {{convert|122|PS|kW hp||abbr=on}} more than the original MC12.&lt;ref name=&quot;Autobild&quot;&gt;{{cite web|url=http://www.autobild.de/aktuell/meldungen/artikel.php?artikel_id=11654|title=Vorstellung Maserati MC12 Corsa |publisher=Autobild|accessdate=2007-04-28}}&lt;/ref&gt; The MC12 Corsa shares the GT1's shortened nose, which was a requirement for entry into the [[American Le Mans Series]]. The car was available in a single standard color, named &quot;Blue Victory&quot;, though the car's paint could be customized upon request.&lt;ref name=&quot;RSportsCars&quot; /&gt; The MC12 Corsa possesses steel/carbon racing brakes, but is not fitted with an [[anti-lock braking system]].&lt;ref name=&quot;maserati ultimate&quot; /&gt;
+
+===Ferrari Millechili===
+{{Main|Ferrari Millechili}}
+Millechili (Italian for one thousand (mille) kilograms (chili)) is the code name for a sports car, to be manufactured by [[Ferrari]], that will borrow features from [[Formula One]] race cars. It will be a lightweight version of the Enzo Ferrari, using the [[Ferrari F430|F430]]'s aluminum space frame on a {{convert|104.3|in|mm|sing=on}} wheelbase. The V10 engine will exceed {{convert|600|hp|kW|0|abbr=on}}. Production of around 300 cars is slated for 2010, with a base price of around US$500,000.&lt;ref&gt;{{cite web|author=Posted by **TIME AGO** |url=http://www.caranddriver.com/reviews/hot_lists/car_shopping/future_cars_2010_and_beyond/2010_ferrari_millechili_car_news |title=2010 Ferrari Millechili - Car News - Auto Reviews |publisher=Car and Driver |date= |accessdate=2009-11-15}}&lt;/ref&gt;
+
+Millechili is developed in collaboration with University of Modena and Reggio Emilia, faculty of Mechanical Engineering. [[Millechili Lab]] is a cross-project in which students are working on light-weight car design.
+
+===Ferrari FXX Evoluzione===
+{{Main|Ferrari FXX Evoluzione}}
+The Ferrari FXX program will continue until 2008/2009. The car will continue to be improved under the Evolution kit, which will continually adjust specifics to create more power, change gearing, and lower the aerodynamic drag. The V12 engine will generate {{convert|860|PS|kW hp||abbr=on}} at 9500&amp;nbsp;rpm which boosts the top speed to {{convert|387|km/h|mi/h|0|abbr=on}},  and the acceleration to 0–100&amp;nbsp;km/h in 2.5 seconds.&lt;ref&gt;[http://topcarnews.splinder.com/post/14515354/Ferrari+FXX+Evluzione Ferrari FXX Evoluzione]&lt;/ref&gt; There will be gearbox changes so that shift time will be reduced to 60 milliseconds per shift, a reduction of 40 milliseconds. The car will also undergo aerodynamic changes and improvements to the traction control system.&lt;ref name=&quot;italiaspeed.com&quot;&gt;{{cite web|url=http://www.italiaspeed.com/2007/cars/ferrari/10/fxx_programme/2810.html|title=28.10.2007 FXX programme extended|accessdate=2007-10-30|work=italiaspeed.com}}&lt;/ref&gt;
+
+==References==
+{{Reflist|colwidth=30em}}
+{{Commons category|Ferrari Enzo Ferrari}}
+
+==External links==
+* [http://money.howstuffworks.com/enzo.htm HowStuffWorks: Enzo]
+* [http://www.enzoregister.barchetta.cc/events-stories/stories/enzo-ferrari/enzo-ferrari-by-serial-number/default.htm Enzo Ferrari Register] List of all Enzos built with details and pictures
+
+{{Ferrari vehicles}}
+
+{{DEFAULTSORT:Ferrari Enzo}}
+[[Category:Sports cars]]
+[[Category:Ferrari vehicles|Enzo]]
+[[Category:Rear mid-engine, rear-wheel drive vehicles]]
+[[Category:2000s automobiles]]
+[[Category:Vehicles introduced in 2002]]
+[[Category:Pininfarina]]
+
+[[bs:Ferrari Enzo]]
+[[bg:Ферари Enzo]]
+[[cs:Ferrari Enzo]]
+[[da:Enzo Ferrari (bil)]]
+[[de:Ferrari Enzo Ferrari]]
+[[es:Ferrari Enzo]]
+[[fr:Ferrari Enzo]]
+[[gl:Ferrari Enzo]]
+[[hr:Ferrari Enzo]]
+[[it:Ferrari Enzo]]
+[[nah:Enzo Ferrari (tepozmalacatl)]]
+[[nl:Ferrari Enzo]]
+[[ja:フェラーリ・エンツォ]]
+[[no:Enzo Ferrari (bilmodell)]]
+[[pl:Ferrari Enzo]]
+[[pt:Ferrari Enzo Ferrari]]
+[[ru:Ferrari Enzo]]
+[[fi:Enzo Ferrari (auto)]]
+[[sv:Ferrari Enzo Ferrari]]
+[[vi:Enzo Ferrari (xe)]]
+[[zh:法拉利Enzo]]</text>
+    </revision>
+  </page>
+</mediawiki>

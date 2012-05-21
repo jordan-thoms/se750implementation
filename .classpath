@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="com/eaio/uuid/UUID.java" kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="src" path="apps"/>
+	<classpathentry kind="src" path="examples"/>
+	<classpathentry kind="src" path="benchmarks"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry exported="true" kind="lib" path="lib/jsonrpc-mine.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/asm-3.3.1.jar" sourcepath="lib/src"/>
+	<classpathentry exported="true" kind="lib" path="lib/tools.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/log4j-1.2.16.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/poi-3.6-20091214.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/asm-util-3.3.jar"/>
+	<classpathentry kind="lib" path="lib/org-netbeans-swing-outline.jar"/>
+	<classpathentry kind="lib" path="lib/guava-r09.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="benchmarks/lib/bsbm.jar"/>
+	<classpathentry kind="lib" path="benchmarks/lib/jdom.jar"/>
+	<classpathentry kind="lib" path="benchmarks/lib/log4j-1.2.12.jar"/>
+	<classpathentry kind="lib" path="benchmarks/lib/ssj.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

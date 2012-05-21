@@ -1,0 +1,14 @@
+revision, time, hardware, testLibrary1, testLibrary2, testLibrary3, testLibrary4, testLibrary5, comments
+2148, 2012-Feb-01 16:34:12, i5-2500 3.3G 8GB 32-bit win7, 0.1 , , , , ,  80k tuples
+2149, 2012-Feb-01 16:38:17, i5-2500 3.3G 8GB 32-bit win7, 0.0123 , , , , ,  80k tuples
+2199,  2012-Feb-02 14:18:50, i5-2500 3.3G 8GB 32-bit win7, 0.132,0.127,0.007,26.939,7.377,80k tuples "LibraryBenchmark-results.csv.txt added"
+2200,  2012-Feb-02 14:32:07, i5-2500 3.3G 8GB 32-bit win7, 0.129,0.125,0.007,26.461,7.284,80k tuples "toString is now called lazy in  DebugOutput in BranchIterator"
+2202,  2012-Feb-02 14:08:43, i5-2500 3.3G 8GB 32-bit win7, 0.074,0.115,0.007,23.897,7.295,80k tuples "moved memoization to new BranchIterator, TODOs"
+2206,  2012-Feb-02 19:48:43, i5-2500 3.3G 8GB 32-bit win7, 0.079,0.032,0.001,6.225,1.249,80k tuples "removed call to PDChange.toString() from BranchIterator.filterCondiiton() (this probably made SPARQL slow!)"
+2208,  2012-Feb-02 19:55:43, i5-2500 3.3G 8GB 32-bit win7, 0.013,0.032,0.001,6.246,1.182,80k tuples "PDStore.getInstance(s) methods use getChanges() now, reformatting"
+2225,  2012-Feb-13 17:21:43, i5-2500 3.3G 8GB 32-bit win7, 0.077,0.037,0.001,6.388,1.267,80k tuples " IndexIteratorTest only add data to database once now"
+2234,  2012-Feb-21 14:39:43, i5-2500 3.3G 8GB 32-bit win7, 0.077,0.032,0.001,6.238,0.061,80k tuples "filters now can be applied earlier"
+2240, 2012-Mar-06 10:59:00	,i5 -2430 2.4G 4GB 64-bit win7,1.240,1.204,1.287,3.746,1.257,80k tuples "Changeset 2240"
+2242, 2012-Mar-06 11:02:00	,i5 -2430 2.4G 4GB 64-bit win7,1.251,1.199,1.278,1.193,1.277,80k tuples "Changed parameter for cost in where clause"
+2260, 2012-Mar-09 15:34:00	,C2D e8400 3GHz 4GB 32-bit Unbuntu 10.10,0.058,0.172,0.001,0.093,0.114,80k tuples "GUID: removed hash code from toString() as it interferes with the DAL generator"
+2260, 2012-Mar-09 15:44:00	,C2D e8400 3GHz 4GB 32-bit Unbuntu 10.10,0.113,0.178,0.001,6.118,0.221,176k tuples "GUID: removed hash code from toString() as it interferes with the DAL generator"

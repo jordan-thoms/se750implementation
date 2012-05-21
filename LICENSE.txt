@@ -1,0 +1,15 @@
+/*
+Copyright(c) 2006 onwards Christof Lutteroth and Gerald Weber
+
+This license covers all content in the pdstore repository, unless explicitly excluded or covered by other licenses.
+The software and other contents are provided in the context of academic project work.
+Use of this software is only permitted for the academic project the software is provided for,
+and only for the duration of that project and subject to the following conditions:
+o software developed by using PDStore in tests and demonstrations
+ must be licensed under the Gnu Lesser Public License.
+o a submission of one version of the software must be made
+ at the end of the project to the pdstore repository.
+
+THE COPYRIGHTED MATERIAL UNDER THIS LICENSE IS NOT PERMITTED
+TO BE USED IN ANY CIRCUMSTANCE THAT CAN CREATE DAMAGE OR LIABILITY. THIS ALSO IMPLIES A DISCLAIMER FOR ALL LIABILITY.
+*/

@@ -1,0 +1,818 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.4/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.4/ http://www.mediawiki.org/xml/export-0.4.xsd" version="0.4" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.16wmf4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>London</title>
+    <id>17867</id>
+    <revision>
+      <id>369823788</id>
+      <timestamp>2010-06-23T23:18:15Z</timestamp>
+      <contributor>
+        <username>The High Fin Sperm Whale</username>
+        <id>7897452</id>
+      </contributor>
+      <minor/>
+      <comment>[[Help:Reverting|Reverted]] edits by [[Special:Contributions/173.77.87.51|173.77.87.51]] ([[User talk:173.77.87.51|talk]]) to last version by Skatesf</comment>
+      <text xml:space="preserve">{{About|the capital of England and the United Kingdom|the city in Canada|London, Ontario|other uses}}
+{{pp-move-indef}}
+{{Fix bunching|beg}}
+{{Infobox settlement
+|                     name = London
+|            image_skyline = London collage.jpg
+|                imagesize = 315px
+|            image_caption = From upper left: [[City of London]], [[Tower Bridge]] and [[London Eye]], [[Houses of Parliament]]
+|                 nickname = The Big Smoke
+|     settlement_type        = City
+|                image_map = London (European Parliament constituency).svg
+|       image_blank_emblem =
+|        blank_emblem_size = 400px
+|                  mapsize = 180px
+|              map_caption = [[Greater London|London region]] in the United Kingdom
+|         coordinates_display = inline,title
+|         coordinates_region = GB
+|         subdivision_type = [[List of sovereign states|Sovereign state]]
+|         subdivision_name = [[United Kingdom]]
+|        subdivision_type1 = [[Countries of the United Kingdom|Constituent country]]
+|        subdivision_name1 = [[England]]
+|        subdivision_type2 = [[Regions of England|Region]]
+|        subdivision_name2 = [[Greater London|London]]
+|        subdivision_type3 = [[Ceremonial counties of England|Ceremonial counties]]
+|        subdivision_name3 = [[City of London|City]] and [[Greater London]]
+|        subdivision_type4 = [[Districts of England|Districts]]
+|        subdivision_name4 = [[City of London|City]] and [[London borough|32 boroughs]]
+|                seat_type = Headquarters
+|                     seat = [[City Hall (London)|City Hall]]
+|               parts_type =
+|              parts_style =
+|                   parts1 =
+|             leader_title = Regional authority
+|              leader_name = [[Greater London Authority]]
+|            leader_title1 = [[Regional Assemblies in England|Regional&amp;nbsp;assembly]]
+|             leader_name1 = [[London Assembly]]
+|            leader_title2 = [[Mayor of London]]
+|             leader_name2 = [[Boris Johnson]]
+|            leader_title3 = [[Parliament of the United Kingdom|UK&amp;nbsp;Parliament]]&lt;br /&gt;&amp;nbsp;-&amp;nbsp;London&amp;nbsp;Assembly&lt;br /&gt;&amp;nbsp;-&amp;nbsp;[[European Parliament|European&amp;nbsp;Parliament]]
+|             leader_name3 = [[List of Parliamentary constituencies in Greater London|74 constituencies]]&lt;br /&gt; [[London Assembly constituencies|14 constituencies]]&lt;br /&gt; [[London (European Parliament constituency)|London constituency]]
+|        established_title = Settled by [[Roman Empire|Romans]]
+|         established_date = as [[Roman London|Londinium]] [[circa|c.]] [[Anno Domini|AD]] 43
+|           area_magnitude = 1 E9
+|         area_total_sq_mi = 659
+|         population_as_of = July 2007 est.
+|     population_footnotes = &lt;ref name=urban_area_pop /&gt;&lt;ref name=&quot;metro_area_1&quot;/&gt;&lt;ref name=&quot;metro_area_2&quot;/&gt;
+|               total_type = London
+|         population_total = 7,556,900
+|   population_density_km2 = 4,761
+| population_density_sq_mi = 12,331
+|         population_metro = 12,300,000 to 13,945,000
+|         population_urban = 8,278,251
+|  population_blank1_title = [[Demonym]]
+|        population_blank1 = Londoner
+| population_blank2_title  = Ethnicity&lt;br /&gt;&lt;small&gt;(June 2006 estimates)&lt;ref name=&quot;2006 ethnicity&quot;/&gt;&lt;/small&gt;
+|       population_blank2  = {{Collapsible list
+|                   title  = Ethnic groups
+|              frame_style = border:none; padding: 0; &lt;!--NOTICE: This will hide the borders and make rows closer (padding)--&gt;
+|             title_style  =
+|               list_style = text-align:left;display:none;
+|                        1 = '''69.4% [[White people|White]]'''
+|                        2 = 58.0% [[White British]]
+|                        3 = 2.5% [[Irish Briton|White Irish]]
+|                        4 = 8.9% [[White people|White Other]]
+|                        5 = &amp;nbsp;
+|                       12 =  '''13.1% [[British Asian|South Asian]]'''
+|                       13 = 6.5% [[Indian British|Indian]]
+|                       14 = 2.3% [[Pakistani British|Pakistani]]
+|                       15 = 2.3% [[British Bangladeshi|Bangladeshi]]
+|                       16 = 2.0% [[British Asian|Other South Asian]]
+|                       17 = &amp;nbsp;
+|                       18 = '''10.7% [[Black British|Black]]'''
+|                       19 = 5.5% [[African British|Black African]]
+|                       20 = 4.3% [[British African-Caribbean community|Black Caribbean]]
+|                       21 = 0.8% [[Black British|Other Black]]
+|                       22 = &amp;nbsp;
+|                        6 = '''3.5% [[British Mixed|Mixed]]'''
+|                        7 = 1.0% [[British Mixed|Black Caribbean &amp; White]]
+|                        8 = 0.5% [[British Mixed|Black African &amp; White]]
+|                        9 = 1.0% [[British Mixed|South Asian &amp; White]]
+|                       10 = 1.0% [[British Mixed|Other mixed]]
+|                       11 = &amp;nbsp;
+|                       23 = '''3.4% [[Other ethnic group (United Kingdom Census)|East Asian or Other]]'''
+|                       24 = 1.5% [[British Chinese|Chinese]]
+|                       25 = 1.9% [[Other ethnic group (United Kingdom Census)|Other]]}}
+|                 timezone = [[Greenwich Mean Time|GMT]]
+|               utc_offset = 0
+|             timezone_DST = [[British Summer Time|BST]]
+|           utc_offset_DST = +1
+|                     latd = 51
+|                     latm = 30
+|                     lats = 29
+|                    latNS = N
+|                    longd = 0
+|                    longm = 7
+|                    longs = 29
+|                   longEW = W
+|      elevation_footnotes = &lt;ref name = Elevation&gt;{{Citation |url = http://www.wunderground.com/global/stations/03772.html |title = London, United Kingdom Forecast : Weather Underground (weather and elevation at Heathrow Airport)|publisher = The Weather Underground, Inc.|accessdate = 2008-06-06 |format = online}}&lt;/ref&gt;
+|              elevation_m = 24
+|         postal_code_type = [[Postcodes in the United Kingdom|Postcode district(s)]]
+|              postal_code = [[London postal district|Various]]
+|                area_code = [[020]] and others
+|                  website = http://www.london.gov.uk/
+|               footnotes  =
+}}
+{{Fix bunching|end}}
+'''London''' ({{IPAc-en|icon|ˈ|l|ʌ|n|d|ən}}) is the [[capital (political)|capital]] of [[England]] and the [[United Kingdom]] (UK). It is Britain's largest and most populous [[metropolitan area]]. A major settlement for two millennia, [[history of London|its history]] goes back to its founding by the [[Roman Empire|Romans]], who called it [[Roman London|Londinium]].&lt;ref name=london_001&gt;{{Citation|url=http://www.museumoflondon.org.uk/English/EventsExhibitions/Permanent/RomanLondon.htm|title=Roman|publisher=The [[Museum of London]]|accessdate=2008-06-07}}&lt;/ref&gt; London's core, the ancient [[City of London]], or the 'square mile' financial district, largely retains its [[mediaeval]] boundaries. Since at least the 19th century, the name &quot;London&quot; has also referred to the metropolis developed around this core.&lt;ref name=&quot;mills_140&quot;&gt;{{Harvnb|Mills|2001|p=140}}&lt;/ref&gt; In modern times, the bulk of this [[conurbation]] forms the London [[Regions of England|region]]&lt;ref name=&quot;region&quot;&gt;{{Citation|url=http://www.gos.gov.uk/gol/factgol/London/?a=42496 Fact Files: London|title=Government Offices for the English Regions|publisher=Office for National Statistics|accessdate=2008-05-04}}&lt;/ref&gt; and the [[Greater London]] administrative area,&lt;ref name=&quot;elcock&quot;&gt;{{Citation|last=Elcock|first=Howard|title=Local Government: Policy and Management in Local Authorities |publisher=Routledge |year=1994 |isbn=0415101670|page=368}}&lt;/ref&gt;&lt;ref group=&quot;note&quot;&gt;See also: [[Independent city#National capitals]].&lt;/ref&gt; with its own elected [[Mayor of London|mayor]] and [[London Assembly|assembly]].&lt;ref name=&quot;politics_uk&quot;&gt;{{Citation|last=Jones|first=Bill|coauthors=Kavanagh, Dennis; Moran, Michael; Norton, Philip |title=Politics UK|publisher=Pearson Education|year=2007|isbn=1405824115|page=868}}&lt;/ref&gt;
+
+London is a leading [[global city]] being the world's largest [[financial centre]] alongside New York City.&lt;ref&gt;{{cite web|url=http://www.zyen.com/PDF/GFC%207.pdf#page=30 |title=Global Financial Centres 7 |publisher=[[Z/Yen]] |year=2010 |accessdate=2010-04-21}}&lt;/ref&gt;&lt;ref&gt;[http://www.forbes.com/2008/07/15/economic-growth-gdp-biz-cx_jz_0715powercities.html &quot;World's Most Economically Powerful Cities&quot;. Forbes.com]&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.mastercard.com/us/company/en/insights/pdfs/2008/MCWW_WCoC-Report_2008.pdf|title=Worldwide Centres of Commerce Index 2008|publisher=Mastercard}}&lt;/ref&gt; and has the [[List of cities by GDP|largest city GDP]] in Europe.&lt;ref name=&quot;UN&quot;&gt;{{Citation|url=http://esa.un.org/unup/index.asp?panel=2|title=World Urbanization Prospects: The 2007 Revision Population Database|publisher=The United Nations|accessdate=21 November 2009}}&lt;/ref&gt; Central London is home to the headquarters of most of the UK's top 100 listed companies (the [[FTSE 100 Index|FTSE 100]]) and more than 100 of Europe's 500 largest. London's influence in [[politics]], [[finance]], [[education]], [[entertainment]], [[Mass media|media]], [[fashion]], the [[arts]] and [[culture]] in general contributes to its global position. It is a major tourist destination for both domestic and overseas visitors. London hosted the [[1908 Summer Olympics|1908]] and [[1948 Summer Olympics]] and will host the [[2012 Summer Olympics]].&lt;ref name=IOC&gt;{{Citation|url=http://www.olympic.org/uk/news/media_centre/press_release_uk.asp?id=1410|title=IOC elects London as the Host City of the Games of the XXX Olympiad in 2012|date=6 July 2005|publisher=[[International Olympic Committee]]|accessdate=2006-06-03}}&lt;/ref&gt; London contains four [[World Heritage Site]]s: the [[Tower of London]]; the [[Royal Botanic Gardens, Kew]]; the site comprising the [[Palace of Westminster]], [[Westminster Abbey]] and [[St. Margaret's, Westminster|St. Margaret's Church]]; and the historic settlement of [[Greenwich]] (in which the [[Royal Observatory]] marks the [[Greenwich Meridian]] (0° longitude) and [[GMT]]).&lt;ref name=london_005&gt;{{Citation|url=http://whc.unesco.org/en/statesparties/gb|title=Lists: United Kingdom of Great Britain and Northern Ireland|publisher=[[UNESCO]]|accessdate=2008-11-26}}&lt;/ref&gt;
+
+London has a diverse range of peoples, cultures and religions, and more than 300 languages are spoken within its boundaries.&lt;ref name=london_006&gt;{{Citation|url=http://www.cilt.org.uk/faqs/langspoken.htm|title=Languages spoken in the UK population|publisher=CILT, the National Centre for Language|accessdate=2008-06-06}}&lt;/ref&gt; In July 2007 it had an official population of 7,556,900 within the boundaries of [[Greater London]],&lt;ref name=Greater_London_population&gt;{{Citation | title=T 08: Selected age groups for local authorities in the United Kingdom; estimated resident population; Mid-2007 Population Estimates |work=www.statistics.gov.uk|publisher=[[Office for National Statistics]] | date=21 August 2008| url=http://www.statistics.gov.uk/downloads/theme_population/Mid_2007_UK_England_&amp;_Wales_Scotland_and_Northern_Ireland%20_21_08_08.zip | format=XLS | accessdate=2009-01-26}}&lt;/ref&gt; making it the [[Largest cities of the European Union by population within city limits|most populous municipality]] in the [[European Union]].&lt;ref name=&quot;largest_city_eu&quot;&gt;{{Citation|url=http://www.statistics.gov.uk/cci/nugget.asp?id=384|title=Largest EU City. Over 7 million residents in 2001|publisher=Office for National Statistics|work=www.statistics.gov.uk|accessdate=2008-06-28}}&lt;/ref&gt; The [[Greater London Urban Area]] (the second largest in the EU) has a population of 8,278,251.&lt;ref name=&quot;urban_area_pop&quot;&gt;{{Citation|url=http://www.statistics.gov.uk/statbase/ssdataset.asp?vlnk=8271&amp;More=Y|title=KS01 Usual resident population: Census 2001, Key Statistics for urban areas|publisher=Office for National Statistics|accessdate=2008-06-06}}&lt;/ref&gt; while the [[metropolitan area]] (the largest in the EU) has an estimated total population of between 12&amp;nbsp;million&lt;ref name=metro_area_1&gt;{{Citation|url=http://www.citypopulation.de/world/Agglomerations.html|title=The Principal Agglomerations of the World|work=City Population|accessdate=2009-03-03}}&lt;/ref&gt; and 14&amp;nbsp;million.&lt;ref name=metro_area_2&gt;{{Citation|url=http://www.demographia.com/dm-lonarea.htm|title=Southest England Population by Area from 1891|work=Demographia|accessdate=2009-04-01}}&lt;/ref&gt; The [[London Underground]] network, administered by [[Transport for London]], is the oldest [[Rapid transit|underground railway network]] in the world&lt;ref name=&quot;Metro&quot; /&gt; and the most extensive after the [[Shanghai Metro]].&lt;ref name=&quot;railwaygazette.com&quot;&gt;{{Citation|url=http://www.railwaygazette.com/news/single-view/view/10/shanghai-now-the-worlds-longest-metro.html|title=Shanghai now the world's longest metro|date=4 May 2010|accessdate=4 May 2010}}&lt;/ref&gt; [[London Heathrow Airport]] is the [[World's busiest airports by international passenger traffic|world's busiest airport by number of international passengers]]&lt;ref name=london_007&gt;{{Citation |url=http://www.heathrowairport.com/assets/B2CPortal/Static%20Files/TopAirports04.pdf |title=Top ten world airports – 2004 |accessdate=2008-03-07 |format=PDF}}&lt;/ref&gt; and the [[airspace]] is the busiest of any urban centre in the world.&lt;ref name=london_008&gt;{{Citation|url=http://www.aci.aero/cda/aci/display/main/aci_content.jsp?zn=aci&amp;cp=1-5-212-1376-1380_9_2__ |title=International Passenger Traffic, Airports Council International |publisher=Aci.aero |date= |accessdate=2010-05-03}}&lt;/ref&gt;
+{{TOC limit|limit=3}}
+
+==History==
+{{Main|History of London}}
+===Toponomy===
+[[File:Thames Panorama, London - June 2009.jpg|thumb|left|The name ''London'' may derive from the [[River Thames]]|alt=Wide river flanked by tall buildings on either side. There are a number of small boats and one large battleship in the centre of the river. The rooftop dome of [[St Paul's Cathedral]] is visible in the skyline to the right]]
+The [[etymology of London|etymology of ''London'']] is uncertain.&lt;ref name=&quot;mills_139&quot;&gt;{{Harvnb|Mills|2001|p=139}}&lt;/ref&gt; It is an ancient name and can be found in sources from the 2nd century. It is recorded c. 121 as ''[[Londinium]]'', which points to [[Romano-British]] origin.&lt;ref name=&quot;mills_139&quot;/&gt; The earliest attempted explanation, now disregarded, is attributed to [[Geoffrey of Monmouth]] in ''[[Historia Regum Britanniae]]''.&lt;ref name=&quot;mills_139&quot;/&gt; The name is described as originating from [[Lud son of Heli|King Lud]], who had allegedly taken over the city and named it ''Kaerlud''.&lt;ref name=london_009&gt;{{Citation|url=http://www.nytimes.com/2001/12/02/books/chapters/02-1st-ackro.html?ex=1225339200&amp;en=b9c2c11ad6e1f435&amp;ei=5070|title='London'|last=Ackroyd|first=Peter|publisher=New York Times|accessdate=2008-10-28 | date=2001-12-02}}&lt;/ref&gt;
+
+From 1899 it was commonly accepted that the name was of [[Celts|Celtic]] origin and meant ''place belonging to a man called *Londinos''; this explanation has since been rejected.&lt;ref name=&quot;mills_139&quot;/&gt; [[Richard Coates]] put forward an explanation in 1998 that it is derived from the pre-Celtic [[Old European hydronymy|Old European]] ''*(p)lowonida'', meaning 'river too wide to ford', and suggested that this was a name given to the part of the [[River Thames]] which flows through London; from this, the settlement gained the Celtic form of its name, ''*Lowonidonjon''.&lt;ref name=coates&gt;{{Citation|last=Coates|first=Richard|year=1998|title=A new explanation of the name of London|journal=Transactions of the Philological Society|volume=96|issue=2|pages=203–229|url=http://www.blackwell-synergy.com/doi/pdf/10.1111/1467-968X.00027|doi=10.1111/1467-968X.00027}}&lt;/ref&gt; Until 1889 the name officially only applied to the [[City of London]] but since then it has also referred to the [[County of London]] and now [[Greater London]].&lt;ref name=&quot;mills_140&quot;/&gt;
+
+===Prehistory and antiquity===
+[[File:London 1300 Historical Atlas William R Shepherd (died 1934).PNG|thumb|left|By 1300 the [[City of London|City]] was still confined within the walls|alt=]]
+Although there is evidence of scattered [[Britons (historic)|Brythonic]] settlements in the area, the first major settlement was founded by the [[Roman Empire|Romans]] in 43 AD.&lt;ref name=&quot;roman&quot;&gt;{{Citation |title=Roman London |last=Perring |first=Dominic |year=1991 |publisher=Routledge |location=London |isbn=0203231333|page=1}}&lt;/ref&gt; This lasted for just seventeen years and around 61, the [[Iceni]] tribe led by [[Boudica|Queen Boudica]] stormed it, burning it to the ground.&lt;ref name=london_010&gt;{{Citation|url=http://www.bbc.co.uk/history/british/timeline/romanbritain_timeline_noflash.shtml|title=British History Timeline&amp;nbsp;— Roman Britain|publisher=British Broadcasting Corporation|accessdate=2008-06-07}}&lt;/ref&gt; The next, heavily planned incarnation of the city prospered and superseded [[Colchester]] as the capital of the [[Roman Britain|Roman province]] of [[Britannia]] in 100. At its height during the 2nd century, Roman London had a population of around 60,000. By the 7th century, the [[Anglo-Saxons]] had created a new settlement called [[Anglo-Saxon London|Lundenwic]] over a mile (2&amp;nbsp;km) upstream from the old Roman city, around what is now [[Royal Opera House|Covent Garden]].&lt;ref name=london_011&gt;{{Citation|url=http://www.museumoflondon.org.uk/English/EventsExhibitions/Past/MissingLink/Themes/TML_themes_Lundenwic.htm|title=The early years of Lundenwic|publisher=The [[Museum of London]]|accessdate=2008-06-07}}&lt;/ref&gt;
+
+It is likely that there was a harbour at the mouth of the [[River Fleet]] for fishing and trading, and this trading grew, until the city was overcome by the [[Viking]]s and forced to move east, back to the location of the Roman ''Londinium'', in order to use its walls for protection.&lt;ref name=london_012&gt;{{Citation|url=http://www.museumoflondon.org.uk/English/Collections/Onlineresources/RWWC/themes/1295/1288|title=Viking and Danish London|publisher=The [[Museum of London]]|accessdate=2008-06-06}}&lt;/ref&gt; Viking attacks continued to increase, until 886 when [[Alfred the Great]] recaptured London and made peace with the Danish leader, [[Guthrum]].&lt;ref name=london_013&gt;{{Citation|url=http://www.museumoflondon.org.uk/English/EventsExhibitions/Permanent/medieval/Themes/1033/1035/default.htm|title=Medieval London&amp;nbsp;— Vikings|publisher=The [[Museum of London]]|accessdate=2008-06-07}}&lt;/ref&gt; The original Saxon city of Lundenwic became ''Ealdwic'' (&quot;old city&quot;), a name surviving to the present day as [[Aldwych]], which is in the modern [[City of Westminster]].&lt;ref&gt;{{citation |url=http://books.google.co.uk/books?id=2fIgAAAAMAAJ |page=xiii |title=London |author=George Hamilton Cunningham |year=1927 |publisher=J. M. Dent &amp; Sons}}&lt;/ref&gt;
+
+===Middle Ages===
+[[File:Westminster Abbey by Canaletto, 1749.jpg|thumb|left|[[Westminster Abbey]] is one of London's oldest and most important buildings as seen in this painting (Canaletto, 1749 A.D.) and a [[World Heritage Site]]|alt=]]
+[[Cnut the Great|Canute]] took control of the English throne in 1016, controlling the city and country until 1035, when his death resulted in a reversion to [[Anglo-Saxons|Saxon]] control under his pious stepson [[Edward the Confessor]], who re-founded [[Westminster Abbey]] and the adjacent [[Palace of Westminster]].&lt;ref name=london_014&gt;{{Citation|url=http://www.bbc.co.uk/history/historic_figures/edward_confessor.shtml|title=Edward the Confessor (c.1003–1066)|publisher=[[British Broadcasting Corporation]]|accessdate=2008-09-27}}&lt;/ref&gt; By this time, London had become the largest and most prosperous city in England, although the official [[seat of government]] was still at [[Winchester]]. Following a victory at the [[Battle of Hastings]], [[William the Conqueror]], the then [[Duke of Normandy]], was crowned [[King of England]] in the newly finished Westminster Abbey on [[Christmas Day]] 1066.&lt;ref name=london_015&gt;{{Citation|url=http://www.bbc.co.uk/history/british/normans/1066_06.shtml|title=History – 1066 – King William|publisher=[[British Broadcasting Corporation]]|accessdate=2008-05-05}}&lt;/ref&gt; William granted the [[City of London|citizens of London]] special privileges, while building what is now known as the [[Tower of London]], in the southeast corner of the city, to keep them under control.&lt;ref name=london_016&gt;{{Citation|url=http://www.bbc.co.uk/history/british/architecture_02.shtml|title=A History of British Architecture&amp;nbsp;— White Tower|last=Tinniswood|first=Adrian |authorlink=Adrian Tinniswood|publisher=[[British Broadcasting Corporation]]|accessdate=2008-05-05}}&lt;/ref&gt;
+
+In 1097, [[William II of England|William II]] began the building of [[Westminster Hall]], close by the abbey of the same name. The hall became the basis of a new [[Palace of Westminster]], the prime royal residence throughout [[Middle Ages|the Middle Ages]].&lt;ref name=london_017&gt;{{Citation|url=http://www.parliament.uk/about/history/building.cfm|title=UK Parliament&amp;nbsp;— Parliament: The building|date=2007-11-09|publisher=UK Parliament|accessdate=2008-04-27}}&lt;/ref&gt;&lt;ref name=london_018&gt;{{Citation|url=http://www.parliament.uk/parliament/guide/palace.htm|title=Palace of Westminster|publisher=UK Parliament|accessdate=2008-04-27}}&lt;/ref&gt; Westminster became the seat of the royal court and government, while its distinct neighbour, the City of London, was a centre of trade and commerce and flourished under its own unique administration, the [[City of London Corporation|Corporation of London]]. In 1100 its population was around 18,000; by 1300 it had grown to nearly 100,000.&lt;ref name=london_019&gt;{{Citation|last=Schofield|first=John|last2=Vince|first2=Alan|author2-link=Alan Vince|title=Medieval Towns: The Archaeology of British Towns in Their European Setting|publisher=Continuum International Publishing Group|year=2003|isbn=9780826460028|url=http://books.google.co.uk/books?id=Qu7QLC7g7VgC&amp;pg=PA26&amp;lpg=PA26&amp;dq=london+population+1100+-+1300&amp;source=web&amp;ots=OG8jbEB20l&amp;sig=3VkJIrGtBZ_8Gom4HOtnmaPljoU&amp;hl=en&amp;sa=X&amp;oi=book_result&amp;resnum=3&amp;ct=result#PPA26,M1|page=26}}&lt;/ref&gt;
+
+There was an increasing population of Jews,&lt;ref name=&quot;The Myth of the Jewish Race&quot; /&gt; until the edict of [[Edward I|King Edward I]] in 1290, expelled them from England.&lt;ref name=&quot;The Myth of the Jewish Race&quot;&gt;{{Citation|last=Patai|first=Raphael|coauthors=Jennifer Patai|title=The Myth of the Jewish Race|publisher=Wayne State University Press|year=1989|page=43|isbn=9780814319482|url=http://books.google.com/books?id=Xt7f6WBEP0EC&amp;pg=PA43&amp;dq=london+expulsion+of+jews#PPA43,M1}}&lt;/ref&gt; Disaster struck during the [[Black Death]] in the mid-14th century, when London lost nearly a third of its population.&lt;ref&gt;{{Citation |url=http://www.bbc.co.uk/history/british/middle_ages/black_01.shtml |title=BBC{{–}} History{{–}} Black Death |publisher=bbc.co.uk |date= |accessdate=2008-11-03}}&lt;/ref&gt; Apart from the invasion during the [[Peasants' Revolt]] in 1381,&lt;ref name=london_020&gt;{{Citation|url=http://www.bbc.co.uk/history/historic_figures/richard_ii_king.shtml|title=Richard II (1367–1400)|publisher=[[British Broadcasting Corporation]]|accessdate=2008-10-12}}&lt;/ref&gt; London remained relatively untouched by the various civil wars during the Middle Ages.&lt;ref name=london_021&gt;{{Citation|url=http://www.bbc.co.uk/dna/h2g2/A1111339|title=The Causes of the Wars of the Roses|date=16 July 2003|publisher=[[British Broadcasting Corporation]]|accessdate=2008-10-12}}&lt;/ref&gt;
+
+===Early modern===
+[[File:Great Fire London.jpg|thumb|The [[Great Fire of London]] destroyed many parts of the city in 1666|alt=]]
+During the [[Tudor period]] the [[English Reformation|Reformation]] produced a gradual shift to [[Protestantism]], with much of London passing from church to private ownership.&lt;ref name=pevsner&gt;[[Nikolaus Pevsner]], ''London I: The Cities of London and Westminster'' rev. edition,1962, Introduction p 48.&lt;/ref&gt; [[Mercantilism]] grew and monopoly trading companies such as the [[British East India Company]] were established, with trade expanding to the [[New World]]. London became the principal [[North Sea]] port, with migrants arriving from England and abroad. The population rose from an estimated 50,000 in 1530 to about 225,000 in 1605.&lt;ref name=pevsner/&gt;
+
+In the 16th century [[William Shakespeare]] and his contemporaries lived in London at a time of hostility to the development of the [[Elizabethan theatre|theatre]]. By the end of the Tudor period in 1603, London was still very compact. There was an [[assassination]] attempt on [[James I of England|James I]] in Westminster, through the [[Gunpowder Plot]] on 5 November 1605.&lt;ref name=london_023&gt;{{Citation |title=James I |last=Durston |first=Christopher|year=1993 |publisher=Routledge |location=London |isbn=0415077796 |page=59}}&lt;/ref&gt; London was [[Bubonic plague|plagued]] by disease in the early 17th century,&lt;ref name=london_024&gt;{{Citation|url=http://urbanrim.org.uk/plague%20list.htm |title=&quot;A List of National Epidemics of Plague in England 1348–1665&quot; |publisher=Urbanrim.org.uk |date=2009-12-04 |accessdate=2010-05-03}}&lt;/ref&gt; culminating in the [[Great Plague of London|Great Plague]] of 1665–1666, which killed up to 100,000 people, or a fifth of the population.&lt;ref name=london_025&gt;[http://www.channel4.com/history/microsites/H/history/plague/story.html Story of the plague]. Channel 4.&lt;/ref&gt;&lt;ref name=&quot;Samuel Pepys' Diary&quot; /&gt;
+
+The [[Great Fire of London]] broke out in 1666 in Pudding Lane in the city and quickly swept through the wooden buildings.&lt;ref name=&quot;Samuel Pepys' Diary&quot;&gt;{{Citation|last=Pepys|first=Samuel|title=The Diary of Samuel Pepys|publisher=Random House USA|date=28 June 2001|isbn=978-0679642213|url=http://www.amazon.co.uk/Diary-Samuel-Pepys-Modern-Library/dp/0679642218/ref=sr_1_2?ie=UTF8&amp;s=books&amp;qisbn=1219858000&amp;sr=1-2|oclc=45714685}}&lt;/ref&gt; Rebuilding took over ten years and was supervised by [[Robert Hooke]]&lt;ref name=london_026&gt;{{Citation|url=http://www.bbc.co.uk/history/british/civil_war_revolution/after_fire_02.shtml |title=London After the Great Fire: Civil War and Revolution|last=Schofield J|month=January | year=2001|publisher=[[British Broadcasting Corporation]]|accessdate=2008-04-28}}&lt;/ref&gt;&lt;ref name=london_027&gt;{{Citation|url=http://www.museumoflondon.org.uk/English/EventsExhibitions/Special/LondonsBurning/Themes/1405/|title=Museum of London&amp;nbsp;— Rebuilding after the fire|publisher=Museum of London|accessdate=2008-04-27}}&lt;/ref&gt;&lt;ref name=london_028&gt;{{Citation|url=http://books.google.co.uk/books?id=jX8ZAAAAIAAJ&amp;q=rebuilding+of+london&amp;dq=rebuilding+of+london&amp;pgis=1|title=The Rebuilding of London After the Great Fire|publisher=Thomas Fiddian|accessdate=2008-04-27}}&lt;/ref&gt; as Surveyor of London.&lt;ref name=london_029&gt;The curious life of Robert Hooke, the man who measured London by Lisa Jardine&lt;/ref&gt; In 1708 [[Christopher Wren]]'s masterpiece, [[St. Paul's Cathedral]] was completed. During the [[Georgian era]] new districts such as [[Mayfair]] were formed in the west; and new bridges over the Thames encouraged development in [[South London]]. In the east, the [[Port of London]] expanded downstream.
+
+In 1762 [[George III of Great Britain|George III]] acquired [[Buckingham Palace|Buckingham House]] and it was enlarged over the next 75 years. During the 18th century, London was dogged by [[crime]] and the [[Bow Street Runners]] were established in 1750 as a professional police force.&lt;ref&gt;&quot;[http://www.pbs.org/kqed/demonbarber/madding/thieftaker.html Thief Taker, Constable, Police]&quot;. Public Broadcasting Service (PBS).&lt;/ref&gt; In total, more than 200 offenses were punishable by death,&lt;ref&gt;&quot;[http://news.bbc.co.uk/2/hi/uk_news/8181192.stm Rough justice – Victorian style]&quot;. BBC News. August 3, 2009.&lt;/ref&gt; and women and children were hanged for petty theft.&lt;ref&gt;[http://www.time.com/time/magazine/article/0,9171,894775,00.html National Affairs: CAPITAL PUNISHMENT: A FADING PRACTICE]. [[TIME]]. March 21, 1960.&lt;/ref&gt; Over 74% of children born in London died before they were five.&lt;ref&gt;[http://www.bbc.co.uk/history/british/victorians/foundling_01.shtml BBC – History – The Foundling Hospital]. Published: 2001-05-01.&lt;/ref&gt; The [[coffee house]] became a popular place to debate ideas, with growing [[literacy]] and the development of the [[printing press]] making news widely available; and [[Fleet Street]] became the centre of the British press.
+
+&lt;blockquote&gt;
+{{cquote|You find no man, at all intellectual, who is willing to leave London. No, Sir, when a man is tired of London, he is tired of life; for there is in London all that life can afford.|30px||[[Samuel Johnson]]&lt;ref name=london_022&gt;{{Citation | url=http://www.samueljohnson.com/tiredlon.html | title=When a man is tired of London, he is tired of life: Samuel Johnson}}&lt;/ref&gt;}}
+&lt;/blockquote&gt;
+
+===Late modern and contemporary===
+[[File:LondonBombedWWII full.jpg|thumb|A London street hit during [[the Blitz]] of World War II|alt=]]
+London was the world's largest city from about 1831 to 1925.&lt;ref name=london_030&gt;{{Citation |url=http://www.channel4.com/history/microsites/H/history/i-m/london4.html|title=London: The greatest city |publisher=Channel4.com|accessdate=2008-10-12}}&lt;/ref&gt; London's overcrowded conditions led to [[cholera]] epidemics,&lt;ref&gt;&quot;[http://www.sciencemuseum.org.uk/broughttolife/themes/publichealth/cholera.aspx Hidden extras: cholera comes to Victorian London]&quot;. Science Museum.&lt;/ref&gt; claiming 14,000 lives in 1848, and 6,000 in 1866.&lt;ref&gt;&quot;[http://www.uncp.edu/home/rwb/london_19c.html London in the Nineteenth Century]&quot;. The University of North Carolina and Pembroke.&lt;/ref&gt; Rising [[traffic congestion]] led to the creation of the world's first local urban rail network. The [[Metropolitan Board of Works]] oversaw infrastructure expansion. It was replaced in 1889 by the [[London County Council]], London's first elected city-wide administration. [[The Blitz]] and other bombing by the German ''[[Luftwaffe]]'' during [[World War II]] killed over 30,000 Londoners and destroyed large tracts of housing and other buildings across London. Immediately after the war, the [[1948 Summer Olympics]] were held at the original [[Wembley Stadium (1923)|Wembley Stadium]], at a time when the city had barely recovered from the war.
+
+In 1951 the [[Festival of Britain]] was held on the [[South Bank]]. The [[Great Smog of 1952]] led to the [[Clean Air Act 1956]], which ended the &quot;[[pea soup fog|pea-souper]]&quot; fogs for which London had been notorious. From the 1950s onwards, London became home to a large number of immigrants, largely from [[Commonwealth of Nations|Commonwealth]] countries such as [[Jamaica]], India, [[Bangladesh]] and [[Pakistan]], making London one of the most diverse cities in Europe.
+
+Starting in the mid-1960s, London became a centre for the worldwide [[youth culture]], exemplified by the [[Swinging London]] subculture associated with [[Carnaby Street]]. The role of trendsetter was revived during the [[punk rock|punk]] era. In 1965 London's political boundaries were expanded to take into account the growth of the urban area and a new [[Greater London Council]] was created. During [[The Troubles]] in [[Northern Ireland]], London was subjected to [[terrorism|terrorist]] attacks by the [[Provisional IRA]]. Racial inequality was highlighted by the [[1981 Brixton riot]]. Greater London's population declined steadily in the decades after [[World War II]], from an estimated peak of 8.6 million in 1939 to around 6.8 million in the 1980s. The principal ports for London moved downstream to [[Port of Felixstowe|Felixstowe]] and [[Port of Tilbury|Tilbury]], with the [[London Docklands]] area becoming a focus for regeneration.
+
+The [[Thames Barrier]] was completed in the 1980s to protect London against tidal surges from the [[North Sea]]. The Greater London Council was abolished in 1986, which left London as the only large metropolis in the world without a central administration. In 2000, London-wide government was restored, with the creation of the [[Greater London Authority]]. To celebrate the start of the 21st century, the [[Millennium Dome]], [[London Eye]] and [[Millennium Bridge (London)|Millenium Bridge]] were constructed. On 7 July 2005, several [[London Underground]] trains and a bus were bombed in a [[7 July 2005 London bombings|series of terrorist attacks]].&lt;ref name=london_031&gt;{{Citation |url=http://news.bbc.co.uk/1/shared/spl/hi/uk/05/london_blasts/what_happened/html/default.stm|title=7 July Bombings: Overview |publisher=BBC News | location = London |accessdate=2008-04-28}}&lt;/ref&gt;
+
+==Governance==
+===Local government===
+{{Main|Local government in London|History of local government in London|List of heads of London government}}
+[[File:CityHallLondon2007.JPG|thumb|The [[Greater London Authority]] is based in [[City Hall (London)|City Hall]], Southwark|alt=]]
+The administration of London is formed of two tiers—a city-wide, strategic tier and a local tier. City-wide administration is coordinated by the [[Greater London Authority]] (GLA), while local administration is carried out by 33 smaller authorities.&lt;ref name=london_032&gt;{{Citation|url=http://www.london.gov.uk/gla/|title=About the Greater London Authority|publisher=London Government|accessdate=2008-09-27}}&lt;/ref&gt; The GLA consists of two elected components; the [[Mayor of London]], who has executive powers, and the [[London Assembly]], who scrutinise the mayor's decisions and can accept or reject his budget proposals each year.
+
+The headquarters of the GLA is [[City Hall (London)|City Hall]], [[Southwark]]; the current mayor is [[Boris Johnson]]. The mayor's statutory planning strategy is published as the [[London Plan]], which as of mid-2009 is being revised, for final publication in 2011. The local authorities are the councils of the 32 [[London borough]]s and the [[City of London Corporation]].&lt;ref name=london_035&gt;{{Citation|url=http://www.london.gov.uk/london/links.jsp|title=Links to other websites&amp;nbsp;— London boroughs|publisher=London Government|accessdate=2008-09-27}}&lt;/ref&gt; They are responsible for most local services, such as local planning, schools, [[social work|social services]], local roads and refuse collection. Certain functions, such as [[Waste disposal authorities in London|waste management]], a provided through joint arrangements.
+
+[[Police|Policing]] in Greater London, with the exception of the [[City of London]], is provided by the [[Metropolitan Police Service|Metropolitan Police Force]], overseen by the [[Metropolitan Police Authority]]. The City of London has its own police force&amp;nbsp;– the [[City of London Police]].&lt;ref name=&quot;Policing&quot;&gt;{{Citation|url=http://www.london.gov.uk/gla/policing.jsp|title=Policing|publisher=Greater London Authority|accessdate=2009-08-25}}&lt;/ref&gt; The [[British Transport Police]] are responsible for police services on [[National Rail]] and [[London Underground]] services in the capital.&lt;ref name=&quot;BTP&quot;&gt;{{Citation|url=http://www.btp.police.uk/about_us/areas.aspx|title=Areas|publisher=British Transport Police|accessdate=2009-08-25}}&lt;/ref&gt;
+
+The [[London Fire Brigade]] is the [[statute|statutory]] [[Fire service in the UK|fire and rescue service]] for Greater London. It is run by the [[London Fire and Emergency Planning Authority]] and is the third-largest fire service in the world.&lt;ref name=&quot;LFB&quot;&gt;{{Citation|url=http://www.london-fire.gov.uk/WhoWeAre.asp|title=Who we are|publisher=London Fire Brigade|accessdate=2009-08-25}}&lt;/ref&gt; [[National Health Service]] [[Emergency medical services|ambulance services]] are provided by the [[London Ambulance Service|London Ambulance Service NHS Trust]], the largest free at the point of use emergency ambulance service in the world.&lt;ref name=&quot;LAS&quot;&gt;{{Citation|url=http://www.londonambulance.nhs.uk/about_us.aspx|title=About us|publisher=London Ambulance Service NHS Trust|accessdate=2009-08-25}}&lt;/ref&gt; [[Her Majesty's Coastguard]] and the [[Royal National Lifeboat Institution]] operate on the [[River Thames]].&lt;ref name=&quot;Coastguard&quot;&gt;{{Citation|url=http://www.mcga.gov.uk/c4mca/mcga07-home/aboutus/mcga-online/mcga-sailing-cg66/dops_-_all-cg66-stationlist.htm|title=Station list|year=2007|publisher=Maritime and Coastguard Agency|accessdate=2009-08-25}}&lt;/ref&gt;&lt;ref name=&quot;Lifeboat&quot;&gt;{{Citation|url=http://news.bbc.co.uk/1/hi/england/1739401.stm|title=Thames lifeboat service launched|date=2002-01-02|publisher=BBC News|accessdate=2009-08-25}}&lt;/ref&gt;
+
+===National government===
+London is an important city because the [[Government of the United Kingdom]] is located around
+the [[Palace of Westminster]]. Many government departments are located close to Parliament, particularly along [[Whitehall]], including the [[Prime Minister of the United Kingdom|Prime Minister's]] residence at [[10 Downing Street]].&lt;ref name=london_036&gt;{{Citation|url=http://www.number10.gov.uk/output/Page1.asp|title=10 Downing Street&amp;nbsp;— Official Website|publisher=10 Downing Street|accessdate=2008-04-26}}&lt;/ref&gt; The British Parliament is often referred to as the &quot;Mother of Parliaments&quot; (although this ''[[sobriquet]]'' was first applied to England itself by [[John Bright]])&lt;ref name=london_037&gt;{{Citation|url=http://news.bbc.co.uk/1/hi/uk_politics/talking_politics/96021.stm |publisher=[[British Broadcasting Corporation]] |accessdate=2008-06-06 |date=1998-06-03 |title=UK Politics: Talking Politics&amp;nbsp;— The 'Mother of Parliaments'}}&lt;/ref&gt; because it has been the model for most other [[parliamentary system]]s, and its Acts have created many other parliaments.&lt;!-- **Incomplete sentence** There are 74 [[Member of Parliament|Members of Parliament]] (MPs) from London, who correspond to local parliamentary [[List of Parliamentary constituencies in Greater London|constituencies]] in the national [[British House of Commons|Parliament]] by .&lt;ref name=london_038&gt;{{Citation|url=http://news.bbc.co.uk/1/hi/programmes/politics_show/4293078.stm|title=London: Ethnic vote |date=30 September 2005|publisher=[[British Broadcasting Corporation]]|accessdate=2008-10-12}}&lt;/ref&gt; Of these 74 MPs, 44 are from the [[Labour Party (UK)|Labour Party]], 21 are [[Conservative Party (UK)|Conservatives]], 8 are [[Liberal Democrats]] and one is from the [[Respect&amp;nbsp;– The Unity Coalition|RESPECT]] party.--&gt;
+
+==Geography==
+{{Main|Geography of London}}
+===Scope===
+[[File:Central London Andh.svg|thumb|Map of Central London|alt=]]
+[[Greater London]] is the top-level administrative subdivision covering London. The small, ancient [[City of London]] at its core once contained the whole settlement, but as the urban area grew the [[Corporation of the City of London|City Corporation]] resisted attempts to amalgamate it with its suburbs, causing &quot;London&quot; to be defined in a number ways for different purposes; and the situation was once open to legal debate.&lt;ref name=&quot;chancery&quot;&gt;{{Citation|last=Beavan|first=Charles|coauthors=Bickersteth, Harry|title=Reports of Cases in Chancery, Argued and Determined in the Rolls Court|publisher=Saunders and Benning|year=1865|url=http://books.google.co.uk/books?id=YFYDAAAAQAAJ}}&lt;/ref&gt; Forty percent of Greater London is covered by the [[London postal district|London]] post town, within which 'LONDON' forms part of postal addresses.&lt;ref name=london_042&gt;{{Citation|last=Stationery Office|title=The Inner London Letter Post|publisher=H.M.S.O|year=1980|isbn=0102515808|page=128}}&lt;/ref&gt;&lt;ref name=map_post&gt;{{citation|title=London Postcode and Administrative Boundaries|publisher=Geographers' A-Z Map Company|author=Geographers' A-Z Map Company|year=2008|edition=6|isbn=9781843485926}}&lt;/ref&gt;
+
+The London telephone area code (020) covers a larger area, similar in size to Greater London, although some outer districts are omitted and some places just outside are included. The area within the orbital [[M25 motorway]] is normally what is referred to as 'London'.&lt;ref name=london_043&gt;{{Citation|last=Mail|first=Royal|title=Address Management Guide|publisher=Royal Mail|year=2004}}&lt;/ref&gt; and the Greater London boundary has been [[List of Greater London boundary changes|aligned to it]] in places.&lt;ref name=london_044&gt;{{Citation|url=http://www.opsi.gov.uk/SI/si1993/Uksi_19930441_en_1.htm|title=The Essex, Greater London and Hertfordshire (County and London Borough Boundaries) Order|year=1993|publisher=Office of Public Sector Information|accessdate=2008-06-06}}&lt;/ref&gt;
+
+Outward urban expansion is now prevented by a [[Green belt (UK)|metropolitan green belt]],&lt;ref name=london_040&gt;{{Citation|last=Dilys|first=M Hill|title=Urban Policy and Politics in Britain|publisher=St. Martin's Press|year=2000|isbn=0312227450|page=268}}&lt;/ref&gt;  although the built-up area extends beyond the boundary in places, resulting in a separately defined [[Greater London Urban Area]]. Beyond this is the vast [[London commuter belt]].&lt;ref name=london_041&gt;{{Citation|url=http://www.london.gov.uk/assembly/reports/plansd/london_regional_200104.pdf|format=PDF|title=London in its Regional Setting (PDF)|publisher=London Assembly|accessdate=2008-06-06}}&lt;/ref&gt; Greater London is split for some purposes into [[Inner London]] and [[Outer London]].&lt;ref name=london_045&gt;{{Citation|url=http://www.opsi.gov.uk/RevisedStatutes/Acts/ukpga/1963/cukpga_19630033_en_1|title=London Government Act 1963|publisher=Office of Public Sector Information|accessdate=2008-05-06}}&lt;/ref&gt; The city is split by the River Thames into [[North London|North]] and [[South London|South]], with an informal [[Central London]] area in its interior. The coordinates of the nominal centre of London, traditionally considered to be the original [[Eleanor Cross]] at [[Charing Cross]] near the junction of [[Trafalgar Square]] and [[Whitehall]], are approximately {{Coord|51|30|29|N|00|07|29|W|type:city(7,000,000)_region:GB}}.&lt;ref name=london_039&gt;{{Citation|url=http://www.bbc.co.uk/london/content/articles/2005/08/15/charingcross_feature.shtml|title=London&amp;nbsp;— Features&amp;nbsp;— Where is the Centre of London?|publisher=[[British Broadcasting Corporation]]|accessdate=2008-06-06}}&lt;/ref&gt;
+
+===Status===
+Within London, both the [[City of London]] and the [[City of Westminster]] have [[City status in the United Kingdom|city status]] and both the City of London and the remainder of Greater London are the [[Ceremonial counties of England|ceremonial counties]].&lt;ref name=london_049&gt;{{Citation|url=http://www.opsi.gov.uk/acts/acts1997/ukpga_19970023_en_1|title=Lieutenancies Act 1997|publisher=OPSI|accessdate=2008-06-07}}&lt;/ref&gt; The current area of [[Metropolitan and non-metropolitan counties of England#Greater London|Greater London]] has incorporated areas that [[historic counties of England|were once part of]] the counties of [[Middlesex]], [[Kent]], [[Surrey]], [[Essex]] and [[Hertfordshire]].&lt;ref name=london_050&gt;{{Citation|last=Barlow|first=I. M. |title=Metropolitan Government|publisher=Routledge|year=1991|isbn=Routledge|page=346}}&lt;/ref&gt; London's status as the capital of England, and later the United Kingdom, has never been granted or confirmed officially—by [[statute]] or in written form.{{#tag:ref|According to the ''Collins English Dictionary'' definition of 'the seat of government',&lt;ref name=london_061&gt;(1994) ''Collins English Dictionary'', Collins Education plc.&lt;/ref&gt; London is not the capital of England, as England does not have its own government. According to the ''Oxford English Reference Dictionary'' definition of 'the most important town'&lt;ref name=london_062&gt;''Oxford English Reference Dictionary'', Oxford English.&lt;/ref&gt; and many other authorities.&lt;ref name=london_063&gt;&quot;HC 501 0304.PDF&quot; (PDF). Parliament Publications&lt;/ref&gt;|group=&quot;note&quot;}}
+
+Its position was formed through [[constitutional convention (political custom)|constitutional convention]], making its status as ''[[de facto]]'' capital a part of the [[Constitution of the United Kingdom|UK's unwritten constitution]]. The capital of England was moved to London from [[Winchester]] as the [[Palace of Westminster]] developed in the 12th and 13th centuries to become the permanent location of the [[Noble court|royal court]], and thus the political capital of the nation.&lt;ref name=london_060&gt;{{Citation|last=Schofield|first=John|month=June | year=1999|title=British Archaeology Issue 45, June 1999|publisher=British Archaeology|issue=45|issn=1357-4442|url=http://www.britarch.ac.uk/BA/ba45/ba45regs.html|accessdate=2008-05-06}}&lt;/ref&gt; More recently, Greater London has been defined as a [[Regions of England|region of England]] and in this context known as ''London''.&lt;ref name=region/&gt;
+
+===Topography===
+[[File:London SPOT 1005.jpg|thumb|West and central London seen from [[SPOT (satellites)|SPOT satellite]]|alt=]]
+Greater London covers an area of {{convert|1579|km2|sqmi}}, an area which had a population of 7,172,036 in 2001 and a population density of 4,542 people per square kilometre. A larger area, referred to as the London Metropolitan Region or the London Metropolitan Agglomeration covers an area of  {{convert|8382|km2|sqmi}} has a population of 12,653,500 and a population density of 1,510 people per square kilometre.&lt;ref&gt;{{Citation|url=http://www.dgcl.interieur.gouv.fr/sections/a_votre_service/lu_pour_vous/les_grandes_metropol/downloadFile/attachedFile/metropolislondres.pdf?nocache=1254397828.63 |title=Metropolis: 027 London, World Association of the Major Metropolises |date= |accessdate=2010-05-03}}&lt;/ref&gt;  London's primary geographical feature is the [[River Thames|Thames]], a [[navigable river]] which crosses the city from the south-west to the east. The [[Thames Valley]] is a [[floodplain]] surrounded by gently rolling hills including [[Parliament Hill, London|Parliament Hill]], [[Addington Hills]], and [[Primrose Hill]]. The Thames was once a much broader, shallower river with extensive [[marshland]]s; at high tide, its shores reached five times their present width.&lt;ref name=london_065&gt;{{Citation|url=http://books.google.com/books?hl=en&amp;lr=&amp;id=M9qvtYYhRtAC&amp;oi=fnd&amp;pg=PR11&amp;dq=thames+%22iron+age%22+london+wide+geography+shallow+marsh&amp;ots=wVDtRsVF-V&amp;sig=GFqR9QKs45u-ggfYI0dcCA3GUzc#PPA10,M1|title=''London: A History'', by Francis Sheppard page 10.|publisher=Google Books|accessdate=2008-06-06}}&lt;/ref&gt;
+
+Since the [[Victorian era]] the Thames has been extensively [[Thames Embankment|embanked]], and many of its London [[tributary|tributaries]] now flow [[Subterranean rivers of London|underground]]. The Thames is a tidal river, and London is vulnerable to flooding.&lt;ref name=london_066&gt;{{Citation|url=http://www.environment-agency.gov.uk/yourenv/eff/1190084/natural_forces/flooding/?version=1&amp;lang=_e|title=Flooding|publisher=UK [[Environment Agency]]|accessdate=2006-06-19}}&lt;/ref&gt; The threat has increased over time due to a slow but continuous rise in [[Tide|high water]] level by the slow 'tilting' of Britain (up in the north and down in the south) caused by post-[[glacier|glacial]] [[isostatic rebound|rebound]].&lt;ref name=london_067&gt;{{Citation|url=http://www.environment-agency.gov.uk/yourenv/eff/1190084/natural_forces/sealevels/?version=1&amp;lang=_e|title=&quot;Sea Levels&quot; – UK Environment Agency|publisher=[[Environment Agency]]|accessdate=2008-06-06}}&lt;/ref&gt;
+
+In 1974, a decade of work began on the construction of the [[Thames Barrier]] across the Thames at [[Woolwich]] to deal with this threat. While the barrier is expected to function as designed until roughly 2070, concepts for its future enlargement or redesign are already being discussed.&lt;ref&gt;{{Citation|first=David|last=Adam|url=http://www.guardian.co.uk/environment/2009/mar/31/thames-flood-barrier-london|title=Thames Barrier gets extra time as London's main flood defence|work=[[The Guardian]]|date=2009-03-31|accessdate=2009-11-07}}&lt;/ref&gt;
+
+===Climate===
+{{Main|Climate of the United Kingdom}}
+
+London has a [[temperate]] [[Oceanic climate|marine climate]] ([[Koppen climate classification]] ''Cfb''), like much of the British Isles, so the city rarely sees extremely high or low temperatures. Summers are warm with a July high of {{convert|22.8|C|1}} and low of {{convert|14.0|C|1}}.&lt;ref name = GreenwichStats /&gt; But temperatures can exceed {{convert|25|°C|°F}} on many days, and in almost every year they exceed {{convert|30|°C|°F}} on some days. The highest temperature ever recorded was {{convert|38|°C|0}} &lt;ref name=&quot;AverageWeatherLondon&quot;&gt;{{Citation
+  |url=http://www.bbc.co.uk/weather/world/city_guides/results.shtml?tt=TT003790
+  |title=Average Conditions, London, United Kingdom
+  |publisher=[[British Broadcasting Corporation]]
+  |accessdate=2008-10-28}}&lt;/ref&gt; on 10 August 2003 during the [[2003 European heat wave]].
+
+Winters in London are chilly, but rarely below freezing (although in recent years this has been questionable) with daytime highs around {{convert||5°C|°F}}&amp;nbsp;– {{convert|8|°C|°F}}, while spring has mild  days and cool evenings.&lt;ref name=&quot;AverageWeatherLondon&quot; /&gt; The lowest ever recorded temperature was {{convert|-21.1|°C|0}} in January 1795. Autumn is usually mild but often unsettled as colder air from the arctic and warmer air from the tropics meet. London is a relatively dry city with regular but generally light precipitation throughout the year, with an average of {{convert|583.6|mm|in}} every year. This is lower than many cities such as [[New York City|New York]], [[Paris]], [[Sydney]] and around the same as [[San Francisco]] and even [[Jerusalem]]. 
+
+London receives an average of only 1461 hours of sunshine every year.&lt;ref name = GreenwichStats /&gt;
+
+Snow is relatively uncommon, particularly because [[urban heat island|heat from the urban area]] can make London up to 5&amp;nbsp;°C (9&amp;nbsp;°F) warmer than the surrounding areas in winter. Some snowfall, however, is usually seen up to a few times a year. The [[February 2009 Great Britain and Ireland snowfall]] was the heaviest London had seen for 18 years.
+
+London is in [[United States Department of Agriculture|USDA]] [[Hardiness zone]] 9, and [[Hardiness zone|AHS Heat Zone 2]].&lt;ref name=london_069&gt;{{Citation
+  |url=http://www.rhs.org.uk/news/climate_change/chapter4_5.pdf
+  |format=PDF
+  |title=Chapter 4 59 Plants in natural and managed communities
+  |publisher=Royal Horticultural Society
+  |page=6
+  |accessdate=2008-09-27}}{{Dead link|date=July 2009}}&lt;/ref&gt; Although extreme weather does not happen very often, deep depressions have been known to pass through like the [[Great Storm of 1987]]. [[Tornado]]s are rare, but the [[Kensal Green]] area of the city was hit by the [[2006 London tornado]] causing £10 million of damage and injuring 6 people. In the second half of the 19th century and the first half of the 20th, London was noted for its dense fogs and smogs. Following the deadly [[Great Smog of 1952]], the [[Clean Air Act 1956]] was passed, leading to the decline of such severe pollution in the capital.&lt;ref name=london_070&gt;{{Citation
+  |url=http://www.metoffice.gov.uk/education/secondary/students/smog.html
+  |title=Met Office: The Great Smog of 1952
+  |publisher=Met Office
+  |accessdate=2008-10-28}}&lt;/ref&gt;
+
+{{London weatherbox}}
+
+===Districts===
+{{Main|List of districts of London}}
+
+{| class=&quot;toccolours&quot;  style=&quot;float:right; font-size:80%; margin-left:10px;&quot;
+|+ &lt;big&gt;'''The City of London and the 32 London boroughs'''&lt;/big&gt;
+| style=&quot;padding-right:1em;&quot; | &lt;ol&gt;
+&lt;li&gt;[[City of London]]&lt;/li&gt;
+&lt;li&gt;[[City of Westminster]]&lt;/li&gt;
+&lt;li&gt;[[Royal Borough of Kensington and Chelsea|Kensington and Chelsea]]&lt;/li&gt;
+&lt;li&gt;[[London Borough of Hammersmith and Fulham|Hammersmith and Fulham]]&lt;/li&gt;
+&lt;li&gt;[[London Borough of Wandsworth|Wandsworth]]&lt;/li&gt;
+&lt;li&gt;[[London Borough of Lambeth|Lambeth]]&lt;/li&gt;
+&lt;li&gt;[[London Borough of Southwark|Southwark]]&lt;/li&gt;
+&lt;li&gt;[[London Borough of Tower Hamlets|Tower Hamlets]]&lt;/li&gt;
+&lt;li&gt;[[London Borough of Hackney|Hackney]]&lt;/li&gt;
+&lt;li&gt;[[London Borough of Islington|Islington]]&lt;/li&gt;
+&lt;li&gt;[[London Borough of Camden|Camden]]&lt;/li&gt;
+&lt;li&gt;[[London Borough of Brent|Brent]]&lt;/li&gt;
+&lt;li&gt;[[London Borough of Ealing|Ealing]]&lt;/li&gt;
+&lt;li&gt;[[London Borough of Hounslow|Hounslow]]&lt;/li&gt;
+&lt;li&gt;[[London Borough of Richmond upon Thames|Richmond]]&lt;/li&gt;
+&lt;li&gt;[[Royal Borough of Kingston upon Thames|Kingston]]&lt;/li&gt;
+&lt;li&gt;[[London Borough of Merton|Merton]]&lt;/li&gt;
+&lt;/ol&gt;
+| style=&quot;background:white; padding:0 1em;&quot; class=&quot;toccolours&quot;|{{London boroughs imagemap}}
+| &lt;ol start=&quot;18&quot;&gt;
+&lt;li&gt;[[London Borough of Sutton|Sutton]]&lt;/li&gt;
+&lt;li&gt;[[London Borough of Croydon|Croydon]]&lt;/li&gt;
+&lt;li&gt;[[London Borough of Bromley|Bromley]]&lt;/li&gt;
+&lt;li&gt;[[London Borough of Lewisham|Lewisham]]&lt;/li&gt;
+&lt;li&gt;[[London Borough of Greenwich|Greenwich]]&lt;/li&gt;
+&lt;li&gt;[[London Borough of Bexley|Bexley]]&lt;/li&gt;
+&lt;li&gt;[[London Borough of Havering|Havering]]&lt;/li&gt;
+&lt;li&gt;[[London Borough of Barking and Dagenham|Barking and Dagenham]]&lt;/li&gt;
+&lt;li&gt;[[London Borough of Redbridge|Redbridge]]&lt;/li&gt;
+&lt;li&gt;[[London Borough of Newham|Newham]]&lt;/li&gt;
+&lt;li&gt;[[London Borough of Waltham Forest|Waltham Forest]]&lt;/li&gt;
+&lt;li&gt;[[London Borough of Haringey|Haringey]]&lt;/li&gt;
+&lt;li&gt;[[London Borough of Enfield|Enfield]]&lt;/li&gt;
+&lt;li&gt;[[London Borough of Barnet|Barnet]]&lt;/li&gt;
+&lt;li&gt;[[London Borough of Harrow|Harrow]]&lt;/li&gt;
+&lt;li&gt;[[London Borough of Hillingdon|Hillingdon]]&lt;/li&gt;
+&lt;/ol&gt;
+|}
+London's vast urban area is often described using a set of district names, such as [[Bloomsbury]], [[Mayfair]], [[Wembley]] and [[Whitechapel]]. These are either informal designations, reflect the names of villages that have been absorbed by sprawl, or are superseded administrative units such as parishes or [[Metropolitan boroughs of the County of London|former boroughs]].
+
+Such names have remained in use through tradition, each referring to a local area with its own distinctive character, but without current official boundaries. Since 1965 Greater London has been divided into 32 [[London borough]]s in addition to the ancient City of London.&lt;ref name=london_071&gt;{{Citation|url=http://www.london.gov.uk/london-life/city-government/boroughs.jsp|title=London boroughs&amp;nbsp;— London Life, GLA|publisher=London Government|accessdate=2008-11-03}}&lt;/ref&gt;&lt;ref name=london_072&gt;{{Citation|last=Dogan|first=Mattei|coauthors=John D. Kasarda|title=The Metropolis Era|publisher=Sage Publications|year=1988|page=99|isbn=9780803926035|url=http://books.google.com/books?id=_GFPAAAAMAAJ&amp;q=1965,+32+boroughs+of+london&amp;dq=1965,+32+boroughs+of+london&amp;lr=&amp;pgis=1}}&lt;/ref&gt; The City of London is the main financial district&lt;ref name=london_073&gt;{{Citation|url=http://www.london.gov.uk/london-life/business-and-jobs/financial-centre.jsp|title=London as a financial centre|publisher=Mayor of London|accessdate=2008-05-06}}&lt;/ref&gt; and [[Canary Wharf]] has recently developed into a new financial and commercial hub, in the [[London Docklands|Docklands]] to the east.
+
+The [[West End of London|West End]] is London's main entertainment and shopping district, attracting tourists.&lt;ref name=london_075&gt;{{Citation|url=http://news.bbc.co.uk/2/hi/entertainment/1608619.stm |title=West End still drawing crowds |work=BBC |publisher=[[British Broadcasting Corporation]]|accessdate=2008-06-06 | date=2001-10-22}}&lt;/ref&gt; [[West (London sub region)|West London]] includes expensive residential areas where properties can sell for tens of millions of pounds.&lt;ref name=london_076&gt;{{Citation|url=http://www.guardian.co.uk/money/2006/apr/17/tax.g2|title=Super Rich|date=17 April 2006|publisher=The Guardian Money|accessdate=2008-06-07 | location=London | first=James | last=Meek}}&lt;/ref&gt; The average price for properties in [[Royal Borough of Kensington and Chelsea|Kensington and Chelsea]] is £894,000 with similar average outlay in most of [[Central London]].&lt;ref name=&quot;London's Properties&quot;&gt;{{Citation|url=http://rbkc.gov.uk/Planning/localdevelopmentframework/ldf_hs_appendix_a2.pdf|format=PDF|title=Price of Properties.|publisher=Royal Borough of Kensington and Chelsea|accessdate=2008-06-06}}&lt;/ref&gt;
+
+The [[East End of London|East End]] is the area closest to the original [[Port of London]], known for its high immigrant population, as well as for being one of the poorest areas in London.&lt;ref name=&quot;East End&quot;&gt;{{Citation|url=http://msnbc.msn.com/id/8487518/site/newsweek/|archiveurl=http://web.archive.org/web/20060829024354/http://msnbc.msn.com/id/8487518/site/newsweek/|archivedate=2006-08-29 |title=Tomorrow's East End |publisher=News Week |accessdate=2007-08-16}}&lt;/ref&gt; The surrounding [[North East (London sub region)|East London]] area saw much of London's early industrial development; now, [[brownfield land|brownfield]] sites throughout the area are being redeveloped as part of the [[Thames Gateway]] including the [[London Riverside]] and [[Lower Lea Valley]], which is being developed into the [[Olympic Park, London|Olympic Park]] for the [[London 2012 Olympic bid|2012 Olympics]].&lt;ref name=&quot;East End&quot; /&gt;
+
+===Architecture===
+{{Main|Architecture in London|List of tallest structures in London}}
+[[File:30 St Mary Axe - The Gherkin from Leadenhall St - Nov 2006.jpg|thumb|London's architecture ranges from very old to modern]]
+London's buildings are too diverse to be characterised by any particular [[architectural]] style, having been built over a long period of time. Notable recent buildings are the 1980s skyscraper [[Tower 42]], the [[Lloyd's building]] with services running along the outside of the structure, and the 2004 [[30 St Mary Axe|Swiss Re building]], known as ''&quot;the Gherkin&quot;''. London's generally low-rise nature makes these skyscrapers and others such as [[One Canada Square]] and its neighbours at [[Canary Wharf]] and the [[BT Tower]] in [[Fitzrovia]] very noticeable from a distance.
+
+High-rise development is restricted at certain sites if it would obstruct protected views of [[St. Paul's Cathedral]]. Nevertheless, there are plans for more skyscrapers in [[Central London]] ''(see [[Tall buildings in London]])'', including the 72-storey [[Shard London Bridge|&quot;Shard of Glass&quot;]], which will be one of the tallest buildings in Europe. Older buildings are mainly [[brick]] built, most commonly the yellow [[London stock brick]] or a warm orange-red variety, often decorated with carvings and white plaster [[molding (decorative)|mouldings]].&lt;ref name=london_077&gt;{{Citation|url=http://www.telegraph.co.uk/property/main.jhtml?view=DETAILS&amp;grid=A1&amp;xml=/property/2008/03/27/lpgreen127.xml|title=Eco homes: Wooden it be lovely... ?|publisher=Telegraph Media Group Limited|accessdate=2008-10-12 | location=London | first=Sarah | last=Lonsdale | date=2008-03-27}}&lt;/ref&gt;
+
+Many grand houses and public buildings, such as the [[National Gallery, London|National Gallery]], are constructed from [[Portland stone]]. Some areas of the city, particularly those just west of the centre, are characterised by white [[stucco]] or whitewashed buildings. Few structures pre-date the [[Great Fire of London|Great Fire]] of 1666, except for a few trace [[Ancient Rome|Roman]] remains, the [[Tower of London]] and a few scattered [[Tudor style architecture|Tudor]] survivors in the City. [[Christopher Wren|Wren]]'s late 17th century churches and the financial institutions of the 18th and 19th centuries such as the [[Royal Exchange (London)|Royal Exchange]] and the [[Bank of England]], to the early 20th century [[Old Bailey]] and the 1960s [[Barbican Estate]] form part of the varied architectural heritage.
+[[File:Buckingham Palace and Victoria Monument - September 2006.jpg|left|thumb|[[Buckingham Palace]] is the official residence of the British monarch|alt=]]
+The disused, but soon to be rejuvenated, 1939 [[Battersea Power Station]] by the river in the southwest is a local landmark, while some railway termini are excellent examples of [[Victorian architecture]], most notably [[St Pancras railway station|St Pancras]] and [[Paddington railway station|Paddington]].&lt;ref name=london_078&gt;{{Citation | url=http://www.greatbuildings.com/buildings/Paddington_Station.html|title=Paddington Station.|publisher=Great Buildings|accessdate=2008-06-06}}&lt;/ref&gt; The density of London varies, with high employment density in the [[Central London|central area]], high residential densities in [[inner London]] and lower densities in the [[Outer London|suburbs]].
+
+In the dense areas, most of the concentration is achieved with medium- and [[high-rise]] buildings. London's [[skyscraper]]s such as [[30 St Mary Axe|&quot;Gherkin&quot;]], [[Tower 42]], the [[Broadgate Tower]] and [[One Canada Square]] are usually found in the two financial districts, the [[City of London]] and [[Canary Wharf]]. Other notable modern buildings include [[City Hall (London)|City Hall]] in [[Southwark]] with its distinctive oval shape,&lt;ref name=london_079&gt;{{Citation|url=http://news.bbc.co.uk/1/hi/uk/2129199.stm|title=Inside London's new 'glass egg'|date= 16 July 2002|publisher=[[British Broadcasting Corporation]]|accessdate=2008-04-26}}&lt;/ref&gt; and the [[British Library]] in [[Somers Town, London|Somers Town]]/[[Kings Cross, London|Kings Cross]]. What was formerly the [[Millennium Dome]], located by the Thames to the east of Canary Wharf, is now used as an entertainment venue known as [[The O2 (London)|The O&lt;sub&gt;2&lt;/sub&gt;]].
+
+[[The Monument]] in the City of London provides views of the surrounding area while commemorating the [[Great Fire of London]], which originated nearby. [[Marble Arch]] and [[Wellington Arch]], at the north and south ends of [[Park Lane (road)|Park Lane]] respectively, have royal connections, as do the [[Albert Memorial]] and [[Royal Albert Hall]] in [[Kensington]]. [[Nelson's Column]] is a nationally recognised monument in [[Trafalgar Square]], one of the focal points of the centre.
+
+===Parks and gardens===
+{{Main|Parks and open spaces in London|Royal Parks of London}}
+The largest parks in the central area of London are the [[Royal Parks of London|Royal Parks]] of [[Hyde Park, London|Hyde Park]], its neighbour [[Kensington Gardens]] at the western edge of [[Central London]] and [[Regent's Park]] on the northern edge.&lt;ref name=london_080&gt;{{Citation|url=http://www.royalparks.org.uk/parks/kensington_gardens/|title=Kensington Gardens|year=2008|publisher=The Royal Parks|accessdate=2008-04-26}}&lt;/ref&gt; Regent's Park contains [[London Zoo]], the world's oldest scientific zoo, and is located near the tourist attraction of [[Madame Tussauds]] Wax Museum.&lt;ref name=london_081&gt;{{Citation|url=http://www.madametussauds.com/London/About.aspx|title=Madame Tussauds&amp;nbsp;— Official website|publisher=Madame Tussauds|accessdate=2008-06-06}}&lt;/ref&gt;&lt;ref name=london_082&gt;{{Citation|url=http://www.tourist-information-uk.com/madame-tussauds.htm|title=Madame Tussauds&amp;nbsp;— Tourist Information|publisher=Tourist Information UK|accessdate=2008-04-26}}&lt;/ref&gt;
+[[File:St James's Park Panorama - Sept 2006.jpg|thumb|left|[[St. James's Park]]|alt=]]
+Closer to central London are the smaller Royal Parks of [[Green Park]] and [[St. James's Park]].&lt;ref name=london_083&gt;{{Citation|url=http://www.royalparks.org.uk/parks/green_park/|title=Green Park|year=2008|publisher=The Royal Parks|accessdate=2008-04-26}}&lt;/ref&gt; Hyde Park in particular is popular for [[London#Sports|sports]] and sometimes hosts open-air concerts. A number of large parks lie outside the city centre, including the remaining Royal Parks of [[Greenwich Park]] to the south-east&lt;ref name=london_170&gt;{{Citation|url=http://www.royalparks.org.uk/parks/greenwich_park/|title=Greenwich Park|year=2008|publisher=The Royal Parks|accessdate=2008-04-26}}&lt;/ref&gt; and [[Bushy Park]] and [[Richmond Park]] to the south-west,&lt;ref name=london_084&gt;{{Citation|url=http://www.royalparks.org.uk/parks/bushy_park/|title=Bushy Park|year=2008|publisher=The Royal Parks|accessdate=2008-04-26}}&lt;/ref&gt;&lt;ref name=london_085&gt;{{Citation|url=http://www.royalparks.org.uk/parks/richmond_park/|title=Richmond Park|year=2008|publisher=The Royal Parks|accessdate=2008-04-26}}&lt;/ref&gt; as well as [[Victoria Park, East London]] to the east. [[Primrose Hill]] to the north of Regent's Park is a popular spot to view the city skyline.
+
+Some more informal, semi-natural open spaces also exist, including the {{convert|320|ha|acre|sing=on}} [[Hampstead Heath]] of [[North London]].&lt;ref&gt;{{Citation|url=http://www.cityoflondon.gov.uk/Corporation/LGNL_Services/Environment_and_planning/Parks_and_open_spaces/Hampstead_Heath/|title=City of London Corporation Hampstead Heath|publisher=City of London Corporation|accessdate=19 February 2010}}&lt;/ref&gt;  This incorporates [[Kenwood House]], the former [[stately home]] and a popular location in the summer months where classical musical concerts are held by the lake, attracting thousands of people every weekend to enjoy the music, scenery and fireworks.&lt;ref name=london_086&gt;{{Citation|url=http://www.english-heritage.org.uk/server/show/nav.00100200800k00800f|title=Kenwood House |publisher=English Heritage|accessdate=2008-04-26}}&lt;/ref&gt;
+
+==Demography==
+{{Main|Demography of London}}
+{{TableLondonTop21BirthCountry}}&lt;!--- Ref name=Pop2001 ---&gt;
+With increasing industrialisation, London's population grew rapidly throughout the 19th and early 20th centuries, and it was for some time in the late 19th and early 20th centuries the most populous city in the world until overtaken by New York in 1925. Its population peaked at 8,615,245 in 1939 immediately before the outbreak of the [[Second World War]]. There were an estimated 7,556,900 official residents in [[Greater London]] as of mid-2007.&lt;ref name=Greater_London_population /&gt;
+
+However, London's continuous urban area extends beyond the borders of Greater London and was home to 8,278,251 people in 2001,&lt;ref name=urban_area_pop /&gt; while its wider [[London metropolitan area|metropolitan area]] has a population of between 12 and 14&amp;nbsp;million depending on the definition used.&lt;ref name=&quot;London Metropolitan Population&quot;&gt;{{Citation|url=http://www.demographia.com/dm-lonarea.htm|accessdate=2009-10-23}}&lt;/ref&gt; According to [[Eurostat]], London is the [[Largest cities and metropolitan areas in the European Union (Eurostat)|most populous city and metropolitan area of the European Union]] and the second [[Largest European cities and metropolitan areas|most populous]] in Europe (or third if [[Istanbul]] is included). During the period 1991–2001 a net 726,000&amp;nbsp;immigrants arrived in London.&lt;ref name=&quot;Immigration&quot;&gt;{{Citation|url=http://www.timesonline.co.uk/tol/news/uk/article379434.ece|title=Immigration rise increases segregation in British cities|last=Leppard|first=David|date=2005-04-10|work=Times Online|publisher=TimesOnline.co.uk|accessdate=2009-08-08 | location=London}}&lt;/ref&gt;
+
+The region covers an area of {{convert|1579|km2|sqmi}}. The population density is {{convert|4542|PD/km2|PD/sqmi}},&lt;ref&gt;{{Citation|url=http://www.dgcl.interieur.gouv.fr/sections/a_votre_service/lu_pour_vous/les_grandes_metropol/downloadFile/attachedFile/metropolislondres.pdf?nocache=1254397828.63 |title=Metropolis World Association of the Major Metropolises |date= |accessdate=2010-05-03}}&lt;/ref&gt;  more than ten times that of any other [[NUTS:UK|British region]].&lt;ref name=london_087&gt;{{Citation|url=http://www.statistics.gov.uk/downloads/theme_population/regional_snapshot/RS_Lon.pdf|format=PDF|title=Population density of London: by London borough, 2006|publisher=UK Statistics Authority|accessdate=2008-06-07}}&lt;/ref&gt; In terms of population, London is the 25th [[List of cities by population|largest city]] and the 18th [[List of metropolitan areas by population|largest metropolitan]] region in the world. It is also ranked 4th in the world in number of billionaires (United States Dollars) residing in the city.&lt;ref name=london_088&gt;{{Citation|url=http://www.forbes.com/2007/03/07/billionaires-worlds-richest_07billionaires_cz_lk_af_0308billie_land.html|title=Forbes Magazine list of billionaires.|publisher=Forbes|accessdate=2008-06-06}}&lt;/ref&gt; London ranks as one of the most expensive cities in the world, alongside Tokyo and Moscow.&lt;ref name=london_089&gt;{{Citation|url=http://money.cnn.com/2004/06/11/pf/costofliving/|title=CNN Money World's Most Expensive Cities 2004.|publisher=CNN|accessdate=2007-08-16 | date=2004-06-11}}&lt;/ref&gt;
+
+===Ethnic groups===
+{{Main|Ethnic groups in London}}
+According to the [[Office for National Statistics]], based on 2006 estimates, 69.4 per cent of the 7.5 million inhabitants of London were [[White people|White]], with 58 per cent [[White British]], 2.5 per cent [[Irish Briton|White Irish]] and 8.9 per cent classified as [[White Other (United Kingdom Census)|Other White]]. Some 13.1 per cent are of [[British Asian|South Asian]] descent, with [[British Indian|Indians]] making up 6.5 per cent of London's population, followed by [[British Bangladeshi|Bangladeshis]] and [[British Pakistanis|Pakistanis]] at 2.3 per cent each. 2 per cent are categorised as &quot;Other Asian&quot;.
+
+10.7 per cent of London's population are [[Black British|Black]], with around 5.5 per cent being [[African migration to the United Kingdom|Black African]], 4.3 per cent as [[British African-Caribbean community|Black Caribbean]] and 0.7 per cent as &quot;Other Black&quot;. 3.5 per cent of Londoners are of [[British Mixed|mixed race]]; 1.5 per cent are [[British Chinese|Chinese]]; and 1.9 per cent belong to [[Other ethnic group (United Kingdom Census)|another ethnic group]].&lt;ref name = &quot;2006 ethnicity&quot;&gt;{{Citation|url = http://www.neighbourhood.statistics.gov.uk/dissemination/LeadTableView.do?a=3&amp;b=276743&amp;c=London&amp;d=13&amp;e=13&amp;g=325264&amp;i=1001x1003x1004&amp;m=0&amp;r=1&amp;s=1250928691333&amp;enc=1&amp;dsFamilyId=1812|title = Neighbourhood Statistics|publisher = Neighbourhood Statistics|accessdate = 2009-08-09}}&lt;/ref&gt; As of 2008, 40% of London's total population was from an [[ethnic minority]] group.&lt;ref name=london_093&gt;[http://www.londoncouncils.gov.uk/media/pressreleases/2008Jantodate/PressReleaseLondonsblackandminoritycommunitieshelpedtohaveagreatervoicebyLondonCou.htm London’s black and minority communities helped to have a greater voice]. londoncouncils.gov.uk&lt;/ref&gt;
+
+Across London, [[Black British|Black]] and [[British Asian|Asian]] children outnumber [[White British]] children by about six to four in state schools.&lt;ref name=london_094&gt;{{Citation| url=http://www.telegraph.co.uk/news/uknews/1564365/One-fifth-of-children-from-ethnic-minorities.html |title=One fifth of children from ethnic minorities |author=Graeme Paton |date=2007-10-01|work = The Daily Telegraph|accessdate=2008-06-07 | location=London}}&lt;/ref&gt; In January 2005, a survey of London's ethnic and religious diversity claimed that there were more than 300 languages spoken and more than 50 non-indigenous communities which have a population of more than 10,000 in London.&lt;ref name=london_090&gt;{{Citation|url=http://www.guardian.co.uk/uk/2005/jan/21/britishidentity1|title=London: Every race, colour, nation and religion on earth|publisher=Guardian|accessdate=2008-05-06 | first=Leo | last=Benedictus | date=2005-01-21}}&lt;/ref&gt; Figures from the [[Office for National Statistics]] show that, as of 2006, London's foreign-born population is 2,288,000 (31%), up from 1,630,000 in 1997.&lt;ref name=london_091&gt;{{Citation | title=One Third of Londoners born outside Britain | publisher=Evening Standard / Office for National Statistics | url =http://www.thisislondon.co.uk/news/article-23374397-details/%27One-third+of+Londoners+born+outside+Britain%27/article.do|publisher= This is London|accessdate=2008-06-06}}&lt;/ref&gt;
+
+The 2001 census showed that 27.1% of [[Greater London]]'s population were born outside the UK, and a slightly higher proportion were classed as non-white.&lt;ref name=london_092&gt;{{Citation|url=http://www.statistics.gov.uk/census2001/profiles/H-A.asp|title=Census 2001: London|publisher=[[Office for National Statistics]]|accessdate=2006-06-03}}&lt;/ref&gt; The table to the right shows the 'Country of Birth' of London residents in 2001, the date of the last [[UK Census]]. (Top 21).&lt;ref name=Pop2001/&gt; A portion of the German-born population are likely to be British nationals born to parents serving in the [[British Armed Forces]] in Germany.&lt;ref name=london_095&gt;{{Citation|url=http://www.ippr.org.uk/publicationsandreports/publication.asp?id=308|title=Beyond Black and White: Mapping new immigrant communities|last=Kyambi|first=Sarah|date=7 September 2005|accessdate=2007-01-20}}&lt;/ref&gt;
+
+===Religion===
+[[File:St Pauls aerial.jpg|thumb|right|[[St. Paul's Cathedral]]]]
+
+{{Main|Religion in London}}
+{{bar box
+|title=[[Religion in London]]
+|titlebar=#ddd
+|left1=Religion
+|right1=Percent
+|float=left
+|bars=
+{{bar percent|[[Christian]]|purple|58.2}}
+{{bar percent|[[No religion]]|violet|15.8}}
+{{bar percent|Religion not stated|black|8.7}}
+{{bar percent|[[Islam|Muslim]]|Green|8.5}}
+{{bar percent|[[Hinduism|Hindu]]|Orange|4.1}}
+{{bar percent|[[Judaism|Jewish]]|Blue|2.1}}
+{{bar percent|[[Sikhism|Sikh]]|yellow|1.5}}
+{{bar percent|[[Buddhism|Buddhist]]|Gold|0.8}}
+{{bar percent|[[Paganism|Pagan]]|Silver|0.3}}
+{{bar percent|Other|gray|0.2}}
+}}
+
+The majority of Londoners&amp;nbsp;– 58.2%&amp;nbsp;– identify themselves as [[Christian (word)|Christians]].&lt;ref name=Religion&gt;{{Citation|url=http://www.statistics.gov.uk/census2001/profiles/H-A.asp#ethnic|title=Census 2001 profiles: London|work=www.statistics.gov.uk|publisher=Office for National Statistics|accessdate=2008-08-19}}&lt;/ref&gt; This is followed by those of [[Irreligion|no religion]] (15.8%), [[Islam|Muslims]] (8.5%), [[Hinduism|Hindus]] (4.1%), [[Judaism|Jews]] (2.1%), [[Sikhism|Sikhs]] (1.5%), [[Buddhism|Buddhists]] (0.8%), [[Pagans/Wiccans]] (0.3%) and other (0.2%), though 8.7% of people did not answer this question in the 2001 Census.&lt;ref name=Religion/&gt;
+
+London has traditionally been Christian, and has a [[List of churches in London|large number of churches]], particularly in the City of London. The well-known [[St Paul's Cathedral]] in the City and [[Southwark Cathedral]] south of the river are [[Anglicanism|Anglican]] administrative centres,&lt;ref name=london_096&gt;{{Citation|url=http://www.stpauls.co.uk/page.aspx?theLang=001lngdef&amp;pointerid=97320F44yHMK9hndcXZBD5sVH4m52Yc0|title=About Saint Paul's Cathedral|publisher=Dean and Chapter St Paul's|accessdate=2008-04-27}}{{Dead link|date=July 2009}}&lt;/ref&gt; while the [[Archbishop of Canterbury]], principal bishop of the [[Church of England]] and worldwide [[Anglican Communion]], has his main residence at [[Lambeth Palace]] in the [[London Borough of Lambeth]].&lt;ref name=london_097&gt;{{Citation|url=http://www.lambethpalacelibrary.org/|title=Lambeth Palace Library|publisher=Lambeth Palace Library|accessdate=2008-04-27}}&lt;/ref&gt;
+
+Important national and royal ceremonies are shared between St Paul's and Westminster Abbey.&lt;ref name=london_098&gt;{{Citation|url=http://www.westminster-abbey.org/|title=Westminster Abbey|publisher=Dean and Chapter of Westminster|accessdate=2008-04-27}}&lt;/ref&gt; The Abbey is not to be confused with nearby [[Westminster Cathedral]], which is the largest [[Roman Catholic]] cathedral in [[England and Wales]].&lt;ref name=london_099&gt;{{Citation|url=http://www.westminstercathedral.org.uk/home.html|title=West Minster Cathedral|publisher=Westminster Cathedral|accessdate=2008-04-27}}&lt;/ref&gt; Despite the prevalence of Anglican churches, observance is very low within the Anglican denomination. Church attendance continues on a long, slow, steady decline, according to Church of England statistics.&lt;ref name=london_100&gt;{{Citation |url=http://www.cofe.anglican.org/info/statistics/2007provisionalattendance.pdf |title=Church of England Statistics|publisher=Church of England |accessdate=2008-06-06}}&lt;/ref&gt;
+[[File:Baitul Futuh.jpg|thumb|right|[[Baitul Futuh]] in London, the largest mosque in [[Western Europe]]&lt;ref&gt;{{Citation |title=Western Europe's largest mosque opens in Morden|url=http://www.guardian.co.uk/uk/2003/oct/02/religion.world|publisher=guardian.co.uk|work=[[The Guardian]]|accessdate=2010-04-03 | location=London | date=2003-10-02}}&lt;/ref&gt;]]
+London is also home to sizeable [[Muslim]], [[Hindu]], [[Sikh]], and [[Jewish]] communities. Many Muslims live in [[London Borough of Tower Hamlets|Tower Hamlets]] and [[London Borough of Newham|Newham]]; the most important Muslim edifice is [[London Central Mosque]] on the edge of [[Regent's Park]].&lt;ref name=london_101&gt;{{Citation|url=http://www.iccuk.org/index.php?article=1&amp;PHPSESSID=rbt2vceqs1bpn9567k0kiv9hu5|title=London Central Mosque Trust Ltd|publisher=London Central Mosque Trust Ltd. &amp; The Islamic Cultural Centre|accessdate=2008-04-27}}&lt;/ref&gt; Following the oil boom, increasing numbers of wealthy [[Middle-East]]ern Muslims have based themselves around [[Mayfair]] and [[Knightsbridge]] in [[West London]].&lt;ref name=london_102&gt;{{Citation|url=http://www.thisislondon.co.uk/standard/article-23488244-the-300-billion-arabs-are-coming.do |title=The $300 billion Arabs are coming |publisher=Thisislondon.co.uk |date= |accessdate=2010-05-03}}&lt;/ref&gt;&lt;ref name=london_171&gt;{{Citation|url=http://209.85.229.132/search?q=cache:CdN4XS_A5eAJ:century.guardian.co.uk/1970-1979/Story/0,,106930,00.html+arabs+in+london&amp;cd=13&amp;hl=en&amp;ct=clnk&amp;gl=uk |title=The Mecca of the West &amp;#124; 1970–1979 &amp;#124; Guardian Century |publisher=209.85.229.132 |date= |accessdate=2010-03-10}}&lt;/ref&gt; London is home to the largest mosque in western Europe, the [[Baitul Futuh]] Mosque, of the [[Ahmadiyya Muslim Community]].
+
+London's large Hindu community is found in the north-western boroughs of [[London Borough of Harrow|Harrow]] and [[London Borough of Brent|Brent]], the latter of which is home to one of Europe's largest [[Hindu temple]]s, [[Neasden Temple]].&lt;ref name=london_103&gt;{{Citation|url=http://www.bbc.co.uk/london/content/articles/2005/05/19/hindu_london_feature.shtml|title=Hindu London|date=6 June 2005|publisher=[[British Broadcasting Corporation]]|accessdate=2006-06-03}}&lt;/ref&gt; Sikh communities are located in East and West London, which is also home to the largest Sikh temple in the world outside India.&lt;ref name=london_104&gt;{{Citation|url=http://news.bbc.co.uk/1/hi/england/2898761.stm|title=£17&amp;nbsp;m Sikh temple opens|date=2003-03-30|publisher=[[British Broadcasting Corporation]]|accessdate=2008-06-07}}&lt;/ref&gt;
+
+The majority of [[British Jews]] live in London, with significant Jewish communities in  [[Stamford Hill]], [[Stanmore]], [[Golders Green]], [[Hampstead]], [[Hendon]] and [[Edgware]] in [[North London]].{{Citation needed|date=February 2010}} [[Stanmore and Canons Park Synagogue]] has the largest membership of any single Orthodox synagogue in the whole of Europe, overtaking [[Ilford]] synagogue (also in London) in 1998.&lt;ref name=london_106&gt;{{Citation|url=http://www.jewishagency.org/JewishAgency/English/Israel/Partnerships/Regions/Kavimut/Britain+Communities/Stanmore+11.htm|title=Jewish Agency|publisher=Jewish Agency|accessdate=2008-10-12}}&lt;/ref&gt; The community set up the [[London Jewish Forum]] in 2007 in response to the growing significance of devolved London Government.&lt;ref name=london_107&gt;{{Citation|url=http://www.ljf.org.uk/London%20Jewish%20Forum/About%20us.html|title=About Us&amp;nbsp;— Mission Statement|publisher=London Jewish Forum|accessdate=2008-10-12}}&lt;/ref&gt;
+
+==Economy==
+{{Main|Economy of London|Media in London|Tourism in London}}
+[[File:Londres 353..jpg|thumb|right|The [[City of London]] is the world's largest [[financial centre]] alongside New York City.&lt;ref&gt;{{cite web|url=http://www.zyen.com/PDF/GFC%207.pdf#page=30 |title=Global Financial Centres 7 |publisher=[[Z/Yen]] |year=2010 |accessdate=2010-04-21}}&lt;/ref&gt;&lt;ref&gt;[http://www.forbes.com/2008/07/15/economic-growth-gdp-biz-cx_jz_0715powercities.html &quot;World's Most Economically Powerful Cities&quot;. Forbes.com]&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.mastercard.com/us/company/en/insights/pdfs/2008/MCWW_WCoC-Report_2008.pdf|title=Worldwide Centres of Commerce Index 2008|publisher=Mastercard}}&lt;/ref&gt;]]
+
+London generates approximately 20% of [[Economy of the United Kingdom|the UK's GDP]]&lt;ref name=&quot;London's place in economy&quot;&gt;{{Citation|url=http://www.cityoflondon.gov.uk/NR/rdonlyres/2CAE66FB-2DD5-41A5-B916-8FFC37276059/0/BC_RS_lpuk_0511_FR.pdf|title=London's place in the UK economy, 2005–06|format=PDF|publisher=City of London|accessdate=2008-03-11}}&lt;/ref&gt; (or $446&amp;nbsp;billion in 2005); while the economy of the [[London metropolitan area]]—[[List of cities by GDP#Europe, Western|the largest in Europe]]—generates approximately 30% of the UK's GDP (or an estimated $669&amp;nbsp;billion in 2005).&lt;ref name=london_109&gt;{{Citation|url=http://www.iaurif.org/en/doc/studies/cahiers/cahier_135/pdf/073-85.pdf |format=PDF|title=The Economic Positioning of Metropolitan Areas in North Western Europe |month=December | year=2002|publisher=The Institute for Urban Planning and Development of the Paris Ile-de-France Region|accessdate=2008-08-27}}{{Dead link|date=July 2009}}&lt;/ref&gt; London is one of the pre-eminent financial centres of the world and vies with New York City as the most important location for international finance.&lt;ref name=&quot;economist1&quot;&gt;{{cite news|title=After the fall|publisher=[[The Economist (magazine)|The Economist]]|date=2007-11-29|url=http://www.economist.com/finance/displaystory.cfm?story_id=E1_TDNDRPTT|accessdate=2009=05-15}}&lt;/ref&gt;&lt;ref name=&quot;economist2&quot;&gt;{{cite news|url=http://www.economist.com/specialreports/displaystory.cfm?story_id=9753240|title=Financial Centres&amp;nbsp;— Magnets for money|date=2007-09-13|publisher=The Economist|accessdate=2009-05-15}}&lt;/ref&gt;
+
+London's largest industry is [[finance]], and its [[financial export]]s make it a large contributor to the UK's [[balance of payments]]. Around 325,000 people were employed in financial services in London until mid-2007. London has over 480 overseas banks, more than any other city in the world. Due to its prominent global role, London's economy has been affected by the [[global financial crisis of 2008–2009]]. The City of London estimates that 70,000 jobs in finance will be cut within a year.&lt;ref name=london_116&gt;{{Citation|url=http://www.chinapost.com.tw/business/europe/2008/11/27/185064/City-of.htm | title=City of London mayor predicts 70,000 job cuts | accessdate=4 January 2009 | publisher=[[The China Post]]}}&lt;/ref&gt;
+[[File:Cabot Square, Canary Wharf - June 2008.jpg|thumb|right|[[Canary Wharf]] is the home to some of the United Kingdom's tallest buildings|alt=]]
+
+More than half of the UK's top 100 listed companies (the [[FTSE 100]]) and over 100 of Europe's 500 largest companies are headquartered in Central London. Over 70% of the FTSE 100 are located within London's metropolitan area, and 75% of [[Fortune 500]] companies have offices in London.&lt;ref name=london_113&gt;{{Citation|url=http://www.londonstockexchange.com/en-gb/|title=London Stock Exchange|year=2008|publisher=London Stock Exchange plc.|accessdate=2008-04-27}}&lt;/ref&gt; The [[City of London]] is home to the [[Bank of England]], [[London Stock Exchange]], and [[Lloyds of London]] [[insurance]] market. Along with [[professional services]], media companies are [[Media in London|concentrated in London]] and the media distribution industry is London's second most competitive sector.&lt;ref name=london_114&gt;{{Citation|url=http://www.cityoflondon.gov.uk/NR/rdonlyres/2CAE66FB-2DD5-41A5-B916-8FFC37276059/0/BC_RS_lpuk_0511_FR.pdf|format=PDF|title=London's Place in the UK Economy, 2005–6|month=November | year=2005|publisher=''Oxford Economic Forecasting'' on behalf of the Corporation of London|page=19|accessdate=2006-06-19}}&lt;/ref&gt; The [[British Broadcasting Corporation|BBC]] is a significant employer, while other broadcasters also have headquarters around the City. Many [[List of newspapers in the United Kingdom|national newspapers]] are edited in London.
+
+[[Tourism in London|Tourism is one of London]]'s prime industries and employs the equivalent of 350,000 full-time workers in London in 2003,&lt;ref name=london_117&gt;{{Citation|url=http://www.personneltoday.com/articles/2005/02/15/27958/london-is-the-hr-centre-of-opportunity-in-the-uk.html|title=London is the HR centre of opportunity in the UK|date=15 February 2005|publisher=PersonnelToday.com|accessdate=2006-06-03}}&lt;/ref&gt; while annual expenditure by tourists is around £15&amp;nbsp;billion.&lt;ref name=london_118&gt;&quot;{{Citation |url=http://www.visitlondon.com/uploads/8551importanceoflondon_2004jun.pdf |format=PDF|title= The Importance of Tourism in London |archiveurl=http://web.archive.org/web/20070628053808/http://www.visitlondon.com/uploads/8551importanceoflondon_2004jun.pdf |archivedate=2007-06-28}}&quot;, Visit London. Retrieved on 3 June 2006.&lt;/ref&gt; London attracts almost 15 million international visitors per year, making it the world's second most visited city&lt;ref&gt;{{Citation|url=http://www.visitlondonmediacentre.com/images/uploads/London_-_Key_Visitor_Statistics_2008_-_Media_Factsheet.pdf |title=Key Visitor Statistics 2008 – Media Factsheet |publisher= |date= |accessdate=2010-05-03}}&lt;/ref&gt; after Paris.&lt;ref&gt;{{Citation|url=http://en.parisinfo.com/uploads/9e//chiffres-cles-2009.pdf |title=CHIFFRES_CLEFS_2008.indd |format=PDF |date= |accessdate=2010-03-10}}&lt;/ref&gt; London attracts 27&amp;nbsp;million overnight-stay visitors every year.&lt;ref name=&quot;London 101&quot;&gt;&quot;{{PDFlink|{{Citation |url=http://corporate.visitlondon.com/ems/downloads/8112london101.pdf |format=PDF|title= London 101: One Hundred and One Amazing Facts About London |archiveurl=http://web.archive.org/web/20070628053808/http://corporate.visitlondon.com/ems/downloads/8112london101.pdf |archivedate=2007-06-28}}|1.15&amp;nbsp;[[Mebibyte|MiB]]&lt;!-- application/pdf, 1207545 bytes --&gt;}}&quot;, Visit London. Retrieved on 3 June 2006.&lt;/ref&gt; The [[Port of London]] is the second-largest in the United Kingdom, handling 53 million [[tonne]]s of cargo each year.&lt;ref name=london_120&gt;{{Citation|url=http://www.pla.co.uk/pdfs/pp/POLA_Reveiw_Final_design_C_11.pdf|format=PDF|title=Port of London Annual Review 2008|publisher=Port of London Authority|accessdate=2009-05-09}}&lt;/ref&gt;
+
+==Transport==
+{{Portal|London Transport}}
+{{Main|Transport in London}}
+[[File:Central line - Bethnal Green.ogg|thumb|right|200px|The [[London Underground]], oldest and largest metro system in the world,&lt;ref name=first1&gt;Wolmar 2004, p. 18.&lt;/ref&gt; known as The Tube, because of the shape of the tunnels|alt=Red train emerges from a circular brick tunnel opening. The tunnel appears only a little larger that the train and is shaped like a tube|alt=]]
+Transport is one of the four main areas of policy administered by the Mayor of London,&lt;ref name=london_121&gt;{{Citation|url=http://www.tfl.gov.uk/|title=Transport for London|publisher=Transport for London|accessdate=2008-04-27}}&lt;/ref&gt; however the mayor's financial control does not extend to the longer distance rail network that enters London. In 2007 he assumed responsibility for some local lines, which now form the [[London Overground]] network, adding to the existing responsibility for the London Underground, trams and buses. The [[public transport]] network is administered by [[Transport for London]] (TfL) and is one of the most extensive in the world. [[Cycling in London|Cycling]] is an increasingly popular way to get around London. The [[London Cycling Campaign]] lobbies for better provision.&lt;ref name=london_122&gt;{{Citation|url=http://www.lcc.org.uk/|title=London Cycling Campaign|date=20 November 2006|publisher=Rosanna Downes|accessdate=2008-04-27}}&lt;/ref&gt;
+
+The lines that formed the London Underground, as well as trams and buses, became part of an integrated transport system in 1933 when the [[London Passenger Transport Board]] (LPTB) or ''[[London Transport (brand)|London Transport]]'' was created. [[Transport for London]] (TfL), is now the statutory corporation responsible for most aspects of the transport system in Greater London, and is run by a board and a commissioner appointed by the [[Mayor of London]].&lt;ref name=stat_tfl&gt;{{Citation|url=http://www.london.gov.uk/help/faq.jsp#transport|title=How do I find out about transport in London? |publisher=Greater London Authority|accessdate=2008-06-05}}&lt;/ref&gt;
+
+===Railways===
+[[File:Eurostar at St Pancras Jan 2008.jpg|thumb|left|[[St Pancras railway station|St Pancras International]] is served by direct [[high speed train]]s to European destinations such as Paris|alt=Glass atrium entrance extends from a station building which extends out of sight to the left and right. The atrium is decorated with the words &quot;St Pancras&quot; on two visible sides near to the roof, which overhangs the building|alt=]]
+
+The [[London Underground]]&amp;nbsp;— all of which is now commonly referred to as the Tube, though originally this designation referred only to the deep-level lines, as distinct from the sub-surface lines&amp;nbsp;— is the oldest,&lt;ref name=&quot;Metro&quot;&gt;{{Citation |url=http://www.tfl.gov.uk/corporate/modesoftransport/londonunderground/1604.aspx |title=London Underground: History|author=Transport for London |accessdate=2008-06-06}}&lt;/ref&gt; and second longest&lt;ref name=&quot;railwaygazette.com&quot;/&gt; [[rapid transit|metro]] system in the world, dating from 1863. The system serves 270 [[metro station|stations]]&lt;ref name=&quot;facts&quot;&gt;{{Citation |title=Key facts |publisher=Transport for London |url=http://www.tfl.gov.uk/corporate/modesoftransport/londonunderground/1608.aspx |accessdate=2009-10-15}}&lt;/ref&gt; and was formed from several private companies, including the world's first underground electric line, the [[City and South London Railway]].&lt;ref name=&quot;UrbanRail&quot;&gt;{{Citation|url=http://de.oocities.com/u_london/london.htm|title=London Underground|last=Schwandl|first=Robert|year=2001|publisher=UrbanRail.net|accessdate=2006-09-24}}&lt;/ref&gt;
+
+Over three million journeys a day are made on the Underground network, over 1&amp;nbsp;billion journeys each year.&lt;ref name=london_123&gt;{{Citation|url=http://www.tfl.gov.uk/corporate/media/newscentre/archive/4770.aspx|title=Tube carries one billion passengers for first time|date=28 March 2008|publisher=Transport for London|accessdate=2008-11-03}}&lt;/ref&gt;&lt;ref name=london_124&gt;[http://www.tfl.gov.uk/corporate/media/newscentre/archive/7103.aspx] Tube breaks record for passenger numbers&lt;/ref&gt; An investment programme is attempting to address congestion and reliability problems, including £7&amp;nbsp;billion (€10&amp;nbsp;billion) of improvements planned for the [[2012 Summer Olympics|Olympics]].&lt;ref name=&quot;Olympic Infrastructure&quot;&gt;{{Citation|url=http://www.alarm-uk.org/pdf/Janet%20Goodland.pdf|format=PDF|title=London 2012 Olympic Transport Infrastructure.|publisher=Alarm UK|accessdate=2008-06-06}}&lt;/ref&gt; London has been commended as the city with the best public transport.&lt;ref name=london_126&gt;{{Citation |url=http://news.bbc.co.uk/2/hi/uk_news/england/london/5294790.stm |work=BBC News Online| location = London |accessdate=&lt;!---2008-06-07---&gt; |title=London voted best for transport |date=29 August 2006}}&lt;/ref&gt; The [[Docklands Light Railway]], which opened in 1987, is a second, more local metro system using smaller and lighter tram-type vehicles serving [[London Docklands|Docklands]] and [[Greenwich]].
+
+There is an extensive above-ground suburban railway network, particularly in South London, which has fewer Underground lines. London houses Britain's busiest station – [[Waterloo station|Waterloo]] with over 184 millon people using the interchange station complex (which includes [[London Waterloo East railway station|Waterloo East]] station) each year. The stations have services to South East &amp; South West London, and also parts of [[South East England|South East]] and [[South West England]].&lt;ref name=&quot;National Rail Station Usage&quot;&gt;{{Citation|url=http://www.rail-reg.gov.uk/server/show/nav.1529|title=Rail Station Usage|publisher=Office of Rail Regulation|accessdate=2009-10-24}}&lt;/ref&gt;&lt;ref name=&quot;Tube exits&quot;&gt;{{Citation|url=http://www.tfl.gov.uk/tfl/corporate/modesoftransport/tube/performance/default.asp?onload=entryexit|title=Tube exits|publisher=Tfl|accessdate=2009-10-24}}&lt;/ref&gt; Most rail lines terminate around the centre of London, running into [[London railway station|fourteen terminal stations]] with the exception of the [[Thameslink]] trains connecting [[Bedford]] in the north and [[Brighton]] in the south via [[Luton Airport|Luton]] and [[London Gatwick Airport|Gatwick]] Airports.&lt;ref name=london_127&gt;{{Citation|url=http://www.firstcapitalconnect.co.uk/Main.php?sEvent=HomePage|title=First Capital Connect|publisher=First Capital Connect ltd|accessdate=2008-04-27}}&lt;/ref&gt;
+
+Since 2007 High-speed [[Eurostar]] trains link [[St Pancras railway station|St Pancras International]] with [[Lille]], Paris, and [[Brussels]]. Journey times to Paris and Brussels of 2h 15 and 1h 51 respectively make London closer to continental Europe than the rest of Britain by virtue of the [[High Speed 1]] rail link to the [[Channel Tunnel]]&lt;ref name=london_128&gt;{{Citation|url=http://www.eurostar.com/dynamic/index.jsp;ERSPRDSession=LJqZB7nyKlW9lVLvZzK534LvMjL519fPDS4R0QGn51CprylVmjH8!685848002 |title=Eurostar |publisher=Eurostar|accessdate=2008-06-06}}&lt;/ref&gt; while the first [[Southeastern (train operating company)|high speed domestic]] trains started in June 2009 linking [[Kent]] to London.&lt;ref name=&quot;Southeastern Highspeed&quot;&gt;{{Citation|url=http://www.southeasternrailway.co.uk/index.php/highspeed|title=Southeastern Highspeed|publisher=Southeastern|accessdate=2009-10-24}}&lt;/ref&gt;
+
+===Buses and trams===
+[[File:Routemaster bus alongside new bus.jpg|thumb|right 250px|The red [[double-decker bus]] is an iconic symbol of London]]
+London's [[London buses|bus network]] is one of the largest in the world, running 24 hours a day, with 8,000 buses, 700 bus routes, and over 6 million passenger journeys made every weekday. In 2003, the network's ridership was estimated at over 1.5 billion passenger trips per annum, more than the Underground.&lt;ref name=london_130&gt;{{Citation |author=[[Transport for London]] |title=London Buses |url=http://www.tfl.gov.uk/corporate/modesoftransport/1548.aspx |publisher=[[Transport for London]] |accessdate=2008-06-06}}&lt;/ref&gt; Around £850 million is taken in revenue each year. London has the largest wheelchair accessible network in the world&lt;ref name=london_131&gt;{{Citation|url=http://www.tfl.gov.uk/corporate/media/newscentre/archive/3609.aspx|title=London's bus improvements get Parliamentary seal of approval|date=23 May 2006|publisher=Transport For London|accessdate=2008-10-28}}&lt;/ref&gt; and, from the 3rd quarter of 2007, became more accessible to hearing and visually impaired passengers as audio-visual announcements were introduced. The distinctive red double-decker buses are internationally recognised, and are a trademark of London transport along with [[Hackney carriage|black cabs]] and the Tube.&lt;ref name=london_132&gt;{{Citation|url=http://www.londonblackcabs.co.uk/|title=London Black Cabs|publisher=London Black Cabs|accessdate=2008-04-27}}&lt;/ref&gt;&lt;ref name=london_133&gt;{{Citation|url=http://www.tfl.gov.uk/modalpages/2625.aspx|title=Tube&amp;nbsp;— Transport for London|publisher=[[Transport for London]]|accessdate=2008-04-27}}&lt;/ref&gt;
+
+London has a modern tram network, known as [[Tramlink]], based in [[Croydon]] in [[South London]]. The network has 39 stops, three routes and carried 26.5 million people in 2008. Since June 2008 [[Transport for London]] has completely owned Tramlink and plans to spend £54m by 2015 on maintenance, renewals, upgrades and capacity enhancements. Since April 2009 all trams have been refurbished.&lt;ref name=london_134&gt;{{Citation|url=http://www.tfl.gov.uk/assets/downloads/tramlink-factsheet.pdf|date=Summer 2009|publisher=Transport for London|title=Tramlink Factsheet|accessdate=19 February 2010}}&lt;/ref&gt;
+
+===Air===
+[[File:Heathrow Terminal 5 - Passenger area.jpg|thumb|right|[[London Heathrow Airport]] is the [[World's busiest airport|busiest airport in the world]] for international traffic &lt;ref name=london_135&gt;{{Citation|url=http://www.heathrowairport.com/|title=BAA Heathrow: Official Website|publisher=BAA|accessdate=2008-04-27}}&lt;/ref&gt;|alt=]]
+London is a major international air transport hub with the largest city airspace in the world. Eight airports use the word ''London'' in their name, but most traffic passes through only five. [[London Heathrow Airport]], in [[London Borough of Hillingdon|Hillingdon]], West London, is the [[World's busiest airport|busiest airport in the world]] for international traffic, and is the major hub of the nation's flag carrier, [[British Airways]].&lt;ref name=london_135 /&gt; In March 2008 its fifth terminal was opened,&lt;ref name=london_137&gt;{{Citation|url=http://www.heathrow-airport-uk.info/heathrow-airport-terminal-5.htm|title=Heathrow Airport Terminal 5|publisher=TMC Ltd|accessdate=2008-04-27}}&lt;/ref&gt; and plans are already being considered for a sixth terminal&lt;ref name=london_138&gt;{{Citation|url=http://www.heathrowairport.com/portal/site/heathrow/menuitem.2ea84de4d9bc8a0ca4b12871120103a0/%3bjsessionid=DNAfOXj7g3r3fk1j9NlWANpydf0hhlQvi8LcmzuRluuyU0u2FTlo!-949195938|title=About Heathrow|publisher=BAA Heathrow|accessdate=2006-09-17}}&lt;/ref&gt;. Similar traffic, with the addition of some [[Low-cost carrier|low-cost]] [[short-haul]] flights, is also handled at [[London Gatwick Airport]], located south of London in [[West Sussex]].&lt;ref name=london_139&gt;{{Citation|url=http://www.gatwickairport.com/|title=BAA Gatwick: Gatwick Airport|publisher=BAA|accessdate=2008-04-27}}&lt;/ref&gt;
+
+[[London Stansted Airport|Stansted Airport]], situated north east of London in [[Essex]], is the main UK hub for [[Ryanair]] and [[London Luton Airport|Luton Airport]] to the north of London in [[Bedfordshire]], caters mostly for low-cost short-haul flights.&lt;ref name=london_140&gt;{{Citation|url=http://www.stanstedairport.com/|title=BAA Stansted : Stansted Airport|year=2008|publisher=BAA|accessdate=2008-04-27}}&lt;/ref&gt;&lt;ref name=london_141&gt;{{Citation|url=http://www.london-luton.co.uk/en/|title=London Luton Airport|publisher=London Luton Airport|accessdate=2008-04-27}}&lt;/ref&gt; [[London City Airport]], the smallest and most central airport, is focused on business travellers, with a mixture of full service short-haul scheduled flights and considerable [[business jet]] traffic.&lt;ref name=london_142&gt;{{Citation|url=http://www.londoncityairport.com/Default.aspx|title=London City Airport&amp;nbsp;— Corporate Information|publisher=London City Airport Ltd.|accessdate=2008-06-06}}&lt;/ref&gt;
+
+===Roads===
+[[File:Buses at Piccadilly Circus.jpg|thumb|right|200px|Traffic congestion in Central London]]
+Although the majority of journeys involving [[Central London]] are made by [[public transport]], car travel is common in the suburbs. The [[London Inner Ring Road|inner ring road]] (around the city centre), the [[A406 road|North]] and [[A205 road|South Circular]] roads (in the suburbs), and the outer orbital [[motorway]] (the [[M25 motorway|M25]], outside the built-up area) encircle the city and are intersected by a number of busy radial routes—but very few motorways penetrate into [[inner London]]. The M25 is the longest ring-road motorway in the world at {{convert|195.5|km|mi|abbr=on}} long.&lt;ref name=london_143&gt;{{Citation|url=http://www.bbc.co.uk/threecounties/travel/m25/m25_facts.shtml |title=Beds, Herts and Bucks Travel&amp;nbsp;— All you need to know about the M25 |publisher=BBC |date=1988-08-17 |accessdate=2010-02-20}}&lt;/ref&gt;
+
+A plan for a comprehensive network of motorways throughout the city (the [[London Ringways|Ringways Plan]]) was prepared in the 1960s but was mostly cancelled in the early 1970s. In 2003, a [[London congestion charge|congestion charge]] was introduced to reduce traffic volumes in the city centre. With a few exceptions, motorists are required to pay £8 per day to drive within a defined zone encompassing much of congested Central London.&lt;ref name=london_144&gt;{{Citation|url=http://www.tfl.gov.uk/tfl/roadusers/congestioncharge/whereandwhen/|title=Charging Zone | Transport for London | Where and when|publisher=Transport for London|accessdate=2008-06-07}}&lt;/ref&gt;&lt;ref name=london_145&gt;{{Citation|url=http://www.tfl.gov.uk/roadusers/congestioncharging/6741.aspx|title=Who pays what | Transport for London|publisher=Transport for London|accessdate=2008-06-07}}&lt;/ref&gt; Motorists who are residents of the defined zone can buy a vastly reduced season pass which is renewed monthly and is cheaper than a corresponding bus fare.&lt;ref name=london_146&gt;{{Citation|url=http://www.tfl.gov.uk/roadusers/congestioncharging/6735.aspx|title=Residents | Transport for London|publisher=Transport for London|accessdate=2008-06-07}}&lt;/ref&gt; London is notorious for its traffic congestion, with the M25 motorway the busiest stretch in the country. The average speed of a car in the rush hour is 10.6&amp;nbsp;mph.&lt;ref name=london_147&gt;{{Citation|accessdate=2009-09-01|url=http://www.guardian.co.uk/politics/2009/mar/16/boris-johnson-congestion-charge|title= Boris Johnson mulls 'intelligent' congestion charge system for London|publisher=The Guardian | first=Hélène | last=Mulholland | date=2009-03-16}}&lt;/ref&gt;
+
+==Education==
+{{Main|Education in London}}
+[[File:UCL Portico Building.jpg|thumb|[[University College London]] is part of the [[University of London]]|alt=]]
+Home to a range of universities, colleges and schools, London has a student population of about 378,000 and is a centre of [[research and development]]. Most primary and secondary schools in London follow the [[Education in England|same system as the rest of England]]—comprehensive schooling.
+With 125,000 students, the [[University of London]] is the largest contact teaching university in the United Kingdom and in Europe.&lt;ref name=london_148&gt;{{Citation|url=http://www.london.ac.uk/aboutus|title=About the University|date=2006-02-20|publisher=University of London|accessdate=2006-06-03}}&lt;/ref&gt; It comprises 20 colleges as well as several smaller institutes each with a high degree of autonomy.
+
+Constituent colleges have their own [[University and college admissions|admissions]] procedures, and are effectively universities in their own right, although most degrees are awarded by the University of London rather than the individual colleges. Its constituents include multi-disciplinary colleges such as [[Royal Holloway]], [[Birkbeck College|Birkbeck]], [[University College London|UCL]],&lt;ref name=london_149&gt;{{Citation|url=http://www.ucl.ac.uk/current-students/rights/jurisdiction/|title=UCL&amp;nbsp;— Jurisdiction over Students|date=7 November 2005|publisher=University College London|accessdate=2008-04-28}}{{Dead link|date=July 2009}}&lt;/ref&gt; [[King's College London|King's]], [[Goldsmiths, University of London|Goldsmiths]], [[Queen Mary, University of London|Queen Mary]],&lt;ref name=london_150&gt;{{Citation|url=http://www.londonexternal.ac.uk/prospective_students/undergraduate/holloway/history/academic.shtml|title=Academic leadership&amp;nbsp;— Royal Holloway|date=31 October 2007|publisher=University of London|accessdate=2008-04-28}}&lt;/ref&gt; and more specialised institutions such as the [[London School of Pharmacy]],&lt;ref name=london_224&gt;{{Citation|url=http://www.pharmacy.ac.uk/|title=The School of Pharmacy: home|date=4 January 2010|publisher=University of London|accessdate=2010-01-04}}&lt;/ref&gt; [[London School of Economics]],&lt;ref name=london_151&gt;{{Citation|url=http://www.lse.ac.uk/|title=London School of Economics and Political Science|publisher=[[London School of Economics]]|accessdate=2008-04-28}}&lt;/ref&gt; [[School of Oriental and African Studies|SOAS]],&lt;ref name=london_152&gt;{{Citation|url=http://www.soas.ac.uk/|title=The School of Oriental and African Studies|publisher=[[School of Oriental and African Studies]]|accessdate=2008-04-28}}&lt;/ref&gt; the [[Royal Academy of Music]], [[London School of Hygiene &amp; Tropical Medicine]],&lt;ref name=london_153&gt;{{Citation|url=http://www.qaa.ac.uk/reviews/reports/subjectlevel/q94_95_textonly.htm|title= Quality Assessment Report by the HEFCE for the Royal Academy of Music|publisher=[[Royal Academy of Music]]|accessdate=2008-04-28}}&lt;/ref&gt; the [[Courtauld Institute of Art]] and the [[Institute of Education]].&lt;ref name=london_154&gt;{{Citation|url=http://ioewebserver.ioe.ac.uk/ioe/index.html|title=Institute of Education&amp;nbsp;— University of London|publisher=[[Institute of Education]]|accessdate=2008-04-28}}&lt;/ref&gt;
+
+[[University College London]] and [[Imperial College London]] have been ranked among the top ten universities in the world by ''[[Times Higher Education]]'': in 2009 [[University College London|UCL]] was ranked the 4th best and [[Imperial College London|Imperial]] the 5th best university in the world.&lt;ref name=london_155&gt;{{Citation|url=http://www.timesonline.co.uk/tol/news/uk/education/article4910798.ece|title=Why University top 200 in full|publisher=Times Online|accessdate=2009-11-30 | location=London | date=2008-10-09}}&lt;!-- reconfirmed on 2009-11-30, former accessdate=2008-09-10 --&gt;&lt;/ref&gt;
+In addition, the [[London School of Economics]] has been described as the world‘s leading social science institution for teaching and research, and has the most international student body of any university in the world today.&lt;ref name=london_156&gt;{{Citation |url=http://www.timesonline.co.uk/tol/life_and_style/education/sunday_times_university_guide/article2496158.ece |title=The Sunday Times Good University Guide 2007 – Profile for London School of Economics|publisher=Times Online|accessdate=2008-06-06 | date=2007-09-23}}&lt;/ref&gt;
+[[File:Brunel university entrance.jpg|thumb|[[Brunel University]] is one of the many universities in London|alt=]]
+A number of colleges are dedicated to the fine arts, including the [[Royal College of Music]], [[Royal College of Art]], and [[Guildhall School of Music and Drama]]. London's other universities, such as [[Brunel University]], [[City University, London|City University]], [[London Metropolitan University]], [[Middlesex University]], [[University of East London]], [[University of the Arts London]], [[University of Westminster]], [[Kingston University]] and [[London South Bank University]] are not part of the University of London but are still leaders in their field and popular choices among students both nationally and internationally. Some were [[Institute of technology|polytechnics]] until they were granted university status in [[Further and Higher Education Act, 1992|1992]], and others which were founded much earlier. Imperial College London left the federal University of London in 2007.
+
+Since the merger of [[University of North London]] and [[London Guildhall University]] in 2003, [[London Metropolitan University]] is the largest unitary university in the capital, with over 34,000 students from 155 countries.&lt;ref name=london_157&gt;[http://www.londonmet.ac.uk/library/o90402_3.pdf About London Met] London Metropolitan University, August 2008&lt;/ref&gt; London is also known globally for its business education, harbouring several top-rated business schools: [[London Business School]], [[Cass Business School]] and [[Imperial College Business School]].&lt;ref name=london_158&gt;{{Citation|url=http://rankings.ft.com/businessschoolrankings/global-mba-rankings|title=Global MBA Rankings 2009|publisher= Financial Times|accessdate=2009-12-01}}&lt;/ref&gt;  In addition there are three international universities: [[Schiller International University]], [[Richmond University]] and [[Regent's College]].
+
+==Culture==
+{{Main|Culture of London}}
+===Accent===
+The London accent long ago acquired the [[Cockney]] label, and was similar to many accents of the [[South East of England]], of which Cockney [[rhyming slang]] is a part. The accent of a 21st century 'Londoner' varies widely; what is becoming more and more common amongst the under 30s however is some fusion of Cockney, [[Received Pronunciation]], and a whole array of 'ethnic' accents, in particular Caribbean, which form an accent labelled [[Jafaican|Multicultural London English]] (MLE).&lt;ref name=&quot;MCLE&quot;&gt;{{Citation|url=http://www.independent.co.uk/news/uk/this-britain/jafaican-and-tikkiny-drown-out-the-east-ends-cockney-twang-473688.html|title=Jafaican and Tikkiny drown out the East End's Cockney twang|last=Brown|first=Jonathan|date=2006-04-11|work=The Independent|accessdate=2008-08-22 | location=London}}&lt;/ref&gt;
+
+===Leisure and entertainment===
+{{Main|List of annual events in London|West End theatre}}
+[[File:Queen's Theatre by Day.jpg|thumb|The Queen's Theatre in the [[West End theatre]] district|alt=]]
+Within the [[City of Westminster]], the entertainment district of the [[West End of London|West End]] has its focus around [[Leicester Square]], where London and world film [[premieres]] are held, and [[Piccadilly Circus]], with its giant electronic advertisements.&lt;ref name=london_160&gt;{{Citation|url=http://www.piccadillylights.co.uk/|title=Piccadilly Lights|publisher=Land Securities|accessdate=2008-11-03}}&lt;/ref&gt; London's [[Theatreland|theatre]] district is here, as are many cinemas, bars, clubs and restaurants, including the city's [[Chinatown, London|Chinatown]] district (in [[Soho]]), and just to the east is [[Royal Opera House|Covent Garden]], an area housing [[specialty shop|speciality shops]]. The United Kingdom's [[Royal Ballet]], [[English National Ballet]], [[Royal Opera, London|Royal Opera]] and [[English National Opera]] are based in London and perform at the [[Royal Opera House]], the [[London Coliseum]], [[Sadler's Wells Theatre]] and the [[Royal Albert Hall]] as well as touring the country.&lt;ref name=&quot;London's Concerts&quot;&gt;{{Citation|url=http://www.yourlondon.gov.uk/visiting/topic.jsp?topicid=6482&amp;search_title=Theatres+and+concert+halls|title=Theatres and concert halls.|publisher=Your London|accessdate=2008-06-06}}&lt;/ref&gt;
+
+[[Islington]]'s {{convert|1|mi|km}} long Upper Street, extending northwards from [[Angel, Islington|the Angel]], has more bars and restaurants than any other street in the UK.&lt;ref name=london_161&gt;{{Citation|title =2001: Public houses|publisher=[[British Broadcasting Corporation]]|url=http://www.bbc.co.uk/history/trail/local_history/city/street_03.shtml?publichouses|accessdate=2008-06-04 }}&lt;/ref&gt; Europe's busiest shopping area is [[Oxford Street]], a shopping street nearly {{convert|1|mi|km}} long—which makes it the longest shopping street in the UK and home to many shops and [[department store]]s including [[Selfridges]].&lt;ref name=london_162&gt;{{Citation| url=http://www.london.gov.uk/londoner/06sep/p7a.jsp| publisher=[[The Londoner]]| title=Oxford Street gets its own dedicated local police team| date=September 2006| accessdate=2007-06-19}}{{Dead link|date=July 2009}}&lt;/ref&gt; [[Knightsbridge]]—home to the [[Harrods]] [[department store]]—lies just to the southwest.
+
+London is home to designers [[Vivienne Westwood]], [[John Galliano|Galliano]], [[Stella McCartney]], [[Manolo Blahnik]], and [[Jimmy Choo]] among others; its renowned art and fashion schools make it an international centre of fashion alongside Paris, [[Milan]] and New York. London offers a great variety of cuisine as a result of its ethnically diverse population. Gastronomic centres include the [[Bangladesh]]i restaurants of [[Brick Lane]] and the [[Chinese food]] restaurants of [[Chinatown]].&lt;ref name=london_163&gt;{{Citation|url=http://www.chinatownlondon.org/|title=Chinatown&amp;nbsp;— Official website|publisher=Chinatown London|accessdate=2008-04-27}}&lt;/ref&gt;
+
+There are a variety of regular [[List of annual events in London|annual events]] in the city. The beginning of the year is celebrated with the relatively new [[New Year's Day Parade]], fireworks display at the [[London Eye]], and the world's second largest [[street party]], the [[Notting Hill Carnival]] is held during the late August [[Bank holiday]] each year. Traditional parades include November's [[Lord Mayor's Show]], a centuries-old event celebrating the annual appointment of a new [[Lord Mayor of the City of London]] with a procession along the streets of the City, and June's [[Trooping the Colour]], a formal military pageant performed by regiments of the [[Commonwealth of Nations|Commonwealth]] and [[British Army|British]] armies to celebrate the [[Queen's Official Birthday]].&lt;ref name=london_164&gt;{{Citation|url=http://www.royal.gov.uk/output/Page4820.asp|title=One Queen, Two Birthdays|publisher=Royal Government|accessdate=2008-09-27}}&lt;/ref&gt;
+
+===Literature, film and television===
+{{Main|London in fiction|London in film|List of films set in London|List of television shows set in London}}
+[[File:Dickens by Watkins detail.jpg|thumb|left|160px|[[Charles Dickens]] (1812–1870)]]
+London has been the setting for many works of literature. The literary centres of London have traditionally been hilly [[Hampstead]] and (since the early 20th century) [[Bloomsbury]]. Writers closely associated with the city are the diarist [[Samuel Pepys]], noted for his eyewitness account of the [[Great Fire of London|Great Fire]], [[Charles Dickens]], whose representation of a foggy, snowy, grimy London of street sweepers and pickpockets has been a major influence on people's vision of early [[Victorian era|Victorian]] London, and [[Virginia Woolf]], regarded as one of the foremost [[modernist literature|modernist]] literary figures of the 20th century.&lt;ref name=&quot;London in Literature&quot;&gt;{{Citation|url=http://www.brynmawr.edu/library/speccoll/guides/london/londoninliterature.shtml|title=London in Literature,|publisher=Bryn Mawr College|accessdate=2008-06-06}}&lt;/ref&gt;
+
+[[William Shakespeare]] spent a large part of his life living and working in London; his contemporary [[Ben Jonson]] was also based there, and some of his work—most notably his play [[The Alchemist (play)|''The Alchemist'']]—was set in the city.&lt;ref name=&quot;London in Literature&quot; /&gt; ''[[A Journal of the Plague Year]]'' (1722) by [[Daniel Defoe]] is a fictionalisation of the events of the 1665 [[Great Plague of London|Great Plague]].&lt;ref name=&quot;London in Literature&quot; /&gt;  Later important depictions of London from the 19th and early 20th centuries are Dickens' novels, and [[Arthur Conan Doyle]]'s [[Sherlock Holmes]] stories.&lt;ref name=&quot;London in Literature&quot; /&gt; Modern writers pervasively influenced by the city include [[Peter Ackroyd]], author of a &quot;biography&quot; of London, and [[Iain Sinclair]], who writes in the genre of [[psychogeography]].
+
+London was the setting for the films ''[[Oliver Twist (1948 film)|Oliver Twist]]'' (1948), ''[[Peter Pan (1953 film)|Peter Pan]]'' (1953), ''[[The Ladykillers]]'' (1955), ''[[101 Dalmatians (1996 film)|The 101 Dalmatians]]'' (1961), ''[[Mary Poppins (film)|Mary Poppins]]'' (1964), ''[[Blowup]]'' (1966), ''[[The Long Good Friday]]'' (1980), ''[[Secrets &amp; Lies (film)|Secrets &amp; Lies]]'' (1996), ''[[Notting Hill (film)|Notting Hill]]'' (1999), ''[[Match Point]]'' (2005), ''[[V For Vendetta (film)|V For Vendetta]]'' (2005) and ''[[Sweeney Todd: The Demon Barber Of Fleet Street]]'' (2008). The television [[soap opera]] ''[[EastEnders]]'', first broadcast in 1985, is also set in the city. London has played a significant role in the film industry, and has major studios at [[Ealing Studios|Ealing]] and a [[special effect]]s and [[post-production]] community centred in [[Soho]]. [[Working Title Films]] has its headquarters in London.&lt;ref name=london_165&gt;{{Citation|url=http://www.workingtitlefilms.com/|title=Working Title Films|publisher=Universal Studios|accessdate=2008-04-27}}&lt;/ref&gt;
+
+===Museums and art galleries===
+{{Main|List of museums in London}}
+[[File:Natural History Museum London Jan 2006.jpg|thumb|right|The [[Natural History Museum]].]]
+London is [[List of museums in London|home to many museums]], galleries, and other institutions, many of which are free of admission charges and are major [[tourist attraction]]s as well as playing a research role. The first of these to be established was the [[British Museum]] in [[Bloomsbury]], in 1753. Originally containing antiquities, natural history specimens and the national library, the museum now has 7 million artefacts from around the globe. In 1824 the [[National Gallery]] was founded to house the British national collection of Western paintings; this now occupies a prominent position in [[Trafalgar Square]]. In the latter half of the nineteenth century the locale of [[South Kensington]] was developed as &quot;[[Albertopolis]]&quot;, a cultural and scientific quarter. Three major national museums are located there: the [[Victoria and Albert Museum]] (for the [[applied arts]]), the [[Natural History Museum]] and the [[London Science Museum|Science Museum]]. The national gallery of British art is at [[Tate Britain]], originally established as an annexe of the National Gallery in 1897. The Tate Gallery, as it was formerly known, also became a major centre for modern art; in 2000 this collection moved to [[Tate Modern]], a new gallery housed in the former [[Bankside Power Station]].
+
+===Music===
+London is one of the major [[Classical music|classical]] and [[popular music]] capitals of the world and is home to major music corporations, such as [[EMI]], as well as countless bands, musicians and industry professionals. London is home to many orchestras and concert halls such as the [[Barbican Arts Centre]] (principal base of the [[London Symphony Orchestra]]), [[Cadogan Hall]] ([[Royal Philharmonic Orchestra]]) and the [[Royal Albert Hall]] ([[BBC Promenade Concerts]]).&lt;ref name=&quot;London's Concerts&quot; /&gt; London's two main opera houses are the [[Royal Opera House]] and the [[Coliseum Theatre]].&lt;ref name=&quot;London's Concerts&quot; /&gt; London is home to the UK's largest [[pipe organ]], at the [[Royal Albert Hall]]. Other significant instruments are found at the cathedrals and major churches. Several [[conservatoire]]s are located within the city: [[Royal Academy of Music]], [[Royal College of Music]], [[Guildhall School of Music and Drama]] and [[Trinity College of Music]].
+[[File:BBC Proms 31.jpg|thumb|left|The [[Royal Albert Hall]] hosts concerts and musical events|alt=]]
+
+London has numerous venues for rock and pop concerts, including large arenas such as [[Earls Court Exhibition Centre|Earls Court]], [[Wembley Arena]] and the [[The O2 arena (London)|O&lt;sub&gt;2&lt;/sub&gt; Arena]], as well as numerous mid-size venues, such as [[Brixton Academy]], [[Hammersmith Apollo]] and the [[Shepherd's Bush Empire]].&lt;ref name=&quot;London's Concerts&quot; /&gt; London also hosts many [[music festivals]], including the [[O2 Wireless Festival]]. London is home to the first and original [[Hard Rock Cafe]] and the [[Abbey Road Studios]] where [[the Beatles]] recorded many of their hits. In the 1970s and 1980s, musicians like [[David Bowie]], [[Elvis Costello]], [[Cat Stevens]], [[Ian Dury|Ian Dury and the Blockheads]], [[the Kinks]], [[the Rolling Stones]], [[the Who]], [[Madness (band)|Madness]], [[the Jam]], [[the Small Faces]], [[Led Zeppelin]], [[Iron Maiden]], [[Fleetwood Mac]], [[the Police]], [[the Cure]], [[Squeeze (band)|Squeeze]] and [[Sade (band)|Sade]], took the world by storm, deriving their sound from the streets and rhythms vibrating through London.&lt;ref name=&quot;Top40&quot;&gt;{{Citation|url=http://www.bbc.co.uk/london/content/articles/2006/04/06/garycrowley_londontop40_feature.shtml|title=London's top 40 artists|date=2006-04-06|publisher=[[British Broadcasting Corporation]] London|accessdate=2008-09-09}}&lt;/ref&gt;
+
+London was instrumental in the development of [[punk music]],&lt;ref name=london_172&gt;{{Citation|url=http://allmusic.com/cg/amg.dll?p=amg&amp;sql=77:204|work=allmusic|title=Punk|accessdate=19 February 2010}}&lt;/ref&gt; with figures such as the [[Sex Pistols]], [[the Clash]],&lt;ref name=&quot;Top40&quot;/&gt; and [[Vivienne Westwood]] all based in the city. More recent artists to emerge from the London music scene include [[Bananarama]], [[Bush (band)|Bush]], [[East 17]], [[Siouxie and the Banshees]], the [[Spice Girls]],  [[Jamiroquai]], [[the Libertines]], [[Babyshambles]], [[Bloc Party]], [[Coldplay]] and [[Amy Winehouse]].&lt;ref name=&quot;Scene&quot;&gt;{{Citation|url=http://www.londonbc.co.uk/history-of-music-in-london.html|title=History of music in London|publisher=The London Music Scene|accessdate=2009-08-02}}&lt;/ref&gt; London is also a centre for urban music. In particular the genres [[UK garage]], [[drum and bass]], [[dubstep]] and [[grime (music)|grime]] evolved in the city from the foreign genres of [[hip hop]] and [[reggae]], alongside local [[drum and bass]]. Black music station [[BBC 1Xtra]] was set up to support the rise of homegrown urban music both in London and the rest of the UK.
+
+In the 80's London was the main city in the new wave of British [[Heavy metal music|heavy metal]] era which made bands like [[Iron Maiden]] and [[Motörhead]] famous all around the world.
+
+==Sports==
+{{Main|Sport in London}}
+[[File:England mai 2007 040.jpg|thumb|[[Wembley Stadium]] is home to [[English football]] and is the world's most expensive stadium.&lt;ref name=&quot;Daily Mail&amp;nbsp;— stadium ready&quot;&gt;{{Citation | date=2007-03-09 | url=http://www.dailymail.co.uk/news/article-441182/Wembley-kick-Stadium-ready-England-play-game-fortnight.html | title=Wembley kick-off: Stadium is ready and England play first game in fortnight | work=[[Daily Mail]]|accessdate=2007-03-19}}&lt;/ref&gt;|alt=]]
+London has hosted the [[Summer Olympic Games|Summer Olympics]] twice, in [[1908 Summer Olympics|1908]] and [[1948 Summer Olympics|1948]].&lt;ref name=london_173&gt;{{Citation|url=http://www.olympic.org/uk/games/past/index_uk.asp?OLGT=1&amp;OLGY=1908|title=London 1908|publisher=International Olympic Committee|accessdate=2008-11-03}}&lt;/ref&gt;&lt;ref name=london_174&gt;{{Citation|url=http://www.olympic.org/uk/games/past/index_uk.asp?OLGT=1&amp;OLGY=1908|title=London 1948|publisher=International Olympic Committee|accessdate=2008-11-03}}&lt;/ref&gt; In July 2005 London was chosen to host the Olympic and [[2012 Summer Paralympics|Paralympic]] Games in [[2012 Summer Olympics|2012]], which will make it the first city in the world to host the Summer Olympics three times.&lt;ref name=IOC/&gt; London was also the host of the [[Commonwealth Games|British Empire Games]] in [[1934 British Empire Games|1934]].&lt;ref name=london_175&gt;{{Citation|url=http://www.thecgf.com/countries/intro.asp?loc=ENG|title=England&amp;nbsp;— Introduction|publisher=Commonwealth Games Federation|accessdate=2008-11-03}}&lt;/ref&gt; London's most popular sport is [[association football|football]] and it has thirteen [[The Football League|League]] football clubs, including five in the [[Premier League]]: [[Arsenal F.C.|Arsenal]], [[Chelsea F.C.|Chelsea]], [[Fulham F.C.|Fulham]], [[Tottenham Hotspur F.C.|Tottenham Hotspur]] and [[West Ham United F.C.|West Ham United]].&lt;ref name=london_176&gt;{{Citation|url=http://www.thefa.com/TheFA/ContactUs/Postings/2004/03/premier_league_contacts.htm|title=TheFA.com&amp;nbsp;— Premier League|date=17 January 2004|work=The FA.com|publisher=The Football Association|accessdate=2008-04-29}}{{Dead link|date=July 2009}}&lt;/ref&gt;
+
+London also has four [[rugby union]] teams in the [[Guinness Premiership]] ([[London Irish]], [[Saracens F.C.|Saracens]], [[London Wasps|Wasps]] and [[Harlequin F.C.|Harlequins]]), although only the Harlequins play in London (all the other three now play outside Greater London, although Saracens still play within the M25).&lt;ref name=london_177&gt;{{Citation|url=http://www.guinnesspremiership.com/10818_437.php|title=Guinness Premiership: Clubs|date=Premier Rugby|publisher=Guinness Premiership|accessdate=2008-04-29}}{{Dead link|date=July 2009}}&lt;/ref&gt; The other professional rugby union team in the city is [[RFU Championship|second division's]] club [[London Welsh]], that plays home matches in the city. The city has other very traditional rugby union clubs, famously [[London Scottish F.C.|London Scottish]], [[Richmond F.C.]], [[Rosslyn Park F.C.]] and [[Blackheath F.C.]].
+
+There are currently two professional [[rugby league]] clubs in London&amp;nbsp;– [[Harlequins Rugby League]] who play in the [[Super League|European Super League]] at [[The Stoop]] and the [[Championship One]] side the [[London Skolars]] (based in [[Wood Green]], [[London Borough of Haringey]]).
+
+From 1924, the original [[Wembley Stadium (1923)|Wembley Stadium]] was the home of the [[England national football team|English national football team]], and served as the venue for the [[FA Cup]] [[FA Cup Final|final]] as well as [[rugby league]]'s [[Challenge Cup]] final.&lt;ref name=london_178&gt;{{Citation|url=http://www.wembleystadium.com/GloriousPast/greatmoments/1steverwembleyFACupFinal.htm|title=Wembley Stadium History&amp;nbsp;— Official Website|publisher=Wembley National Stadium Limited.|accessdate=2008-04-29}}&lt;/ref&gt; The new [[Wembley Stadium]] serves exactly the same purposes and has a capacity of 90,000.&lt;ref name=&quot;Wembley Stadium Facts and Figures&quot;&gt;{{Citation | url=http://www.wembleystadium.com/pressbox/presspack/factsandFigures.htm | title=Wembley Stadium&amp;nbsp;— Presspack&amp;nbsp;— Facts and Figures | publisher=Wembley National Stadium Limited | accessdate=2008-06-06}}&lt;/ref&gt; [[Twickenham Stadium]] in south-west London is the national [[rugby union]] stadium, and has a capacity of 84,000 now that the new south stand has been completed.&lt;ref name=&quot;musiccap&quot;&gt;{{Citation | publisher=The Twickenham Rugby Stadium| title=RFU apply for two additional concerts at Twickenham Stadium in 2007|url=http://www.rfu.com/microsites/twickenham/index.cfm?StoryID=14822| accessdate= 2008-06-06}}&lt;/ref&gt;
+
+[[Cricket]] in London is served by two [[Test cricket]] grounds [[Lord's Cricket Ground|Lord's]] (home of [[Middlesex County Cricket Club|Middlesex C.C.C]]) in [[St John's Wood]]&lt;ref name=london_179&gt;{{Citation|url=http://www.lords.org/lords-ground/about-lords/|title=About Lord's—the home of cricket&amp;nbsp;— official website|year=2008|publisher=MCC |accessdate=2008-04-29}}&lt;/ref&gt; and [[the Oval]] (home of [[Surrey County Cricket Club|Surrey C.C.C]]) in [[Kennington]].&lt;ref name=london_180&gt;{{Citation|url=http://www.surreycricket.com/the-brit-oval|title=The Brit Oval&amp;nbsp;— Official Website|year=2008|publisher=Surrey CCC|accessdate=2008-04-29}}&lt;/ref&gt; Lord's has hosted four finals of the cricket world cups. One of London's best-known annual sports competitions is the [[The Championships, Wimbledon|Wimbledon Tennis Championships]], held at the [[All England Lawn Tennis and Croquet Club|All England Club]] in the south-western suburb of [[Wimbledon, London|Wimbledon]].&lt;ref name=london_181&gt;{{Citation|url=http://www.wimbledon.org/en_GB/index.html|title=Wimbledon&amp;nbsp;— official website|publisher=The All England Tennis and Croquet Club (AELTC)|accessdate=2008-04-29}}&lt;/ref&gt; Other key events are the annual mass-participation [[London Marathon]] which sees some 35,000 runners attempt a {{convert|26.2|mi|km}} course around the city,&lt;ref name=london_182&gt;{{Citation|url=http://www.london-marathon.co.uk/site/|title=Flora London Marathon 2008|publisher=London Marathon ltd|accessdate=2008-04-29}}&lt;/ref&gt; and the [[The Boat Race|Oxford and Cambridge Boat Race]] on the [[River Thames]] between [[Putney]] and [[Mortlake]].&lt;ref name=london_183&gt;{{Citation|url=http://www.theboatrace.org/|title=The Oxford and Cambridge Boat Race&amp;nbsp;— Official Website|publisher=The Oxford and Cambridge Boat Race|accessdate=2008-04-29}}&lt;/ref&gt;
+
+==Twin cities==
+{{Main|List of twin towns in the United Kingdom#London|l1=List of towns and cities twinned with London}}
+
+There are 46 other places on six continents named after London.&lt;ref name=london_184&gt;Jack Malvern. [http://www.timesonline.co.uk/tol/news/uk/article5409039.ece Richmond, in Surrey, is the most widely copied British place name worldwide], timesonline 2008-12-29. The original byline for the article in [[The Times]] of the same day was &quot;The 55 corners of foreign fields that will be for ever ... Richmond&quot; (page 9). Cites ''The Times Universal Atlas of the World''.&lt;/ref&gt; As well as London's twinning, the [[London borough]]s have [[town twinning|twinnings]] with parts of other cities across the world. Shown below is the list of cities that the [[Greater London Authority]] has twinning arrangements with:
+{{Div col|cols=3|small=yes}}
+*{{Flagicon|Peru}} '''[[Arequipa]]''', [[Peru]]
+*{{Flagicon|Germany}} '''[[Berlin]]''', [[Germany]]
+*{{Flagicon|India}} '''[[Delhi]]''', [[India]]&lt;ref name=&quot;Mayor of London&quot;&gt;{{Citation|url=http://legacy.london.gov.uk/view_press_release.jsp?releaseid=1329|title=Friendship agreement to be signed between London and Delhi|date=25-7-2002|publisher=Mayor of London|accessdate=23 February 2010}}&lt;/ref&gt;
+*{{Flagicon|Colombia}} '''[[Bogota]]''', [[Colombia]]
+*{{Flagicon|South Africa}} '''[[Johannesburg]]''', [[South Africa]]&lt;ref&gt;{{Citation|url=http://www.joburg.org.za/content/view/833/131/#ixzz0PU5ypfol|title=Twinning agreements|work=Making Joburg an entry point into Africa|publisher=City of Johannesburg|accessdate=28 August 2009}}&lt;/ref&gt;
+*{{Flagicon|Malaysia}} '''[[Kuala Lumpur]]''', [[Malaysia]]
+*{{Flagicon|Kuwait}} '''[[Kuwait City]]''', [[Kuwait]]
+*{{Flagicon|Russia}} '''[[Moscow]]''', [[Russia]]
+*{{Flagicon|United States}} '''[[New York City]]''', [[United States]]&lt;ref&gt;{{Citation|url=http://www.london.gov.uk/mayor/international/city_partnerships/docs/new_york_partnership_agreement.pdf|title=THE NEW YORK CITY-LONDON SISTER CITY PARTNERSHIP|last=Barfield|first=M|date=March 2001|format=PDF|publisher=Greater London Authority|accessdate=2009-10-26}}&lt;/ref&gt;
+*{{Flagicon|Norway}} '''[[Oslo]]''', [[Norway]]
+*{{Flagicon|China}} '''[[Shanghai]]''', [[China]]&lt;ref&gt;{{cite web|url=http://www.shfao.gov.cn/wsb/english/Sister_Cities/u1a14240.html |title=Shanghai Foreign Affairs |publisher=Shfao.gov.cn |date=2009-07-27 |accessdate=2010-05-23}}&lt;/ref&gt;
+{{Div col end}}
+The following cities have a friendship agreement with London:
+{{Div col|cols=3|small=yes}}
+*{{Flagicon|Algeria}} '''[[Algiers]]''', [[Algeria]]
+*{{Flagicon|Azerbaijan}} '''[[Baku]]''', [[Azerbaijan]]
+*{{Flagicon|China}} '''[[Beijing]]''', [[China]]&lt;ref&gt;{{cite web|url=http://www.gov.cn/misc/2006-04/10/content_250542.htm |title=Beijing, London establish sister city ties |publisher=Gov.cn |date=2006-04-10 |accessdate=2010-05-23}}&lt;/ref&gt;
+*{{Flagicon|Romania}} '''[[Bucharest]]''', [[Romania]]
+*{{Flagicon|Argentina}} '''[[Buenos Aires]]''', [[Argentina]]
+*{{Flagicon|India}} '''[[Delhi]]''', [[India]]&lt;ref name=&quot;Mayor of London&quot;/&gt;
+*{{Flagicon|Bangladesh}} '''[[Dhaka]]''', [[Bangladesh]]&lt;ref&gt;{{Citation|url=http://legacy.london.gov.uk/view_press_release.jsp?releaseid=1971|title=Mayors of London and Dhaka, Bangladesh sign friendship agreement|date=10-9-2003|publisher=Mayor of London|accessdate=23 February 2010}}&lt;/ref&gt;
+*{{Flagicon|Turkey}} '''[[Istanbul]]''', [[Turkey]]
+*{{Flagicon|United States}} '''[[Los Angeles]]''', [[United States]]&lt;ref&gt;{{Citation|url=http://sistercitiesofla.com/page1/page57/page57.html}}&lt;/ref&gt;
+*{{Flagicon|India}} '''[[Mumbai]]''', [[India]]
+*{{Flagicon|France}} '''[[Paris]]''', [[France]]&lt;ref&gt;{{cite web|url=http://www.paris.fr/portail/politiques/Portal.lut?page_id=6587&amp;document_type_id=5&amp;document_id=16468&amp;portlet_id=14974 |title=Les pactes d'amitié et de coopération |publisher=Paris.fr |date= |accessdate=2010-05-23}}&lt;/ref&gt;
+*{{Flagicon|Montenegro}} '''[[Podgorica]]''', [[Montenegro]]
+*{{Flagicon|Italy}} '''[[Rome]]''', [[Italy]]
+*{{Flagicon|Bulgaria}} '''[[Sofia]]''', [[Bulgaria]]
+*{{Flagicon|Iran}} '''[[Tehran]]''', [[Iran]]
+*{{Flagicon|Japan}} '''[[Tokyo]]''', [[Japan]]
+*{{Flagicon|Croatia}} '''[[Zagreb]]''', [[Croatia]]
+{{Div col end}}
+
+{{Portal|London}}
+
+==Notes==
+&lt;references group=&quot;note&quot; /&gt;
+
+==References==
+===Footnotes===
+{{Reflist|colwidth=30em}}
+
+===Bibliography===
+{{Refbegin}}
+* {{citation | last=Ackroyd | first=Peter | title=London: The Biography | publisher=Vintage | location=London | year=2001 | isbn=0099422581 | page=880 }}
+* {{citation | last=Aubin | first=Robert Arnold | title=London in flames, London in glory: poems on the fire and rebuilding of London|publisher=Rutgers University Press on's Concerts&quot; /&gt; London's two muthor=Mayor of London | url=http://www.london.gov.uk/thelondonplan/docs/londonplan08.pdf | month=February | year= 2008 }}
+* {{citation | last=Miles | first=Barry | title= London Calling| publisher= Atlantic Books | year=2010 | isbn=9781842546139}}
+* {{citation | last=Mills | first=David | title=Dictionary of London Place Names | publisher=Oxford Paperbacks | year=2001 | isbn=978-0192801067 | oclc=45406491}}
+* {{citation | last=Noorthouk | first=J | year=1773 | url=http://www.british-history.ac.uk/source.aspx?pubid=332 | title=A New History of London | publisher=Centre for Metropolitan History }}
+* Porter, Roy. ''History of London'' (1995), by a leading historian
+* {{citation | last=Reddaway | first=Thomas Fiddian| title=The Rebuilding of London After the Great Fire | publisher=Jonathan Cape | year=1940 }}
+* {{citation | last=Travers | first=Tony | title=The Politics of London | year=2004 | publisher=Palgrave | isbn=1861341725}}
+{{Refend}}
+
+==External links==
+{{Sisterlinks}}
+*[http://www.london.gov.uk/ www.london.gov.uk]&amp;nbsp;– Official site for the government of London by the Greater London Authority covering the Office of Mayor of London and the London Assembly
+*[http://www.britishpathe.com/workspace.php?id=2449&amp;delete_record=75105/ British Pathé] Digitalised archive containing hundreds of films of 20th century London
+*[http://www.british-history.ac.uk/place.aspx?region=1 London] in ''British History Online'', with links to numerous authoritative online sources
+*[http://www.visitlondon.com/ VisitLondon.com]&amp;nbsp;– Official London site
+*[http://www.LondonTown.com/ LondonTown.com]&amp;nbsp;– London Information site
+*[http://www.visitbritain.co.uk/destinations/england/london/index.aspx/- Visit Britain]&amp;nbsp;– Official Visit Britain website
+*[http://www.bbc.co.uk/london/ BBC London]
+*{{Wikitravel}}
+*[http://www.statistics.gov.uk/focuson/london/ Office for National Statistics: Focus on London 2007]&amp;nbsp;– compendium of official statistics
+*[http://mapoflondon.uvic.ca/ Map of Early Modern London]&amp;nbsp;– Historical Map and Encyclopaedia of Shakespeare's London (Scholarly)
+*[http://www.museumoflondon.org.uk/ Museum of London Group Portal – Home]
+*[http://www.tfl.gov.uk/ Transport for London] (TfL)&amp;nbsp;– city transport authority
+*{{dmoz|Regional/Europe/United_Kingdom/England/London}}
+*[http://www.britannia.com/history/londonhistory/ History of London]&amp;nbsp;– The history of London over centuries.
+*[http://www.poetryatlas.com/search/london.html Poems about London at Poetry Atlas]
+*{{Wikitravel}}
+*{{Wikisource1911Enc Citation|London}}
+
+{{Template group
+|title = Articles Related to London
+|list  =
+{{London|state=uncollapsed}}
+{{Template group
+|title = [[File:Gnome-globe.svg|25px]]{{nbsp}}Geographic locale
+|list  =
+'''[[Geographic coordinate system|Lat. &lt;small&gt;and&lt;/small&gt; Long.]] {{Coord|51|30|29|N|0|7|29|W|display=inline}}'''
+}}
+{{London Districts}}
+{{London history}}
+{{Template group
+|title =London in the European Union
+|list  =
+{{Capital cities of the European Union}}
+{{LargestUKCities}}
+{{List of European capitals by region}}
+}}
+{{London transport|state=collapsed}}
+{{London commuter belt}}
+{{List of British Territories capitals}}
+{{World's most populated urban areas}}
+{{Olympic Summer Games Host Cities}}
+{{Paralympic Summer Games Host Cities}}
+{{Host cities of the Eurovision Song Contest}}
+{{Commonwealth Games Host Cities}}
+{{WWII city bombing}}
+{{Hanseatic League}}
+}}
+{{Good article}}
+
+[[Category:London| ]]
+[[Category:Populated places established in the 1st century]]
+[[Category:British capitals]]
+[[Category:Capitals in Europe]]
+[[Category:Host cities of the Commonwealth Games]]
+[[Category:Host cities of the Summer Olympic Games]]
+[[Category:Port cities and towns in the United Kingdom]]
+[[Category:Articles including recorded pronunciations (UK English)]]
+[[Category:Staple ports]]
+
+{{Link GA|da}}
+{{Link GA|de}}
+{{Link GA|no}}
+
+{{Link FA|eu}}
+{{Link FA|hr}}
+{{Link FA|nn}}
+
+[[ace:London]]
+[[af:Londen]]
+[[als:London]]
+[[am:ለንደን]]
+[[ang:Lunden]]
+[[ab:Лондан]]
+[[ar:لندن]]
+[[an:Londres]]
+[[arc:ܠܘܢܕܘܢ]]
+[[roa-rup:Londra]]
+[[frp:Londres]]
+[[ast:Londres]]
+[[az:London]]
+[[bn:লন্ডন]]
+[[zh-min-nan:London]]
+[[ba:Лондон]]
+[[be:Горад Лондан]]
+[[be-x-old:Лёндан]]
+[[bcl:Londres]]
+[[bi:London]]
+[[bar:London]]
+[[bo:ལོན་ཊོན།]]
+[[bs:London]]
+[[br:Londrez]]
+[[bg:Лондон]]
+[[ca:Londres]]
+[[cv:Лондон]]
+[[ceb:London]]
+[[cs:Londýn]]
+[[cbk-zam:London]]
+[[co:Londra]]
+[[cy:Llundain]]
+[[da:London]]
+[[pdc:London]]
+[[de:London]]
+[[dsb:London]]
+[[et:London]]
+[[el:Λονδίνο]]
+[[es:Londres]]
+[[eo:Londono]]
+[[ext:Londri]]
+[[eu:Londres]]
+[[fa:لندن]]
+[[hif:London]]
+[[fo:London]]
+[[fr:Londres]]
+[[fy:Londen]]
+[[ga:Londain]]
+[[gv:Lunnin]]
+[[gd:Lunnainn]]
+[[gl:Londres - London]]
+[[gan:倫敦]]
+[[gu:લંડન]]
+[[ko:런던]]
+[[haw:Lākana]]
+[[hy:Լոնդոն]]
+[[hi:लंदन]]
+[[hsb:London]]
+[[hr:London]]
+[[io:London]]
+[[ig:London]]
+[[id:London]]
+[[ia:London]]
+[[ie:London]]
+[[os:Лондон]]
+[[is:London]]
+[[it:Londra]]
+[[he:לונדון]]
+[[jv:London]]
+[[kl:London]]
+[[kn:ಲಂಡನ್]]
+[[krc:Лондон]]
+[[ka:ლონდონი]]
+[[kw:Loundres]]
+[[sw:London]]
+[[kv:Лондон]]
+[[ht:Lonn]]
+[[ku:London]]
+[[lad:Londra]]
+[[lbe:Лондон]]
+[[la:Londinium]]
+[[lv:Londona]]
+[[lb:London]]
+[[lt:Londonas]]
+[[lij:Londra]]
+[[li:Londe]]
+[[ln:Londoni]]
+[[jbo:london]]
+[[lmo:Lundra]]
+[[hu:London]]
+[[mk:Лондон]]
+[[mg:London]]
+[[ml:ലണ്ടൻ]]
+[[mt:Londra]]
+[[mr:लंडन]]
+[[arz:لندن]]
+[[ms:London]]
+[[mwl:Londres]]
+[[mn:Лондон]]
+[[my:လန်ဒန်မြို့]]
+[[nah:Londin]]
+[[fj:London]]
+[[nl:Londen]]
+[[nds-nl:Londen]]
+[[ne:लण्डन]]
+[[new:लण्डन]]
+[[ja:ロンドン]]
+[[nap:Londra]]
+[[no:London]]
+[[nn:London]]
+[[nrm:Londres]]
+[[nov:London]]
+[[oc:Londres]]
+[[mhr:Лондон]]
+[[uz:London]]
+[[pnb:لندن]]
+[[pms:Londra]]
+[[tpi:Landen]]
+[[nds:London]]
+[[pl:Londyn]]
+[[pt:Londres]]
+[[crh:London]]
+[[ro:Londra]]
+[[rm:Londra]]
+[[qu:London]]
+[[ru:Лондон]]
+[[sah:Лондон]]
+[[se:London]]
+[[sc:Londra]]
+[[sco:Lunnon]]
+[[stq:London]]
+[[sq:Londra]]
+[[scn:Londra]]
+[[simple:London]]
+[[sk:Londýn]]
+[[cu:Лондонъ]]
+[[sl:London]]
+[[szl:Lůndůn]]
+[[so:London]]
+[[sr:Лондон]]
+[[sh:London]]
+[[fi:Lontoo]]
+[[sv:London]]
+[[tl:Londres]]
+[[ta:இலண்டன்]]
+[[kab:London]]
+[[tt:Лондон]]
+[[te:లండన్]]
+[[tet:Londres]]
+[[th:ลอนดอน]]
+[[tg:Лондон]]
+[[tr:Londra]]
+[[uk:Лондон]]
+[[ur:لندن]]
+[[ug:London]]
+[[vec:Łondra]]
+[[vi:Luân Đôn]]
+[[vo:London]]
+[[fiu-vro:London]]
+[[zh-classical:倫敦]]
+[[vls:Londn]]
+[[war:London]]
+[[wo:Londar]]
+[[wuu:伦敦]]
+[[yi:לאנדאן]]
+[[yo:Lọndọnu]]
+[[zh-yue:倫敦]]
+[[diq:Londra]]
+[[bat-smg:Luonduons]]
+[[zh:伦敦]]</text>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,1088 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.4/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.4/ http://www.mediawiki.org/xml/export-0.4.xsd" version="0.4" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.16wmf4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>New York</title>
+    <id>8210131</id>
+    <revision>
+      <id>369494162</id>
+      <timestamp>2010-06-22T04:56:06Z</timestamp>
+      <contributor>
+        <username>Highvale</username>
+        <id>12498194</id>
+      </contributor>
+      <comment>/* Geography */ Copy edit</comment>
+      <text xml:space="preserve">{{Redirect|NY}}
+{{two other uses|the U.S. state of New York|the city|New York City}}
+{{sprotect2}}
+{{Infobox U.S. state
+|Fullname        = State of New York
+|Name            = New York
+|Flag            = Flag of New York.svg
+|Seal            = Seal of New York.svg
+|Nickname        = The Empire State
+|Motto           = [[Seal of New York|Excelsior]] ([[Latin]])&lt;ref&gt;{{cite web|title=New York State Motto|publisher=New York State Library|date=2001-01-29|url=http://www.nysl.nysed.gov/emblems/motto.htm|accessdate = 2007-11-16|archiveurl = http://web.archive.org/web/20070608031632/http%3A//www.nysl.nysed.gov/emblems/motto.htm |archivedate = June 08, 2007|deadurl=yes}}&lt;/ref&gt;&lt;br /&gt;Ever upward
+|Demonym         = New Yorker
+|OfficialLang    = None
+|Map             = Map_of_USA_NY.svg
+|Capital         = [[Albany, New York|Albany]]
+|LargestCity     = [[New York City]]
+|LargestMetro    = [[New York metropolitan area]]
+|AreaRank        = 27&lt;sup&gt;th&lt;/sup&gt;
+|TotalAreaUS     = 54,555
+|TotalArea       = 141,299
+|WidthUS         = 285
+|Width           = 455
+|LengthUS        = 330
+|Length          = 530
+|PCWater         = 13.3
+|Latitude        = 40° 30′ N to 45° 1′ N
+|Longitude       = 71° 51′ W to 79° 46′ W
+|2000Pop         = 19,541,453 (2009 est.)&lt;ref name=09CenEst&gt;{{cite web | title = Annual Estimates of the Resident Population for the United States, Regions, States, and Puerto Rico: April 1, 2000 to July 1, 2009 | publisher = United States Census Bureau | accessdate = 2009-12-30 | url = http://www.census.gov/popest/states/tables/NST-EST2009-01.csv}}&lt;/ref&gt;&lt;br /&gt;18,976,457 (2000)
+|PopRank = 3&lt;sup&gt;rd&lt;/sup&gt;
+|2000DensityUS   = 408.7
+|2000Density     = 157.81
+|DensityRank     = 7&lt;sup&gt;th&lt;/sup&gt;
+|HighestPoint    = [[Mount Marcy]]&lt;ref name=usgs&gt;{{cite web |date=April 29, 2005 |url=http://erg.usgs.gov/isb/pubs/booklets/elvadist/elvadist.html#Highest |title=Elevations and Distances in the United States |publisher=U.S Geological Survey |accessdate=November 6, 2006}}&lt;/ref&gt;
+|HighestElevUS   = 5,344
+|HighestElev     = 1,629
+|MeanElevUS      = 1,000
+|MeanElev        = 305
+|LowestElevUS    = 0
+|LowestElev      = 0
+|AdmittanceDate  = July 26, 1788
+|AdmittanceOrder = 11&lt;sup&gt;th&lt;/sup&gt;
+|Governor        = [[David Paterson]] ([[Democratic Party (United States)|D]])
+|Lieutenant Governor = [[Richard Ravitch]] ([[Democratic Party (United States)|D]]) &lt;ref&gt;{{cite news| url=http://cityroom.blogs.nytimes.com/2009/09/22/court-upholds-patersons-appointment-of-lieutenant-governor/?hp | work=The New York Times | title=In 4-3 Vote, Court Says Paterson Can Appoint Lt. Governor | first1=Jeremy W. | last1=Peters | first2=Sewell | last2=Chan | date=September 22, 2009 | accessdate=May 20, 2010}}&lt;/ref&gt;
+|Legislature     = [[New York Legislature]]
+|Upperhouse      = [[New York State Senate|State Senate]]
+|Lowerhouse      = [[New York State Assembly|State Assembly]]
+|Senators        = [[Charles Schumer]] (D)&lt;br /&gt;[[Kirsten Gillibrand]] (D)
+|Representative  = 27 Democrats,&lt;br /&gt;2 Republicans
+|TimeZone        = [[Eastern Standard Time Zone|Eastern]]: [[Coordinated Universal Time|UTC]]-5/[[Daylight saving time|-4]]
+|PostalAbbreviation = NY
+|ISOCode            = US-NY
+|Website         = www.ny.gov
+}}
+
+'''New York''' ({{IPAc-en|n|juː|_|ˈ|j|ɔr|k}}; locally {{IPA2|nɪu&amp;nbsp;ˈjoək|}} or {{IPA2|nuː&amp;nbsp;ˈjɔrk||en-us-New York.ogg}}) is a [[U.S. state|state]] in the [[Mid-Atlantic States|Mid-Atlantic]] and [[Northeastern United States|Northeastern]] regions of the [[United States]] and is the nation's [[List of U.S. states by population|third most populous]]. The state is bordered by [[New Jersey]] and [[Pennsylvania]] to the south, and [[Connecticut]], [[Massachusetts]] and [[Vermont]] to the east. The state has a maritime border with [[Rhode Island]] east of [[Long Island]], as well as an [[Canada – United States border|international border]] with the [[Canada|Canadian]] provinces of [[Ontario]] to the west, and [[Quebec]] to the north. New York is often referred to as '''New York State''' to distinguish it from [[New York City]].
+
+New York City, which is geographically the largest city in the state and most populous in the United States, is known for its history as a [[Ellis Island|gateway for immigration]] to the United States and its status as a financial, cultural, transportation, and manufacturing center. According to the U.S. Department of Commerce, it is also a destination of choice for many foreign visitors. Both state and city were named for the 17th century [[Duke of York]], James Stuart, future [[James II of England|James II and VII]] of [[England]] and [[Scotland]].
+
+New York was inhabited by the [[Algonquin]], [[Iroquois]], and [[Lenape]] [[Native Americans in the United States|Native American]] groups at the time [[Dutch people|Dutch]] and [[French people|French]] nationals moved into the region in the early 17th century. First claimed by [[Henry Hudson]] in 1609, the region came to have Dutch [[fort]]s at [[Fort Orange]], near the site of the present-day [[Capital (political)|capital]] of [[Albany, New York|Albany]] in 1614. The Dutch colonized the Albany and [[Manhattan]] areas in 1624.  The [[Kingdom of Great Britain|British]] took over Manhattan and the colony by annexation in 1664.
+
+The borders of the British colony, the [[Province of New York]], were roughly similar to those of the present-day state. About one third of all of the battles of the [[American Revolutionary War|Revolutionary War]] took place in New York. New York became an independent state on July 9, 1776, and enacted its [[New York State Constitutions|constitution]] in 1777. The state ratified the [[United States Constitution]] on July 26, 1788 to become the 11th state.
+
+== Geography ==
+{{Main|Geography of New York}}
+
+{{multiple image
+ | align     = right
+ | direction = vertical
+ | image1    = New York Relief 1.jpg
+ | width1    = 200
+ | caption1  = New York [[terrain]].
+ | image2    = Hudsonmap.png
+ | width2    = 180
+ | caption2  = Map of the [[Hudson River|Hudson]] and [[Mohawk River|Mohawk]] rivers.
+}}
+
+New York covers {{convert|54556|mi2|km2|abbr=off}} and ranks as the 27th largest state by size.&lt;ref&gt;{{cite web |url=http://www.infoplease.com/ipa/A0108355.html |title=Land and Water Area of States (2000) |publisher=Infoplease.com |accessdate=2008-04-11}}&lt;/ref&gt; The [[Great Appalachian Valley]] dominates eastern New York, while [[Lake Champlain]] is the chief northern feature of the valley, which also includes the [[Hudson River]] flowing southward to the [[Atlantic Ocean]]. The rugged [[Adirondack Mountains]], with vast tracts of wilderness, lie west of the valley. 
+
+Most of the southern part of the state is on the [[Allegheny Plateau]], which rises from the southeast to the [[Catskill Mountains]]. The western section of the state is drained by the [[Allegheny River]] and rivers of the [[Susquehanna River|Susquehanna]] and [[Delaware River|Delaware]] systems. The Delaware River Basin Compact, signed in 1961 by New York, New Jersey, Pennsylvania, Delaware, and the federal government, regulates the utilization of water of the Delaware system. The highest elevation in New York is [[Mount Marcy]] in the Adirondacks.&lt;ref name=usgs/&gt;
+
+New York's borders touch (clockwise from the west) two Great Lakes ([[Lake Erie|Erie]] and [[Lake Ontario|Ontario]], which are connected by the [[Niagara River]]); the provinces of [[Ontario]] and [[Quebec]] in Canada; [[Lake Champlain]]; three [[New England]] states ([[Vermont]], [[Massachusetts]], and [[Connecticut]]); the [[Atlantic Ocean]], and two [[Mid-Atlantic States]], [[New Jersey]] and [[Pennsylvania]]. In addition, [[Rhode Island]] shares a water border with New York.
+
+In contrast with [[New York City]]'s urban atmosphere, the vast majority of the state is dominated by farms, forests, rivers, mountains, and lakes. New York's [[Adirondack Park]] is the largest state park in the United States. It is larger than the Yellowstone, Yosemite, Grand Canyon, Glacier and Olympic National Parks combined.&lt;ref&gt;[http://www.apa.state.ny.us/About_Park/index.html About the Adirondack Park], Adirondack Park Agency. Accessed July 1, 2009.&lt;/ref&gt; New York established the first state park in the United States at Niagara Falls in 1885. [[Niagara Falls]], on the Niagara River as it flows from Lake Erie to Lake Ontario, is a popular attraction. 
+
+The [[Hudson River]] begins with [[Lake Tear of the Clouds]] and flows south through the eastern part of the state without draining Lakes [[Lake George (New York)|George]] or [[Lake Champlain|Champlain]]. Lake George empties at its north end into Lake Champlain, whose northern end extends into Canada, where it drains into the [[Richelieu River|Richelieu]] and then the [[St. Lawrence River|St. Lawrence]] Rivers. Four of New York City's [[five boroughs]] are on the three islands at the mouth of the Hudson River: [[Manhattan Island]], [[Staten Island, New York|Staten Island]], and [[Brooklyn]] and [[Queens]] on [[Long Island, New York|Long Island]].
+
+[[Upstate New York|''Upstate'']] and [[Downstate New York|''downstate'']] are often used informally to distinguish New York City or its greater metropolitan area from the rest of New York state. The placement of a boundary between the two is a matter of great contention.&lt;ref&gt;{{cite book
+| title       = The Encyclopedia of New York State
+| chapter     =
+| pages       = 1619
+| isbn        = 0-8156-0808
+| year        = 2005
+| publisher   = [[Syracuse University Press]]
+| editor      = Eisenstadt, Peter}}&lt;/ref&gt;   Unofficial and loosely defined regions of Upstate New York include the [[Southern Tier]], which often includes the counties along the border with Pennsylvania.&lt;ref&gt;{{cite book
+| title       = The Encyclopedia of New York State
+| chapter     =
+| pages       = 1437
+| isbn        = 0-8156-0808
+| year        = 2005
+| publisher   = Syracuse University Press
+| editor      = Eisenstadt, Peter}}&lt;/ref&gt; and the [[North Country, New York|North Country]], which can mean anything from the strip along the Canadian border to everything north of the Mohawk River.&lt;ref&gt;{{cite book
+| title       = The Encyclopedia of New York State
+| chapter     =
+| pages       = 1119
+| isbn        = 0-8156-0808
+| year        = 2005
+| publisher   = Syracuse University Press
+| editor      = Eisenstadt, Peter}}&lt;/ref&gt;
+
+=== Climate ===
+{{Main|Climate of New York}}
+[[File:LakeEffectSnowBuffalo101206.gif|thumb|right|250px|[[Lake-effect snow]] is a major contributor to snowfall totals in western New York.]]
+In general, New York has a [[humid continental climate]], though under the [[Köppen climate classification]], New York City has a [[humid subtropical climate]].&lt;ref name=NYClimate&gt;{{cite web|url=http://nysc.eas.cornell.edu/climate_of_ny.html|title=Climate of New York|publisher=New York State Climate Office - Cornell University|accessdate=April 10, 2008}}&lt;/ref&gt; Weather in New York is heavily influenced by two continental air masses: a warm, humid one from the southwest and a cold, dry one from the northwest.
+
+The winters are long and cold in the Plateau Divisions of the state. In the majority of winter seasons, a temperature of {{convert|-13|F|C|0}} or lower can be expected in the northern highlands (Northern Plateau) and {{convert|5|F|C|0}} or colder in the southwestern and east-central highlands (Southern Plateau). The summer climate is cool in the Adirondacks, Catskills and higher elevations of the Southern Plateau.
+
+The New York City/Long Island area and lower portions of the [[Hudson Valley]] have rather warm summers by comparison, with some periods of high, uncomfortable humidity. The remainder of New York State enjoys pleasantly warm summers, marred by only occasional, brief intervals of sultry conditions. Summer daytime temperatures usually range from the upper 70s to mid 80s °F (25 to 30&amp;nbsp;°C), over much of the state.
+
+New York ranks 46th among the 50 states in the amount of [[greenhouse gas]]es generated per person. This efficiency is primarily due to the state's higher rate of [[Public transport|mass transit]] use.&lt;ref&gt;{{cite news|title=A Breath of Fresh New York Air|author=The New York Post|date=2007-06-03|url=http://www.nypost.com/seven/06032007/news/regionalnews/a_breath_of_fresh_n_y__air_regionalnews_.htm|accessdate=2007-06-06}} {{dead link| date=June 2010 | bot=DASHBot}}&lt;/ref&gt;
+
+&lt;blockquote&gt;&lt;center&gt;
+{| class=&quot;wikitable&quot; &quot;text-align:center;font-size:90%;&quot;|
+|+ '''Monthly Normal High and Low Temperatures For Various New York Cities'''&lt;ref&gt;{{cite web|url=http://www.ustravelweather.com/new-york/|title=Typical High and Low Temperatures For Various New York Cities|publisher=US Travel Weather
+|accessdate=March 24, 2010}}&lt;/ref&gt;
+|-
+|+ '''([[Fahrenheit]])'''
+|-
+! style=&quot;background: #F0F8FF; color: #000000&quot; height=&quot;17&quot; | City
+! style=&quot;background: #F0F8FF; color: #000000&quot; |
+! style=&quot;background: #F0F8FF; color:#000000;&quot; abbr=&quot;January&quot; | &amp;nbsp;Jan&amp;nbsp;
+! style=&quot;background: #F0F8FF; color:#000000;&quot; abbr=&quot;February&quot; | &amp;nbsp;Feb&amp;nbsp;
+! style=&quot;background: #F0F8FF; color:#000000;&quot; abbr=&quot;March&quot; | &amp;nbsp;Mar&amp;nbsp;
+! style=&quot;background: #F0F8FF; color:#000000;&quot; abbr=&quot;April&quot; |&amp;nbsp; Apr&amp;nbsp;
+! style=&quot;background: #F0F8FF; color:#000000;&quot; abbr=&quot;May&quot; | &amp;nbsp;May&amp;nbsp;
+! style=&quot;background: #F0F8FF; color:#000000;&quot; abbr=&quot;June&quot; | &amp;nbsp;Jun&amp;nbsp;
+! style=&quot;background: #F0F8FF; color:#000000;&quot; abbr=&quot;July&quot; | &amp;nbsp;Jul&amp;nbsp;
+! style=&quot;background: #F0F8FF; color:#000000;&quot; abbr=&quot;August&quot; | &amp;nbsp;Aug&amp;nbsp;
+! style=&quot;background: #F0F8FF; color:#000000;&quot; abbr=&quot;September&quot; | &amp;nbsp;Sep&amp;nbsp;
+! style=&quot;background: #F0F8FF; color:#000000;&quot; abbr=&quot;October&quot; | &amp;nbsp;Oct&amp;nbsp;
+! style=&quot;background: #F0F8FF; color:#000000;&quot; abbr=&quot;November&quot; | &amp;nbsp;Nov&amp;nbsp;
+! style=&quot;background: #F0F8FF; color:#000000;&quot; abbr=&quot;December&quot; | &amp;nbsp;Dec&amp;nbsp;
+|-
+! style=&quot;background: #F0F8FF; color:#000000;&quot; height=&quot;16;&quot; | [[Albany, New York|Albany]]
+! style=&quot;background: #F0F8FF; color: #000000&quot; |max&lt;br /&gt;min
+| style=&quot;text-align:center; background: #555FFF; color:#000000;&quot; | 31&lt;br /&gt;13
+| style=&quot;text-align:center; background: #555FFF; color:#000000;&quot; | 34&lt;br /&gt;16
+| style=&quot;text-align:center; background: #555FFF; color:#000000;&quot; | 44&lt;br /&gt;25
+| style=&quot;text-align:center; background: #555FFF; color:#000000;&quot; | 57&lt;br /&gt;36
+| style=&quot;text-align:center; background: #555FFF; color:#000000;&quot; | 70&lt;br /&gt;46
+| style=&quot;text-align:center; background: #555FFF; color:#000000;&quot; | 78&lt;br /&gt;55
+| style=&quot;text-align:center; background: #555FFF; color:#000000;&quot; | 82&lt;br /&gt;60
+| style=&quot;text-align:center; background: #555FFF; color:#000000;&quot; | 80&lt;br /&gt;58
+| style=&quot;text-align:center; background: #555FFF; color:#000000;&quot; | 71&lt;br /&gt;50
+| style=&quot;text-align:center; background: #555FFF; color:#000000;&quot; | 60&lt;br /&gt;39
+| style=&quot;text-align:center; background: #555FFF; color:#000000;&quot; | 48&lt;br /&gt;31
+| style=&quot;text-align:center; background: #555FFF; color:#000000;&quot; | 36&lt;br /&gt;20
+|-
+! style=&quot;background: #F0F8FF; color:#000000;&quot; height=&quot;16;&quot; | [[Binghamton, New York|Binghamton]]
+! style=&quot;background: #F0F8FF; color: #000000&quot; |max&lt;br /&gt;min
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; | 28&lt;br /&gt;15
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; | 31&lt;br /&gt;17
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; | 41&lt;br /&gt;25
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; | 53&lt;br /&gt;35
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; | 66&lt;br /&gt;46
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; | 73&lt;br /&gt;54
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; | 78&lt;br /&gt;59
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; | 76&lt;br /&gt;57
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; | 68&lt;br /&gt;50
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; | 57&lt;br /&gt;40
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; | 44&lt;br /&gt;31
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; | 33&lt;br /&gt;21
+|-
+! style=&quot;background: #F0F8FF; color:#000000;&quot; height=&quot;16;&quot; | [[Buffalo, New York|Buffalo]]
+! style=&quot;background: #F0F8FF; color: #000000&quot; |max&lt;br /&gt;min
+| style=&quot;text-align:center; background: #00FFFF; color:#000000;&quot; | 31&lt;br /&gt;18
+| style=&quot;text-align:center; background: #00FFFF; color:#000000;&quot; | 33&lt;br /&gt;19
+| style=&quot;text-align:center; background: #00FFFF; color:#000000;&quot; | 42&lt;br /&gt;26
+| style=&quot;text-align:center; background: #00FFFF; color:#000000;&quot; | 54&lt;br /&gt;36
+| style=&quot;text-align:center; background: #00FFFF; color:#000000;&quot; | 66&lt;br /&gt;48
+| style=&quot;text-align:center; background: #00FFFF; color:#000000;&quot; | 75&lt;br /&gt;57
+| style=&quot;text-align:center; background: #00FFFF; color:#000000;&quot; | 80&lt;br /&gt;62
+| style=&quot;text-align:center; background: #00FFFF; color:#000000;&quot; | 78&lt;br /&gt;60
+| style=&quot;text-align:center; background: #00FFFF; color:#000000;&quot; | 70&lt;br /&gt;53
+| style=&quot;text-align:center; background: #00FFFF; color:#000000;&quot; | 59&lt;br /&gt;43
+| style=&quot;text-align:center; background: #00FFFF; color:#000000;&quot; | 47&lt;br /&gt;34
+| style=&quot;text-align:center; background: #00FFFF; color:#000000;&quot; | 36&lt;br /&gt;24
+|-
+! style=&quot;background: #F0F8FF; color:#000000;&quot; height=&quot;16;&quot; | [[Long Beach, New York|Long Island]]
+! style=&quot;background: #F0F8FF; color: #000000&quot; |max&lt;br /&gt;min
+| style=&quot;text-align:center; background: #2A8000; color:#000000;&quot; | 39&lt;br /&gt;23
+| style=&quot;text-align:center; background: #2A8000; color:#000000;&quot; | 40&lt;br /&gt;24
+| style=&quot;text-align:center; background: #2A8000; color:#000000;&quot; | 48&lt;br /&gt;31
+| style=&quot;text-align:center; background: #2A8000; color:#000000;&quot; | 58&lt;br /&gt;40
+| style=&quot;text-align:center; background: #2A8000; color:#000000;&quot; | 69&lt;br /&gt;49
+| style=&quot;text-align:center; background: #2A8000; color:#000000;&quot; | 77&lt;br /&gt;60
+| style=&quot;text-align:center; background: #2A8000; color:#000000;&quot; | 83&lt;br /&gt;66
+| style=&quot;text-align:center; background: #2A8000; color:#000000;&quot; | 82&lt;br /&gt;64
+| style=&quot;text-align:center; background: #2A8000; color:#000000;&quot; | 75&lt;br /&gt;57
+| style=&quot;text-align:center; background: #2A8000; color:#000000;&quot; | 64&lt;br /&gt;45
+| style=&quot;text-align:center; background: #2A8000; color:#000000;&quot; | 54&lt;br /&gt;36
+| style=&quot;text-align:center; background: #2A8000; color:#000000;&quot; | 44&lt;br /&gt;28
+|-
+! style=&quot;background: #F0F8FF; color:#000000;&quot; height=&quot;16;&quot; | [[New York City]]
+! style=&quot;background: #F0F8FF; color: #000000&quot; |max&lt;br /&gt;min
+| style=&quot;text-align:center; background: #E34234; color:#000000;&quot; | 38&lt;br /&gt;26
+| style=&quot;text-align:center; background: #E34234; color:#000000;&quot; | 41&lt;br /&gt;28
+| style=&quot;text-align:center; background: #E34234; color:#000000;&quot; | 50&lt;br /&gt;35
+| style=&quot;text-align:center; background: #E34234; color:#000000;&quot; | 61&lt;br /&gt;44
+| style=&quot;text-align:center; background: #E34234; color:#000000;&quot; | 71&lt;br /&gt;54
+| style=&quot;text-align:center; background: #E34234; color:#000000;&quot; | 79&lt;br /&gt;63
+| style=&quot;text-align:center; background: #E34234; color:#000000;&quot; | 84&lt;br /&gt;69
+| style=&quot;text-align:center; background: #E34234; color:#000000;&quot; | 82&lt;br /&gt;68
+| style=&quot;text-align:center; background: #E34234; color:#000000;&quot; | 75&lt;br /&gt;60
+| style=&quot;text-align:center; background: #E34234; color:#000000;&quot; | 64&lt;br /&gt;50
+| style=&quot;text-align:center; background: #E34234; color:#000000;&quot; | 53&lt;br /&gt;41
+| style=&quot;text-align:center; background: #E34234; color:#000000;&quot; | 43&lt;br /&gt;32
+|-
+! style=&quot;background: #F0F8FF; color:#000000;&quot; height=&quot;16;&quot; | [[Rochester, New York|Rochester]]
+! style=&quot;background: #F0F8FF; color: #000000&quot; |max&lt;br /&gt;min
+| style=&quot;text-align:center; background: #BBB222; color:#000000;&quot; | 31&lt;br /&gt;17
+| style=&quot;text-align:center; background: #BBB222; color:#000000;&quot; | 33&lt;br /&gt;17
+| style=&quot;text-align:center; background: #BBB222; color:#000000;&quot; | 43&lt;br /&gt;25
+| style=&quot;text-align:center; background: #BBB222; color:#000000;&quot; | 55&lt;br /&gt;35
+| style=&quot;text-align:center; background: #BBB222; color:#000000;&quot; | 68&lt;br /&gt;46
+| style=&quot;text-align:center; background: #BBB222; color:#000000;&quot; | 77&lt;br /&gt;55
+| style=&quot;text-align:center; background: #BBB222; color:#000000;&quot; | 81&lt;br /&gt;60
+| style=&quot;text-align:center; background: #BBB222; color:#000000;&quot; | 79&lt;br /&gt;59
+| style=&quot;text-align:center; background: #BBB222; color:#000000;&quot; | 71&lt;br /&gt;51
+| style=&quot;text-align:center; background: #BBB222; color:#000000;&quot; | 60&lt;br /&gt;41
+| style=&quot;text-align:center; background: #BBB222; color:#000000;&quot; | 47&lt;br /&gt;33
+| style=&quot;text-align:center; background: #BBB222; color:#000000;&quot; | 36&lt;br /&gt;23
+|-
+! style=&quot;background: #F0F8FF; color:#000000;&quot; height=&quot;16;&quot; | [[Syracuse, New York|Syracuse]]
+! style=&quot;background: #F0F8FF; color: #000000&quot; |max&lt;br /&gt;min
+| style=&quot;text-align:center; background: #CD7F32; color:#000000;&quot; | 31&lt;br /&gt;14
+| style=&quot;text-align:center; background: #CD7F32; color:#000000;&quot; | 34&lt;br /&gt;16
+| style=&quot;text-align:center; background: #CD7F32; color:#000000;&quot; | 43&lt;br /&gt;24
+| style=&quot;text-align:center; background: #CD7F32; color:#000000;&quot; | 56&lt;br /&gt;35
+| style=&quot;text-align:center; background: #CD7F32; color:#000000;&quot; | 68&lt;br /&gt;46
+| style=&quot;text-align:center; background: #CD7F32; color:#000000;&quot; | 77&lt;br /&gt;55
+| style=&quot;text-align:center; background: #CD7F32; color:#000000;&quot; | 82&lt;br /&gt;60
+| style=&quot;text-align:center; background: #CD7F32; color:#000000;&quot; | 80&lt;br /&gt;59
+| style=&quot;text-align:center; background: #CD7F32; color:#000000;&quot; | 71&lt;br /&gt;51
+| style=&quot;text-align:center; background: #CD7F32; color:#000000;&quot; | 60&lt;br /&gt;40
+| style=&quot;text-align:center; background: #CD7F32; color:#000000;&quot; | 47&lt;br /&gt;32
+| style=&quot;text-align:center; background: #CD7F32; color:#000000;&quot; | 36&lt;br /&gt;21
+|}
+
+{| class=&quot;wikitable&quot; &quot;text-align:center;font-size:90%;&quot;|
+|+ '''Monthly Normal High and Low Temperatures For Various New York Cities'''
+|-
+|+ '''([[Celsius]])'''
+|-
+! style=&quot;background: #F0F8FF; color: #000000&quot; height=&quot;17&quot; | City
+! style=&quot;background: #F0F8FF; color: #000000&quot; |
+! style=&quot;background: #F0F8FF; color:#000000;&quot; abbr=&quot;January&quot; | &amp;nbsp;Jan&amp;nbsp;
+! style=&quot;background: #F0F8FF; color:#000000;&quot; abbr=&quot;February&quot; | &amp;nbsp;Feb&amp;nbsp;
+! style=&quot;background: #F0F8FF; color:#000000;&quot; abbr=&quot;March&quot; | &amp;nbsp;Mar&amp;nbsp;
+! style=&quot;background: #F0F8FF; color:#000000;&quot; abbr=&quot;April&quot; |&amp;nbsp; Apr&amp;nbsp;
+! style=&quot;background: #F0F8FF; color:#000000;&quot; abbr=&quot;May&quot; | &amp;nbsp;May&amp;nbsp;
+! style=&quot;background: #F0F8FF; color:#000000;&quot; abbr=&quot;June&quot; | &amp;nbsp;Jun&amp;nbsp;
+! style=&quot;background: #F0F8FF; color:#000000;&quot; abbr=&quot;July&quot; | &amp;nbsp;Jul&amp;nbsp;
+! style=&quot;background: #F0F8FF; color:#000000;&quot; abbr=&quot;August&quot; | &amp;nbsp;Aug&amp;nbsp;
+! style=&quot;background: #F0F8FF; color:#000000;&quot; abbr=&quot;September&quot; | &amp;nbsp;Sep&amp;nbsp;
+! style=&quot;background: #F0F8FF; color:#000000;&quot; abbr=&quot;October&quot; | &amp;nbsp;Oct&amp;nbsp;
+! style=&quot;background: #F0F8FF; color:#000000;&quot; abbr=&quot;November&quot; | &amp;nbsp;Nov&amp;nbsp;
+! style=&quot;background: #F0F8FF; color:#000000;&quot; abbr=&quot;December&quot; | &amp;nbsp;Dec&amp;nbsp;
+|-
+! style=&quot;background: #F0F8FF; color:#000000;&quot; height=&quot;16;&quot; | [[Albany, New York|Albany]]
+! style=&quot;background: #F0F8FF; color: #000000&quot; |max&lt;br /&gt;min
+| style=&quot;text-align:center; background: #555FFF; color:#000000;&quot; |{{convert| 31|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|13|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #555FFF; color:#000000;&quot; |{{convert| 34|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|16|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #555FFF; color:#000000;&quot; |{{convert| 44|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|25|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #555FFF; color:#000000;&quot; |{{convert| 57|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|36|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #555FFF; color:#000000;&quot; |{{convert| 70|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|46|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #555FFF; color:#000000;&quot; |{{convert| 78|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|55|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #555FFF; color:#000000;&quot; |{{convert| 82|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|60|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #555FFF; color:#000000;&quot; |{{convert| 80|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|58|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #555FFF; color:#000000;&quot; |{{convert| 71|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|50|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #555FFF; color:#000000;&quot; |{{convert| 60|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|39|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #555FFF; color:#000000;&quot; |{{convert| 48|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|31|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #555FFF; color:#000000;&quot; |{{convert| 36|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|20|°F|°C|disp=output number only}}
+|-
+! style=&quot;background: #F0F8FF; color:#000000;&quot; height=&quot;16;&quot; | [[Binghamton, New York|Binghamton]]
+! style=&quot;background: #F0F8FF; color: #000000&quot; |max&lt;br /&gt;min
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; |{{convert| 28|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|15|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; |{{convert| 31|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|17|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; |{{convert| 41|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|25|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; |{{convert| 53|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|35|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; |{{convert| 66|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|46|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; |{{convert| 73|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|54|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; |{{convert| 78|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|59|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; |{{convert| 76|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|57|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; |{{convert| 68|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|50|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; |{{convert| 57|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|40|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; |{{convert| 44|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|31|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #C5DFE1; color:#000000;&quot; |{{convert| 33|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|21|°F|°C|disp=output number only}}
+|-
+! style=&quot;background: #F0F8FF; color:#000000;&quot; height=&quot;16;&quot; | [[Buffalo, New York|Buffalo]]
+! style=&quot;background: #F0F8FF; color: #000000&quot; |max&lt;br /&gt;min
+| style=&quot;text-align:center; background: #00FFFF; color:#000000;&quot; |{{convert| 31|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|18|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #00FFFF; color:#000000;&quot; |{{convert| 33|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|19|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #00FFFF; color:#000000;&quot; |{{convert| 42|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|26|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #00FFFF; color:#000000;&quot; |{{convert| 54|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|36|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #00FFFF; color:#000000;&quot; |{{convert| 66|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|48|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #00FFFF; color:#000000;&quot; |{{convert| 75|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|57|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #00FFFF; color:#000000;&quot; |{{convert| 80|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|62|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #00FFFF; color:#000000;&quot; |{{convert| 78|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|60|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #00FFFF; color:#000000;&quot; |{{convert| 70|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|53|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #00FFFF; color:#000000;&quot; |{{convert| 59|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|43|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #00FFFF; color:#000000;&quot; |{{convert| 47|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|34|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #00FFFF; color:#000000;&quot; |{{convert| 36|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|24|°F|°C|disp=output number only}}
+|-
+! style=&quot;background: #F0F8FF; color:#000000;&quot; height=&quot;16;&quot; | [[Long Beach, New York|Long Island]]
+! style=&quot;background: #F0F8FF; color: #000000&quot; |max&lt;br /&gt;min
+| style=&quot;text-align:center; background: #2A8000; color:#000000;&quot; |{{convert| 39|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|23|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #2A8000; color:#000000;&quot; |{{convert| 40|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|24|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #2A8000; color:#000000;&quot; |{{convert| 48|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|31|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #2A8000; color:#000000;&quot; |{{convert| 58|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|40|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #2A8000; color:#000000;&quot; |{{convert| 69|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|49|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #2A8000; color:#000000;&quot; |{{convert| 77|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|60|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #2A8000; color:#000000;&quot; |{{convert| 83|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|66|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #2A8000; color:#000000;&quot; |{{convert| 82|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|64|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #2A8000; color:#000000;&quot; |{{convert| 75|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|57|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #2A8000; color:#000000;&quot; |{{convert| 64|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|45|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #2A8000; color:#000000;&quot; |{{convert| 54|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|36|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #2A8000; color:#000000;&quot; |{{convert| 44|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|28|°F|°C|disp=output number only}}
+|-
+! style=&quot;background: #F0F8FF; color:#000000;&quot; height=&quot;16;&quot; | [[New York City]]
+! style=&quot;background: #F0F8FF; color: #000000&quot; |max&lt;br /&gt;min
+| style=&quot;text-align:center; background: #E34234; color:#000000;&quot; |{{convert| 38|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|26|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #E34234; color:#000000;&quot; |{{convert| 41|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|28|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #E34234; color:#000000;&quot; |{{convert| 50|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|35|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #E34234; color:#000000;&quot; |{{convert| 61|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|44|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #E34234; color:#000000;&quot; |{{convert| 71|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|54|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #E34234; color:#000000;&quot; |{{convert| 79|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|63|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #E34234; color:#000000;&quot; |{{convert| 84|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|69|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #E34234; color:#000000;&quot; |{{convert| 82|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|68|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #E34234; color:#000000;&quot; |{{convert| 75|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|60|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #E34234; color:#000000;&quot; |{{convert| 64|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|50|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #E34234; color:#000000;&quot; |{{convert| 53|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|41|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #E34234; color:#000000;&quot; |{{convert| 43|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|32|°F|°C|disp=output number only}}
+|-
+! style=&quot;background: #F0F8FF; color:#000000;&quot; height=&quot;16;&quot; | [[Rochester, New York|Rochester]]
+! style=&quot;background: #F0F8FF; color: #000000&quot; |max&lt;br /&gt;min
+| style=&quot;text-align:center; background: #BBB222; color:#000000;&quot; |{{convert| 31|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|17|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #BBB222; color:#000000;&quot; |{{convert| 33|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|17|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #BBB222; color:#000000;&quot; |{{convert| 43|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|25|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #BBB222; color:#000000;&quot; |{{convert| 55|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|35|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #BBB222; color:#000000;&quot; |{{convert| 68|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|46|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #BBB222; color:#000000;&quot; |{{convert| 77|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|55|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #BBB222; color:#000000;&quot; |{{convert| 81|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|60|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #BBB222; color:#000000;&quot; |{{convert| 79|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|59|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #BBB222; color:#000000;&quot; |{{convert| 71|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|51|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #BBB222; color:#000000;&quot; |{{convert| 60|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|41|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #BBB222; color:#000000;&quot; |{{convert| 47|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|33|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #BBB222; color:#000000;&quot; |{{convert| 36|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|23|°F|°C|disp=output number only}}
+|-
+! style=&quot;background: #F0F8FF; color:#000000;&quot; height=&quot;16;&quot; | [[Syracuse, New York|Syracuse]]
+! style=&quot;background: #F0F8FF; color: #000000&quot; |max&lt;br /&gt;min
+| style=&quot;text-align:center; background: #CD7F32; color:#000000;&quot; |{{convert| 31|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|14|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #CD7F32; color:#000000;&quot; |{{convert| 34|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|16|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #CD7F32; color:#000000;&quot; |{{convert| 43|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|24|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #CD7F32; color:#000000;&quot; |{{convert| 56|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|35|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #CD7F32; color:#000000;&quot; |{{convert| 68|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|46|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #CD7F32; color:#000000;&quot; |{{convert| 77|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|55|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #CD7F32; color:#000000;&quot; |{{convert| 82|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|60|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #CD7F32; color:#000000;&quot; |{{convert| 80|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|59|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #CD7F32; color:#000000;&quot; |{{convert| 71|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|51|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #CD7F32; color:#000000;&quot; |{{convert| 60|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|40|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #CD7F32; color:#000000;&quot; |{{convert| 47|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|32|°F|°C|disp=output number only}}
+| style=&quot;text-align:center; background: #CD7F32; color:#000000;&quot; |{{convert| 36|°F|°C|disp=output number only}}&lt;br /&gt;{{convert|21|°F|°C|disp=output number only}}
+|-
+| colspan=&quot;14&quot; style=&quot;text-align:center;font-size:90%;background:#E8EAFA;&quot;|Converted from Fahrenheit data (above)
+|}
+
+&lt;/blockquote&gt;
+
+=== State parks ===
+{{See also|List of New York state parks|New York State Office of Parks, Recreation and Historic Preservation}}
+[[File:Adirondack and Catskill Parks Locator.svg|thumb|right|Two major parks in the state are the [[Adirondack Park]] and [[Catskill Park]].]]
+
+New York has many state parks and two major forest preserves. [[Adirondack Park]], roughly the size of the state of [[Vermont]] and the largest state park in the United States, was established in 1892 and given state constitutional protection in 1894. The thinking that led to the creation of the Park first appeared in [[George Perkins Marsh]]'s ''[[Man and Nature]]'', published in 1864. Marsh argued that deforestation could lead to desertification; referring to the clearing of once-lush lands surrounding the Mediterranean, he asserted &quot;the operation of causes set in action by man has brought the face of the earth to a desolation almost as complete as that of the moon.&quot;
+
+The [[Catskill Park]] was protected in legislation passed in 1885,&lt;ref name=CatskillPark1&gt;{{cite web |year= |url=http://www.catskillpark.org/history/history.htm|title=Catskill Park History |publisher=www.catskillpark.org |accessdate=April 11, 2008 }}&lt;/ref&gt; which declared that its land was to be conserved and never put up for sale or lease. Consisting of {{convert|700000|acre|km2}} of land,&lt;ref name=CatskillPark1/&gt; the park is a habitat for bobcats, minks and fishers. There are some 400 black bears living in the region. The state operates numerous campgrounds and there are over {{convert|300|mi|km|abbr=off}} of multi-use trails in the Park.
+
+The [[Montauk Point State Park]] boasts the famous [[Montauk Lighthouse]], commissioned by [[President of the United States|President]] [[George Washington]], which is a major tourist attraction and is located in the township of [[East Hampton (town)|East Hampton]], [[Suffolk County, New York|Suffolk County]]. [[Hither Hills State Park|Hither Hills]] park offers camping and is a popular destination with surfcasting sport fishermen.
+
+== History ==
+{{Main|History of New York}}
+[[File:NewYork1777MapRestoredSmall.png|thumb|New York in 1777]]
+
+=== 17th century ===
+During the 17th century, Dutch [[trading post]]s established for the trade of pelts from the [[Lenape]], [[Iroquois]] and other [[indigenous people]]s expanded into the colony of [[New Netherlands]]. The first of these trading posts were [[Fort Nassau (North)|Fort Nassau]] (1614, near present-day [[Albany, New York|Albany]]); [[Fort Orange]] (1624, on the [[Hudson River]] just south of the current city of Albany and created to replace [[Fort Nassau (North River)|Fort Nassau]]), developing into settlement [[Beverwijck]] (1647), and into what became Albany; [[Fort Amsterdam]] (1625, to develop into the town [[New Amsterdam]] which is present-day [[New York City]]); and Esopus, (1653, now [[Kingston, New York|Kingston]]). The success of the [[patroonship]] of [[Rensselaerswyck]] (1630), which surrounded Albany and lasted until the mid 19th century, was also a key factor in the early success of the colony.  The British captured the colony during the [[Second Anglo-Dutch War]] and governed it as the [[Province of New York]].
+
+=== American Revolution ===
+
+The [[Sons of Liberty]] were organized in New York City during the 1760s, largely in response to the oppressive [[Stamp Act]] passed by the [[Parliament of the United Kingdom|British Parliament]] in 1765.  The [[Stamp Act Congress]] met in the city on October 19 of that year: a gathering of representatives from across the [[Thirteen Colonies]] that set the stage for the [[Continental Congress]] to follow.  The Stamp Act Congress resulted in the [[Declaration of Rights and Grievances]], which was the first written expression by representatives of the Americans of many of the rights and complaints later expressed in the [[United States Declaration of Independence]], including the right to [[No taxation without representation|representative government]].
+
+The [[Capture of Fort Ticonderoga]] provided the [[Fortification of Dorchester Heights|cannon and gunpowder]] necessary to force a [[Kingdom of Great Britain|British]] withdrawal from the [[Siege of Boston]] in 1775.
+
+New York endorsed the [[United States Declaration of Independence|Declaration of Independence]] on July 9, 1776.&lt;ref&gt;{{cite web |year= |url=http://www.history.com/minisites/fourthofjuly/viewPage?pageId=690 |title=Declaration of Independence |publisher=www.history.com |accessdate=April 10, 2008|archiveurl = http://web.archive.org/web/20080409165028/http%3A//www.history.com/minisites/fourthofjuly/viewPage%3FpageId%3D690 |archivedate = April 09, 2008|deadurl=yes}}&lt;/ref&gt; The New York state constitution was framed by a [[Constitutional convention (political meeting)|convention]] which assembled at [[White Plains, New York]] on July 10, 1776, and after repeated adjournments and changes of location, terminated its labors at [[Kingston, New York]] on Sunday evening, April 20, 1777, when the [[Constitution of New York, 1777|new constitution]] drafted by [[John Jay]] was adopted with but one dissenting vote. It was not submitted to the people for ratification. On July 30, 1777, [[George Clinton (vice president)|George Clinton]] was inaugurated as the first [[Governor of New York]] at Kingston.
+
+The first major battle of the [[American Revolutionary War]] after independence was declared – and the largest battle of the entire war – was fought in New York at the [[Battle of Long Island]] (a.k.a ''Battle of Brooklyn'') in August of 1776. British victory made New York City their military and political base of operations in North America for the duration of the conflict, and consequently the center of attention for General [[George Washington]]'s [[Intelligence operations in the American Revolutionary War|intelligence network]].
+
+The notorious British [[prison ships]] of [[Wallabout Bay]] saw more American combatants [[HMS Jersey (1736)|die of intentional neglect]] than were killed in combat in every battle of the war, combined.
+
+The first of two major British armies were captured by the [[Continental Army]] at the [[Battle of Saratoga]] in 1777, influencing France to ally with the revolutionaries.
+
+Four of the [[Iroquois]] nations fought on the side of the British; only the Onondagas were allies of the colonists. Many Iroquois were defeated in the [[Sullivan Expedition]] of 1779.&lt;ref&gt;{{cite web |year= |url=http://www.phmc.state.pa.us/ppet/sullivan/page1.asp?secid=31 |title=The Sullivan and Brodhead Expeditions |publisher=Pennsylvania Museum and Historical Commission |accessdate=April 11, 2008}}&lt;/ref&gt; As Loyalist allies of the losing British, the Iroquois were pushed to Canada after the war. In the treaty settlement, the British ceded most Indian lands to the new United States. Because New York made treaty with the Iroquois without getting Congressional approval, some of the land purchases are the subject of modern-day claims by the individual tribes. More than 5 million acres of former Iroquois territory was put up for sale in the years after the Revolutionary War, leading to rapid development in upstate New York.&lt;ref&gt;Chen, David W. ''Battle Over Iroquois Land Claims Escalates'' [http://query.nytimes.com/gst/fullpage.html?res=9806E2DF1E3BF935A25756C0A9669C8B63&amp;sec=&amp;spon=&amp;pagewanted=3] The New York Times. May 16, 2000. (accessed April 11, 2008)&lt;/ref&gt;  As per the [[Treaty of Paris (1783)|Treaty of Paris]], the last vestige of British authority in the former [[Thirteen Colonies]] – their troops in New York City – departed in 1783, which was long afterwards celebrated as [[Evacuation Day (New York)|Evacuation Day]].&lt;ref&gt;{{cite web |year= |url=http://www.nycgovparks.org/sub_newsroom/daily_plants/daily_plant_main.php?id=19733 |title=Happy Evacuation Day |publisher=New York City Department of Parks and Recreation |accessdate=April 12, 2008}}&lt;/ref&gt;
+
+Following heated debate, which included the publication of the now quintessential constitutional interpretation - the [[Federalist Papers]] - as a series of installments in New York City newspapers, New York was the 11th state to ratify the [[United States Constitution]], on July 26, 1788.&lt;ref&gt;{{cite web |year= |url=http://www.usconstitution.net/rat_ny.html|title=New York's Ratification |publisher=The U.S. Constitution Online |accessdate=April 10, 2008}}&lt;/ref&gt;
+
+=== 19th century ===
+[[File:BaldwinsvilleLock24.jpg|thumb|right|The creation of the [[Erie Canal]] led to rapid industrialization in New York.]]
+Transportation in western New York was difficult before canals were built in the early part of the nineteenth century. The [[Hudson River|Hudson]] and [[Mohawk River|Mohawk]] Rivers could be navigated only as far as Central New York. While the [[St. Lawrence River]] could be navigated to [[Lake Ontario]], the way westward to the other [[Great Lakes]] was blocked by [[Niagara Falls]], and so the only route to western New York was over land.
+
+Governor [[DeWitt Clinton]] strongly advocated building a canal to connect the Hudson River with [[Lake Erie]], and thus all the [[Great Lakes]]. Work commenced in 1817, and the [[Erie Canal]] was finished in 1825. It was considered an engineering marvel. Packet boats traveled up and down the canal with sightseers and visitors on board.&lt;ref name=ErieCanal&gt;{{cite web |year= |url=http://www.nyscanals.gov/cculture/history/|title=The Erie Canal: A Brief History |publisher=New York State Canals |accessdate=April 10, 2008}}&lt;/ref&gt; The canal opened up vast areas of New York to commerce and settlement. It enabled Great Lakes port cities such as [[Buffalo, New York|Buffalo]] and [[Rochester, New York|Rochester]] to grow and prosper. It also connected the burgeoning agricultural production of the Midwest and shipping on the Great Lakes, with the port of New York City. Improving transportation, it enabled additional population migration to territories west of New York.
+
+=== Ellis Island ===
+{{Main|Ellis Island}}
+
+[[File:Ellis Island immigration footage.ogg|thumb|right|Scenes at the Immigration Depot and a nearby dock on [[Ellis Island]]]]
+[[File:Ellis Island in 1905.jpg|thumb|left|[[Ellis Island]] in 1905]]
+
+Ellis Island was the main facility for [[immigrants]], entering the [[United States]] in the late 19th Century to the mid 20th Century. The facility operated from January 1, 1892, until November 12, 1954. It is owned by the Federal government and is now part of the [[Statue of Liberty National Monument]], under the jurisdiction of the [[National Park Service]]. It is situated in [[New York Harbor]], between two states and cities, [[Jersey City, New Jersey|Jersey City]], [[New Jersey]] and [[New York City]], New York.
+
+More than 12 million immigrants passed through [[Ellis Island]], between 1892 and 1954. After 1924, when the [[National Origins Act]] was passed, the only immigrants to pass through there were displaced persons or war refugees.&lt;ref&gt;''The Brown Quarterly'', [http://brownvboard.org/brwnqurt/04-1/04-1a.htm Volume 4, No. 1 (Fall 2000) – Ellis Island/Immigration Issue]&lt;/ref&gt; Today, over 100 million Americans can trace their ancestry to the immigrants, who first arrived in America through the island, before dispersing to points all over the country. Ellis Island was the subject of a border dispute between New York State and New Jersey.
+
+=== Statue of Liberty ===
+{{Main|Statue of Liberty}}
+[[File:Statue of Liberty, NY.jpg|thumb|[[Statue of Liberty]]]]
+
+The Statue of Liberty was a gift from France to the United States to mark the Centennial of the American Declaration of Independence. The idea of giving a colossal representation of republican virtues to a &quot;sister&quot; republic, across the sea, served as a focus for the republican cause against other politicians. The Statue of Liberty was dedicated in New York Harbor on October 28, 1886.
+
+[[Liberty Island]] closed on [[September 11, 2001 attacks|September 11, 2001]]; the island reopened in December, the monument reopened on August 3, 2004, but the statue remained closed until the summer of 2009. The National Park Service claims that the statue is not shut because of a terrorist threat, but principally because of a long list of fire regulation contraventions, including inadequate evacuation procedures. The museum and ten-story pedestal are open for visitors, but are only accessible if visitors have a &quot;Monument Access Pass&quot;, which is a reservation that visitors must make in advance of their visit and pick up before boarding the ferry. There are a maximum of 3000 passes available each day, with a total of 15,000 visitors to the island daily. The interior of the statue remains closed, although a glass ceiling in the pedestal allows for views of [[Gustave Eiffel]]'s iron framework of Lady Liberty.
+{{-}}
+
+== Demographics ==
+{|style=&quot;float:right; clear:left;&quot;
+|
+{{Fix bunching|beg&lt;!--|float=left--&gt;}}
+{{Fix bunching|end}}
+|
+{{USCensusPop
+|1790 = 340120
+|1800 = 589051
+|1810 = 959049
+|1820 = 1372851
+|1830 = 1918608
+|1840 = 2428921
+|1850 = 3097394
+|1860 = 3880735
+|1870 = 4382759
+|1880 = 5082871
+|1890 = 5997853
+|1900 = 7268894
+|1910 = 9113614
+|1920 = 10385227
+|1930 = 12588066
+|1940 = 13479142
+|1950 = 14830192
+|1960 = 16782304
+|1970 = 18236967
+|1980 = 17558072
+|1990 = 17990455
+|2000 = 18976457
+|estyear = 2009
+|estimate = 19541453
+|estref =&lt;ref name=09CenEst/&gt;
+}}
+|}
+{{Main|Demographics of New York}}&lt;!-- Necessary when zoom way out to small font sizes --&gt;
+
+=== Population ===
+[[File:New York Population Map.png|thumb|left|New York population density map]]
+
+As of 2006, New York was the third largest state in population after California and Texas,&lt;ref&gt;{{cite web |url=http://www.census.gov/Press-Release/www/2006/statepopest_table1.xls |title=Estimates of Population Change for the United States and States, and for Puerto Rico and State Rankings: July 1, 2005 to July 1, 2006 |accessdate=2007-01-05 |format= Excel Spreadsheet |archiveurl = http://web.archive.org/web/20070311040559/http%3A//www.census.gov/Press-Release/www/2006/statepopest_table1.xls |archivedate = March 11, 2007|deadurl=yes}}&lt;/ref&gt; with an estimated population of 19,541,453 as of July 1, 2009.&lt;ref name=09CenEst/&gt; This represents an increase of 513,481, or 2.7%, since the last census in 2000.&lt;ref name=census_cum&gt;{{cite web |title=Cumulative Estimates of the Components of Population Change for the United States, Regions and States: April 1, 2000 to July 1, 2008 (NST-EST2008-04) |url=http://www.census.gov/popest/states/tables/NST-EST2008-04.csv |author=U. S. Census Bureau |authorlink=United States Census Bureau |date=2008-12-15 |accessdate=2009-01-16 |format=CSV}}&lt;/ref&gt; It includes a natural increase since the last census of 803,680 people (that is 2,072,765 births minus 1,269,085 deaths) and a decrease due to net migration of 698,895 people out of the state.&lt;ref name=census_cum/&gt; [[Immigration to the United States|Immigration]] from outside the United States resulted in a net increase of 876,969 people, and migration within the country produced a net loss of 1,575,864 people.&lt;ref name=census_cum/&gt;
+
+In spite of the open land in the state, New York's population is very urban, with 92% of residents living in an urban area.&lt;ref&gt;[http://www.ers.usda.gov/StateFacts/NY.htm New York Fact Sheet: NY agriculture income population food education employment farms top commodities exports counties financial indicators poverty organic farming farm income America USDA&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+New York is a slow growing state with a large rate of domestic migration to other states. In 2000 and 2005, more people moved from New York to Florida than from any one state to another.&lt;ref&gt;{{cite web|url=http://www.census.gov/acs/www/Downloads/State_Migration_Flows_Paper.doc|title=Domestic Migration Flows for States from the 2005 ACS|accessdate=2007-10-19|format=Microsoft Word}}&lt;/ref&gt; However, New York state is one of the leading destinations for international immigration and thus has the second largest immigrant population in the country (after California) at 4.2 million as of 2008. Although [[Upstate New York]] receives considerable immigration, most of the state's immigrants settle in and around New York City, due to its more vibrant economy and cosmopolitan culture.
+
+The [[center of population]] of New York is located in [[Orange County, New York|Orange County]], in the town of [[Deerpark, New York|Deerpark]].&lt;ref&gt;{{cite web|url=http://www.census.gov/geo/www/cenpop/statecenters.txt|title= Population and Population Centers by State: 2000|accessdate=2007-01-05 |format= Text }}&lt;/ref&gt; New York City and its eight suburban counties (excluding those in New Jersey, Connecticut, and Pennsylvania) have a combined population of 13,209,006 people, or 68.42% of the state's population.&lt;ref&gt;{{cite web|url=http://factfinder.census.gov/servlet/QTTable?-geo_id=04000US36&amp;-qr_name=DEC_2000_SF3_U_DP3&amp;-ds_name=DEC_2000_SF3_U
+|title= DP-3. Profile of Selected Economic Characteristics: 2000, Geographic Area: New York|accessdate=2007-01-05|work=U.S. Census Bureau, Census 2000}}&lt;/ref&gt;
+
+=== Racial and ancestral makeup ===
+[[File:Ancestry-new-york-by county-2000.PNG|thumb|left|New York population ethnicity map]]
+The major ancestry groups in New York state are [[United States|African American]] (15.8%), [[Italian-American|Italian]] (14.4%), [[Irish-American|Irish]] (12.9%), and [[German-American|German]] (11.1%).&lt;ref&gt;[http://awesomeamerica.com/newyork/ Awesome America: New York]. RetrieveAugust d 18, 2007.&lt;/ref&gt; According to a 2004 estimate, 20.4% of the population is foreign-born.
+
+New York is home to the [[List of U.S. states by African-American population|largest African American]] population and the [[List of U.S. states by Asian American population|second largest Asian American]] population in the United States. In addition it is home to the largest [[Puerto Rican people|Puerto Rican]], [[Dominican American|Dominican]] and [[Jamaican American]] populations in the continental United States. The New York City neighborhood of [[Harlem]] has historically been a major cultural capital for African-Americans of sub-Saharan descent, and [[Bedford Stuyvesant]] is the largest such population in the United States.
+
+[[Queens]], also in New York City, is home to the state's largest [[Asian-American]] population, and is also the most diverse county in the United States. The second concentration of Asian-Americans is in Manhattan's Chinatown. [[Queens]] is home to the largest [[Andes|Andean]] population ([[Colombian American|Colombian]], [[Ecuadorian American|Ecuadorian]], [[Peruvian American|Peruvian]] and [[Bolivian American|Bolivian]]) population in [[The United States]] of America.
+
+In the 2000 Census, [[Italian Americans]] made up the largest ancestral group in Staten Island and Long Island, followed by [[Irish Americans]]. Albany and southeast-central New York also have populations with many of Irish-American and Italian-American descent. In Buffalo and western New York, [[German Americans]] are the largest group; in the northern tip of the state, [[French Canadians]] are. New York State has a higher number of Italian Americans than any other U.S. state.
+
+6.5% of New York's population were under 5 years of age, 24.7% under 18, and 12.9% were 65 or older. Females made up 51.8% of the population.
+
+According to the [[2000 U.S. Census]], 13.61% of the population aged 5 and over speak [[Spanish language|Spanish]] at home, while 2.04% speak [[Chinese language|Chinese]] (including [[Yue Chinese|Cantonese]] and [[Mandarin Chinese|Mandarin]]), 1.65% [[Italian language|Italian]], and 1.23% [[Russian language|Russian]].&lt;ref&gt;http://www.mla.org/map_data_results&amp;state_id=36&amp;mode=state_tops&lt;/ref&gt;
+
+=== Religion ===
+[[Roman Catholicism in the United States|Catholics]] comprise more than 40% of the population in New York.&lt;ref&gt;{{cite web|url= http://www.gc.cuny.edu/faculty/research_briefs/aris/key_findings.htm
+|title=American Religious Identification Survey(Key Findings)|accessdate=January 5, 2007|author=Egon Mayer, Ph.D.|coauthors=Barry A. Kosmin, Ph.D, Ariela Keysar, Ph.D.|year=2001|publisher=The City University of New York}}&lt;/ref&gt; [[Protestant Reformation|Protestants]] are 30% of the population, [[Judaism|Jews]] 8.4%, [[Muslim]]s 3.5%, [[Buddhism|Buddhists]] 1%, and 13% claim no religious affiliation. The largest Protestant denominations are the [[United Methodist Church]] with 403,362; the [[American Baptist Churches USA]] with 203,297; and the [[Episcopal Church (United States)|Episcopal Church]] with 201,797 adherents.&lt;ref&gt;[http://www.thearda.com/mapsReports/reports/state/36_2000.asp The Association of Religion Data Archives | Maps &amp; Reports&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+== Cities and towns ==
+:''For Maps and lists of cities, towns, and counties in New York
+&lt;blockquote&gt;
+{| class=&quot;wikitable&quot;
+|
+* [[List of cities in New York]]
+* [[List of towns in New York]]
+* [[List of villages in New York]]
+* [[List of counties in New York]]
+* [[List of census-designated places in New York]]
+* [[Administrative divisions of New York]]
+|}
+&lt;/blockquote&gt;
+
+:''New York State is made up of nine regions, these include:
+
+&lt;blockquote&gt;
+{| class=&quot;wikitable&quot;
+|
+* [[North Country New York]]
+* [[Central New York]]
+* [[Finger Lakes]]
+* [[Western New York]]
+* [[Southern Tier]]
+* [[Capital District]]
+* [[Hudson Valley]]
+* [[New York City]]
+* [[Long Island]] (Southeast New York)
+|}
+&lt;/blockquote&gt;
+The largest city in the state and the most populous city in the United States is [[New York City]], which comprises five counties, the Bronx, New York (Manhattan), Queens, Kings (Brooklyn), and Richmond (Staten Island). New York City is home to more than two-fifths of the state's population.
+
+The ten largest cities are:&lt;ref&gt;[http://www.infoplease.com/ipa/A0108252.html New York: History, Geography, Population, and State Facts — Infoplease.com&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+&lt;blockquote&gt;
+{| class=&quot;wikitable&quot;
+|
+# [[New York City]] (8,274,527)
+# [[Buffalo, New York|Buffalo]] (279,745)
+# [[Rochester, New York|Rochester]] (211,091)
+# [[Yonkers, New York|Yonkers]] (196,425)
+# [[Syracuse, New York|Syracuse]] (141,683)
+# [[Albany, New York|Albany]] (93,523)
+# [[New Rochelle, New York|New Rochelle]] (72,967)
+# [[Mount Vernon, New York|Mount Vernon]] (67,924)
+# [[Schenectady, New York|Schenectady]] (61,280)
+# [[Utica, New York|Utica]] (59,336)
+|}
+&lt;/blockquote&gt;
+
+The location of these cities within the state stays remarkably true to the major transportation and [[trade route]]s in the early nineteenth century, primarily the [[Erie Canal]] and railroads paralleling it. Today, [[Interstate 90 in New York|Interstate 90]] acts as a modern counterpart to commercial water routes.
+
+Grouped by [[metropolitan statistical area]],&lt;ref&gt;{{cite web | url = http://www.census.gov/population/www/estimates/metro_general/2007/CBSA-EST2007-07.csv | title = Annual Estimates of the Population of Metropolitan and Micropolitan Statistical Areas: April 1, 2000 to July 1, 2007 (CBSA-EST2007-01) | format = [[comma-separated values|CSV]] | work = 2007 Population Estimates | publisher = [[United States Census Bureau]], Population Division | date = 2007-03-27 | accessdate = 2007-03-27|archiveurl = http://web.archive.org/web/20080402204232/http%3A//www.census.gov/population/www/estimates/metro_general/2007/CBSA-EST2007-07.csv |archivedate = April 02, 2008|deadurl=yes}}&lt;/ref&gt; the twelve largest population centers in the state are:
+
+&lt;blockquote&gt;
+{| class=&quot;wikitable&quot;
+|
+# [[New York metropolitan area|New York City]] (18,815,988 in NY/[[New Jersey|NJ]]/[[Pennsylvania|PA]], 12,381,586 in NY)
+# [[Buffalo-Niagara Falls, NY MSA|Buffalo-Niagara Falls]] (1,128,183)
+# [[Rochester, NY MSA|Rochester]] (1,030,495)
+# [[Albany-Schenectady-Troy, NY MSA|Albany and the Capital District]] (853,358)
+# [[Poughkeepsie-Newburgh-Middletown, NY MSA|Poughkeepsie and the Hudson Valley]] (669,915)
+# [[Syracuse, NY MSA|Syracuse]] (645,293)
+# [[Utica-Rome, NY MSA|Utica-Rome]] (294,862)
+# [[Binghamton, NY MSA|Binghamton]] (246,426)
+# [[Kingston, NY MSA|Kingston]] (181,860)
+# [[Glens Falls, NY MSA|Glens Falls]] (128,886)
+# [[Ithaca, NY MSA|Ithaca]] (101,055)
+# [[Elmira, NY MSA|Elmira]] (88,015)
+|}
+&lt;/blockquote&gt;
+The smallest city is [[Sherrill, New York]], located just west of the [[Vernon (town), New York|Town of Vernon]] in [[Oneida County, New York|Oneida County]]. [[Albany, New York|Albany]] is the state capital, and the [[Town of Hempstead, New York|Town of Hempstead]] is the civil township with the largest population. If it were a city, it would be the second largest in the state with over 700,000 residents.
+
+The southern tip of New York State—[[Geography and environment of New York City|New York City]], its suburbs including [[Long Island]], the southern portion of the Hudson Valley, and most of northern [[New Jersey]]—can be considered to form the central core of the [[Northeast megalopolis]]&quot;, a super-city stretching from the northern suburbs of [[Boston, Massachusetts|Boston]] south to the [[Virginia]] suburbs of [[Washington D.C.]].
+
+== Economy ==
+{{Main|Economy of New York}}
+[[File:New York quarter, reverse side, 2001.jpg|left|125px]]
+[[File:NYC NYSE.jpg|thumb|The [[New York Stock Exchange]], the largest [[stock exchange]] in the world]]
+[[File:LineartPresRev.png|left|125px]]
+[[File:ChryslerBuildingMidtownManhattanNewYorkCity.jpg|thumb|[[Midtown Manhattan]] in [[New York City]], the largest [[central business district]] in the United States]]
+[[File:BrunswickAutumn.JPG|thumb|A [[dairy farm]] in [[Brunswick, New York|Brunswick]]]]
+
+New York's gross state product in 2007 was $1.1 trillion, ranking third in size behind the larger states of California and Texas.&lt;ref name=&quot;bureaueconomic&quot;&gt;{{cite news|title=Gross Domestic Product (GDP) by State, 2005|author=The Bureau of Economic Analysis|date=2006-08-26|url=http://www.bea.gov/bea/newsrel/gspnewsrelease.htm|accessdate=2007-02-08}}&lt;/ref&gt; If New York were an independent nation, it would rank as the 16th largest economy in the world behind [[Turkey]]. Its 2007 [[List of U.S. states by GDP per capita (nominal)|per capita personal income]] was $46,364, placing it sixth in the nation behind Maryland, and eighth in the world behind [[Ireland]]. New York's [[agriculture|agricultural]] outputs are [[dairy]] products, [[cattle]] and other [[livestock]], [[vegetable]]s, [[Nursery (horticulture)|nursery]] stock, and [[apples]]. Its industrial outputs are printing and [[publishing]], scientific instruments, electric equipment, [[machinery]], [[chemical]] products, and [[tourism]].
+
+A recent review by the Center on Budget and Policy Priorities found 13 states, including several of the nation's largest, face budget shortfalls for FY2009. New York faces a [[deficit]] that could be as large as $4.3 billion.&lt;ref&gt;[http://www.cbpp.org/12-18-07sfp.htm 13 States Face Total Budget Shortfall of at Least $23 Billion in 2009; 11 Others Expect Budget Problems, 12/18/07], Center on Budget and Policy Priorities&lt;/ref&gt;
+
+New York exports a wide variety of goods such as foodstuffs, commodities, minerals, computers and electronics, cut diamonds, and automobile parts. In 2007, the state exported a total of $71.1 billion worth of goods, with the five largest foreign export markets being Canada ($15 billion), United Kingdom ($6 billion), Switzerland ($5.9 billion), Israel ($4.9 billion), and Hong Kong ($3.4 billion). New York's largest imports are oil, gold, aluminum, natural gas, electricity, rough diamonds, and lumber.
+
+Canada is a very important economic partner for the state. 21% of the state's total worldwide exports went to Canada in 2007. Tourism from the north is also a large part of the economy. Canadians spent US$487 million in 2004 while visiting the state.
+
+New York City is the leading center of [[banking]], [[finance]] and [[mass media|communication]] in the United States and is the location of the [[New York Stock Exchange]], the largest stock exchange in the world by dollar volume. Many of the world's largest corporations are based in the city.
+
+The state also has a large manufacturing sector that includes printing and the production of garments, furs, railroad equipment and bus line vehicles. Many of these industries are concentrated in upstate regions. Albany and the Hudson Valley are major centers of nanotechnology and microchip manufacturing, while the [[Rochester, Monroe County, New York|Rochester]] area is important in photographic equipment and imaging.
+
+New York is a major agricultural producer, ranking among the top five states for agricultural products such as dairy, apples, cherries, cabbage, potatoes, onions, maple syrup and many others. The state is the largest producer of cabbage in the U.S. The state has about a quarter of its land in farms and produced US$3.4 billion in agricultural products in 2001. The south shore of Lake Ontario provides the right mix of [[soil]]s and [[microclimate]] for many apple, cherry, [[plum]], [[pear]] and [[peach]] [[orchard]]s. Apples are also grown in the Hudson Valley and near Lake Champlain.
+
+New York is the nation's third-largest grape-producing state, behind California, and second-largest wine producer by volume. The south shore of Lake Erie and the southern [[Finger Lakes]] hillsides have many vineyards. In addition, the [[North Fork, Suffolk County, New York|North Fork]] of [[Long Island]] developed vineyards, production and visitors' facilities in the last three decades of the 20th century. In 2004, New York's wine and grape industry brought US$6 billion into the state economy.
+
+The state has {{convert|30000|acre|km2}} of vineyards, 212 wineries, and produced 200 million bottles of wine in 2004. A moderately sized saltwater commercial fishery is located along the Atlantic side of Long Island. The principal catches by value are clams, lobsters, squid, and flounder. These areas of the economy have been increasing as environmental protection has led to an increase in ocean wildlife.
+
+As of January 2010, the state's unemployment rate was 8.8%.&lt;ref&gt;[http://www.bls.gov/lau/ Bls.gov]; Local Area Unemployment Statistics&lt;/ref&gt;
+
+== Transportation ==
+{{Main|Transportation in New York}}
+{|class=&quot;userboxes&quot; align=&quot;left&quot;
+|[[File:NYS Thruway Sign.svg|90px|link=New York State Thruway|New York State Thruway]]
+|}
+[[File:Thaddeus Kosciusko Bridge Albany Summer.jpg|thumb|The [[Thaddeus Kosciusko Bridge]] carries [[Interstate 87|I-87]] over the [[Mohawk River]]]]
+[[File:NYCSub 7 Vernon Jackson 3.jpg|thumb|right|The [[New York City Subway]] serves more than 5 million rides on a given week day]]
+New York has one of the most extensive and one of the oldest transportation infrastructures in the country. Engineering difficulties because of the terrain of the state and the unique issues of the city brought on by urban crowding have had to be overcome since the state was young. Population expansion of the state generally followed the path of the early waterways, first the [[Hudson River]] and then the [[Erie Canal]]. Today, railroad lines and the [[New York State Thruway]] follow the same general route. The [[New York State Department of Transportation]] is often criticized for how they maintain the roads of the state in certain areas and for the fact that the tolls collected along the roadway have long passed their original purpose. Until 2006, tolls were collected on the Thruway within [[Buffalo, New York|The City of Buffalo]]. They were dropped late in 2006 during the campaign for Governor (both candidates called for their removal).
+
+In addition to New York City's famous [[New York City Subway|mass transit subway]], four suburban commuter railroad systems enter and leave the city: the [[Long Island Rail Road]], [[Metro-North Railroad]], [[Port Authority Trans-Hudson]], and five of [[New Jersey Transit Rail Operations|New Jersey Transit's rail lines]]. Many other cities have urban and regional public transportation. In Buffalo, the [[Niagara Frontier Transportation Authority]] runs the [[Buffalo Metro Rail]] light-rail system; in Rochester, the [[Rochester Subway]] operated from 1927 until 1956 but has fallen into disuse.
+
+[[File:New York State current license plate from 2001.jpg|thumb|left|The former designated-number license plate for vehicles registered in New York State, introduced in 2001 and ended on April 1, 2010.]]
+
+The [[New York State Department of Motor Vehicles]] (NYSDMV or DMV) is the governmental agency responsible for registering and inspecting automobiles and other motor vehicles as well as licensing drivers in the U.S. state of New York. As of 2008, the NYSDMV has 11,284,546 drivers licenses on file&lt;ref&gt;http://www.nydmv.state.ny.us/Statistics/statli08.htm&lt;/ref&gt; and 10,697,644 vehicle registrations in force.&lt;ref&gt;http://www.nydmv.state.ny.us/Statistics/regin08.htm&lt;/ref&gt; All gasoline powered vehicles registered in New York State must get an emissions inspection every 12 months. Diesel powered vehicles with a Gross Weight Rating over 8 500&amp;nbsp;lbs that are registered in the NY Metropolitan Area must get an annual emissions inspection. All vehicles registered in NYS must get an annual safety inspection.
+
+Portions of the transportation system are [[intermodal passenger transport|intermodal]], allowing travelers to easily switch from one mode of transportation to another. One of the most notable examples is [[AirTrain JFK]] which allows rail passengers to travel directly to terminals at [[John F. Kennedy International Airport]].
+
+In May 2009 the [[New York City Department of Transportation]] under the control of Transportation Commissioner [[Janette Sadik-Khan]] banned cars from [[Times Square]]. The move designed to reduce [[pollution]] and pedestrian accidents looks likely to be implemented permantly, and will last at least until the end of the year.&lt;ref&gt;{{cite web|url=http://www.dailymail.co.uk/news/worldnews/article-1187300/New-York-celebrates-new-era-cars-banished-Times-Square.html|accessdate=2009-05-25|publisher=MailOnline|title=New York celebrates new era as cars are banished from Times Square}}&lt;/ref&gt; .
+
+== Politics and government ==
+{{Main|Government of New York}}
+
+[[File:NYSCapitolPanorama.jpg|thumb|250px|right|The [[New York State Capitol]] building in [[Albany, New York|Albany]].]]
+Under its present [[New York State Constitutions|constitution]] (adopted in 1938), New York is governed by the same three branches that govern all fifty states of the United States: the [[Executive (government)|executive branch]], consisting of the [[Governor of New York]] and the other independently elected constitutional officers; the [[legislative branch]], consisting of the [[bicameral]] [[New York State Legislature]]; and the [[judicial branch]], consisting of the state's highest court, the [[New York Court of Appeals]], and lower courts. The state has two U.S. senators, 29 members in the [[United States House of Representatives]], and 31 [[United States Electoral College|electoral votes]] in national presidential elections (a drop from its 47 votes during the 1940s).
+
+New York's capital is [[Albany, New York|Albany]]. The state's subordinate political units are its 62 [[county|counties]]. Other officially incorporated governmental units are [[Administrative divisions of New York#Town|towns]], [[Administrative divisions of New York#City|cities]], and [[Administrative divisions of New York#Village|villages]]. New York has more than 4,200 local governments that take one of these forms. About 52% of all revenue raised by local governments in the state is raised solely by the [[government of New York City]], which is the largest municipal government in the United States, whereas New York City houses only 42% of the state population.&lt;ref&gt;{{cite news|title=2006 Annual Report on Local Governments|author=Office of the New York State Comptroller|date=2006-11|url=http://www.osc.state.ny.us/localgov/datanstat/annreport/06annreport.pdf|accessdate=2006-11-14|format=PDF}}&lt;/ref&gt;
+
+The state has a strong imbalance of payments with the federal government. New York State receives 82 cents in services for every $1 it sends in taxes to the federal government in Washington.&lt;ref&gt;{{cite news|title=A Fair Share State Budget: Does Albany Play Fair with NYC?|author=New York City Finance Division|date=2005-03-11|url=http://webdocs.nyccouncil.info/attachments/65379.htm?CFID=232457&amp;CFTOKEN=33008944|accessdate=2006-07-19}}&lt;/ref&gt; The state ranks near the bottom, in 42nd place, in federal spending per tax dollar.&lt;ref&gt;{{cite web |year= |url=http://www.taxfoundation.org/research/show/266.html |title=Federal Spending in Each State Per Dollar of Federal Taxes FY2005 |publisher=Tax Foundation |accessdate=April 12, 2008 }}&lt;/ref&gt;
+
+Many of New York's public services are carried out by [[public benefit corporations]], frequently called ''authorities'' or ''development corporations''. Well known [[New York public benefit corporations|public benefit corporations in New York]] include the [[Metropolitan Transportation Authority (New York)|Metropolitan Transportation Authority]], which oversees New York City's public transportation system, and the [[Port Authority of New York and New Jersey]], a bi-state transportation infrastructure agency.
+
+New York's legal system is explicitly based upon [[English common Law]].
+
+=== Federal representation ===
+{{See also| United States congressional delegations from New York#2003-present: 29 seats| l1=Current United States congressional delegation from New York | New York's congressional districts}}
+As of the 2000 census and the redistricting for the 2002 elections, the state has [[New York's congressional districts|29 members]] in the [[United States House of Representatives]],  and  two U.S. senators. New York has 31 [[United States Electoral College|electoral votes]] in national presidential elections (a drop from its 47 votes during the 1940s).
+
+New York is represented by [[Chuck Schumer]] and [[Kirsten Gillibrand]] in the [[United States Senate]] and has 29 representatives to the [[United States House of Representatives]], behind [[California]]'s 53 congressional districts and [[Texas]]' 32 congressional districts.
+
+=== Capital punishment ===
+{{Main|Capital punishment in New York}}
+
+[[Capital punishment in the United States|Capital punishment]] was reintroduced in 1995 under the [[George Pataki#Death penalty|Pataki administration]] but the statute was declared unconstitutional in 2004, when the [[New York Court of Appeals]] ruled in ''[[People v. LaValle]]'' that it violated the [[New York Constitution|state constitution]]. The remaining death sentence was commuted by the court to [[life imprisonment]] in 2007, in ''People v. John Taylor'', and the death row was disestablished in 2008, under executive order from [[David Paterson|Governor Paterson]]. No execution has taken place in New York since 1963. Legislative efforts to amend the statute have failed, and death sentences are no longer sought.&lt;ref&gt;{{cite web|url=http://users.bestweb.net/~rg/execution/NEW%20YORK.htm|title=New York Executions|date=2005-10-25|accessdate=2009-04-09|author=Rob Gallagher|archiveurl = http://web.archive.org/web/20080528081537/http%3A//users.bestweb.net/%7Erg/execution/NEW%2520YORK.htm |archivedate = May 28, 2008|deadurl=yes}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.nypost.com/seven/07242008/news/regionalnews/gov_pulls_switch_on_death_cell_121295.htm|title=GOV PULLS SWITCH ON DEATH CELL|date=2008-07-24|publisher=[[New York Post]]|author=Scott, Brendan|accessdate=2009-04-09}}&lt;/ref&gt;&lt;ref&gt;{{cite news|author=Powell, Michael|title=In N.Y., Lawmakers Vote Not to Reinstate Capital Punishment|url=http://www.washingtonpost.com/wp-dyn/articles/A47871-2005Apr12.html|publisher=[[The Washington Post]]|date=2005-04-13|accessdate=2008-04-11}}&lt;/ref&gt;
+
+=== Politics ===
+[[File:David Paterson 2 by David Shankbone (cropped).jpg|thumb|[[David Paterson]] [[United States Democratic Party|(D)]] is the current [[Governor of New York]].]]
+{{Main|Politics of New York|Elections in New York|Political party strength in New York|New York's congressional districts}}
+
+In the last few decades, New York State has generally supported candidates belonging to the [[Democratic Party (United States)|Democratic Party]] in national elections. Democratic presidential candidate [[Barack Obama]] won New York State by 25 percentage points in 2008, a bigger margin than [[John Kerry]] in 2004. [[New York City]] is a major Democratic stronghold with liberal politics. Many of the state's other urban areas, such as [[Albany, New York|Albany]], [[Buffalo, New York|Buffalo]], [[Rochester, New York|Rochester]], and [[Syracuse, New York|Syracuse]] are also Democratic. Rural upstate New York, however, is generally more conservative than the cities and tends to favor [[Republican Party (United States)|Republicans]]. Heavily populated Suburban areas such as [[Westchester County]] and [[Long Island]] have swung between the major parties over the past 25 years, but more often than not support Democrats.
+
+New York City is the most important source of political fund-raising in the United States for both major parties. Four of the top five zip codes in the nation for political contributions are in Manhattan. The top zip code, 10021 on the [[Upper East Side]], generated the most money for the 2000 presidential campaigns of both [[George W. Bush]] and [[Al Gore]].&lt;ref&gt;{{cite news|title=2006 Election Overview: Top Zip codes|author=Opensecrets.org|date=2005-05-16|url=http://www.opensecrets.org/bigpicture/topzips.asp?cycle=2004|accessdate=2006-07-19}}&lt;/ref&gt;
+
+== Education ==
+{{Main|Education in New York}}
+[[File:SUNYAdminBuildingAlbany.jpg|thumb|[[SUNY System Administration Building|System Administration Building]] of the [[State University of New York]] in [[Albany, New York|Albany]]]]
+The [[University of the State of New York]] oversees all public primary, middle-level, and secondary education in the state, while the [[New York City Department of Education]] manages the public school system in New York City.
+
+At the college level, the statewide public university system is the [[State University of New York]] (SUNY). The [[City University of New York]] (CUNY) is the public university system of New York City. The SUNY system consists of 64 community colleges, technical colleges, undergraduate colleges and universities. The four university centers are [[University at Albany]], [[Binghamton University]], [[University at Buffalo]] and [[SUNY Stony Brook]].
+
+In addition there are many notable private universities, including the oldest [[Catholic]] institution in the northeast, [[Fordham University]]. New York is home to both [[Columbia University]] and [[Cornell University]], making it the only state to contain more than one [[Ivy League]] school.  [[West Point]], the service academy of the [[U.S. Army]] is located just south of [[Newburgh (city), New York|Newburgh]], NY on the banks of the [[Hudson River]].
+
+== Sports ==
+{{Main|Sports in New York}}
+New York hosted the [[1980 Winter Olympics]] at [[Lake Placid, New York|Lake Placid]], the Games known for the USA-USSR hockey game dubbed the &quot;[[Miracle on Ice]]&quot; in which a group of American college students and amateurs defeated the heavily favored Soviet national ice hockey team 4–3 and went on to win the gold medal against [[Finland]].  Lake Placid also hosted the [[1932 Winter Olympics]]. Along with [[St. Moritz, Switzerland]] and [[Innsbruck, Austria]], it is one of the three places to have twice hosted the Winter Olympic Games.
+
+New York is the home of one [[National Football League]] team, the [[Buffalo Bills]], (based in the suburb of [[Orchard Park (town), New York|Orchard Park]]). Although the [[New York Giants]] and [[New York Jets]] represent the [[New York metropolitan area]] and were previously located in New York City, they play in [[Meadowlands Stadium]], which is located in [[East Rutherford, New Jersey|East Rutherford]], [[New Jersey]]. The Meadowlands stadium will host [[Super Bowl XLVIII]] in 2014. There has been much controversy over the building of several building proposals for a new New York Jets [[West Side Stadium|football stadium]], the owners of the New York Jets were willing to split the $1.5 billion cost of building a new football stadium over Manhattan's West Side rail yards however the proposal never came to fruition.
+
+New York also has two [[Major League Baseball]] teams, the [[New York Yankees]] (based in [[The Bronx]]), and the [[New York Mets]] (based in New York City borough [[Queens]]). New York is home to three [[National Hockey League]] franchises (the [[New York Rangers]] in [[Manhattan]], the [[New York Islanders]] on [[Long Island]] and the [[Buffalo Sabres]] in [[Buffalo, New York]]). New York has a [[National Basketball Association]] team, the [[New York Knicks]] in [[Manhattan]].The former New York Nets from 1968 to 1977 is now titled as a New Jersey team however plans to relocate to New York City are in the works. There are a variety of minor league teams that can be found all through the State of New York such as the [[Long Island Ducks]].
+
+{{Collapse top|List of all New York State professional sports teams|bg=#B0E0E6}}
+{|class=&quot;wikitable&quot;
+!Club
+!Sport
+!League
+|-
+|[[Buffalo Bills]]
+|[[American football|Football]]
+|[[National Football League]]
+|-
+|[[New York Red Bulls]]
+|[[Soccer]]
+|[[Major League Soccer]]
+|-
+|[[New York Knicks]]
+|[[Basketball]]
+|[[National Basketball Association]]
+|-
+|[[New York Liberty]]
+|Basketball
+|[[Women's National Basketball Association]]
+|-
+|[[Rochester Raging Rhinos]]
+|[[Soccer]]
+|[[USL First Division]]
+|-
+|[[Buffalo Sabres]]
+|[[Ice hockey]]
+|[[National Hockey League]]
+|-
+|[[New York Islanders]]
+|Ice Hockey
+|National Hockey League
+|-
+|[[New York Rangers]]
+|Ice Hockey
+|National Hockey League
+|-
+|[[Adirondack Phantoms]]
+|Ice Hockey
+|[[American Hockey League]]
+|-
+|[[Albany River Rats]]
+|Ice Hockey
+|[[American Hockey League]]
+|-
+|[[Binghamton Senators]]
+|Ice Hockey
+|American Hockey League
+|-
+|[[Elmira Jackals]]
+|Ice Hockey
+|[[ECHL]]
+|-
+|[[Rochester Americans]]
+|Ice Hockey
+|American Hockey League
+|-
+|[[Syracuse Crunch]]
+|Ice Hockey
+|American Hockey League
+|-
+|[[New York Mets]]
+|[[Baseball]]
+|[[Major League Baseball]]
+|-
+|[[New York Yankees]]
+|Baseball
+|Major League Baseball
+|-
+|[[Brooklyn Cyclones]]
+|Baseball
+|[[New York - Penn League]]
+|-
+|[[Staten Island Yankees]]
+|Baseball
+|New York – Penn League
+|-
+|[[Jamestown Jammers]]
+|Baseball
+|New York – Penn League
+|-
+|[[Batavia Muckdogs]]
+|Baseball
+|New York – Penn League
+|-
+|[[Auburn Doubledays]]
+|Baseball
+|New York – Penn League
+|-
+|[[Oneonta Tigers]]
+|Baseball
+|New York – Penn League
+|-
+|[[Tri-City Valley Cats]]
+|Baseball
+|New York – Penn League
+|-
+|[[Hudson Valley Renegades]]
+|Baseball
+|New York – Penn League
+|-
+|[[Binghamton Mets]]
+|Baseball
+|[[Eastern League (baseball)|Eastern League]]
+|-
+|[[Buffalo Bisons]]
+|Baseball
+|[[International League]]
+|-
+|[[Rochester Red Wings]]
+|Baseball
+|International League
+|-
+|[[Syracuse Chiefs]]
+|Baseball
+|International League
+|-
+|[[Long Island Ducks]]
+|Baseball
+|[[Atlantic League of Professional Baseball]]
+|-
+|[[New York Dragons]]
+|[[Arena football]]
+|[[Arena Football League (1987–2008)|Arena Football League]]
+|-
+|[[Albany Conquest]]
+|[[Arena football]]
+|[[af2]]
+|-
+|[[Long Island Lizards]]
+|[[Lacrosse]]
+|[[Major League Lacrosse]]
+|-
+|[[Rochester Rattlers]]
+|Lacrosse
+|Major League Lacrosse
+|-
+|[[Buffalo Bandits]]
+|Lacrosse
+|[[National Lacrosse League]]
+|-
+|[[Rochester Knighthawks]]
+|Lacrosse
+|National Lacrosse League
+|-
+|[[New York Titans (NLL)|New York Titans]]
+|Lacrosse
+|National Lacrosse League
+|-
+|[[Brooklyn Wonders]]
+|Basketball
+|[[American Basketball Association (21st century)|American Basketball Association]]
+|-
+|[[Buffalo Silverbacks]]
+|Basketball
+|American Basketball Association
+|-
+|[[Rochester Razorsharks]]
+|Basketball
+|American Basketball Association
+|-
+|[[Strong Island Sound]]
+|Basketball
+|American Basketball Association
+|-
+|[[Albany Patroons]]
+|Basketball
+|[[Continental Basketball Association]]
+|-
+|New York
+|[[Gaelic football]]
+|[[Gaelic Athletic Association]]
+|-
+|New York
+|[[hurling]]
+|Gaelic Athletic Association
+|}
+{{Collapse bottom}}
+
+== See also ==
+{{Portal box|North America|United States|New York}}
+{{Main|Outline of New York|Index of New York-related articles}}
+* [[List of New York state symbols]]
+* [[USS New York|Naval vessel namesakes]]
+{{Clear}}
+
+== References ==
+{{Reflist|2}}
+
+== External links ==
+{{Sisterlinks}}
+'''General'''
+* {{dmoz|Regional/North_America/United_States/New_York}}
+
+'''Government'''
+* [http://www.ny.gov/ State Government website]
+* [http://www.ny.gov/governor/ Governor of New York State, David Paterson]
+* [http://www.nysenate.gov/front New York State Senate]
+* [http://assembly.state.ny.us/ New York State Assembly]
+* [http://www.courts.state.ny.us/ New York State Unified Court System]
+* [http://www.dos.state.ny.us/info/constitution.htm Constitution of New York] (or see [[File:Wikisource-logo.svg|15px]] [[:wikisource:New York Constitution as of 2004|Wikisource]])
+
+'''Tourism and recreation'''
+* {{Wikitravel|New York (state)}}
+* [http://www.iloveny.com/ I ♥ New York]
+* [http://nysparks.state.ny.us/ New York State Office of Parks, Recreation, and Historic Preservation]
+
+'''Culture and history'''
+* [http://www.nysha.org/ New York State Historical Association]
+* [http://www.oce.nysed.gov/ctl/index.htm New York State Cultural Education Center]
+* [http://www.loc.gov/rr/program/bib/states/newyork/ New York State Guide from the Library of Congress]
+
+'''Maps and Demographics'''
+* [http://www.usgs.gov/state/state.asp?State=NY USGS geographic resources of New York]
+* [http://nysc.eas.cornell.edu/ New York State Climate Office (NOAA and Cornell University)]
+* [http://www.ers.usda.gov/statefacts/ny.htm New York State Fact Sheet]
+* [http://www2.census.gov/census_2000/datasets/demographic_profile/New_York/2kh36.pdf 2000 Census of Population and Housing for New York], [[U.S. Census Bureau]]
+==Related information==&lt;!--per [[wp:NAVHEAD]]--&gt;
+{{Geographic Location
+|Centre    = New York
+|North     = [[Ontario]], {{flag|Canada}} &lt;br /&gt; [[Lake Ontario]]
+|Northeast = [[Quebec]], {{flag|Canada}}
+|East      = [[Vermont]] &lt;br /&gt; [[Massachusetts]] &lt;br /&gt; [[Connecticut]]
+|Southeast = [[Atlantic Ocean]]
+|South     = [[Pennsylvania]] / [[New Jersey]]
+|Southwest = [[Lake Erie]] / [[Pennsylvania]]
+|West      = [[Ontario]], {{flag|Canada}} / [[Lake Erie]]
+|Northwest = [[Ontario]], {{flag|Canada}}
+}}
+
+{{New York|expand}}
+{{United States}}
+{{succession
+| preceded = [[Virginia]]
+| office = [[List of U.S. states by date of statehood]]
+| years = Ratified [[Constitution of the United States of America|Constitution]] on July 26, 1788 (11th)
+| succeeded = [[North Carolina]]
+}}
+{{Coord|43|N|75|W|type:adm1st_scale:3000000_region:US-NY|display=title|name=New York}}
+{{United States topics}}
+
+[[Category:New York| ]]
+[[Category:States of the United States]]
+[[Category:Former British colonies]]
+
+{{Link FA|es}}
+
+[[af:New York (deelstaat)]]
+[[als:New York (Bundesstaat)]]
+[[am:ኒው ዮርክ]]
+[[ang:Nīwe Eoforwic]]
+[[ar:نيويورك (ولاية)]]
+[[an:Nueva York (estato)]]
+[[arc:ܢܝܘ ܝܘܪܟ (ܐܬܪܘܬܐ ܡܚܝܕܐ ܕܐܡܪܝܟܐ)]]
+[[frp:New York (Ètat)]]
+[[ast:Nueva York (estáu)]]
+[[az:Nyu-York (ştat)]]
+[[bn:নিউ ইয়র্ক (অঙ্গরাজ্য)]]
+[[zh-min-nan:New York]]
+[[be-x-old:Нью-Ёрк (штат)]]
+[[bcl:Nueva York (estado)]]
+[[bi:Niu York (Bundesstaat)]]
+[[bar:New York (Bundesstaat)]]
+[[bs:New York (država)]]
+[[br:New York (Stad)]]
+[[bg:Ню Йорк (щат)]]
+[[ca:Estat de Nova York]]
+[[cv:Çĕнĕ Йорк (штат)]]
+[[ceb:New York]]
+[[cs:New York (stát)]]
+[[cbk-zam:Nueva York]]
+[[cy:Efrog Newydd (talaith)]]
+[[da:New York (delstat)]]
+[[de:New York (Bundesstaat)]]
+[[nv:Nííyóó Hahoodzo]]
+[[et:New Yorgi osariik]]
+[[el:Νέα Υόρκη (πολιτεία)]]
+[[es:Nueva York (estado)]]
+[[eo:Nov-Jorkio]]
+[[eu:New York (estatua)]]
+[[fa:نیویورک (ایالت)]]
+[[fo:New York]]
+[[fr:État de New York]]
+[[ga:Nua-Eabhrac (stát)]]
+[[gv:York Noa (steat)]]
+[[gd:Eabhraig Nuadh (stàit)]]
+[[gl:Estado de Nova York]]
+[[hak:Néu-Yok]]
+[[xal:Шин Йорк]]
+[[ko:뉴욕 주]]
+[[haw:Nuioka]]
+[[hi:नया यॉर्क]]
+[[hr:New York (savezna država)]]
+[[io:Nova-York (stato)]]
+[[ig:Nú Yọk]]
+[[bpy:নিউ ইয়র্ক]]
+[[id:New York]]
+[[ik:Tchiaq York]]
+[[os:Нью-Йорк (штат)]]
+[[is:New York-fylki]]
+[[it:New York (stato)]]
+[[he:ניו יורק (מדינה)]]
+[[jv:New York (Negara bagéyan)]]
+[[kn:ನ್ಯೂ ಯಾರ್ಕ್]]
+[[ka:ნიუ-იორკი (შტატი)]]
+[[kw:Stat Evrek Nowydh]]
+[[sw:New York (jimbo)]]
+[[ht:Nou Yòk (eta)]]
+[[ku:New York]]
+[[lad:Nueva York (estado)]]
+[[la:Novum Eboracum]]
+[[lv:Ņujorka (štats)]]
+[[lt:Niujorko valstija]]
+[[lij:Neuvo York (stato)]]
+[[li:New York (staot)]]
+[[lmo:New York]]
+[[hu:New York (állam)]]
+[[mk:Њујорк (сојузна држава)]]
+[[ml:ന്യൂയോർക്ക്]]
+[[mi:New York]]
+[[mr:न्यूयॉर्क]]
+[[arz:ولاية نيويورك]]
+[[ms:New York]]
+[[nah:Yancuīc York]]
+[[nl:New York (staat)]]
+[[ja:ニューヨーク州]]
+[[no:New York (delstat)]]
+[[nn:Delstaten New York]]
+[[oc:Nòva York (estat)]]
+[[uz:Nyu York (shtat)]]
+[[pa:ਨਿਊਯਾਰਕ]]
+[[pnb:نیو یارک]]
+[[pap:New York]]
+[[pms:New York (stat federal)]]
+[[nds:New York (Bundsstaat)]]
+[[pl:Nowy Jork (stan)]]
+[[pt:Nova Iorque (estado)]]
+[[ro:New York (stat SUA)]]
+[[rm:New York (stadi)]]
+[[qu:New York suyu]]
+[[ru:Нью-Йорк (штат)]]
+[[sco:New York State]]
+[[stq:New York (Stoat)]]
+[[sq:New York]]
+[[scn:New York (statu)]]
+[[simple:New York]]
+[[sk:New York (štát USA)]]
+[[sl:New York (zvezna država)]]
+[[szl:Nowy Jork (sztat)]]
+[[sr:Њујорк (држава)]]
+[[sh:New York (država)]]
+[[fi:New York (osavaltio)]]
+[[sv:New York (delstat)]]
+[[tl:Bagong York]]
+[[ta:நியூ யோர்க் மாநிலம்]]
+[[th:รัฐนิวยอร์ก]]
+[[chr:ᏄᏲᎩ]]
+[[tr:New York (eyalet)]]
+[[uk:Нью-Йорк (штат)]]
+[[ug:Nyuyork Shitati]]
+[[vi:Tiểu bang New York]]
+[[vo:New York (tat)]]
+[[war:New York]]
+[[wuu:纽约州]]
+[[yi:ניו יארק]]
+[[bat-smg:Niojuorks (valstėjė)]]
+[[zh:纽约州]]</text>
+    </revision>
+  </page>
+</mediawiki>

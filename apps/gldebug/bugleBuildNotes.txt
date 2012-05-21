@@ -1,0 +1,91 @@
+These are notes that may help with issues in building or running BuGLe, reflecting me experience in using the lib:
+
+
+*Changes, fixes, notes
+
+Made changes in gldb-gui-buffer.c:472 - change to g_free to fix crash on MSVC
+Noticed filters.c:342 will get an incorrect default address on windows for filters and will cause a silent crash out, fix by setting the BUGLE_FILTER_DIR environment variable
+
+--
+
+linux needs CFLAGS as -DDEBUG_CONSTRUCTOR at build time to prevent some runtime errors
+
+scons config=debug CFLAGS=-DDEBUG_CONSTRUCTOR
+soncs config=debug CFLAGS=-DDEBUG_CONSTRUCTOR install
+
+---
+
+to build on windows with msvc pass host-compiler=msvc
+
+---
+
+follow the instructions in the docs carefully! for install
+
+---
+
+HAving an already installed gtk+ set if binaries can clash with the sources
+
+---
+
+to link to the shared lib on linux use "LD_PRELOAD=/path/to/libbugle.so <executable>" when running the program from the command line
+
+---
+
+to get state you need to use the globjects filter set
+
+---
+
+lines 2563 glstate.c:         return strdup("<GL error>"); /* altered from "return "<GL error>";" - Bryce */
+
+---
+
+Have to add:
+#ifdef __cplusplus
+
+extern "C" {
+
+#endif
+
+to fix linker errors when using C++
+
+_Later note - but where?
+
+---
+
+budgie_type comes from budgie/types.h
+
+---
+
+include headers but link against bugle.so
+
+---
+
+hashtable.h at the end needs:
+
+#ifdef __cplusplus
+
+}
+
+#endif
+
+---
+
+bugle calls can mess up if there's no gl Context (e.g. CALL(<some function>) seems to fail (but only sometimes?))
+
+---
+execv-ing:
+args[2] = bugle_asprintf("BUGLE_CHAIN=%s LD_PRELOAD=libbugle.so BUGLE_DEBUGGER=fd BUGLE_DEBUGGER_FD_IN=%d BUGLE_DEBUGGER_FD_OUT=%d %s", chain ? chain : "", out_pipe[0], in_pipe[1], command);
+
+causes a stall for some reason?
+
+_Later note - think this is needing to send a run signal to the prog
+
+---
+
+The hashtable uses set to insert elements
+
+The begin and next functions are used as part of walking the hashtable (getting each 'value' in turn from what I can tell)
+
+---
+
+need to run as super user to get certain features of the debug filter set to work (?)

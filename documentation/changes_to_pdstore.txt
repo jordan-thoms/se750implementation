@@ -1,0 +1,31 @@
+3/6/2011
+
+Non- or semi-functional packages were removed at 2011-06-03 21:12:57
+ 
+
+
+14/1/2010
+
+java.sql.Blobs should now be byte[]s (you can also convert serializable objects to byte arrays 
+I believe)
+java.sql.Timestamps should now be java.util.Dates
+
+
+There is now only 1 usable load method in pdCache. load(GUID instanceId, GUID typeId) 
+is the load to use as load(GUID instanceId) is not yet implememnted.
+There is no longer a facility to remove an instance from the data base (removeInstance) 
+as that does always make sense.
+RemoveLink() might be able to remove most things.
+There is no getGUID, but getInstance may work instead.
+
+We now have a native guid class, so that has also changed a bit, but legacy methods are 
+there.
+
+Lastly there are no more intercession features on the cache, other than addlink and 
+removelink(and so on) which are able to change the model.
+
+Also, pdgen can be used, on its own or called from another class, such that the cache 
+is able to be specified.
+
+
+2012/01/03 restarted main branch

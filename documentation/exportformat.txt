@@ -1,0 +1,68 @@
+// using java binary writer order
+
+// Header
+[16 bytes] Version GUID
+[16 bytes] Repository GUID  [null means unknown]
+[16 bytes] Previous transaction GUID  [null means unknown]
+
+// Transactions
+foreach transaction {
+
+// Transaction header
+[16 bytes]    Transaction GUID
+
+// Changes
+foreach change {
+
+// Change header
+[1 bit, least significant] 0 for removed link, 1 for added link
+	(rcc088a874062db11afc0b95b08f50e CHAR NOT NULL, /* kind */)
+[1 bit]    1 if "instance1" is stored as value, 0 if only its hash GUID is stored
+[1 bit]    1 if "instance2" is stored as value, 0 if only its hash GUID is stored
+[1 bit]    1 if this is the last change in the transaction, 0 otherwise
+[1 bit]    0 for being a main change entry
+[3 bits]   no specified meaning, should be 0
+
+// Change data
+if ("instance1" is a value ) {
+  [8 bytes]	   length
+  [length bytes]   value
+} else {
+  [16 bytes]	instance1 GUID
+	(rbce1429c4062db11afc0b95b08f50e GUID, /* instance */)
+}
+
+[16 bytes]	role2 GUID
+	(r66bf14821704dc11b933e6037c01b1 GUID, /* role2 */)
+
+if ("instance2" is a value ) {
+  [8 bytes]	   length
+  [length bytes]   value
+} else {
+  [16 bytes]    instance2 GUID
+	(r68bf14821704dc11b933e6037c01b1 GUID, /* instance2 */)
+}
+
+//not for current version
+if (instance1 is value && value has length >=32 bytes && value has not been stored before) {
+  // Change header
+  [1 bit, least significant] 1 for added link (value is added)
+  [1 bit]    0 because "instance1" is stored as GUID (hash GUID of value)
+  [1 bit]    1 because "instance2" is stored as value
+  [1 bit]    1 if this is the last change in the transaction, 0 otherwise
+  [1 bit]    1 for being a subordinate change entry
+  [3 bits]   no specified meaning, should be 0
+
+  // Change data
+  [16 bytes]	instance1 GUID (hash GUID of value)
+  [16 bytes]	role2 GUID
+  [8 bytes]	   length
+  [length bytes]   value
+}
+
+Same for instance2...
+
+} // changes loop
+} // transactions loop
+
+if its a value then we store the value in 8 bytes

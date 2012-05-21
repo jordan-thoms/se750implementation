@@ -1,0 +1,208 @@
+package asm.pdintegrate.ASMtest.WhiteboardExample;
+import java.util.*;
+import org.objectweb.asm.*;
+import org.objectweb.asm.attrs.*;
+public class RectangleLocalShapeDump implements Opcodes {
+
+public static byte[] dump () throws Exception {
+
+ClassWriter cw = new ClassWriter(0);
+FieldVisitor fv;
+MethodVisitor mv;
+AnnotationVisitor av0;
+
+cw.visit(V1_6, ACC_PUBLIC + ACC_SUPER, "pdintegrate/ASMtest/WhiteboardExample/RectangleLocalShape", null, "java/lang/Object", new String[] { "pdintegrate/ASMtest/WhiteboardExample/Shape" });
+
+{
+fv = cw.visitField(ACC_PRIVATE, "x", "I", null, null);
+fv.visitEnd();
+}
+{
+fv = cw.visitField(ACC_PRIVATE, "y", "I", null, null);
+fv.visitEnd();
+}
+{
+fv = cw.visitField(ACC_PRIVATE, "width", "I", null, null);
+fv.visitEnd();
+}
+{
+fv = cw.visitField(ACC_PRIVATE, "height", "I", null, null);
+fv.visitEnd();
+}
+{
+mv = cw.visitMethod(ACC_PUBLIC, "getX", "()I", null, null);
+mv.visitCode();
+mv.visitVarInsn(ALOAD, 0);
+mv.visitFieldInsn(GETFIELD, "pdintegrate/ASMtest/WhiteboardExample/RectangleLocalShape", "x", "I");
+mv.visitInsn(IRETURN);
+mv.visitMaxs(1, 1);
+mv.visitEnd();
+}
+{
+mv = cw.visitMethod(ACC_PUBLIC, "setX", "(I)V", null, null);
+mv.visitCode();
+mv.visitVarInsn(ALOAD, 0);
+mv.visitVarInsn(ILOAD, 1);
+mv.visitFieldInsn(PUTFIELD, "pdintegrate/ASMtest/WhiteboardExample/RectangleLocalShape", "x", "I");
+mv.visitInsn(RETURN);
+mv.visitMaxs(2, 2);
+mv.visitEnd();
+}
+{
+mv = cw.visitMethod(ACC_PUBLIC, "getY", "()I", null, null);
+mv.visitCode();
+mv.visitVarInsn(ALOAD, 0);
+mv.visitFieldInsn(GETFIELD, "pdintegrate/ASMtest/WhiteboardExample/RectangleLocalShape", "y", "I");
+mv.visitInsn(IRETURN);
+mv.visitMaxs(1, 1);
+mv.visitEnd();
+}
+{
+mv = cw.visitMethod(ACC_PUBLIC, "setY", "(I)V", null, null);
+mv.visitCode();
+mv.visitVarInsn(ALOAD, 0);
+mv.visitVarInsn(ILOAD, 1);
+mv.visitFieldInsn(PUTFIELD, "pdintegrate/ASMtest/WhiteboardExample/RectangleLocalShape", "y", "I");
+mv.visitInsn(RETURN);
+mv.visitMaxs(2, 2);
+mv.visitEnd();
+}
+{
+mv = cw.visitMethod(ACC_PUBLIC, "getWidth", "()I", null, null);
+mv.visitCode();
+mv.visitVarInsn(ALOAD, 0);
+mv.visitFieldInsn(GETFIELD, "pdintegrate/ASMtest/WhiteboardExample/RectangleLocalShape", "width", "I");
+mv.visitInsn(IRETURN);
+mv.visitMaxs(1, 1);
+mv.visitEnd();
+}
+{
+mv = cw.visitMethod(ACC_PUBLIC, "setWidth", "(I)V", null, null);
+mv.visitCode();
+mv.visitVarInsn(ALOAD, 0);
+mv.visitVarInsn(ILOAD, 1);
+mv.visitFieldInsn(PUTFIELD, "pdintegrate/ASMtest/WhiteboardExample/RectangleLocalShape", "width", "I");
+mv.visitInsn(RETURN);
+mv.visitMaxs(2, 2);
+mv.visitEnd();
+}
+{
+mv = cw.visitMethod(ACC_PUBLIC, "getHeight", "()I", null, null);
+mv.visitCode();
+mv.visitVarInsn(ALOAD, 0);
+mv.visitFieldInsn(GETFIELD, "pdintegrate/ASMtest/WhiteboardExample/RectangleLocalShape", "height", "I");
+mv.visitInsn(IRETURN);
+mv.visitMaxs(1, 1);
+mv.visitEnd();
+}
+{
+mv = cw.visitMethod(ACC_PUBLIC, "setHeight", "(I)V", null, null);
+mv.visitCode();
+mv.visitVarInsn(ALOAD, 0);
+mv.visitVarInsn(ILOAD, 1);
+mv.visitFieldInsn(PUTFIELD, "pdintegrate/ASMtest/WhiteboardExample/RectangleLocalShape", "height", "I");
+mv.visitInsn(RETURN);
+mv.visitMaxs(2, 2);
+mv.visitEnd();
+}
+{
+mv = cw.visitMethod(ACC_PUBLIC, "<init>", "(IIII)V", null, null);
+mv.visitCode();
+mv.visitVarInsn(ALOAD, 0);
+mv.visitMethodInsn(INVOKESPECIAL, "java/lang/Object", "<init>", "()V");
+mv.visitVarInsn(ALOAD, 0);
+mv.visitVarInsn(ILOAD, 1);
+mv.visitFieldInsn(PUTFIELD, "pdintegrate/ASMtest/WhiteboardExample/RectangleLocalShape", "x", "I");
+mv.visitVarInsn(ALOAD, 0);
+mv.visitVarInsn(ILOAD, 2);
+mv.visitFieldInsn(PUTFIELD, "pdintegrate/ASMtest/WhiteboardExample/RectangleLocalShape", "y", "I");
+mv.visitVarInsn(ALOAD, 0);
+mv.visitVarInsn(ILOAD, 3);
+mv.visitFieldInsn(PUTFIELD, "pdintegrate/ASMtest/WhiteboardExample/RectangleLocalShape", "width", "I");
+mv.visitVarInsn(ALOAD, 0);
+mv.visitVarInsn(ILOAD, 4);
+mv.visitFieldInsn(PUTFIELD, "pdintegrate/ASMtest/WhiteboardExample/RectangleLocalShape", "height", "I");
+mv.visitInsn(RETURN);
+mv.visitMaxs(2, 5);
+mv.visitEnd();
+}
+{
+mv = cw.visitMethod(ACC_PUBLIC, "paint", "(Ljava/awt/Graphics;)V", null, null);
+mv.visitCode();
+mv.visitVarInsn(ALOAD, 1);
+mv.visitMethodInsn(INVOKEVIRTUAL, "java/awt/Graphics", "getColor", "()Ljava/awt/Color;");
+mv.visitVarInsn(ASTORE, 2);
+mv.visitVarInsn(ALOAD, 1);
+mv.visitMethodInsn(INVOKESTATIC, "java/lang/Math", "random", "()D");
+mv.visitInsn(D2F);
+mv.visitMethodInsn(INVOKESTATIC, "java/lang/Math", "random", "()D");
+mv.visitLdcInsn(new Double("4.0"));
+mv.visitInsn(DDIV);
+mv.visitLdcInsn(new Double("0.75"));
+mv.visitInsn(DADD);
+mv.visitInsn(D2F);
+mv.visitMethodInsn(INVOKESTATIC, "java/lang/Math", "random", "()D");
+mv.visitLdcInsn(new Double("4.0"));
+mv.visitInsn(DDIV);
+mv.visitLdcInsn(new Double("0.75"));
+mv.visitInsn(DADD);
+mv.visitInsn(D2F);
+mv.visitMethodInsn(INVOKESTATIC, "java/awt/Color", "getHSBColor", "(FFF)Ljava/awt/Color;");
+mv.visitMethodInsn(INVOKEVIRTUAL, "java/awt/Graphics", "setColor", "(Ljava/awt/Color;)V");
+mv.visitVarInsn(ALOAD, 1);
+mv.visitVarInsn(ALOAD, 0);
+mv.visitFieldInsn(GETFIELD, "pdintegrate/ASMtest/WhiteboardExample/RectangleLocalShape", "x", "I");
+mv.visitVarInsn(ALOAD, 0);
+mv.visitFieldInsn(GETFIELD, "pdintegrate/ASMtest/WhiteboardExample/RectangleLocalShape", "y", "I");
+mv.visitVarInsn(ALOAD, 0);
+mv.visitFieldInsn(GETFIELD, "pdintegrate/ASMtest/WhiteboardExample/RectangleLocalShape", "width", "I");
+mv.visitVarInsn(ALOAD, 0);
+mv.visitFieldInsn(GETFIELD, "pdintegrate/ASMtest/WhiteboardExample/RectangleLocalShape", "height", "I");
+mv.visitMethodInsn(INVOKEVIRTUAL, "java/awt/Graphics", "drawRect", "(IIII)V");
+mv.visitVarInsn(ALOAD, 1);
+mv.visitVarInsn(ALOAD, 2);
+mv.visitMethodInsn(INVOKEVIRTUAL, "java/awt/Graphics", "setColor", "(Ljava/awt/Color;)V");
+mv.visitInsn(RETURN);
+mv.visitMaxs(7, 3);
+mv.visitEnd();
+}
+{
+mv = cw.visitMethod(ACC_PUBLIC, "randomize", "()V", null, null);
+mv.visitCode();
+mv.visitVarInsn(ALOAD, 0);
+mv.visitMethodInsn(INVOKESTATIC, "java/lang/Math", "random", "()D");
+mv.visitLdcInsn(new Double("400.0"));
+mv.visitInsn(DMUL);
+mv.visitInsn(D2I);
+mv.visitMethodInsn(INVOKEVIRTUAL, "pdintegrate/ASMtest/WhiteboardExample/RectangleLocalShape", "setX", "(I)V");
+mv.visitVarInsn(ALOAD, 0);
+mv.visitMethodInsn(INVOKESTATIC, "java/lang/Math", "random", "()D");
+mv.visitLdcInsn(new Double("400.0"));
+mv.visitInsn(DMUL);
+mv.visitInsn(D2I);
+mv.visitMethodInsn(INVOKEVIRTUAL, "pdintegrate/ASMtest/WhiteboardExample/RectangleLocalShape", "setY", "(I)V");
+mv.visitVarInsn(ALOAD, 0);
+mv.visitIntInsn(SIPUSH, 400);
+mv.visitMethodInsn(INVOKESTATIC, "java/lang/Math", "random", "()D");
+mv.visitLdcInsn(new Double("200.0"));
+mv.visitInsn(DMUL);
+mv.visitInsn(D2I);
+mv.visitInsn(ISUB);
+mv.visitMethodInsn(INVOKEVIRTUAL, "pdintegrate/ASMtest/WhiteboardExample/RectangleLocalShape", "setWidth", "(I)V");
+mv.visitVarInsn(ALOAD, 0);
+mv.visitIntInsn(SIPUSH, 400);
+mv.visitMethodInsn(INVOKESTATIC, "java/lang/Math", "random", "()D");
+mv.visitLdcInsn(new Double("200.0"));
+mv.visitInsn(DMUL);
+mv.visitInsn(D2I);
+mv.visitInsn(ISUB);
+mv.visitMethodInsn(INVOKEVIRTUAL, "pdintegrate/ASMtest/WhiteboardExample/RectangleLocalShape", "setHeight", "(I)V");
+mv.visitInsn(RETURN);
+mv.visitMaxs(6, 1);
+mv.visitEnd();
+}
+cw.visitEnd();
+
+return cw.toByteArray();
+}
+}

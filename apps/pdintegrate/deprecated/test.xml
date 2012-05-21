@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<clubhub_clubgroups xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="clubhub_clubgroups.xsd">
+<club identifier='AUCC' name='Auckland U Cricket Test Club'>
+  	<grade id='123' name='Grade 1'></grade>
+  	<grade id='124' name='Grade 2'></grade>
+  	<grade id='125' name='Grade 3'></grade>
+	<team id='12' name='Team 1'></team>
+	<team id='34' name='Team 2'></team>
+	<team id='56' name='Team 3'></team>
+	<team id='78' name='Team 4'></team>
+	<gradeteam gradeid='123' teamid='12'></gradeteam>
+	<gradeteam gradeid='123' teamid='34'></gradeteam>
+	<gradeteam gradeid='124' teamid='12'></gradeteam>
+	<gradeteam gradeid='124' teamid='56'></gradeteam>
+	<gradeteam gradeid='124' teamid='12'></gradeteam>
+	<gradeteam gradeid='125' teamid='78'></gradeteam>
+	<player id='2001' firstname='John' lastname='Smith' email='john@example.com' dobyear='1992' dobmonth='4' dobday='3' gender='M'></player>
+	<player id='2002' firstname='Mike' lastname='Smith' email='mike@example.com' dobyear='1992' dobmonth='5' dobday='4' gender='M'></player>
+	<player id='2003' firstname='Bob' lastname='Smith' email='bob@example.com' dobyear='1992' dobmonth='6' dobday='5' gender='M'></player>
+	<player id='2004' firstname='Bill' lastname='Smith' email='bill@example.com' dobyear='1992' dobmonth='7' dobday='6' gender='M'></player>
+	<player id='2005' firstname='Fred' lastname='Smith' email='fred@example.com' dobyear='1992' dobmonth='8' dobday='31' gender='M'></player>
+	<teamplayer teamid='12' playerid='2001'></teamplayer>
+	<teamplayer teamid='12' playerid='2002'></teamplayer>
+	<teamplayer teamid='12' playerid='2003'></teamplayer>
+	<teamplayer teamid='12' playerid='2004'></teamplayer>
+	<teamplayer teamid='12' playerid='2005'></teamplayer>
+	<teamplayer teamid='34' playerid='2001'></teamplayer>
+	<teamplayer teamid='34' playerid='2003'></teamplayer>
+	<teamplayer teamid='34' playerid='2005'></teamplayer>
+</club>
+</clubhub_clubgroups>

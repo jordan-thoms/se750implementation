@@ -1,0 +1,12 @@
+Notes - Outdated. See TODO.txt in dropbox folder
+	
+	
+Current Capabilities
+	Detect read - write pairs in a single method in which the read operation needs modification
+	Detect the above when the read method is in one method and the write in it's successor - Needs changing, assumes the method is called right at the end.
+	Can do the necessary modifications (Or rather it would if the select for update operation was implemented - just change the final variable to the name of the new method)
+
+TODO
+	DONE - Arguments are bugged, they appear out of order and are missing in method method.
+	DONE - Upgrade successor detection - recognise when the crucial variables (PDStore, transactionID) are passed to a method. If they're not it's not a successor worth checking.
+	Upgrade successor detection again - it should take note of where in a method another method is called 

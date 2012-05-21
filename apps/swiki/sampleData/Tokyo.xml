@@ -1,0 +1,963 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.4/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.4/ http://www.mediawiki.org/xml/export-0.4.xsd" version="0.4" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.16wmf4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Tokyo</title>
+    <id>30057</id>
+    <revision>
+      <id>369522068</id>
+      <timestamp>2010-06-22T09:45:28Z</timestamp>
+      <contributor>
+        <username>Oda Mari</username>
+        <id>4320462</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted to revision 369239897 by [[Special:Contributions/Rick Block|Rick Block]]; Mumbai is not a sister city. using [[WP:TWINKLE|TW]]</comment>
+      <text xml:space="preserve">{{About|the Japanese [[Prefectures of Japan|prefecture]]}}
+{{pp-move-indef}}
+{{Infobox settlement
+|name                         = Tokyo
+|native_name                  = 東京
+|official_name                = 東京都 · Tokyo Metropolis
+|settlement_type= [[prefectures of Japan|Metropolis]]
+|image_skyline                = Japan Tokyo3.png
+|image_caption                = From top left:  [[Shinjuku, Tokyo|Shinjuku]], [[Tokyo Tower]], [[Rainbow Bridge (Tokyo)|Rainbow Bridge]], [[Shibuya, Tokyo|Shibuya]], [[National Diet Building]]
+|image_map                    = Map of Japan with highlight on 13 Tokyo prefecture.svg
+|map_caption                  = Location of Tokyo within Japan
+|image_map1                   = Tokyo Landsat.jpg
+|map_caption1                 = Satellite photo of Tokyo's 23 Special wards taken by [[NASA]]'s [[Landsat 7]]
+|image_flag                   =
+|image_blank_emblem           = Emblem of Tokyo.svg
+|blank_emblem_type            = [[Insignias of Tokyo|Seal]]
+|blank_emblem_size            = 100px
+|image_seal                   = PrefSymbol-Tokyo.svg
+|seal_size                    = 115px
+|seal_link                    = Insignias of Tokyo
+|image_shield                 =
+|latd=35 |latm=42 |lats=2 |latNS=N
+|longd=139 |longm=42 |longs=54 |longEW=E
+|pushpin_map                  = Japan &lt;!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map --&gt;
+|pushpin_label_position       = &lt;!-- the position of the pushpin label: left, right, top, bottom, none --&gt;
+|pushpin_map_caption          =
+|pushpin_mapsize              =
+|coordinates_display             = inline,title
+|coordinates_region             = JP
+|subdivision_type             = [[List of sovereign states|Country]]
+|subdivision_name             = {{flag|Japan}}
+|subdivision_type1            = [[List of regions of Japan|Region]]
+|subdivision_name1            = [[Kantō region|Kantō]]
+|subdivision_type2            = Island
+|subdivision_name2            = [[Honshū]]
+|established_title            =
+|established_date             =
+|parts_type                   = Divisions
+|parts                        = [[Special wards of Tokyo|23 special wards]], 26 cities, 1 district, &amp; 4 subprefectures
+|government_type              = [[prefectures of Japan|Metropolis]]
+|leader_title                 = [[List of governors of Japan|Governor]]
+|leader_name                  = [[Shintarō Ishihara]]
+|leader_title1                = [[List of prefectural capitals in Japan|Capital]]
+|leader_name1                 = [[Shinjuku, Tokyo|Shinjuku]]&amp;nbsp;
+|area_footnotes               = (ranked 45th)
+|area_total_km2               = 2187.08
+|area_land_km2                =
+|area_water_km2               =
+|area_water_percent           = 1.0
+|area_urban_km2               =
+|elevation_m                  =
+|population_demonym           =
+|population_as_of             = 1st
+|population_footnotes         = &lt;ref name=population/&gt;
+|population_total             = 13,010,279 (April 1st, 2010)
+|population_note              = (April 1, 2010)
+|population_density_km2       = 5847
+|population_density_metro_km2 =
+|population_metro             =
+|population_blank1_title      = 23 Wards
+|population_blank1            = 8,653,000
+|population_blank2_title      =
+|population_blank2            =
+|demographics_type1           =
+|demographics1_footnotes      =
+|demographics1_title1         =
+|demographics1_info1          =
+|demographics1_title2         =
+|demographics1_info2          =
+|demographics1_title3         =
+|demographics1_info3          =
+|demographics1_title4         =
+|demographics1_info4          =
+|demographics1_title5         =
+|demographics1_info5          =
+|demographics_type2           =
+|demographics2_footnotes      =
+|demographics2_title1         =
+|demographics2_info1          =
+|demographics2_title2         =
+|demographics2_info2          =
+|demographics2_title3         =
+|demographics2_info3          =
+|demographics2_title4         =
+|demographics2_info4          =
+|demographics2_title5         =
+|demographics2_info5          =
+|timezone                     = [[Japan Standard Time]]
+|utc_offset                   = +9
+|postal_code_type             = [[ISO 3166-2:JP|ISO 3166-2]]
+|postal_code                  = JP-13
+|area_code                    =
+|blank_name_sec1              =
+|blank_info_sec1              =
+|blank1_name_sec1             =
+|blank1_info_sec1             =
+|blank2_name_sec1             =
+|blank2_info_sec1             =
+|blank3_name_sec1             =
+|blank3_info_sec1             =
+|blank4_name_sec1             =
+|blank4_info_sec1             =
+|blank_name_sec2              = '''Flower'''
+|blank_info_sec2              = [[Sakura|Somei-Yoshino]] cherry blossom
+|blank1_name_sec2             = '''Tree'''
+|blank1_info_sec2             = [[Ginkgo biloba|Ginkgo tree]] (''Ginkgo biloba'')
+|blank2_name_sec2             = '''Bird'''
+|blank2_info_sec2             = [[Black-headed Gull]] (''Larus ridibundus'')
+|blank3_name_sec2             =
+|blank3_info_sec2             =
+|website                      = [http://www.metro.tokyo.jp/ENGLISH/ metro.tokyo.jp]{{en icon}}
+|footnotes                    =
+}}
+
+{{nihongo|'''Tokyo'''|東京|Tōkyō; &quot;Eastern Capital&quot;}}, officially {{nihongo|'''Tokyo Metropolis'''|東京都|Tōkyō-to}},&lt;ref&gt;{{cite web
+  |url=http://www.metro.tokyo.jp/ENGLISH/PROFILE/overview02.htm
+  |title=Geography of Tokyo
+  |publisher=Tokyo Metropolitan Government
+  |date=
+  |accessdate=2008-10-18}}&lt;/ref&gt; is one of the 47 [[prefectures of Japan|prefectures]] of [[Japan]]. It is located on the eastern side of the main island [[Honshū]] and includes the [[Izu Islands]] and [[Ogasawara Islands]]. Tokyo Metropolis was formed in 1943 from the merger of the former Tokyo Prefecture (Tokyo-''fu'') and the [[Tokyo City|city of Tokyo]]. Tokyo is the [[capital of Japan|capital]] of Japan, the center of the [[Greater Tokyo Area]], and the [[List of Japanese cities by population|largest metropolitan area]] of Japan. It is the seat of the [[Government of Japan|Japanese government]] and the [[Kokyo|Imperial Palace]], and the home of the [[Imperial House of Japan|Japanese Imperial Family]].
+
+The Tokyo Metropolitan government administers the twenty-three [[special wards of Tokyo]], each governed as a city, that cover the area that was the city of Tokyo as well as 39 &lt;!-- 30 in the western half of the mainland, 8 in Izu, and 1 in Ogasawara --&gt; [[Municipalities of Japan|municipalities]] in the western part of the prefecture and the two outlying island chains. Metropolitan The population of the special wards is over 8 million people, with the total population of the prefecture exceeding 13 million. The prefecture is the [[Largest Metropolitan Area|world's most populous metropolitan area]] with 35 to 39 million people (depending on definition) and the [[List of cities by GDP|world's largest metropolitan economy]] with a GDP of US$1.479 trillion at [[purchasing power parity]] in 2008.&lt;ref name=&quot;pricewater&quot;&gt;{{cite web
+  |url=https://www.ukmediacentre.pwc.com/Content/Detail.asp?ReleaseID=3421&amp;NewsAreaID=2
+  |title=Global city GDP rankings 2008-2025
+  |publisher=Pricewaterhouse Coopers
+  |accessdate=27 November 2009}}&lt;/ref&gt;
+
+Tokyo was described by [[Saskia Sassen]] as one of the three &quot;command centers&quot; for the [[world economy]], along with [[New York City]] and [[London]].&lt;ref&gt;{{cite book
+  |author=[[Saskia Sassen|Sassen, Saskia]]
+  |title=The Global City: New York, London, Tokyo
+  |year=2001
+  |publisher=Princeton University Press
+  |edition=2nd
+  |isbn=0691070636}}&lt;/ref&gt; This city is considered an [[global city|alpha+ world city]], listed by the GaWC's 2008 inventory&lt;ref&gt;[http://www.lboro.ac.uk/gawc/world2008t.html GaWC - The World According to GaWC 2008]&lt;/ref&gt; and ranked fourth among global cities by ''[[Foreign Policy]]'''s 2008 [[Global city#Global Cities Index|Global Cities Index]]. In 2009 Tokyo was named the [[List of most expensive cities|world's most expensive city]] for expatriate employees, according to the [[Mercer (consulting firm)|Mercer]]  and [[Economist Intelligence Unit]] cost-of-living surveys &lt;ref&gt;[http://www.mercer.com/costoflivingpr The Mercer 2009 Cost of Living Survey].&lt;/ref&gt; and named the third Most Liveable City and the World’s Most Livable Megalopolis by the magazine ''[[Monocle (2007 magazine)|Monocle]]''.&lt;ref&gt;{{cite web
+  |last=Fawkes   |first=Piers
+  |url=http://www.psfk.com/2009/06/top-25-most-liveable-cities-2009-monocle-magazine-zurich-copenhagen-tokyo-munich-helsinki.html
+  |title=Top 25 Most Liveable Cities 2009 - Monocle
+  |publisher=PSFK.com
+  |date=2009-06-18
+  |accessdate=2009-07-06}}&lt;/ref&gt;
+
+==Etymology==
+Tokyo was originally known as [[Edo]], meaning &quot;estuary&quot;.&lt;ref name=placenames&gt;Room, Adrian. ''Placenames of the World''. McFarland &amp; Company (1996), [http://books.google.com/books?id=PzIer-wYbnQC&amp;pg=PA360&amp;sig=X75YRM_z45rzt4ZcemXMFhn9uWs p360]. ISBN 0786418141.&lt;/ref&gt; Its name was changed to Tokyo (''Tōkyō'': ''tō'' (east) + ''kyō'' (capital)) when it became the imperial capital in 1868, in line with the East Asian tradition of including the word capital ('京') in the name of the capital city.&lt;ref name=placenames/&gt;  During the early [[Meiji period]], the city was also called &quot;Tōkei&quot;, an alternative pronunciation for the same Chinese characters representing &quot;Tokyo&quot;. Some surviving official English documents use the spelling &quot;Tokei&quot;.&lt;ref name=&quot;Tōkei&quot;&gt;{{cite book
+  |title=Japanese Capitals in Historical Perspective: Place, Power and Memory in Kyoto, Edo and Tokyo
+  |last=Waley
+  |first=Paul
+  |publisher=[[Routledge]]
+  |year=2003
+  |page=253
+  |isbn=070071409X
+}}&lt;/ref&gt; However, this pronunciation is now obsolete.&lt;ref&gt;[http://www.soumu.metro.tokyo.jp/01soumu/archives/0715tokei.htm &quot;明治東京異聞～トウケイかトウキョウか～東京の読み方&quot; Tokyo Metropolitan Archives (2008)]. Retrieved on 13 September 2008. {{ja icon}}&lt;/ref&gt;
+
+==History==
+{{Main|History of Tokyo}}
+[[Image:Tokugawa 1.jpg|thumb|left|[[Tokugawa Ieyasu]]]]
+Tokyo was originally a small fishing village named Edo.
+
+It was first fortified by the [[Edo clan]], in the late 12th century.
+
+In 1457, [[Ōta Dōkan]] built [[Edo Castle]]. In 1590, [[Tokugawa Ieyasu]] made Edo his base and when he became [[shogun]] in 1603, the town became the center of his nationwide military government. During the subsequent [[Edo period]], Edo grew into one of the largest cities in the world with a population topping one million by the 18th century.&lt;ref&gt;{{cite book
+  |title=Edo and Paris: Urban Life and the State in the Early Modern Era
+  |last=McClain
+  |first=James
+  |publisher=[[Cornell University Press]]
+  |year=1994
+  |page=13
+  |isbn=080148183X
+}}&lt;/ref&gt;
+
+It became the de facto capital of Japan&lt;ref&gt;{{cite book
+  |title=The Making of Urban Japan: Cities and Planning from Edo to the Twenty First Century
+  |last=Sorensen
+  |first=Andre
+  |publisher=[[RoutledgeCurzon]]
+  |year=2004
+  |page=16
+  |isbn=0415354226
+}}&lt;/ref&gt; even while the emperor lived in [[Kyoto]], the imperial capital.
+After about 263 years, the shogunate was overthrown under the banner of [[Meiji Restoration|restoring imperial rule]]. In 1869, the 17-year-old [[Emperor Meiji]] moved to Edo. Tokyo was already the nation's political and cultural center,&lt;ref&gt;{{cite web
+  |url=http://www.metro.tokyo.jp/ENGLISH/PROFILE/overview01.htm
+  |title=History of Tokyo
+  |accessdate=2007-10-17
+  |publisher=Tokyo Metropolitan Government
+}}&lt;/ref&gt; and the emperor's residence made it a ''de facto'' imperial capital as well with the former [[Edo Castle]] becoming the [[Kokyo|Imperial Palace]]. The [[Tokyo City|city of Tokyo]] was established, and continued to be the capital until it was abolished as a municipality in 1943 and merged with the &quot;Metropolitan Prefecture&quot; of Tokyo.
+
+Central Tokyo, like [[Osaka]], has been designed since about 1900 to be centered around major train stations in a high-density fashion, so suburban railways were built relatively cheaply at street level and with their own [[right-of-way (transportation)|right-of-way]]. This differs from many cities in the [[United States]] that are low-density and automobile-centric. Though [[Shuto Expressway|expressways]] have been built in Tokyo, the basic design has not changed.
+
+Tokyo went on to suffer two major catastrophes in the 20th century, but it recovered from both. One was the [[1923 Great Kantō earthquake]], which left 140,000 dead or missing,&lt;ref&gt;[http://www.britannica.com/EBchecked/topic/1421140/Tokyo-Yokohama-earthquake-of-1923 Tokyo-Yokohama earthquake of 1923]. Britannica Online Encyclopedia.&lt;/ref&gt; and the other was [[World War II]]. The [[Bombing of Tokyo in World War II|bombing of Tokyo in 1944 and 1945]], with 75,000 to 200,000 killed and half of the city destroyed, was almost as devastating as the atomic bombs of [[Hiroshima]] and [[Nagasaki, Nagasaki|Nagasaki]] combined.&lt;ref&gt;{{cite book |title=Modern Japan: A Social and Political History |author=Tipton, Elise K. |publisher=Routledge |year=2002 |page=141}}&lt;/ref&gt;
+[[File:sto1012.jpg|left|thumb|Ginza during the allied occupation period]]
+After the war, Tokyo was completely rebuilt, and was showcased to the world during the [[1964 Summer Olympics]]. The 1970s brought new high-rise developments such as [[Sunshine 60]], a new and controversial&lt;ref&gt;[http://tokyo-nrt.airports-guides.com/ &quot;Tokyo Narita International Airport (NRT) Airport Information (Tokyo, Japan)&quot;]. Retrieved on 11 September 2008.&lt;/ref&gt; [[Narita International Airport|airport]] at [[Narita]] in 1978 (some distance outside city limits), and a population increase to about 11 million (in the metropolitan area).
+
+[[Tokyo subway|Tokyo's subway]] and commuter rail network became one of the busiest in the world&lt;ref&gt;{{cite web
+  |url=http://www.jrtr.net/jrtr25/pdf/f04_oka.pdf
+  |title=Rail Transport in The World's Major Cities
+  |publisher=Japan Railway and Transport Review
+  |accessdate=2007-10-17
+  |format=PDF
+}}&lt;/ref&gt; as more and more people moved to the area. In the 1980s, real estate prices skyrocketed [[Japanese asset price bubble|during a real estate and debt bubble]]. The bubble burst in the early 1990s, and many companies, banks, and individuals were caught with mortgage backed debts while real estate was shrinking in value. A major recession followed, making the 1990s Japan's &quot;[[lost decade (Japan)|lost decade]]&quot;&lt;ref&gt;{{cite book
+  |last=Saxonhouse
+  |first=Gary R. (ed.)
+  |coauthors=Robert M. Stern (ed.)
+  |title=Japan's Lost Decade: Origins, Consequences and Prospects for Recovery
+  |publisher=[[Blackwell Publishing Limited]]
+  |year=2004
+  |isbn=1405119179 }}&lt;/ref&gt; from which it is now slowly recovering.
+
+Tokyo still sees new urban developments on large lots of less profitable land. Recent projects include [[Ebisu, Tokyo|Ebisu]] Garden Place, Tennozu Isle, [[Shiodome]], [[Roppongi Hills]], [[Shinagawa, Tokyo|Shinagawa]] (now also a [[Shinkansen]] station), and the [[Marunouchi]] side of [[Tokyo Station]]. Buildings of significance are demolished for more up-to-date shopping facilities such as [[Omotesando Hills]].
+
+Land reclamation projects in Tokyo have also been going on for centuries. The most prominent is the [[Odaiba]] area, now a major shopping and entertainment center. Various plans have been proposed&lt;ref&gt;{{cite web
+  |url=http://www.jpc-sed.or.jp/eng/committee/committee06.html
+  |title=Shift of Capital from Tokyo Committee
+  |accessdate=2007-10-14
+  |publisher=Japan Productivity Center for Socio-Economic Development
+}}&lt;/ref&gt; for transferring national government functions from Tokyo to secondary capitals in other regions of Japan, in order to slow down rapid development in Tokyo and revitalize economically lagging areas of the country. These plans have been controversial&lt;ref&gt;{{cite web
+  |url=http://www.metro.tokyo.jp/ENGLISH/GOVERNOR/SPEECH/2003/0301/2.htm
+  |title=Policy Speech by Governor of Tokyo, Shintaro Ishihara at the First Regular Session of the Metropolitan Assembly, 2003
+  |accessdate=2007-10-17
+  |publisher=Tokyo Metropolitan Government
+}}&lt;/ref&gt; within Japan and have yet to be realized.
+
+==Geography and administrative divisions==
+{{Main|Politics of Tokyo|List of mergers in Tokyo}}
+
+{{climate chart
+ | Tokyo
+ |  2.1 |  9.8 |  48.6
+ |  2.4 | 10.0 |  60.2
+ |  5.1 | 12.9 | 114.5
+ | 10.5 | 18.4 | 130.3
+ | 15.1 | 22.7 | 128.0
+ | 18.9 | 25.2 | 164.9
+ | 22.5 | 29.0 | 161.5
+ | 24.2 | 30.8 | 165.1
+ | 20.7 | 26.8 | 208.5
+ | 15.0 | 21.6 | 163.1
+ |  9.5 | 16.7 |  92.5
+ |  4.6 | 12.3 |  39.6
+ | source = JMA
+ | float  = right }}
+
+The mainland portion of Tokyo lies northwest of [[Tokyo Bay]] and measures about 90&amp;nbsp;km east to west and 25&amp;nbsp;km north to south. [[Chiba Prefecture]] borders it to the east, [[Yamanashi Prefecture|Yamanashi]] to the west, [[Kanagawa Prefecture|Kanagawa]] to the south, and [[Saitama Prefecture|Saitama]] to the north. Mainland Tokyo is further subdivided into the special wards (occupying the eastern half) and the Tama area ({{lang|ja|多摩地域}}) stretching westwards.
+
+[[Image:TokyoMetropolitanGovernmentOffice.jpg|thumb|left|[[Tokyo Metropolitan Government Building]]]] Also within the administrative boundaries of Tokyo Metropolis are two island chains in the [[Pacific Ocean]] directly south: the [[Izu Islands]], and the [[Ogasawara Islands]], which stretch more than 1,000&amp;nbsp;km away from the mainland. Because of these islands and mountainous regions to the west, Tokyo's overall population density figures far underrepresent the real figures for urban and suburban regions of Tokyo.
+
+Under [[Japanese law]], Tokyo is designated as a ''to'' ({{lang|ja|[[wiktionary:都|都]]}}), translated as ''[[metropolis]]''.&lt;ref&gt;{{cite web
+  |url=http://70.86.96.100/pdfs/en/localg2006.pdf
+  |title=Local Government in Japan
+  |accessdate=2008-09-14
+  |publisher=Council of Local Authorities for International Relations
+  |format=PDF
+  |pages=8
+}}&lt;/ref&gt; Its administrative structure is similar to that of Japan's other [[Prefectures of Japan|prefectures]]. Within Tokyo lie dozens of smaller entities, including many cities, the twenty-three special wards, districts, towns, villages, a quasi-national park, and a national park. The [[Special wards of Tokyo|twenty-three special wards]] ({{lang|ja|特別[[wiktionary:区|区]]}} -ku), which until 1943 comprised the [[Tokyo City|city of Tokyo]], are now separate, self-governing municipalities, each having a mayor, a council, and the status of a city.
+
+In addition to these 23 special wards, Tokyo also includes 26 more cities ([[wiktionary:市|市]] -shi), five towns ({{lang|ja|[[wiktionary:町|町]]}} -chō or machi), and eight villages ({{lang|ja|[[wiktionary:村|村]]}} -son or -mura), each of which has a local government. The Tokyo Metropolitan Government is headed by a publicly elected governor and metropolitan assembly. Its [[Tokyo Metropolitan Government Building|headquarters]] are in the ward of [[Shinjuku, Tokyo|Shinjuku]]. They govern all of Tokyo, including lakes, rivers, dams, farms, remote islands, and [[national parks]] in addition to its neon jungles, skyscrapers and crowded subways.
+
+===Special wards===
+[[Image:Tokyo Special Wards.png|thumb|right|A map of Tokyo's 23 Special wards]]
+The [[Special wards of Tokyo|special wards]] (''tokubetsu-ku'') of Tokyo comprise the area formerly incorporated as Tokyo City. On July 1, 1943, Tokyo City was merged with {{nihongo|Tokyo Prefecture|東京府|Tōkyō-fu}} forming the current &quot;metropolitan prefecture&quot;. As a result, unlike other [[wards of Japan|city wards]] in Japan, these wards are not part of any larger incorporated city.
+Each ward is a [[Municipalities of Japan|municipality]] with its own elected mayor and assembly like the other cities of Japan. The wards differ from other cities in having a unique administrative relationship with the prefectural government.  Certain municipal functions, such as waterworks, sewerage, and fire-fighting, are handled by the Tokyo Metropolitan Government.  To pay for the added administrative costs, the prefecture collects municipal taxes, which would usually be levied by the city.&lt;ref&gt;[http://www.metro.tokyo.jp/ENGLISH/PROFILE/overview06.htm The Structure of the Tokyo Metropolitan Government] (Tokyo government webpage)&lt;/ref&gt;
+
+The special wards of Tokyo are:
+{|
+|- style=&quot;vertical-align:top;&quot;
+|
+* [[Adachi, Tokyo|Adachi]]
+* [[Arakawa, Tokyo|Arakawa]]
+* [[Bunkyō, Tokyo|Bunkyō]]
+* [[Chiyoda, Tokyo|Chiyoda]]
+* [[Chūō, Tokyo|Chūō]]
+* [[Edogawa, Tokyo|Edogawa]]
+* [[Itabashi, Tokyo|Itabashi]]
+* [[Katsushika, Tokyo|Katsushika]]
+|
+* [[Kita, Tokyo|Kita]]
+* [[Kōtō, Tokyo|Kōtō]]
+* [[Meguro, Tokyo|Meguro]]
+* [[Minato, Tokyo|Minato]]
+* [[Nakano, Tokyo|Nakano]]
+* [[Nerima, Tokyo|Nerima]]
+* [[Ōta, Tokyo|Ōta]]
+* [[Setagaya, Tokyo|Setagaya]]
+|
+* [[Shibuya, Tokyo|Shibuya]]
+* [[Shinagawa, Tokyo|Shinagawa]]
+* [[Shinjuku, Tokyo|Shinjuku]]
+* [[Suginami, Tokyo|Suginami]]
+* [[Sumida, Tokyo|Sumida]]
+* [[Taitō, Tokyo|Taitō]]
+* [[Toshima, Tokyo|Toshima]]
+|}
+
+The &quot;three core wards&quot; of Tokyo are [[Chiyoda, Tokyo|Chiyoda]], [[Chūō, Tokyo|Chūō]] and [[Minato, Tokyo|Minato]].&lt;ref&gt;[http://www.metro.tokyo.jp/ENGLISH/PROFILE/overview03.htm Population of Tokyo - Tokyo Metropolitan Government] (Retrieved on July 4, 2009)&lt;/ref&gt;
+
+===Western Tokyo===
+[[File:Cities in Western Tokyo Metropolis.png|thumb|right|A map of cities in western part of Tokyo]]
+To the west of the special wards, Tokyo Metropolis consists of cities, towns and villages that enjoy the same legal status as those elsewhere in Japan.
+
+While serving as &quot;[[Bedroom community|bed towns]]&quot; for those working in central Tokyo, some of these also have a local commercial and industrial base. Collectively, these are often known as the Tama Area or [[Western Tokyo]].
+
+====Cities====
+Twenty-six cities lie within the western part of Tokyo:
+{|
+|- style=&quot;vertical-align:top;&quot;
+|
+* [[Akiruno, Tokyo|Akiruno]]
+* [[Akishima, Tokyo|Akishima]]
+* [[Chōfu, Tokyo|Chōfu]]
+* [[Fuchū, Tokyo|Fuchū]]
+* [[Fussa, Tokyo|Fussa]]
+* [[Hachiōji, Tokyo|Hachiōji]]
+* [[Hamura, Tokyo|Hamura]]
+* [[Higashikurume, Tokyo|Higashikurume]]
+* [[Higashimurayama, Tokyo|Higashimurayama]]
+|
+* [[Higashiyamato, Tokyo|Higashiyamato]]
+* [[Hino, Tokyo|Hino]]
+* [[Inagi, Tokyo|Inagi]]
+* [[Kiyose, Tokyo|Kiyose]]
+* [[Kodaira, Tokyo|Kodaira]]
+* [[Koganei, Tokyo|Koganei]]
+* [[Kokubunji, Tokyo|Kokubunji]]
+* [[Komae, Tokyo|Komae]]
+* [[Kunitachi, Tokyo|Kunitachi]]
+|
+* [[Machida, Tokyo|Machida]]
+* [[Mitaka, Tokyo|Mitaka]]
+* [[Musashimurayama, Tokyo|Musashimurayama]]
+* [[Musashino, Tokyo|Musashino]]
+* [[Nishitōkyō, Tokyo|Nishitōkyō]]
+* [[Ōme, Tokyo|Ōme]]
+* [[Tachikawa, Tokyo|Tachikawa]]
+* [[Tama, Tokyo|Tama]]
+|}
+
+The Tokyo Metropolitan Government has designated Hachiōji, Tachikawa, Machida, Ōme and Tama New Town as regional centers of the Tama area,&lt;ref&gt;{{cite web
+|url=http://www.toshiseibi.metro.tokyo.jp/plan/pe-011.htm
+|title=Development of the Metropolitan Center, Subcenters and New Base
+|accessdate=2007-10-14
+|publisher=Bureau of Urban Development, Tokyo Metropolitan Government
+}}&lt;/ref&gt; as part of their plans to disperse urban functions away from central Tokyo.
+
+====Districts, towns and villages====
+The far west is occupied by the district (''gun'') of [[Nishitama, Tokyo|Nishitama]]. Much of this area is mountainous and unsuitable for urbanization. The highest mountain in Tokyo, [[Mount Kumotori]], is 2,017&amp;nbsp;m high; other mountains in Tokyo include Takasu (1737&amp;nbsp;m), Odake (1266&amp;nbsp;m), and [[Mount Mitake|Mitake]] (929&amp;nbsp;m). [[Lake Okutama]], on the [[Tama River]] near [[Yamanashi Prefecture]], is Tokyo's largest lake.
+* [[Hinode, Tokyo|Hinode]]
+* [[Mizuho, Tokyo|Mizuho]]
+* [[Okutama, Tokyo|Okutama]]
+* [[Hinohara, Tokyo|Hinohara]]
+
+===Islands===
+[[Image:Hachijo-jima.JPG|thumb|[[Fuji-Hakone-Izu National Park]]]]
+Tokyo has numerous outlying islands, which extend as far as 1850&amp;nbsp;km from central Tokyo. Because of the islands' distance from the administrative headquarters of the metropolitan government in Shinjuku, local offices administer them.
+
+The [[Izu Islands]] are a group of volcanic islands and form part of the [[Fuji-Hakone-Izu National Park]]. The islands in order from closest to Tokyo are [[Izu Ōshima]], [[Toshima Island|Toshima]], [[Niijima]], [[Shikinejima]], [[Kozushima]], [[Miyakejima]], [[Mikurajima]], [[Hachijojima]], and [[Aogashima]]. Izu Ōshima and Hachijojima are towns. The remaining islands are six villages, with Niijima and Shikinejima forming [[Niijima, Tokyo|one village]].
+
+The [[Ogasawara, Tokyo|Ogasawara]] Islands include, from north to south, [[Chichi-jima]], [[Nishinoshima]], [[Haha-jima]], [[Kita Iwo Jima]], [[Iwo Jima]], and [[Minami Iwo Jima]]. Ogasawara also administers two tiny outlying islands: [[Minami Torishima]], the easternmost point in Japan and at 1,850&amp;nbsp;km the most distant island from central Tokyo, and [[Okino Torishima]], the southernmost point in Japan. The last island is contested by the [[People's Republic of China]] as being only uninhabited rocks. The Iwo chain and the outlying islands have no permanent population, but host [[Japanese Self-Defense Forces]] personnel. Local populations are only found on [[Chichi-jima]] and [[Haha-jima]]. The islands form the village of Ogasawara.
+
+===National parks===
+There are several national parks within Tokyo, among them:
+* [[Meiji no Mori Takao Quasi-National Park]], around [[Mount Takao]] to the south of Hachiōji
+* [[Ogasawara Islands|Ogasawara National Park]]. [[Wikipedia:As of|As of]] 2006, efforts were being made to make Ogasawara National Park a [[UNESCO]] natural [[World Heritage Site]].
+* [[Ueno Park]], well known for its museums: [[Tokyo National Museum]], [[National Science Museum of Japan|National Science Museum]], [[Shitamachi Museum]] and [[The National Museum of Western Art|National Museum for Western Art]], among others. There are also art works and statues at several places in the park.
+{{Clear}}
+
+=== Seismology ===
+{{Expand|section|date=March 2010}}
+Tokyo was hit by powerful [[earthquake]]s in 1703, 1782, 1812, 1855 and 1923.&lt;ref&gt;{{cite web
+  |url=http://sicarius.wr.usgs.gov/tokyo/submitted/GrunewaldJGR_submitted.pdf
+  |title=A New 1649-1884 Catalog of Destructive Earthquakes near Tokyo and Implications for the Long-term Seismic Process
+  |accessdate=2007-10-14
+  |format=PDF
+  |publisher=U.S. Geological Survey
+}}&lt;/ref&gt;&lt;ref&gt;{{cite web
+  |url=http://walrus.wr.usgs.gov/reports/reprints/Stein_PRSLA_364.pdf
+  |title=A new probabilistic seismic hazard assessment for greater Tokyo
+  |accessdate=2007-10-14
+  |format=PDF
+  |publisher=U.S. Geological Survey
+}}&lt;/ref&gt; The [[Great Kanto Earthquake|1923 earthquake]], with an estimated magnitude of 8.3, killed 142,000 people.
+
+===Climate===
+Tokyo lies in the [[humid subtropical climate]] zone ([[Koppen climate classification]] ''Cfa''),&lt;ref&gt;Peel, M. C., Finlayson, B. L., and McMahon, T. A.: [http://www.hydrol-earth-syst-sci.net/11/1633/2007/hess-11-1633-2007.html Updated world map of the Köppen-Geiger climate classification], Hydrol. Earth Syst. Sci., 11, 1633-1644, 2007.&lt;/ref&gt; with hot humid summers and generally mild winters with cool spells. The region, like much of Japan, experiences a one-month seasonal lag, with the warmest month being August, which averages {{convert|27.5|C|1}}, and the coolest month being January, averaging {{convert|6.0|C|1}}. Annual rainfall averages nearly {{convert|1470|mm|in|1}}, with a wetter summer and a drier winter. Snowfall is sporadic, but does occur almost annually.&lt;ref&gt;{{cite news
+  |url=http://asia.news.yahoo.com/070316/kyodo/d8nsv0600.html
+  |title=Tokyo observes latest ever 1st snowfall
+  |work=Kyodo News
+  |location=Tokyo
+  |date=March 16, 2005
+  |accessdate=2008-10-18}}&lt;/ref&gt; Tokyo also often sees typhoons each year, though few are strong. The last one to hit was [[Typhoon Fitow (2007)|Fitow]] in 2007.&lt;ref name=barry/&gt;
+
+{{-}}
+{{Infobox Weather
+|location = Tokyo (1971-2000)
+|metric_first= yes
+|single_line= yes
+|Jan_Hi_°C = 9.8
+|Feb_Hi_°C = 10.0
+|Mar_Hi_°C = 12.9
+|Apr_Hi_°C = 18.4
+|May_Hi_°C = 22.7
+|Jun_Hi_°C = 25.2
+|Jul_Hi_°C = 29.0
+|Aug_Hi_°C = 30.8
+|Sep_Hi_°C = 26.8
+|Oct_Hi_°C = 21.6
+|Nov_Hi_°C = 16.7
+|Dec_Hi_°C = 12.3
+|Year_Hi_°C = 19.7
+|Jan_Lo_°C = 2.1
+|Feb_Lo_°C = 2.4
+|Mar_Lo_°C = 5.1
+|Apr_Lo_°C = 10.5
+|May_Lo_°C = 15.1
+|Jun_Lo_°C = 18.9
+|Jul_Lo_°C = 22.5
+|Aug_Lo_°C = 24.2
+|Sep_Lo_°C = 20.7
+|Oct_Lo_°C = 15.0
+|Nov_Lo_°C = 9.5
+|Dec_Lo_°C = 4.6
+|Year_Lo_°C = 12.5
+|Jan_MEAN_°C = 6.0
+|Feb_MEAN_°C = 6.2
+|Mar_MEAN_°C = 9.0
+|Apr_MEAN_°C = 14.5
+|May_MEAN_°C = 18.9
+|Jun_MEAN_°C = 22.1
+|Jul_MEAN_°C = 25.8
+|Aug_MEAN_°C = 27.5
+|Sep_MEAN_°C = 23.8
+|Oct_MEAN_°C = 18.3
+|Nov_MEAN_°C = 13.1
+|Dec_MEAN_°C = 8.5
+|Year_MEAN_°C = 16.1
+|Jan_Precip_mm = 48.6
+|Feb_Precip_mm = 60.2
+|Mar_Precip_mm = 114.5
+|Apr_Precip_mm = 130.3
+|May_Precip_mm = 128.0
+|Jun_Precip_mm = 164.9
+|Jul_Precip_mm = 161.5
+|Aug_Precip_mm = 155.1
+|Sep_Precip_mm = 208.5
+|Oct_Precip_mm = 163.1
+|Nov_Precip_mm = 92.5
+|Dec_Precip_mm = 39.6
+|Year_Precip_mm = 1466.7
+|Jan_Sun= 180.5
+|Feb_Sun= 161.1
+|Mar_Sun= 159.2
+|Apr_Sun= 164.9
+|May_Sun= 180.9
+|Jun_Sun= 120.1
+|Jul_Sun= 147.5
+|Aug_Sun= 177.5
+|Sep_Sun= 112.9
+|Oct_Sun= 129.9
+|Nov_Sun= 141.4
+|Dec_Sun= 171.1
+|Year_Sun= 1847.2
+|Jan_Hum= 50
+|Feb_Hum= 51
+|Mar_Hum= 57
+|Apr_Hum= 62
+|May_Hum= 66
+|Jun_Hum= 73
+|Jul_Hum= 75
+|Aug_Hum= 72
+|Sep_Hum= 72
+|Oct_Hum= 66
+|Nov_Hum= 60
+|Dec_Hum= 53
+|Year_Hum= 63
+|Jan_Snow_days = 2.7
+|Feb_Snow_days = 3.5
+|Mar_Snow_days = 2.2
+|Apr_Snow_days = 0
+|May_Snow_days = 0
+|Jun_Snow_days = 0
+|Jul_Snow_days = 0
+|Aug_Snow_days = 0
+|Sep_Snow_days = 0
+|Oct_Snow_days = 0
+|Nov_Snow_days = 0
+|Dec_Snow_days = 0.7
+  |source = Japan Meteorological Agency &lt;ref name= JMA &gt;{{cite web
+  | url = http://www.data.jma.go.jp/obd/stats/etrn/view/nml_sfc_ym.php?prec_no=44&amp;prec_ch=%93%8C%8B%9E%93s&amp;block_no=47662&amp;block_ch=%93%8C%8B%9E&amp;year=&amp;month=&amp;day=&amp;elm=normal&amp;view=
+  | title = 気象庁 / 平年値（年・月ごとの値）
+  | publisher = [[Japan Meteorological Agency]]}}&lt;/ref&gt;
+  | accessdate = 2009-06-08 }}
+
+===Environment===
+Tokyo has enacted a measure to cut greenhouse gases. Governor [[Shintaro Ishihara]] created Japan's first [[emissions cap system]], aiming to reduce [[greenhouse gas]] emission by a total of 25 percent by 2020 from the 2000 level.&lt;ref&gt;{{cite web
+  |url=http://www.wbcsd.org/plugins/DocSearch/details.asp?type=DocDet&amp;ObjectId=MzAyNzQ
+  |title=World Business Council for Sustainable Development (WBCSD)
+  |publisher=Wbcsd.org
+  |date=
+  |accessdate=2008-10-18}}　{{Dead link|date=November 2009}}&lt;/ref&gt;
+
+Tokyo is an example of an [[urban heat island]], and the phenomenon is especially serious in its special wards.&lt;ref name=barry&gt;Barry, Roger Graham &amp; Richard J. Chorley. ''Atmosphere, Weather and Climate.'' Routledge (2003), [http://books.google.com/books?id=MUQOAAAAQAAJ&amp;pg=PA344&amp;sig=mCflboQ0b9ePkGAT3upACg-SOHs p344]. ISBN 0415271703.&lt;/ref&gt;&lt;ref&gt;Toshiaki Ichinose, Kazuhiro Shimodozono, and Keisuke Hanaki. Impact of anthropogenic heat on urban climate in Tokyo. Atmospheric Environment 33 (1999): 3897-3909.&lt;/ref&gt; According to the Tokyo Metropolitan Government,&lt;ref&gt;[http://www2.kankyo.metro.tokyo.jp/sgw/English/heatisland.htm Heat Island Control Measures]&lt;/ref&gt; the annual mean temperature has increased by about 3°C over the past 100 years. &lt;!-- in which location? --&gt; Tokyo has been cited as a &quot;convincing example of the relationship between urban growth and climate.&quot;&lt;ref name=&quot;&quot;&gt;{{cite book|title=Atmosphere, Weather and Climate|first1=Roger Graham|last1=Barry|authorlink1=Roger Graham Barry|first2=Richard J.|last2=Chorley|authorlink2=Richard Chorley|publisher=[[Methuen Publishing]]|location=[[London]]|page=344}}&lt;/ref&gt;
+
+{{Clear}}
+
+==Demographics==
+{| class=&quot;toccolours&quot;  cellpadding=&quot;4&quot; cellspacing=&quot;1&quot; style=&quot;float:right; margin:0 0 2em 2em; font-size:95%;&quot;
+|+ Population of Tokyo&lt;ref name=population&gt;{{cite web|url=http://www.metro.tokyo.jp/ENGLISH/PROFILE/overview03.htm|accessdate=2009-01-01|title=Population of Tokyo|publisher=Tokyo Metropolitan Government}}&lt;/ref&gt;
+|-
+! By area&lt;sup&gt;1&lt;/sup&gt;
+|
+Tokyo&lt;br /&gt;
+''Special wards''&lt;br /&gt;
+Tama Area&lt;br /&gt;
+Islands
+|
+12.79 million&lt;br /&gt;
+''8.653 million''&lt;br /&gt;
+4.109 million&lt;br /&gt;
+28,000
+|-
+! By age²
+|
+Juveniles (age 0-14)&lt;br /&gt;
+Working (age 15-64)&lt;br /&gt;
+Retired (age 65+)&lt;br /&gt;
+|
+1.461 million (11.8%)&lt;br /&gt;
+8.546 million (69.3%)&lt;br /&gt;
+2.332 million (18.9%)
+|-
+! By hours³
+|
+Day&lt;br /&gt;
+Night
+|
+14.978 million&lt;br /&gt;
+12.416 million
+|-
+! By nationality
+|
+Foreign residents
+|
+364,653&lt;sup&gt;4&lt;/sup&gt;
+|-
+|colspan=&quot;3&quot; style=&quot;font-size:90%;&quot;|
+{|
+|- style=&quot;vertical-align:top;&quot;
+| &lt;sup&gt;1&lt;/sup&gt; Estimates as of October 1, 2007.&lt;br /&gt;
+² as of January 1, 2007.&lt;br /&gt;
+| ³ as of 2005 National Census.&lt;br /&gt;
+&lt;sup&gt;4&lt;/sup&gt; as of January 1, 2006.
+|}
+|}
+As of October 2007, the official [[intercensal estimate]] showed 12.79 million people in Tokyo with 8.653 million living within Tokyo's 23 wards.&lt;ref name=population/&gt; During the daytime, the population swells by over 2.5 million as workers and students commute from adjacent areas. This effect is even more pronounced in the three central wards of [[Chiyoda, Tokyo|Chiyoda]], [[Chūō, Tokyo|Chūō]], and [[Minato, Tokyo|Minato]], whose collective population as of the 2005 National Census was 326,000 at night, but 2.4 million during the day.&lt;ref name=population/&gt;
+
+The entire prefecture had 12,790,000 residents in October 2007 (8,653,000 in 23 wards), with an increase of over 3 million in the day. Tokyo is at its highest population ever, while that of the 23 wards peak official count was 8,893,094 in the 1965 Census, with the count dipping below 8 million in the 1995 Census.{{Citation needed|date=January 2009}} People continue to move back into the core city as land prices have fallen dramatically.{{Citation needed|date=July 2009}}
+
+As of 2005, the most common foreign nationalities found in Tokyo are Chinese (123,661), Korean (106,697), Filipino (31,077), American (18,848), British (7,696), Brazilian (5,300) and French (3,000).&lt;ref&gt;{{cite web
+|url=http://www.toukei.metro.tokyo.jp/tnenkan/2005/tn05qyte0510b.htm
+|title=Tokyo Statistical Yearbook 2005, Population
+|accessdate=2007-10-14
+|publisher=Bureau of General Affairs, Tokyo Metropolitan Government
+}}&lt;/ref&gt;
+
+The 1889 Census {{Citation needed|date=September 2008}} recorded 1,389,600 people in [[Tokyo City]], Japan's largest city at the time.
+
+==Economy==
+[[Image:Tokyo stock exchange.jpg|thumb|left|upright|[[Tokyo Stock Exchange]], the second largest in the world by market capitalization]]
+[[Image:BoJ.jpg|thumb|right|[[Bank of Japan]]]]
+[[File:Shiodome City Center (2007.09.11).jpg|thumb|left|upright|[[Shiodome City Center]] in [[Minato, Tokyo|Minato]], headquarters of [[All Nippon Airways]] and [[Fujitsu]]]]
+[[Image:JAL Building.jpg|thumb|right|upright|[[Japan Airlines]] headquarters in [[Shinagawa, Tokyo|Shinagawa]]]]
+Tokyo is one of the three world finance &quot;[[command center]]s&quot;, along with [[New York City]] and [[London]]. Tokyo has the [[List of cities by GDP|largest metropolitan economy in the world]]. According to a study conducted by [[PricewaterhouseCoopers]], the Tokyo [[urban area]] (35.2 million people) had a total GDP of US$1.479 trillion in 2008 (at [[purchasing power parity]]), which topped the list.&lt;ref name=&quot;pricewater&quot;/&gt; As of 2008, 47 of the companies listed on the [[Fortune Global 500|Global 500]] are based in Tokyo, almost twice that of the second-placed city ([[Paris]]).&lt;ref&gt;{{cite web|url=http://money.cnn.com/magazines/fortune/global500/2008/cities/|title=Global 500 Our annual ranking of the world's largest corporationns|accessdate=2008-12-04|publisher=CNNMoney.com}}&lt;/ref&gt;
+
+Tokyo is a major international finance center,&lt;ref&gt;{{cite news
+|url=http://www.economist.com/specialreports/displaystory.cfm?story_id=9753204
+|title=Financial Centres, All shapes and sizes
+|accessdate=2007-10-14
+|publisher=The Economist
+}}&lt;/ref&gt; houses the headquarters of several of the world's largest [[investment bank]]s and [[insurance]] companies, and serves as a hub for Japan's [[transportation]], [[publishing]], and [[broadcasting]] industries. During the centralized growth of Japan's economy following [[World War II]], many large firms moved their headquarters from cities such as [[Osaka]] (the historical commercial capital) to Tokyo, in an attempt to take advantage of better access to the government. This trend has begun to slow due to ongoing population growth in Tokyo and the high cost of living there.
+
+Tokyo was rated by the [[The Economist|Economist Intelligence Unit]] as the most expensive (highest [[Cost-of-living index|cost-of-living]]) city in the world for 14 years in a row ending in 2006.&lt;ref&gt;{{cite news |url=http://today.reuters.com/news/newsArticle.aspx?type=worldNews&amp;storyID=2006-01-31T113907Z_01_L312905_RTRUKOC_0_US-LIFE-CITIES.xml&amp;archived=False |title=Oslo is world's most expensive city: survey |publisher=Reuters |date=January 31, 2006 |accessdate=February 1}} (inactive).&lt;/ref&gt; This analysis is for living a corporate executive lifestyle, with items like a detached house and several automobiles.{{Citation needed|date=July 2009}}
+
+The [[Tokyo Stock Exchange]] is Japan's largest [[stock exchange]], and second largest in the world by [[market capitalization]] and fourth largest by share turnover. In 1990 at the end of the [[Japanese asset price bubble]], it accounted for more than 60% of the world stock market value.&lt;ref&gt;[http://www.stock-market.in/2007/02/26/tokyo-stock-exchange/ Tokyo stock exchange]&lt;/ref&gt;
+Tokyo had 8,460&amp;nbsp;ha (20,900&amp;nbsp;acres) of agricultural land as of 2003,&lt;ref&gt;{{cite web|url=http://www.maff.go.jp/esokuhou/sei200305.pdf |title=Statistics on Cultivated Land Area |authors=Horticulture Statistics Team, Production Statistics Division, Statistics and Information Department, Ministry of Agriculture, Forestry and Fisheries |date=July 15, 2003 |accessdate=2008-10-18}}&lt;/ref&gt; according to the [[Ministry of Agriculture, Forestry and Fisheries (Japan)|Ministry of Agriculture, Forestry and Fisheries]], placing it last among the nation's prefectures. The farmland is concentrated in Western Tokyo. Perishables such as vegetables, fruits, and flowers can be conveniently shipped to the markets in the eastern part of the prefecture. [[Komatsuna|Japanese leaf spinach]] and [[spinach]] are the most important vegetables; as of 2000, Tokyo supplied 32.5% of the Japanese leaf spinach sold at its central produce market.
+
+With 36% of its area covered by forest, Tokyo has extensive growths of [[cryptomeria]] and [[Chamaecyparis obtusa|Japanese cypress]], especially in the mountainous western communities of Akiruno, Ōme, Okutama, Hachiōji, Hinode, and Hinohara. Decreases in the price of lumber, increases in the cost of production, and advancing old age among the forestry population have resulted in a decline in Tokyo's output. In addition, pollen, especially from cryptomeria, is a major allergen for the nearby population centers.
+
+Tokyo Bay was once a major source of fish. Presently, most of Tokyo's fish production comes from the outer islands, such as Izu Ōshima and Hachijōjima. [[Skipjack tuna]], [[nori]], and [[Carangidae|''aji'']] are among the ocean products.
+
+[[Tourism in Tokyo]] is also a contributor to the economy.
+
+{{Clear}}
+
+==Transportation==
+{{Main|Transportation in Greater Tokyo}}
+[[File:Tokyo metro map en.png|thumb|right|350px|Map of Tokyo Subway system]]
+Tokyo, as the center of the [[Greater Tokyo Area]], is Japan's largest domestic and international hub for rail, ground, and air transportation. Public transportation within Tokyo is dominated by an extensive network of clean and efficient&lt;ref&gt;{{cite web
+  |url=http://lcweb2.loc.gov/frd/cs/jptoc.html
+  |title=A Country Study: Japan
+  |accessdate=2007-10-24
+  |pages=Chapter 2, Neighborhoods
+  |publisher=The Library of Congress
+}}&lt;/ref&gt; trains and subways run by a variety of operators, with buses, monorails and trams playing a secondary feeder role.
+
+Within [[Ōta, Tokyo|Ōta]], one of the 23 special wards, [[Tokyo International Airport]] (&quot;Haneda&quot;) offers mainly domestic flights. Outside Tokyo, [[Narita International Airport]], in [[Chiba Prefecture]], is the major gateway for international travelers to Japan and [[Japan Airlines]], [[All Nippon Airways]], [[Air Japan]] and [[Delta Air Lines]] all have a hub at this airport.
+
+Various islands governed by Tokyo have their own airports. [[Hachijōjima]] ([[Hachijojima Airport]]), [[Miyakejima]] ([[Miyakejima Airport]]), and [[Izu Ōshima]] ([[Oshima Airport]]) have service to Tokyo International and other airports.
+
+Rail is the primary mode of transportation in Tokyo, which has the most extensive urban railway network in the world and an equally extensive network of surface lines. [[East Japan Railway Company|JR East]] operates Tokyo's largest railway network, including the [[Yamanote Line]] loop that circles the center of downtown Tokyo. Two organizations operate the subway network: the private [[Tokyo Metro]] and the governmental [[Tokyo Metropolitan Bureau of Transportation]]. The metropolitan government and private carriers operate bus routes. Local, regional, and national services are available, with major terminals at the giant railroad stations, including [[Tokyo Station|Tokyo]], [[Shinagawa Station|Shinagawa]], and [[Shinjuku Station|Shinjuku]].
+
+Expressways link the capital to other points in the Greater Tokyo area, the Kantō region, and the islands of [[Kyūshū]] and [[Shikoku]].
+
+Other transportation includes taxis operating in the special wards and the cities and towns. Also long-distance ferries serve the islands of Tokyo and carry passengers and cargo to domestic and foreign ports.
+
+{{Clear}}
+
+==Education==
+{{Main|Education in Tokyo}}
+[[Image:YasudaAuditorium.jpg|thumb|[[University of Tokyo]], Yasuda Auditorium]]
+[[Image:Keio university.jpg|thumb|upright|[[Keio University]]]]
+
+Tokyo has many universities, junior colleges, and vocational schools. Many of Japan's most prestigious universities are in Tokyo, including [[University of Tokyo]], [[Hitotsubashi University]], [[Tokyo Institute of Technology]], [[Waseda University]], and [[Keio University]].&lt;ref&gt;{{cite web
+  |url=http://www.topuniversities.com/university_rankings/results/2008/overall_rankings/fullrankings/
+  |title=The Times Higher Education - QS World University Rankings 2008
+  |accessdate=2008-11-11
+  |publisher=[[Quacquarelli Symonds|QS Quacquarelli Symonds Limited]]
+}}&lt;/ref&gt; Some of the biggest [[Japanese national universities|national universities]] located in Tokyo are:
+*[[Ochanomizu University]]
+*[[University of Electro-Communications]]
+*[[National Graduate Institute for Policy Studies]]
+*[[University of Tokyo]]
+*[[Tokyo Medical and Dental University]]
+*[[Tokyo University of Foreign Studies]]
+*[[Tokyo University of Marine Science and Technology]]
+*[[Tokyo Gakugei University]]
+*[[Tokyo University of the Arts]]
+*[[Tokyo Institute of Technology]]
+*[[Tokyo University of Agriculture and Technology]]
+*[[Hitotsubashi University]].
+
+There is only one non-national [[public university]]: [[Tokyo Metropolitan University]].
+
+There are also a few universities well-known for classes conducted in English and for the teaching of the Japanese language. They include:
+*[[International Christian University]]
+*[[Sophia University]]
+*[[Waseda University]]
+*[[Temple University Japan]]
+
+For an extensive list, see [[List of universities in Tokyo]].
+
+Publicly run kindergartens, [[elementary school]]s (years 1 through 6), and [[junior high school]]s (7 through 9) are operated by local wards or municipal offices. Public [[high school]]s in Tokyo are run by the [[Tokyo Metropolitan Government Board of Education]] and are called &quot;Metropolitan High Schools&quot;. Regardless, Tokyo has many private schools from kindergarten through high school.&lt;ref&gt;{{cite web |url=http://ja.wikipedia.org/wiki/東京都高等学校一覧 |title=東京都高等学校一覧 |work=Japanese Wikipedia |language=Japanese |accessdate=2007-10-19}}&lt;/ref&gt;
+
+{{Clear}}
+
+==Culture==
+[[Image:TokyoNationalMuseum.jpg|thumb|right|[[Tokyo National Museum]], Ueno]]
+Tokyo has many museums. In [[Ueno Park]], there are four national museums: [[Tokyo National Museum]], the country's largest museum and specializing in traditional [[Japanese art]]; the [[National Museum of Western Art]]; and the [[Tokyo National Museum of Modern Art]], with its collections of Japanese [[modern art]] as well as over 40,000 Japanese and foreign films.&lt;ref&gt;{{cite web
+  |url=http://www.bunka.go.jp/english/pdf/chapter_11.pdf
+  |format=PDF
+  |title=National Cultural Facilities
+  |publisher=The Agency for Cultural Affairs
+  |accessdate=2007-10-18
+}}&lt;/ref&gt; Also, in Ueno Park are the [[National Science Museum of Japan|National Museum of Science]] and the [[Ueno Zoo|public zoo]]. Other museums include the [[Nezu Art Museum]] in [[Aoyama]]; the [[Edo-Tokyo Museum]] in [[Sumida]] across the [[Sumida River]] from the center of Tokyo; and the [[National Diet Library]], National Archives, and the [[Tokyo National Museum of Modern Art|National Museum of Modern Art]], which are located near the [[Tokyo Imperial Palace|Imperial Palace]].
+
+Tokyo has many theaters for the performing arts as well. These include national and private theaters for traditional forms of Japanese drama (like [[noh]] and [[kabuki]]) as well as modern dramas. Symphony orchestras and other musical organizations perform modern and traditional music. Tokyo also hosts modern Japanese and international [[Pop music|pop]] and [[rock music]] at venues ranging in size from intimate clubs to internationally known arenas like the [[Nippon Budokan]].
+
+Many different [[Festivals in Tokyo|festivals occur throughout Tokyo]]. Major events include the Sannō at [[Hie Shrine]], the Sanja at [[Asakusa Shrine]], and the biennial [[Kanda]] Festivals. The last features a parade with elaborately decorated floats and thousands of people. Annually on the last Saturday of July, an enormous [[fireworks]] display over the [[Sumida River]] attracts over a million viewers. Once cherry blossoms, or ''[[sakura]]'', bloom in spring, many residents gather in Ueno Park, [[Inokashira Park]], and the [[Shinjuku Gyoen|Shinjuku Gyoen National Garden]] for picnics under the blossoms.
+
+[[Harajuku]], a neighborhood in [[Shibuya, Tokyo|Shibuya]], is known internationally for its youth style and fashion.&lt;ref name=&quot;Harajuku&quot;&gt;{{cite paper
+ |first=Chris |last=Perry |publisher=Self-published (Scribd)
+ |title=Rebels on the Bridge: Subversion, Style, and the New Subculture
+ |date= 2007-04-25 |accessdate=2007-12-04
+ |url=http://www.scribd.com/doc/38260/Harajuku-Rebels-on-the-Bridge |format=Flash
+}}&lt;/ref&gt;
+
+Cuisine in Tokyo is internationally acclaimed. In November 2007, [[Michelin guide|Michelin]] released their guide for fine dining in Tokyo, garnering 191 stars in total, or about twice as many as its nearest competitor, [[Paris]]. Eight establishments were awarded the maximum of three stars (Paris has 10), 25 received two stars, and 117 earned one star. Of the eight top-rated restaurants, three offer traditional Japanese fine dining, two are [[sushi]] houses and three serve French cuisine.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/2/hi/also_in_the_news/7103255.stm |title=Tokyo 'top city for good eating' |publisher=BBC NEWS |date=20 November 2007 |accessdate=2008-10-18}}&lt;/ref&gt;
+
+==Sports==
+[[Image:Tokyo Dome night.jpg|thumb|left|[[Tokyo Dome]], the home stadium for the [[Yomiuri Giants]]]]
+[[Image:Ryogoku Kokugikan Tsuriyane 05212006.jpg|right|250px|thumb|[[Ryōgoku Kokugikan]] sumo wrestling arena]]
+{{Main|Sports in Tokyo}}
+
+Tokyo, with a diverse array of sports, is home to two professional [[baseball]] clubs, the [[Yomiuri Giants]] who play at the [[Tokyo Dome]] and [[Tokyo Yakult Swallows]] at [[Meiji-Jingu Stadium]].
+The [[Japan Sumo Association]] is also headquartered in Tokyo at the [[Ryōgoku Kokugikan]] sumo arena where three official [[sumo]] tournaments are held annually (in January, May, and September). [[Football (soccer)]] clubs in Tokyo include [[F.C. Tokyo]] and [[Tokyo Verdy 1969]], both of which play at [[Ajinomoto Stadium]] in [[Chōfu, Tokyo|Chōfu]].
+
+Tokyo hosted the [[1964 Summer Olympics]]. National Stadium, also known as [[Olympic Stadium, Tokyo]] is host to a number of international sporting events. With a number of world-class sports venues, Tokyo often hosts national and international sporting events such as tennis tournaments, swim meets, marathons, American football exhibition games, judo, karate, etc. [[Tokyo Metropolitan Gymnasium]], in Sendagaya, Shibuya, is a large sports complex that includes swimming pools, training rooms, and a large indoor arena.
+
+==In popular culture==
+[[Image:Fuji TV headquarters and Aqua City Odaiba - 2006-05-03 edit.jpg|thumb|[[Fuji TV]] headquarters]]
+As the largest population center in Japan and the location of the country's largest broadcasters and studios, Tokyo is frequently the setting for many Japanese movies, television shows, animated series (''[[anime]]''), [[web comics]], and comic books (''[[manga]]''). In the ''[[kaiju]]'' (monster movie) genre, landmarks of Tokyo are routinely destroyed by giant monsters such as [[Godzilla]].
+
+Some Hollywood directors have turned to Tokyo as a filming location for movies set in Tokyo. Well-known examples from the postwar era include ''[[Tokyo Joe]]'', ''[[My Geisha]]'', and the [[James Bond]] film ''[[You Only Live Twice (film)|You Only Live Twice]]''; well-known contemporary examples include ''[[Kill Bill]]'', ''[[The Fast and the Furious: Tokyo Drift]]'' and ''[[Lost in Translation (film)|Lost in Translation]]''.
+
+{{Clear}}
+
+==Cityscape==
+[[Architecture in Tokyo]] has largely been shaped by Tokyo's history. Twice in recent history has the metropolis been left in ruins: first in the [[1923 Great Kantō earthquake]] and later after [[Bombing of Tokyo in World War II|extensive firebombing in World War II]].&lt;ref name=spatial/&gt;  Because of this, Tokyo's current urban landscape is one of modern and contemporary architecture, and older buildings are scarce.&lt;ref name=spatial&gt;Hidenobu Jinnai. ''Tokyo: A Spatial Anthropology''. University of California
+Press (1995), [http://books.google.com/books?id=LT3C3PQGt-IC&amp;pg=PA1&amp;sig=Nt5t1_CL_B8kcncWgb93-B4h6dQ p1-3]. ISBN 0520071352.&lt;/ref&gt;
+
+Tokyo also contains [[Parks and gardens in Tokyo|numerous parks and gardens]].
+
+[[Image:Skyscrapers of Shinjuku 2009 January.jpg|thumb|center|600px||Panoramic view of [[Shinjuku]] and [[Mount Fuji]] taken from [[Bunkyo Civic Center]].]]
+
+[[Image:imperial Palace Tokyo Panorama.jpg|thumb|center|600px|Panoramic view of [[Tokyo Imperial Palace]] as seen from [[Marunouchi]].]]
+
+[[Image:Sakuraintokyo.jpg|thumb|center|600px|[[Sakura]] in [[Tokyo Imperial Palace]].]]
+[[Image:Imperial Palace Pano Some CROPPED RESIZED.png|thumb|center|600px|Portion of city from the [[Tokyo Imperial Palace]].]]
+
+==Sister relationships==
+&lt;!-- Note to editors: Please do not put a link in a header. --&gt;
+
+Tokyo has eleven [[Town twinning|sister cities/states]]:&lt;ref name=TMG&gt;{{cite web |url=http://www.metro.tokyo.jp/ENGLISH/PROFILE/policy07.htm |title=Sister Cities (States) of Tokyo - Tokyo Metropolitan Government|accessdate=2010-05-09 |work= |publisher= |date= }}&lt;/ref&gt;
+
+&lt;!-- Note to editors: before adding to this list, be sure to check Tokyo's official site and make sure the place you're adding is on Tokyo's list at http://www.metro.tokyo.jp/ENGLISH/PROFILE/policy07.htm --&gt;
+{|
+|- style=&quot;vertical-align:top;&quot;
+|
+* {{flagicon|PRC}} [[Beijing]], [[China]]
+* {{flagicon|GER}} [[Berlin]], [[Germany]]
+* {{flagicon|EGY}} [[Cairo]], [[Egypt]]
+* {{flagicon|Indonesia}} [[Jakarta]], [[Indonesia]]
+* {{flagicon|RUS}} [[Moscow]], [[Russia]]
+* {{flagicon|AUS}} [[New South Wales]], [[Australia]]
+&lt;!-- Note that Tokyo is twinned with New South Wales - not Sydney --&gt;
+|
+* {{flagicon|USA}} [[New York City]], [[United States]]
+* {{flagicon|FRA}} [[Paris]], [[France]]
+* {{flagicon|ITA}} [[Rome]], [[Italy]]
+* {{flagicon|BRA}} [[São Paulo (state)|São Paulo State]], [[Brazil]]
+* {{flagicon|KOR}} [[Seoul]], [[South Korea]]
+|}
+
+In addition, Tokyo has a &quot;partnership&quot; agreement with [[London]], [[United Kingdom]].&lt;ref name=TMG/&gt;
+
+==See also==
+{{Portal|Tokyo}}
+*[[Capital of Japan]] — for discussion of the [[de jure]] or [[de facto]] status of Tokyo as capital
+*[[1703 Genroku earthquake]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+{{Commons category|Tokyo}}
+{{Sisterlinks|Tokyo}}
+* [http://www.metro.tokyo.jp/ENGLISH/ Official Tokyo Metropolitan Government homepage]
+* {{wikitravel}}
+&lt;!-- Ask in the discussion section before you add a link here, otherwise it is likely to be deleted --&gt;
+
+{{Template group
+|title = Articles related to Tokyo
+|list  =
+&lt;span&gt;
+{{Start box}}
+{{Succession box|title=[[Capital of Japan]]| before=[[Heian-kyō]]|after=—|years=1868–}}
+{{End box}}
+{{Tokyo}}
+{{Paralympic Summer Games Host Cities}}
+{{Template group
+|title = [[File:Gnome-globe.svg|25px]]{{nbsp}}Geographic locale
+|list  =
+'''[[Geographic coordinate system|Lat. &lt;small&gt;and&lt;/small&gt; Long.]] {{Coord|35|42|2|N|139|42|54|E|display=inline}} &lt;font color=&quot;darkblue&quot;&gt;([[Shinjuku]])&lt;/font&gt;'''
+}}
+{{Regions and administrative divisions of Japan}}
+{{Metropolitan cities of Japan}}
+{{List of Asian capitals by region}}
+{{Olympic Summer Games Host Cities}}
+{{World's most populated metropolitan areas}}
+{{World's most populated urban areas}}
+{{Tokyo transit}}
+}}
+
+[[Category:Tokyo| ]]
+[[Category:Settlements established in 1457]]
+[[Category:Kantō region]]
+[[Category:Port settlements in Japan]]
+[[Category:Prefectures of Japan]]
+[[Category:Capitals in Asia]]
+[[Category:Populated coastal places in Japan]]
+[[Category:Host cities of the Summer Olympic Games]]
+
+&lt;!--Other languages--&gt;
+{{Link GA|de}}
+
+{{Link FA|es}}
+
+[[ace:Tokyo]]
+[[af:Tokio]]
+[[am:ቶክዮ]]
+[[ar:طوكيو]]
+[[an:Tokio]]
+[[arc:ܛܘܩܝܘ]]
+[[ast:Tokio]]
+[[az:Tokio]]
+[[bn:টোকিও]]
+[[zh-min-nan:Tang-kiaⁿ]]
+[[be:Горад Токіо]]
+[[be-x-old:Токіё]]
+[[bar:Tokio]]
+[[bo:ཏུང་ཅིན།]]
+[[bs:Tokio]]
+[[br:Tokyo]]
+[[bg:Токио]]
+[[ca:Tòquio]]
+[[cv:Токио]]
+[[cs:Prefektura Tokio]]
+[[cy:Tokyo]]
+[[da:Tokyo]]
+[[de:Präfektur Tokio]]
+[[dsb:Tokyo]]
+[[et:Tōkyō]]
+[[el:Τόκιο]]
+[[myv:Токио ош]]
+[[es:Tokio]]
+[[eo:Tokio]]
+[[ext:Tóquiu]]
+[[eu:Tokio]]
+[[fa:توکیو]]
+[[fo:Tokyo]]
+[[fr:Tōkyō]]
+[[fy:Tokio]]
+[[ga:Tóiceo]]
+[[gd:Tokyo]]
+[[gl:Toquio - 東京]]
+[[gan:東京]]
+[[ko:도쿄 도]]
+[[hy:Տոկիո]]
+[[hi:टोक्यो]]
+[[hr:Tokio]]
+[[io:Tokyo]]
+[[id:Tokyo]]
+[[ia:Tokyo]]
+[[os:Токио]]
+[[is:Tókýó]]
+[[it:Tokyo]]
+[[he:טוקיו]]
+[[jv:Tokyo]]
+[[kn:ಟೋಕ್ಯೊ]]
+[[ka:ტოკიო]]
+[[kk:Токио]]
+[[sw:Tokyo]]
+[[ht:Tokyo]]
+[[ku:Tokyo]]
+[[lo:ໂຕກຽວ]]
+[[la:Tokium]]
+[[lv:Tokija]]
+[[lb:Tokio]]
+[[lt:Tokijas]]
+[[lij:Tòkyo]]
+[[li:Tokio]]
+[[jbo:tokios]]
+[[lmo:Tokyo]]
+[[hu:Tokió]]
+[[mk:Токио]]
+[[mg:Tokyo]]
+[[ml:ടോക്കിയോ]]
+[[mt:Tokjo]]
+[[mr:टोक्यो]]
+[[ms:Tokyo]]
+[[mwl:Tóquio]]
+[[mn:Токио]]
+[[my:တိုကျိုမြို့]]
+[[nah:Tōquiō]]
+[[nl:Tokio]]
+[[ja:東京都]]
+[[no:Tokyo]]
+[[nn:Tokyo]]
+[[nov:Tokyo]]
+[[oc:Tòquio]]
+[[mhr:Токио]]
+[[pap:Tokio]]
+[[km:តូក្យូ]]
+[[pms:Tokyo]]
+[[tpi:Tokyo]]
+[[nds:Tokio]]
+[[pl:Tokio]]
+[[pt:Tóquio]]
+[[ty:Tokyo]]
+[[ro:Tokio]]
+[[rm:Tokio]]
+[[qu:Tokyo]]
+[[ru:Токио]]
+[[sah:Токио]]
+[[se:Tokyo]]
+[[sc:Tokio]]
+[[sco:Tokyo]]
+[[sq:Tokio]]
+[[scn:Tochiu]]
+[[simple:Tokyo]]
+[[sk:Tokio]]
+[[sl:Tokio]]
+[[szl:Tokjo]]
+[[sr:Токио]]
+[[sh:Tokyo]]
+[[su:Tokyo]]
+[[fi:Tokion prefektuuri]]
+[[sv:Tokyo prefektur]]
+[[tl:Tokyo]]
+[[ta:டோக்கியோ]]
+[[kab:Tokyo]]
+[[th:โตเกียว]]
+[[tg:Токио]]
+[[chr:ᏙᎩᏲ]]
+[[tpi:Tokyo]]
+[[tr:Tokyo]]
+[[tw:Tokyo]]
+[[uk:Токіо]]
+[[ur:توکیو]]
+[[ug:توكيو]]
+[[vi:Tōkyō]]
+[[fiu-vro:Tokio]]
+[[zh-classical:東京都]]
+[[war:Tokyo]]
+[[wuu:东京]]
+[[yi:טאקיא]]
+[[yo:Tokyo]]
+[[zh-yue:東京都]]
+[[diq:Tokyo]]
+[[bat-smg:Tuokėjs]]
+[[zh:东京]]</text>
+    </revision>
+  </page>
+</mediawiki>

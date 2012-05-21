@@ -1,0 +1,140 @@
+package pdtransform.examples;
+
+import pdstore.*;
+import pdstore.dal.PDWorkingCopy;
+import pdtransform.dal.PDGenerator;
+import pdtransform.dal.PDGeneratorApplication;
+import pdtransform.dal.PDHTMLTag;
+import pdtransform.dal.PDLITag;
+import pdtransform.dal.PDMap;
+import pdtransform.dal.PDText;
+import pdtransform.dal.PDULTag;
+
+public class LibraryBooks {
+
+	/**
+	 * 
+	 * 
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		try {
+			PDWorkingCopy cache = new PDWorkingCopy(
+					"jdbc:firebirdsql:local:pdstore.fdb", "sysdba",
+					"masterkey");
+		
+			PDGeneratorApplication ga = (PDGeneratorApplication) cache.newInstance(PDGeneratorApplication.typeId);
+			ga.setName("LibraryBooks");
+	
+			/* GenApp Input */
+			PDCategoryPage caPage = (PDCategoryPage) cache.newInstance(PDCategoryPage.typeId);
+			//PDFeaturedBooks featBooks = (PDFeaturedBooks) cache.newInstance(PDFeaturedBooks.typeId);
+			ga.setInput(caPage.getId());
+			
+			/* Book 1 */
+			PDBook book1 = (PDBook) cache.newInstance(PDBook.typeId);
+			book1.addAuthor("Philip");
+			book1.setTitle("Philip's Book");
+			book1.setRank(33);
+			
+			/* Book 2 */
+			PDBook book2 = (PDBook) cache.newInstance(PDBook.typeId);
+			book2.addAuthor("Gyurme");
+			book2.setTitle("Gyurme's Book");
+			book2.setRank(34);
+			
+			/* Book 3 */
+			PDBook book3 = (PDBook) cache.newInstance(PDBook.typeId);
+			book3.addAuthor("Gerald");
+			book3.addAuthor("Christof");
+			book3.setTitle("Gerald and Christof's Book");
+			book3.setRank(32);
+			
+			/* Add books to category page */
+			caPage.addBook(book1);
+			caPage.addBook(book2);
+			caPage.addBook(book3);
+			
+			/* Calculate featured books */
+			//Set<PDBook> allBooks = caPage.getBook();
+		/*	PDBook[] books = (PDBook[]) allBooks.toArray();
+			for(PDBook book: books){
+				if (book.getRank()<50){
+					featBooks.addFeaturedBooks(book);
+				}
+			}
+			//caPage.*/
+			
+			
+			/* Generator */
+			
+			PDGenerator gen = (PDGenerator)cache.newInstance(PDGenerator.typeId);
+			gen.setName("ABookToHTML");
+			
+			/* Output Template */
+			PDHTMLTag html = (PDHTMLTag)cache.newInstance(PDHTMLTag.typeId);
+			html.setName("htmltag");
+			PDLITag li = (PDLITag)cache.newInstance(PDLITag.typeId);
+			li.setName("litag");
+			PDULTag ul = (PDULTag)cache.newInstance(PDULTag.typeId);
+			ul.setName("ultag");
+			PDText text = (PDText)cache.newInstance(PDText.typeId);
+			text.setName("textNode");
+			PDText text2 = (PDText)cache.newInstance(PDText.typeId);
+			text2.setName("textNode2");			
+			html.addUnorderedList(ul);
+			ul.addListItem(li);
+			li.setContent(text);
+			text.setString(new String());
+			html.addText(text2);
+			text2.setString(new String());
+			
+			
+			/* Map */
+			PDMap map = (PDMap)cache.newInstance(PDMap.typeId);
+			map.setName("unordered List");
+			
+			/* Mapping 1 creates list nodes*/
+			map.setOutputInstance(ul.getId());
+			map.setInputRole(caPage.roleBookId);
+			map.addOutputRoles(ul.roleListItemId);
+			map.setInputType(caPage.getTypeId());
+			
+			/*Mapping 2 creates text nodes*/
+			PDMap map2 = (PDMap)cache.newInstance(PDMap.typeId);
+			map2.setName("Category Page");			
+			map2.setOutputInstance(li.getId());
+			map2.setInputRole(PDCategoryPage.roleBookId);
+			map2.addOutputRoles(PDLITag.roleContentId);
+			map2.setInputType(PDCategoryPage.typeId);
+			
+			/*Mapping 3 links text to authors*/
+			PDMap map3 = (PDMap)cache.newInstance(PDMap.typeId);
+			map3.setName("Author name");
+			
+			map3.setOutputInstance(text.getId());
+			map3.setInputRole(PDBook.roleAuthorId);
+			map3.addOutputRoles(PDText.roleStringId);
+			map3.setInputType(PDBook.typeId);
+			
+			/* Generator Details */
+			gen.setInputType(PDCategoryPage.typeId);
+			gen.setOutputType(html.getTypeId());
+			gen.setOutputTemplate(html.getId());
+			
+			gen.addMap(map);
+			gen.addMap(map2);
+			gen.addMap(map3);
+			gen.addGeneratorApplications(ga);
+	
+			/* Set gen as generator for genApp */
+			ga.setGenerator(gen);
+			
+			cache.commit();
+			
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+}

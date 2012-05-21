@@ -1,0 +1,631 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.4/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.4/ http://www.mediawiki.org/xml/export-0.4.xsd" version="0.4" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.16wmf4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Mitsubishi Lancer</title>
+    <id>1119339</id>
+    <revision>
+      <id>369475626</id>
+      <timestamp>2010-06-22T02:08:56Z</timestamp>
+      <contributor>
+        <username>OSX</username>
+        <id>1669452</id>
+      </contributor>
+      <comment>/* Ninth generation */ Revert: image with less than ideal front 3/4 view</comment>
+      <text xml:space="preserve">{{Cleanup|date=March 2010}}
+{{Infobox Automobile
+| image        = [[File:2009 Mitsubishi Lancer ES.jpg|250px|2009 Mitsubishi Lancer ES (US)]]
+| name         = Mitsubishi Lancer
+| manufacturer = [[Mitsubishi Motors]]
+| production   = 1973–present
+| class        = [[Subcompact]] (1973–1999)&lt;br/&gt;[[Compact car|Compact]] (2000–present)
+| assembly     = Mizushima plant, 
+[[Kurashiki, Okayama]], [[Japan]]
+[[Thiruvallur, Tamil Nadu.]] india 
+| predecessor  = [[Mitsubishi Mirage]] (for [[North America]])
+}}
+
+The '''Mitsubishi Lancer''' is a [[family car]] built by [[Mitsubishi Motors]]. It has been known as the '''Colt Lancer''', '''[[Dodge Colt|Dodge/Plymouth Colt]]''', '''Chrysler Valiant Lancer''', '''Chrysler Lancer''', '''[[Eagle Summit]]''', '''Hindustan Lancer''', '''[[Soueast Motors|Soueast]] Lioncel''', '''[[Mitsubishi Carisma]]''', and '''[[Mitsubishi Mirage]]''' in various countries at different times, and will be sold as the '''Galant Fortis''' in its home market from 2007. It has also been sold as '''Lancer Fortis''' in [[Taiwan]] with a different facelift compared to Galant Fortis.
+
+Between its introduction in 1973 and 2009, over seven million Lancers had been sold.&lt;ref name=&quot;sold&quot;&gt;{{cite web | url = http://www.allnewlancer.ca/EN/LancerPreLaunch.pdf |format=PDF| title = All new 2008 Lancer | publisher = AllnewLancer.ca }}&lt;/ref&gt;
+
+== First generation (1973-1979) ==
+{{Infobox Automobile generation
+| name          = First generation
+| image         = [[File:Mitsubishi Lancer 1973 - 79 Hyde Park in Fall.jpg|265px|First generation Mitsubishi Lancer 2 door]]
+| production    = 1973–1979
+| predecessor   = 
+| successor     = 
+| body_style    = 2-door [[sedan (car)|sedan]]&lt;br/&gt;4-door [[sedan (car)|sedan]]&lt;br/&gt;5-door [[station wagon]]&lt;br/&gt;3-door [[hatchback]] (Celeste)
+| layout        = [[FR layout]]
+| engine        = 1.2 l I4&lt;br/&gt;1.6 l I4&lt;br/&gt;1.4 l I4&lt;br/&gt;2.0 l I4
+| transmission  = 
+| platform      = A142A–A145A
+| wheelbase     = {{convert|2,343|mm|1|abbr=on}} (sedan/saloon)
+| length        = {{convert|3,981|mm|1|abbr=on}}
+| width         = {{convert|1,524|mm|1|abbr=on}}
+| height        = {{convert|1,362|mm|1|abbr=on}}
+| weight        = {{Convert|832|kg|lb|abbr=on}} ''(approx)''&lt;ref name=DailyExpressMotorShowReviewOct1974re1975&gt;{{cite journal|journal =Daily Express Motor Show Review 1975 Cars |volume = | authorlink = Basil Cardew (ed) |title = | pages = Page 30 (Mitsubishi Lancer)|date=October 1974}}&lt;/ref&gt; 
+| related       = 
+| aka           = [[Chrysler Valiant Lancer]]&lt;br/&gt;[[Dodge Colt]]&lt;br/&gt;Dodge Lancer
+| fuel_capacity = {{Convert|45|L|usgal impgal|1|abbr=on}}&lt;ref name=Motor1974&gt;{{cite journal| authorlink = | title =Motor Road Test: Colt Lancer 1600 SL | journal = Motor| volume = Nbr 3757| pages = page 2–7 |date = date 12 October 1974}}&lt;/ref&gt; 
+| designer      = Shinichi Yamamura (design)&lt;br/&gt;Munechika Namba (engineering)&lt;ref name=&quot;lancerevo&quot;&gt;{{cite book | last = Long | first = Brian | authorlink = | coauthors = | title = Mitsubishi Lancer Evo: The Road Car &amp; WRC Story | publisher = Veloce Publishing Ltd | year = 2007 | location = [[Dorchester, Dorset|Dorchester]] | url = http://books.google.co.uk/books?id=8ZkuDYyI8NUC | doi = | id = | isbn = 1-84584-055-0 | page = }}&lt;/ref&gt;
+}}
+
+The Lancer (LA series in [[Australia]], where it was called the Chrysler Valiant Lancer initially) was first launched in January 1973 and proved to be particularly successful in rallies, a claim that it retains to this day. At the time of its launch, Mitsubishi had the [[Mitsubishi Minica|Minica]] [[kei car]] and the [[compact car|compact]] [[Mitsubishi Galant|Galant]], so the Lancer served to fill the gap in the small to lower-medium segment of the growing [[Japan]]ese market. Twelve models were launched, ranging from a basic 1.2 L [[sedan (car)|sedan]] to a more powerful [[rallying|rally]]-derived [[Mitsubishi Lancer 1600 GSR|1600 GSR]] model.
+
+In some Latin American countries, as for example, in [[El Salvador]] the car initially was known as the '''Dodge Lancer'''.
+
+There were four body styles, 2-door and 4-door [[sedan (car)|sedans]], a 2-door [[hardtop]] [[coupe]] and a rarely seen 5-door [[station wagon]].
+
+=== Celeste ===
+[[File:Lancer celeste in antigua gt.jpg|thumb|left|Pre-facelift Lancer Celeste ST]]In February 1975, the Lancer was complemented by a [[hatchback]] coupé called the '''Mitsubishi Lancer Celeste''' (also called the '''Mitsubishi Celeste''' or '''Colt Celeste''' in some markets; it was the '''Chrysler Lancer Coupé''' in [[Australia]], the '''Dodge Lancer Celeste''' in [[El Salvador]] and the '''[[Plymouth Arrow]]''' in the [[United States]]), and sold with 1.4 L and 1.6 L options  (a 2.0 L model was added later).
+
+=== First generation facelift (1979-1983) ===
+[[File:1980LCLancer.jpg|thumb|left|1980 LC Lancer]]
+
+A facelifted Lancer followed soon in 1979, called the LB series in Australia (without the Valiant tag). It was this series that emerged in the United States as the Dodge Colt for the 1977 model year, taking over from a badge-engineered [[Mitsubishi Galant]] from the previous year. It was offered for one more model year before the Dodge Colt name was transferred to the [[front wheel drive]] [[Mitsubishi Mirage]].
+
+{{-}}
+
+== Second generation (1983-1988) ==
+{{Infobox Automobile generation
+| name          = Second generation
+| image         = [[File:Lancer EX.jpg|250px|1987 1600 GT Lancer EX]]
+| production    = 1983–1988
+| predecessor   = 
+| successor     = 
+| body_style    = 4-door [[sedan (car)|sedan]]
+| layout        = [[FR layout]]
+| engine        = 4G62 1.8 L SOHC [[Turbo]] [[Straight-4|I4]] &lt;br/&gt; 4G62 1.8 L SOHC [[Straight-4|I4]] &lt;br/&gt;[[Mitsubishi 4G3 engine#4G33|4G33]] / [[Mitsubishi Orion engine#4G12|4G12]] 1.4 L SOHC [[Straight-4|I4]] &lt;br/&gt; [[Mitsubishi 4G3 engine#4G32|4G32]] 1.6 L SOHC[[Straight-4|l4]] &lt;br/&gt; 4G11 1.2 L SOHC [[Straight-4|l4]] &lt;br/&gt; [[4G63]] 2.0 L OHC  [[Turbo]]  [[Straight-4|l4]] (EX 2000 Turbo)
+| transmission  = 4-speed [[manual transmission|manual]] &lt;br/&gt; 5-speed [[manual transmission|manual]]&lt;br/&gt;Automatic (1400/1600 - GL/XL, 1800 SE)
+| platform      = A172A–A176A
+| wheelbase     = {{Convert|2440|mm|in|1|abbr=on}}
+| length        = {{Convert|4230|mm|in|1|abbr=on}}
+| width         = {{Convert|1620|mm|in|1|abbr=on}}
+| height        = {{Convert|1380|-|1390|mm|in|1|abbr=on}}
+| weight        = {{Convert|1170|-|1295|kg|lb|abbr=on}}
+| related       = 
+| fuel_capacity = {{Convert|50|L|usgal impgal|0|abbr=on}}
+| designer      = Aldo Sessano (design)&lt;br/&gt;Rakuzo Mitamura (engineering)&lt;ref name=&quot;lancerevo&quot;/&gt;
+}}
+
+In 1979, the '''Lancer EX''' was unveiled in Japan. Only two engines were offered at the time, a 1.4 L MCA-JET equipped engine paired with Mitsubishi's Silent Shaft Technology, which generated {{Convert|80|hp|kW|0|abbr=on}} and a 1.6 L engine that generated {{Convert|85|hp|kW|0|abbr=on}} and {{Convert|100|hp|kW|0|abbr=on}}. The MCA-JET system was an entirely new concept when compared with the previously used carburetor system. The MCA stands for Mitsubishi Clean Air which meant that the EX passed both Japan and US emission standards, while the new cylinder head design of the engine gave way for a Jet valve which introduced an extra swirl of air to the combustion chamber, swirling the fuel-air mixture for a cleaner, efficient and more thorough burn. 
+
+In addition to these improvements, another breakthrough in the Lancer lineup was the Silent Shaft Technology, which was actually two counterbalancing shafts that rotated in opposite directions, cancelling the power pulses inherent in an inline 4 cylinder engine. This reduced both engine noise and vibration, and provided a smoother driving experience. The 1.8 L Sirius 80 engines were then introduced in the Lancer in 1980, along with a new {{Convert|70|hp|kW|0|abbr=on}}, 1.2 L engine a year later, providing a broader range of engines for the Mitsubishi's Lancer. Also, a turbocharged, {{convert|135|PS|kW hp|0|abbr=on}} engine was added in 1980 for sportier performance, and an Intercooler system was also integrated in the existing turbocharged engine to produce {{convert|165|PS|kW hp|0|abbr=on}} in 1983.
+
+=== Lancer EX 1800GSR and GT Turbo ===
+In 1980, The Lancer EX was introduced with a 1.8 L turbocharged 4-cylinder option known as the 1800GSR and GT Turbo. The first generation 1800GSR and GT were only available with a turbocharged, non-intercooled {{convert|135|PS|kW hp|0|abbr=on}}. However, in 1983, an intercooler was introduced, helping the turbocharged mill to produce {{convert|160|PS|kW hp|0|abbr=on}}..
+
+==== Japan model and trim levels ====
+* '''1400SL''' - 4-door sedan powered by a 1.4L engine, with a 4-speed Manual Transmission. 5-speed was also introduced. (1979-1987)
+* '''1200SL''' - Same as the SL, with a 1.2L engine option. (1979-1983)
+* '''1400GL''' - 3-speed Automatic version of the SL (1979-1983)
+* '''1400SL A/T''' - Same as the GL, with minor changes. (1983-1987)
+* '''1600XL''' - 4-door sedan powered by a 1.6L engine, with a 3-speed Automatic Transmission. (1979-1983)
+* '''1600GSR''' - 4-door sedan powered by a 1.6L engine with twin carbs, with a 5-speed Manual Transmission. (1981-1983)
+* '''1600XL Super''' - Same as the XL, with minor changes. (1983-1987)
+* '''1800SE''' - 4-door sedan powered by a 1.8L producing {{convert|100|hp|kW|0|abbr=on}} engine, and available with a 5-speed Manual Transmission or a 3-speed Automatic Transmission. (1981-1983)
+* '''1800GSR Turbo''' - 4-door sedan powered by a turbocharged 1.8L engine producing {{convert|135|hp|kW|0|abbr=on}}, with aesthetic upgrades.(1981-1983)
+* '''1800GT Turbo''' - Same as the GSR, but with a different body trim. (1981-1983)
+* '''1800GSR Turbo Intercooler''' - Intercooled version of the first turbo version, producing {{convert|160|hp|kW|0|abbr=on}}, and with minor changes to the aesthetics. (1983-1987)
+* '''1800GT Turbo Intercooler''' - Same as the GSR Turbo Intercooler, again with different body trim. (1983-1987)
+* '''1800GSL Turbo''' - Same as the GSR Turbo Intercooler, only it used the engine from the GSR/GT Turbo, and equipped with a 3-speed Automatic Transmission, and with a more luxurious interior. Along with an AM/FM Multi-Cassette Stereo System. (1983-1987)
+
+=== Lancer EX 2000 Turbo ===
+[[File:Lancer EX 2000 Turbo 1000Lakes Rally Car.jpg|thumb|left|Rally Version of the Lancer EX 2000 Turbo]]
+In Europe,  the Lancer EX was offered with a turbocharged 2.0 L 4–cylinder engine known as the Lancer EX 2000 Turbo. It was the first Lancer to use the very first 4g63 engine which was then used in succeeding models such as the [[Mitsubishi Galant VR-4|Galant VR-4]] and the [[Mitsubishi Lancer Evolution|Lancer Evolution]] I to IX. 
+
+It achieved a maximum output of {{convert|168|bhp|kW|0|abbr=on}} and manages a top speed of {{convert|125|mi/h|km/h|abbr=on}} and a quarter mile time of less than 15.5 s. A new feature on this model is that it is equipped with ECI or Advanced Electronically-Controlled Fuel Injection which gave the Lancer more power and outstanding fuel economy as it did 23.0 [[mile per gallon|mpg]] in city driving and 28.8 to 37.2 mpg in highway driving. A rally version of the Lancer EX 2000 Turbo was made for the 1000 Lakes Rally that gave out {{convert|280|PS|kW hp|0|abbr=on}}. Sales of this model were low because of emission regulations Japan imposed at that time.
+
+=== Philippines (1979-1989) ===
+In The Philippines, the Lancer EX (which is popularly known as the Box Type Lancer) was offered with three variants. These variants are the SL, GSR, and GT. All engines were equipped with the Silent Shaft Technology (the SL had the 1.4 L MCA-JET engine) and soon after, Automatic was available for SL and GSR variants. Sales stopped in 1989 since it was to be replaced by the Fourth generation Lancer.
+
+==== Model and trim levels ====
+* '''SL''' - Base Model. 4-door sedan powered by a 1.4L engine with a 4-speed Manual Transmission and later introduced with the 1.2 L engine (4G11) alongside with the 3-speed Automatic Transmission
+* '''GSR''' - Mid Range Model. 4-door sedan powered by a 1.6L engine with a 5-speed Manual Transmission. 3-speed Automatic Transmission along with a 1.8L engine option (4G62 - carb ver.) was then introduced.
+* '''GT''' - Limited Edition version with the Lancer EX Turbo Bodykit, 14&quot; alloy rims, and same 1.6L engine.
+
+=== Other markets ===
+The Lancer EX (the Lancer name was used, and excluding Japan) was sold throughout the Asia and the Pacific (Malaysia, Indonesia, China, Australia, New Zealand). It was also sold in South America.
+
+=== Engines used ===
+4G63
+* ECI turbocharged SOHC 1997 cc (2.0L) [[Straight-4|I4]], {{convert|170|hp|kW|0|abbr=on}}
+
+4G62/G62B
+* ECI turbocharged SOHC 1795 cc (1.8L) [[Straight-4|I4]], {{convert|160|hp|kW|0|abbr=on}}
+* ECI turbocharged (Non-Intercooled) SOHC 1795 cc [[Straight-4|I4]], {{convert|135|hp|kW|0|abbr=on}}
+* Carb SOHC 1795 cc [[Straight-4|I4]], {{convert|100|hp|kW|0|abbr=on}}
+
+4G32/G32B
+* Carb SOHC 1597 cc (1.6L) [[Straight-4|I4]], {{convert|85|hp|kW|0|abbr=on}}
+
+4G33/G12B
+* Carb &quot;MCA-Jet&quot; SOHC 1410 cc (1.4L) [[Straight-4|I4]], {{convert|80|hp|kW|0|abbr=on}}
+
+4G11/G11B
+* Carb SOHC 1244 cc (1.2L) [[Straight-4|I4]], {{convert|54|hp|kW|0|abbr=on}}
+
+== Third generation: Lancer Fiore (1982-1984) ==
+{{Infobox Automobile generation
+| name          = Lancer Fiore (Third generation)
+| image         = 
+| aka           = Mitsubishi Lancer Fiore
+| production    = 1982–1984
+| predecessor   = 
+| successor     = 
+| body_style    = 3-door [[hatchback]]&lt;br/&gt;4-door [[sedan (car)|sedan]]&lt;br/&gt;5-door [[Station Wagon]]
+| layout        = [[Front engine]], [[front-wheel drive]]
+| engine        = 1.4 L I4 Turbo
+| transmission  = 
+| platform      = Orion G12B
+| wheelbase     = 
+| length        = 
+| width         = 
+| height        = 
+| weight        = 
+| related       =
+| fuel_capacity =
+}}
+
+In 1982, a special model was launched called the '''Lancer Fiore''', also known as third version of the Lancer, based on the Mitsubishi Mirage. The Fiore was often sold as a Lancer in international markets, but also the Mirage Sedan and, with the five-door [[hatchback]] model, remained in production for a good part of the 1980s. In Australia, it would eventually be sold as the Mitsubishi Colt Sedan although cosmetically different. Thus, Mitsubishi had two similarly sized models competing in the same market segment.
+
+The Lancer Fiore/Third generation was discontinued in 1984, just two years after its original launch. The second generation Lancer was, however, still in production for another 4 years when until 1988.
+
+[[File:Dodge-Colt-front.jpg|left|thumb|Dodge Colt 3-door (US)]]
+
+{{-}}
+
+== Fourth generation (1983-1987) ==
+{{Infobox Automobile generation
+| name          = Fourth generation
+| image         = [[File:Lancer 4gen.jpg|250px]]
+| production    = 1983–1987
+| predecessor   = 
+| successor     = 
+| body_style    = 4-door [[sedan (car)|sedan]]&lt;br/&gt;5-door [[hatchback]]&lt;br/&gt;5-door [[station wagon]]
+| layout        = [[Front engine]], [[front-wheel drive|front]]/[[four-wheel drive]]
+| engine        = 1.5 L I4&lt;br/&gt;1.6 L I4 Turbo&lt;br/&gt;1.8 L I4 Diesel
+| transmission  = 
+| platform      = C12A–C18A
+| wheelbase     = 
+| length        = 
+| width         = 
+| height        = 
+| weight        = 
+| related       = [[Mitsubishi Mirage]]&lt;br/&gt;[[Proton Saga]]&lt;br/&gt;[[Proton Iswara]]
+| fuel_capacity =
+}}
+
+Both Mirage and Lancer lines were later renewed from the third generation.
+
+The Mirage four-door and Lancer sedan became the same car. The Lancer Fiore incorporated the latest in computer control engine technology including an electronic fuel injection for its high performance 1600cc turbocharged engine with a power output of 120ps. For the fuel conscious, a 1800cc diesel engine was added as well as the new 1500cc MD (Modulated Displacement) engine which was developed by Mitsubishi Motors and introduced to the market for the first time.
+
+[[File:Mitsubishi Lancer 3 Estate Cottenham.jpg|left|thumb|1987 Mitsubishi Lancer 5-Door]]
+
+In 1985, the Lancer [[station wagon]], also marketed as the Mirage Station Wagon was introduced to address expanding user needs and to extend the versatility of the Lancer lineup. The following year saw the addition of a full-time [[four wheel drive]] version. This model went on to become very popular in both the commercial and private sectors overseas as well as in Japan. 
+
+This model formed the basis of the original [[Proton (company)|Proton]] sedan, the [[Proton Saga|Saga]], which was still in production until early 2008. However, in the Philippines, this generation of Lancer was not sold through Mitsubishi dealers.
+
+{{-}}
+
+== Fifth generation (1988-1992) ==
+{{Infobox Automobile generation
+| name          = Fifth Generation
+| image         = [[File:Mitsubishi Lancer front 20071220.jpg|250px]]
+| production    = 1988–1992
+| predecessor   = 
+| successor     = 
+| body_style    = 3-door [[hatchback]]&lt;br/&gt;4-door [[sedan (car)|sedan]]&lt;br/&gt;5-door [[hatchback]]
+| layout        = [[Front engine]], [[front-wheel drive|front-]]/[[four-wheel drive]]
+| engine        = 
+| transmission  = 
+| platform      = C61A–C65A
+| wheelbase     = {{Convert|2455|mm|in|1|abbr=on}}
+| length        = 
+| width         = 
+| height        = 
+| weight        = 
+| related       = [[Mitsubishi Mirage]]&lt;br/&gt;[[Mitsubishi Chariot|Mitsubishi Chariot/Space Wagon/Expo]]&lt;br/&gt;[[Dodge Colt|Dodge/Plymouth Colt]]&lt;br/&gt;[[Eagle Summit]]&lt;br/&gt;[[Eagle Vista]]
+| fuel_capacity =
+| designer      = Masaru Furukawa (design)&lt;br/&gt;Yasukichi Akamatsu (engineering)&lt;ref name=&quot;lancerevo&quot;/&gt;
+}}
+
+In 1988, a more aerodynamic-looking Lancer was launched, following the shape of the Galant. A five-door hatchback was added to the range. The Mirage and Lancer nomenclature continued. The station wagon continued on the old platform and shape, as did, in some markets, a five-door version of the Mirage. In Australia, all models were sold as the Mitsubishi Lancer, initially designated as the  CA series and from 1990 as the CB. By that time, the Lancer name was shared with the [[Dodge Lancer]] sold in [[North America]]. The sedan was sold as the Mirage Aspire in Japan.
+
+In some markets a 'van' model was produced, being the three-door hatchback without rear side windows (attracting a reduced sales tax in the Dutch market).
+
+In the Philippines, the Fifth generation lancer is also known as &quot;Lancer singkit&quot;. &quot;Singkit&quot; is a Tagalog word that describes the typical almond-shape that the [[epicanthic fold]] gives the eyes of East Asians. It is a reference to the shape of the headlamps and turn signals which taper at the sides. The headlamps of the previous generation were rectangular in comparison. 
+
+{{-}}
+
+== Sixth generation (1991-1995) ==
+{{Infobox Automobile generation
+| name = Sixth generation
+| image = [[File:1995-1996 Mitsubishi Lancer (CC) GLXi coupe 01.jpg|250px|1995–1996 Mitsubishi Lancer (CC) GLXi coupe (Australia)]]
+| production = 1991–1995
+| predecessor =
+| body_style = 2-door [[coupe]] (Mirage based)&lt;br /&gt;4-door [[sedan (car)|sedan]]&lt;br /&gt;5-door station wagon
+| layout = [[Front engine]], [[front-wheel drive|front-]]/[[four-wheel drive]]
+| engine = 1.3 L SOHC I4&lt;br /&gt;1.5 L SOHC I4&lt;br /&gt;1.5 L DOHC I4&lt;br /&gt;1.6 L [[SOHC]] I4&lt;br /&gt;1.6 L [[DOHC]] [[MIVEC]] I4&lt;br /&gt;1.6 L [[DOHC]] V6&lt;br /&gt;1.8 L SOHC I4&lt;br /&gt;1.8 L DOHC I4&lt;br /&gt;1.8 L DOHC [[Turbo]] I4&lt;br /&gt;2.0 L [[SOHC]] I4 Turbo Diesel
+| transmission = 3-speed automatic&lt;br /&gt;4-speed automatic&lt;br /&gt;5-speed manual
+| platform = CB2A–CB4A-CD9A
+| wheelbase = {{Convert|2500|mm|in|1|abbr=on}} ''(sedan)''&lt;br /&gt;{{Convert|2440|mm|in|1|abbr=on}} ''(coupe)''
+| length =
+| width =
+| height =
+| weight =
+| related = [[Mitsubishi Lancer Evolution]]&lt;br /&gt;[[Mitsubishi Carisma]]&lt;br /&gt;[[Mitsubishi Mirage]]&lt;br /&gt;[[Mitsubishi Chariot|Mitsubishi Chariot/Space Wagon/Expo]]&lt;br /&gt;[[Dodge Colt|Dodge/Plymouth Colt]]&lt;br /&gt;[[Eagle Summit]]&lt;br /&gt;[[Eagle Vista]]&lt;br /&gt;[[Proton Wira]]
+| fuel_capacity =
+}}
+
+[[File:1995-1996 Mitsubishi Lancer (CC) GLXi coupe 02.jpg|thumb|left|1995–1996 Mitsubishi Lancer (CC) GLXi coupe (Australia)]]
+
+It was only in 1991 that there was greater differentiation between the Mirage and Lancer. Although both were on the same platform, the Lancer sedan received different sheetmetal from the Mirage four-door. The Mirage variant was sold in North America under the [[Eagle Summit]] name. [[Minivan]] models, such as the [[Mitsubishi Space Runner]] and [[Mitsubishi Chariot]], were mechanically related. In 1993, the Lancer wagon, named the '''Libero''' in [[Japan]], was launched. 
+
+An electric version was also released named the '''Libero EV''' that ran on [[NiCd]] batteries. A [[V6]] variant was also introduced with only 1.6 L, making it the [[List of automotive superlatives#Engine capacity|smallest mass-produced V6]]. The high-performance, turbocharged ''GSR'' version formed the basis of the contemporary [[Mitsubishi Lancer Evolution|Lancer Evolution]] (or 'Lancer Evo') from September 1993, using the drivetrain of the successful [[Mitsubishi Galant VR-4|Galant VR-4]] rally car.
+
+The Mirage Asti Coupé in Japan was offered as the Lancer Coupé in many export markets.
+
+The Sixth generation Lancer was rebadged as the [[Proton Wira]] sedan and 5-door hatchback models in Malaysia in 1993 with 1.3, 1.5, 1.6 and 1.8 L engine capacities. A short-lived 2.0 L diesel model was also available. Currently, the car has stopped production as one of the longest running [[Proton (company)|Proton]] models in Malaysia after [[Proton Saga]], which is also based on a previous Lancer model. The [[Proton Wira]] was recently replaced by [[Proton (company)|Proton's]] latest model, the [[Proton Persona]].
+
+=== Australia (1992–1996) ===
+In Australia, this generation was officially referred to as the CC series.&lt;ref&gt;{{cite web|url=https://www.mynrma.com.au/cps/rde/xchg/mynrma/hs.xsl/mitsubishi_lancer_cc_1996_car_review.htm|title=NRMA Car Review - Mitsubishi Lancer CC|publisher=mynrma.com.au|accessdate=2008-12-30}}&lt;/ref&gt; It was sold as a 2-door coupe, as well as a 4-door sedan, wagon and 5-door hatchback (essentially carried over from the previous generation). The GL trim model was the last Lancer to use a [[carburetor]] [[internal combustion engine]]. The rest of the range used an [[electronic fuel injection]] engine. This generation was sold until 1996, when it was replaced by the popular CE series model.
+* '''GL''' - 2-door [[coupe]], 4-door [[sedan (car)|sedan]] and [[station wagon]]. Powered by a 1.5 L [[internal combustion engine|engine]] (67&amp;nbsp;kW)
+* '''GLXi''' - 2-door coupe, 4-door sedan and wagon. Powered by a 1.8 L engine (4G93 [[SOHC]] - 86&amp;nbsp;kW) (sold from new with 1.8 instead of 1.6 variant, due to Australia's poor quality &quot;91 octane&quot; fuel)
+* '''Executive''' - 4-door sedan and wagon. Powered by a 1.8 L engine (4G93 SOHC - 86&amp;nbsp;kW)
+* '''GSR''' - 4-door sedan. Powered by a [[turbocharged]] 1.8 L engine (4G93t [[DOHC]] - 141&amp;nbsp;kW)
+
+=== Philippines (1993-1996) ===
+Described as Lancer egg (also known as Lancer [[hotdog]] type), because of the shape of its body and its rear signal light.
+* '''EL''' - 4-door sedan and no [[tach]]ometer. Powered by a 1.3 L Cyclone [[Carburetor#Operation|Variable Venturi carbureted]] engine (4G13 SOHC) (59&amp;nbsp;kW) (Note: if E10 shall be used, consult manufacturer first)
+* '''GLi''' - 4-door sedan. Powered by a 1.5 L Cyclone ECI-Multi engine (4G15 SOHC) (66&amp;nbsp;kW)
+* '''GLXi''' - 4-door sedan. Powered by a 1.6 L Cyclone ECI-Multi engine (4G92 SOHC) (86&amp;nbsp;kW)
+* '''EX''' - 4-door sedan. Same specifications as the EL, and released in 1996.
+
+=== Europe (1992–1996) ===
+* '''GLi''' - 4-door sedan and wagon. Powered by a 1.3 L ECI-Multi engine (4G13 SOHC) (55&amp;nbsp;kW) or 1.6 L ECI-Multi engine (4G92 SOHC) (83&amp;nbsp;kW)
+* '''GLXi''' - 4-door sedan and wagon. FWD or AWD. Powered by a 1.6 L ECI-Multi engine (4G92 SOHC) (83&amp;nbsp;kW)
+* '''GLX''' - 4-door sedan and wagon. Powered by a 2.0 L Diesel engine (4D68)
+* '''GTI''' -(gera from over there) 4-door sedan. Powered by a 1.8 L ECI-Multi engine (4G93 DOHC) (103&amp;nbsp;kW)
+* '''GSR''' - 4-door sedan. Powered by a 1.8 L ECI-Multi turbo-charged engine (4G93 DOHC turbo) (150&amp;nbsp;kW)
+
+=== Latin America (1993–1997) ===
+* '''GL''' - 4-door sedan. FWD. Powered by a 1.3 L carburated engine (4G13 SOHC) (58&amp;nbsp;kW)
+* '''GLX''' - 4-door sedan. FWD. Powered by a 1.5 L carburated engine (4G15 SOHC) (65&amp;nbsp;kW)
+* '''GLXi''' - 4-door sedan. FWD. Powered by a 1.6 L ECI-Multi engine (4G92 SOHC) (84&amp;nbsp;kW)
+{{-}}
+
+=== Indonesia (1993-1996) ===
+* '''GLX''' - 4-door sedan. FWD. Powered by a 1.6L carburated engine (4G92 SOHC)
+* '''GLXi''' - 4-door sedan. FWD. Powered by a 1.6L ECI-Multi engine (4G92 SOHC) (84&amp;nbsp;kW/113 hp)
+* '''GTi''' - 4-door sedan. FWD. Powered by a 1.8L ECI-Multi engine (4G93 DOHC) (103&amp;nbsp;kW/140 hp)
+
+== Seventh generation (1995-present) ==
+{{Infobox Automobile generation
+| image = [[File:Mitsubishi Lancer1995jp.jpg|250px|1995 Mitsubishi Lancer]]
+| name = Seventh generation
+| aka = Mitsubishi Signo ([[Venezuela]]&lt;!-- manufactured by MMC Automoritz --&gt;)&lt;ref&gt;http://mitsubishi-motors.com.ve/cms/index.php?option=com_content&amp;task=view&amp;id=370&amp;Itemid=26&lt;/ref&gt;
+| production = 1995–present
+| predecessor =
+| successor =
+| body_style = 2-door [[coupe]]&lt;br /&gt;4-door [[sedan (car)|sedan]]&lt;br /&gt;4-door [[station wagon]]
+| layout = [[Front engine]], [[front-wheel drive|front-]]/[[four-wheel drive]]
+| engine = 1.5 L SOHC I4&lt;br /&gt;1.8 L SOHC I4&lt;br /&gt;1.8 L DOHC [[Turbo]] I4
+| transmission = 4-speed automatic&lt;br /&gt;4-speed [[Tiptronic|semi-auto]]&lt;br /&gt;5-speed manual
+| platform = CK2A–CM5A
+| wheelbase = {{Convert|2500|mm|in|1|abbr=on}} ''(sedan)''&lt;br /&gt;{{Convert|2440|mm|in|1|abbr=on}} ''(coupe)''
+| length =
+| width =
+| height =
+| weight =
+| fuel_economy =
+| related = [[Mitsubishi Lancer Evolution]]&lt;br /&gt;[[Mitsubishi Carisma]]&lt;br /&gt;[[Volvo S40]]&lt;br /&gt;[[Volvo V40]]&lt;br /&gt;[[Mitsubishi Mirage]]&lt;br /&gt;[[Mitsubishi Chariot|Mitsubishi Chariot/Space Wagon/Expo]]&lt;br /&gt;[[Dodge Colt|Dodge/Plymouth Colt]]&lt;br /&gt;[[Eagle Summit]]&lt;br /&gt;[[Soueast Lioncel]]&lt;br /&gt;[[Proton Waja]]
+| fuel_capacity=
+}}
+
+In 1995, the Lancer was renewed for its Seventh generation, building on the earlier model's format. Apart from the Evo models' continuation, it did not depart from the established Lancer formula. A sedan and wagon (Libero in Japan) were offered, with a related Mirage model. The [[coupé]] continued as the Mirage Asti in Japan, known as the Lancer Coupé elsewhere. The 1995 Lancer (Model from 1995-2002 in some countries) is more popularly known as the 1997 Lancer. A turbocharged '''GSR''' version continued to be sold until the end of the 1990s. This platform was also the basis for the Mirage, as it was known in [[North America]] and various other markets.
+
+From 1996 to 2004, the [[Mitsubishi Carisma]] replaced the Mitsubishi Lancer in some markets.
+
+It is of note, that the Lancer Evolution V was the only Lancer Evolution to gain Mitsubishi the [[World Rally Championship|WRC]] constructors championship. However, driver [[Tommi Makinen]] was able to claim four WRC driver's championships for himself, in 1996-1999, driving Mitsubishi's Lancer Evolution III, IV, V &amp; VI.
+
+=== Australia (1996–2004) ===
+In [[Australia]], the Seventh sold from 1996-2004. It was designated as the CE series. Like the previous generation, it was available in a variety of body styles, which helped to cater for a more broad audience. The introduction of a sporty MR coupe helped to target this model directly towards a younger audience.
+
+[[File:1999-2001 Mitsubishi Lancer (CE II) GLXi sedan 02.jpg|thumb|left|1999–2001 Mitsubishi Lancer (CE II) GLXi sedan (Australia)]]
+
+The [[station wagon]] continued on as a CE model, even though it was essentially carried over from the previous generation. This model had an unusually long model run, becoming increasingly uncompetitive as the years went by and often heavily discounted by dealers. Towards the end of its model run, Mitsubishi introduced some limited edition models (based on the GLi) to remain competitive with its rivals, these editions featured extras such as sports interiors, alloys and body kits off higher spec models. Generally, this generation sold well throughout its production run.
+
+It should be noted that despite the introduction of the eighth generation Lancer Cedia in 2000, the CE series continued to be sold alongside it until mid-2004. The sedan was available in GLi trim, until it was finally discontinued in 2003. The coupe was facelifted and now only available in GLi and MR trims.
+
+Due to its appearance, affordability, and the rise in status of the Lancer Evolution, this generation was quite popular with young car enthusiasts and the aftermarket modified [[Japan]]ese car scene. Some popular modifications include exhaust systems, suspension, after market stereos and replica Evolution body kits.
+
+Series I (96-98) and Series II (98-99)
+* '''GLi''' - 2-door coupe and 4-door sedan. Powered by a 4 cylinder, 1.5 L engine (4G15 SOHC - 69&amp;nbsp;kW)
+* '''GLXi''' - 2-door coupe and 4-door sedan. Powered by a 4 cylinder, 1.8 L engine (4G93 SOHC - 88&amp;nbsp;kW)
+* '''MR''' - 2-door coupe. Powered by a 4 cylinder, 1.8L engine (4G93 SOHC - 86&amp;nbsp;kW)
+* '''MR''' - 4-door sedan. Powered by a 4 cylinder, 1.8L MIVEC engine (4G93 SOHC - 141&amp;nbsp;kW)
+* '''GSR''' - 4-door sedan. Powered by a [[turbocharged]] 1.8 L engine (4G93t [[DOHC]] - 141&amp;nbsp;kW)
+* '''MXd''' - 4-door sedan. Powered by a [[turbodiesel]] 2.0 L engine (4D68T SOHC - 65&amp;nbsp;kW)
+
+Series III (99-03)
+* '''GLi''' - 2-door coupe (1.5 L or 1.8 L) and 4-door sedan (4 cylinder, 1.8 L)
+* '''GLXi''' - 2-door coupe and 4-door sedan. Powered by a 4 cylinder, 1.8 L engine
+* '''MR''' - 2-door coupe. Powered by a 4 cylinder (6 cylinder, 99-00), 1.8 L engine
+
+Series IV (02-04) ''coupe update only''
+* '''GLi''' - Choice of 1.5 L engine (discontinued in 2003) or 1.8 L engine, 4 Cylinder
+* '''MR''' - Powered by a 1.8 L engine, producing {{Convert|86|kW|hp|0|abbr=on}} &amp; {{convert|163|Nm|lbft|0|abbr=on}} of torque (1500-4500 rpm) out of a 4 cylinder
+
+=== Philippines (1996–2002) ===
+[[File:2000-2002 Mitsibishi Lancer Ph.JPG|thumb|left|2000-2002 Mitsubishi Lancer (Philippines)]]
+Described as &quot;Lancer Pizza&quot; such for their [[pizza]]-shaped rear lamps.
+* '''EL''' - 4-door sedan with 1.3 L carb engine (4G13 - 55&amp;nbsp;kW)
+* '''GL''' - 4-door sedan with 1.5 L engine (4G15 - 65&amp;nbsp;kW)
+* '''GLXi''' - 4-door sedan with 1.6 L SOHC engine (4G92 - 85&amp;nbsp;kW)
+* '''GLX''' - 1999-2002 model 4-door sedan with 1.5 L carb engine
+* '''GLS''' - 1999-2002 model 4-door sedan with 1.6 L Fuel injected engine
+* '''MX''' - 1999-2002 model 4-door sedan top of the line with 1.6 L EFI SOHC engine with [[INVECS]] automatic transmission.
+* '''GSR''' - 2-door [[coupe]] (97-02) Powered by 1.6 L 4G92 SOHC engine
+
+=== Indonesia (1997-2002) ===
+comes in 2 types (1997-2002)
+* '''GLXi''' - 4-door sedan with 1.6 L Fuel Injected Engine (4G92)
+* '''SEi''' - 4-door sedan with 1.6 L Fuel Injected Engine (4G92) equipped with front, side and rear spoilers, airbags, foglamps, and rear garnish.
+
+In late 2001, comes with a facelift model taken from Philippine version. One piece headlights, longer bumpers, vertical chrome grille, and 15&quot; alloy wheels. also in two types: SEi and GLXi as mentioned above. This model discontinued at December 2002, and replaced by its predecessor Lancer Cedia.
+
+=== Venezuela (Mitsubishi Signo; 1995-present)===
+In Venezuela the model was introduced in 1996 as the Mitsubishi Signo and is assembled by the MMC Automoritz plant. Available model variants are
+
+* '''GLi''' - 4-door sedan. FWD. Powered by a 1.3 L ECI-Multi engine (57&amp;nbsp;kW)
+* '''Plus''' - 4-door sedan. FWD. Powered by a 1.3 L ECI-Multi engine (57&amp;nbsp;kW)
+* '''Taxi''' - 4-door sedan. FWD. Powered by a 1.3 L ECI-Multi engine (57&amp;nbsp;kW)
+
+== Eighth generation (2000-present) ==
+{{Infobox Automobile generation
+| name         = Eighth Generation
+| aka          = Mitsubishi Lancer Classic (Russia)&lt;br/&gt;Mitsubishi Lancer 1600&lt;ref&gt;http://www.mitsubishi-uruguay.com/pagina.php?id=Ficha&amp;modelo=2&lt;/ref&gt; (Uruguay)&lt;br/&gt;Mitsubishi Lancer GL&lt;ref&gt;http://www.caribbeanmotors.com/05a05.html&lt;/ref&gt; (Curacao)&lt;br/&gt;Mitsubishi Lancer GLX&lt;ref&gt;http://www.mitsubishi-motors.cl/ficha_lancer_glx.php&lt;/ref&gt; (Chile)
+| image        = [[File:2006-2008 Mitsubishi Lancer (CH MY07) ES station wagon 02.jpg|250px|2006-2008 Mitsubishi Lancer (CH MY07) ES station wagon (Australia)]]
+| production   = 2000–present
+| predecessor  = [[Mitsubishi Carisma]] (Europe)&lt;br/&gt;[[Mitsubishi Mirage]] (USA)
+| successor    = 
+| platform     = CS2A–CS5W
+| body_style   = 4-door [[sedan (car)|sedan]]&lt;br/&gt;4-door [[station wagon]]
+| layout       = [[FF layout]]
+| engine       = [[Mitsubishi Orion engine#4G13|4G13]] 1.3 L SOHC [[Straight-4|I4]]&lt;br/&gt;[[Mitsubishi Orion engine#4G18|4G18]] 1.6 L SOHC [[Straight-4|I4]]&lt;br/&gt;[[Mitsubishi 4G9 engine#4G93|4G93]] 1.8 L [[DOHC]] [[Straight-4|I4]]&lt;br/&gt;[[Mitsubishi 4G9 engine#4G93|4G93]] 1.8 L [[DOHC]] [[Straight-4|I4]] [[Gasoline direct injection|GDI]] [[Turbo]]&lt;br/&gt;[[Mitsubishi 4G9 engine#4G94|4G94]] 2.0 L [[SOHC]] [[Straight-4|I4]]I4&lt;br/&gt;[[Mitsubishi Sirius engine#4G63|4G63]] 2.0 L DOHC [[Straight-4|I4]]&lt;br/&gt;[[Mitsubishi Sirius engine#4G69|4G69]] 2.4 L SOHC [[MIVEC]] [[Straight-4|I4]]
+| transmission = 4-speed automatic&lt;br/&gt;4-speed [[Semi-automatic transmission|semi-auto]]&lt;br/&gt;5-speed manual&lt;br/&gt;invecs III CVT
+| wheelbase    = {{Convert|2600|mm|in|1|abbr=on}}
+| length       = {{Convert|4495|-|4605|mm|in|1|abbr=on}}
+| width        = {{Convert|1695|mm|in|1|abbr=on}}
+| height       = {{Convert|1375|-|1425|mm|in|1|abbr=on}}
+| related      = [[Mitsubishi Lancer Evolution]], [[Mitsubishi Outlander]]
+}}
+
+[[File:Mitsubishi Lancer -- 07-09-2009.jpg|thumb|left|2002-2003 Mitsubishi Lancer (US)]]
+
+The year 2000 saw the release of the eighth-generation '''Lancer Cedia''' in Japan (meaning Century Diamond); though in most markets the seventh generation Lancer continued, built at Mitsubishi's Mizushima plant in Japan. The new model was available in [[sedan (car)|sedan]] and [[station wagon]] forms. The Mirage, apart from the export models, became a different car in Japan that was unrelated to the Lancer. In Europe, the Lancer was not offered in some countries, being too close to the size of the [[The Netherlands|Dutch]]-built Carisma, so the Evo VII model sold there bore the Carisma name. This is the first generation in many years where the Lancer nameplate is universally used. It is still sold in Japan where the ninth generation Lancer is known as Galant Fortis
+
+In North America, the Lancer Cedia was introduced in 2002 as a direct replacement for the [[Mitsubishi Mirage|Mirage]]. It is powered by a 2.0 L 4G94 engine producing 120&amp;nbsp;hp (92&amp;nbsp;kW) and {{convert|130|lbft|Nm|0|abbr=on}} of torque.
+
+In Australia, the eighth generation Lancer was introduced as the CG series in July 2002 with the 2.0 L 4G94 engine. It was introduced as a replacement for the seventh generation sedan, and was sold alongside the popular seventh generation coupe.
+
+=== Mid-generation facelift ===
+In 2004, a heavily restyled Lancer surfaced with a front [[fascia (car)|facia]] that brought it into line with the Mitsubishi corporate look, as well as a restyled rear, to further differentiate itself from the [[Lancer Evolution]] and for a more modern appearance. The car's grille was then redesigned again in 2006. 
+
+==== North America ====
+[[File:06-Mitsubishi-Lancer.jpg|thumb|left|2006 Mitsubishi Lancer ES (U.S.)]]
+
+In North America, additional minor styling changes also occurred for 2005 and 2006. For the 2005 model year, the grille was changed to include more fins to reflect a closer similarity to the North American [[Mitsubishi Galant|Galant]]. For the 2006 model year, the fascia was changed again from a bridged fascia to one with an open vent after Mitsubishi received complaints from current owners regarding its similarity in appearance to General Motors Division [[Pontiac]]'s corporate look, and to bring the appearance closer to its bigger brother, the [[Mitsubishi Lancer Evolution|Evolution]].
+
+In [[Mexico]], the Lancer was available in DE, ES, LS and GS trims with a 2.0 L DOHC 4G63 engine. There were no estate versions: only the four-door saloon.
+
+==== Ralliart ====
+[[File:2004-2005 Mitsubishi Lancer Ralliart.jpg|thumb|right|2004-2005 Mitsubishi Lancer Ralliart sedan (U.S.)]]
+
+In addition to the facelift, North America received two additional models to the Lancer line in 2004 - Sportback and Ralliart. The latter slated in between the base and high performance Evolution model. Both the Sportback and Ralliart had high levels of equipment, based on the Australian Lancer VR-X. The main difference being that these cars came equipped with Mitsubishi's 2.4 L[[Mitsubishi Sirius engine|4G69]] engine (rated at {{Convert|160|hp|kW|0|abbr=on}}/{{convert|162|lbft|Nm|0|abbr=on}} for the Sportback, and {{Convert|162|hp|kW|0|abbr=on}}/{{convert|162|lbft|Nm|0|abbr=on}} for the Ralliart), included a new, stiffer suspension package that improved handling and lowered the cars stance by 1 centimeter, 16&quot; alloy wheels, front bucket seats borrowed from Japan's Mitsubishi Evolution GT-A, fog lamps, and a new aerodynamic ground package. The Ralliart also came equipped with a cosmetic rear deck spoiler, and clear rear tail lights. The Sportback was equipped with a 4-speed INVECS-II [[automatic transmission]], with no option for a [[manual transmission]], while the Ralliart came with a 5-speed manual transmission with an option for the 4-speed automatic. The Sportback was also available in the lower spec LS trim.
+
+[[File:2006-2008 Mitsubishi Lancer (CH MY07) ES station wagon 03.jpg|thumb|left|2006-2008 Mitsubishi Lancer (CH MY07) ES station wagon (Australia)]]
+
+Due to{{Citation needed|date=September 2009}} Mitsubishi's deteriorating financial situation and slow sales, the Lancer Sportback wagon was cancelled in the [[United States]] one year after its release. But the Mitsubishi Lancer wagon was sold in [[Canada]], [[Japan]], [[Europe]], [[Australia]] and [[New Zealand]], and was available in at least the latter two until 2009.
+
+==== Australia ====
+The 2003 facelift, designated the CH series,&lt;ref&gt;{{cite web|url=http://www.autoweb.com.au/cms/A_55681/title_CH-Lancer-Prices-Released/newsarticle.html|title=CH Lancer Prices Released|publisher=Autoweb.com.au|accessdate=2008-12-30}}&lt;/ref&gt; introduced a heavily updated VR-X, which included new 16&quot; alloys, stiffer suspension, body styling kit, and gear shifter borrowed from the [[Lancer Evolution]]. In 2004, the new Lancer wagon was introduced as a direct replacement for its ageing predecessor.
+
+In August 2005, all Lancers were upgraded to the 2.4 L [[Mitsubishi Sirius engine|4G69]] engine, producing 115&amp;nbsp;kW (154&amp;nbsp;hp) and {{convert|220|Nm|lbft|0|abbr=on}} of torque. The upgraded engine also saw a change in trim levels and upgraded equipment—the ES and LS models now featured a more upmarket looking black interior, while the VR-X gained a new black grille to closer resemble the [[Lancer Evolution]] IX. The equipment levels of all models were also upgraded, with the LS and VR-X gaining climate control, and a premium audio system sourced from the luxury [[Mitsubishi Verada]]. The Exceed model was discontinued, and all updated models now used JDM sized rear bumpers instead of the larger USDM sized versions. Additionally, the wagon also saw these changes; and as of 2007, continues to be sold alongside the sedan.
+
+The ES and LS models were given a minor facelift for the 2007 model year; this time gaining the same front grille as the US models, and putting it into line with the current corporate look—similar to that of the [[Mitsubishi Colt|Colt]] and the locally built [[Mitsubishi 380|380]]. Prior to the introduction of the all-new ninth generation Lancer, a limited edition ES model dubbed 'Velocity' went on sale. This package included VR-X grill, rear spoiler, leather/alcantara bolsted seats, sports pedals, 15&quot; OZ alloy wheels and chrome exhaust tip—all for the same price as the previous standard ES.
+
+==== Other markets ====
+In [[Japan]], the Lancer Cedia was offered with many different trim levels and engines, including options which were never seen in export markets. It was also one of the first models to use the INVECS-III CVT transmission. There was also a Ralliart version of the sportswagon which was powered by a turbocharged 1.8 L GDI engine. As of 2009, the eighth generation Lancer sedan is still being sold alongside the new ninth generation, which is known in the home market as the Galant Fortis.
+
+In [[Pakistan]], this variant was launched in 2005 with cosmetic changes from the front and the back. Thai production was switched to the new model, and in all markets except for [[India]] the seventh-generation model was no longer marketed, four years after the Cedia's introduction. [[India]] received the new Lancer in 2006, known locally as the Mitsubishi Cedia to distinguish it from this version that is still assembled and sold as the Lancer because of its continued popularity. In [[Malaysia]], the Lancer was made available after Mitsubishi had sold all its shares in Malaysian carmaker [[Proton (carmaker)|Proton]], marking the return of Mitsubishi in Malaysian market after being absent since 1985 due to the agreement with Proton. The Lancer sold in Malaysia was powered by the [[Mitsubishi Orion engine|4G18 engine]] which also powered the early 1.6 [[Proton Waja]] model. In the [[Philippines]], the Lancer underwent a facelift, now without the central semi-triangle in the [[grille]]. It is offered in 2 trims, the base GLX with a 5-speed manual and the GLS with an all-new [[INVECS]]-III CVT with manual override. All of them are powered with an l4 1.6L [[Mitsubishi Orion engine|4G18]] SOHC engine.
+
+In some [[Europe]]an markets, the Lancer began to take the place of the Carisma in 2004. It is powered by a 1.3 L SOHC 4G13, 1.6 L SOHC 4G18 engine and a 2.0 L DOHC 4G63 (all 4-cylinder).
+
+== Ninth generation ==
+{{Infobox Automobile generation
+| image        = [[File:2007-2009 Mitsubishi Lancer (CJ) ES sedan 01.jpg|250px|2007–2009 Mitsubishi Lancer (CJ) ES sedan (Australia)]]
+| name         = Ninth generation
+| aka          = Galant Fortis (Japan)&lt;br/&gt;Lancer Fortis (Taiwan)&lt;br/&gt;Lancer EX (Panama, El Salvador, Thailand, Hong Kong, Singapore, Philippines &amp; Middle East)&lt;br/&gt;Lancer Serie R (Chile)
+| production   = 2007–present
+| predecessor  = 
+| platform     = [[Mitsubishi GS platform]]
+| body_style   = 4-door [[sedan (car)|sedan]] (GS41) &lt;br/&gt;5-door [[hatchback]] (GS44S)
+| layout       = [[Front engine]], [[front-wheel drive|front-]]/[[four-wheel drive]]
+| engine       =  [[Mitsubishi 4B1 engine|4B12]] 2.4 L [[DOHC]] [[Straight-4|I4]], &lt;br/&gt;[[Mitsubishi 4B1 engine|4B11]] 2.0 L DOHC I4, &lt;br/&gt;[[Mitsubishi 4B1 engine|4B10]] 1.8 L DOHC I4, &lt;br/&gt;[[Mitsubishi 4A9 engine|4A91]] 1.5 L DOHC I4, &lt;br/&gt;[[List of Volkswagen Group diesel engines#2.0 TDI PD 100-125kW|VW]] 2.0&amp;nbsp;L [[Di-D]] Diesel
+| transmission = 5-speed [[manual transmission|manual]]&lt;br/&gt; [[INVECS-III]] [[Continuously Variable Transmission|CVT]] [[automatic transmission|automatic]]&lt;br/&gt; [[INVECS-II]] 4-speed [[Automatic]] (Singapore 1.5l variant)&lt;br/&gt; 6-speed [[twin-clutch transmission]] (Lancer Ralliart)
+| platform     = CY2A–CZ4A
+| wheelbase    = {{Convert|2615|mm|in|1|abbr=on}}
+| length       = {{Convert|4523|mm|in|1|abbr=on}}&lt;br/&gt;Sportback: {{Convert|4585|mm|in|1|abbr=on}}
+| width        = {{Convert|1760|mm|in|1|abbr=on}}
+| height       = {{Convert|1460|mm|in|1|abbr=on}}&lt;br/&gt;Sportback: {{Convert|1515|mm|in|1|abbr=on}}
+| weight       = {{Convert|1320|-|1593|kg|lb|abbr=on}}
+| fuel_economy =
+| fuel_capacity= {{Convert|50|L|usgal impgal|0|abbr=on}}
+| related      = [[Chrysler Sebring]]&lt;br/&gt;[[Dodge Avenger]]
+}}
+
+In 2005, Mitsubishi revealed the '''Concept-X''' model car at the [[Tokyo Motor Show]] and its '''Concept-Sportback''' model at the [[Frankfurt Motor Show|Frankfurt motor show]]. The new Lancer is based on these two concepts. The new Lancer was officially revealed in January 2007 at the [[Detroit Motor Show]] and went on sale in North American markets on March 2007 as a 2008 model. New Lancer features Mitsubishi's next-generation ''[[Mitsubishi RISE|RISE]]'' safety body.
+
+As per Mitsubishi's heritage of the next generation Lancer this is their ninth generation. &lt;ref&gt;{{cite web|url=http://www.new-lancer.com/en/index.html |title=Mitsubishi New Lancer |publisher=New-lancer.com |date= |accessdate=2010-04-03}}&lt;/ref&gt;
+
+=== North America ===
+[[File:2010 Mitsubishi Lancer Sportback -- 04-29-2010.jpg|thumb|left|2010 Mitsubishi Lancer Sportback (US)]]
+For the [[United States of America|United States]], the new Lancer was initially available in DE, ES, and GTS trim levels.&lt;ref&gt;{{cite web|url=http://www.jbcarpages.com/mitsubishi/lancer/2008/|title=2008 Mitsubishi Lancer Review|publisher=JB car pages|accessdate=2009-02-25}}&lt;/ref&gt; DE, ES, and GTS models are powered by a [[Global Engine Manufacturing Alliance|GEMA]] based [[Mitsubishi 4B1 engine|4B11]], 2.0 liter DOHC engine producing {{Convert|152|hp|kW|0|abbr=on}} (except for [[California]] models which have been detuned to {{Convert|143|hp|kW|0|abbr=on}} to meet regulations). [[Transmission (mechanics)|Transmission]] options include a brand new [[Continuously Variable Transmission|CVT]], sourced from [[Jatco]] (code: F1CJA), alongside a regular 5-speed manual sourced from [[Aisin Seiki Co.|Aisin AI]] (code: F5MBB). GTS models get a 6-speed paddle shift version of the CVT.
+
+In Canada, a fourth model (SE) was introduced to the Lancer lineup late in the model year. The SE model is a cross between the ES and GTS models. It includes the skirt package similar to the GTS, a rear spoiler, and unlike the GTS model, the SE includes a sunroof. Features not included in the SE model that are found in the GTS are the FAST key, Bluetooth hands-free cell phone interface, automatic climate control, Rockford Fosgate sound system, carbon fiber trim pieces, leather wrapped steering wheel and shift knob, and 18&quot; wheels.
+
+For U.S. markets, starting with the 2009 model year, an ES-Sport version was released similar to the SE model for the Canadian market. Externally the ES-Sport is similar in appaearance to the GTS' skirts, spoiler, mirrors, etc (with the exception of the wheels, the ES-Sport retains the ES wheelset). The ES-Sport also uses the ES 2.0 liter engine.&lt;ref name=&quot;2009jb&quot;&gt;{{cite web|url=http://www.jbcarpages.com/mitsubishi/lancer/2009/|title=2009 Mitsubishi Lancer Review|publisher=JB car pages|accessdate=2009-02-25}}&lt;/ref&gt;
+
+For 2009, the GTS is powered by a 2.4 L [[Mitsubishi 4B1 engine|4B12]] engine producing {{convert|168|hp|kW|0|abbr=on}} and {{convert|167|lbft|Nm|0|abbr=on}}.&lt;ref name=&quot;2009jb&quot;/&gt;
+
+The five-door hatchback version, known as the Sportback, was introduced for the Canadian market in spring 2009, and in the U.S. for the 2010 model year in late summer 2009.&lt;ref&gt;{{cite web|url=http://jalopnik.com/5142979/2010-mitsubishi-lancer-sportback-coming-to-america-five+door-style|title=2010 Mitsubishi Lancer Sportback coming to America five+door style|publisher=Jalopnik}}&lt;/ref&gt;,&lt;ref&gt;{{cite web|url=http://www.canadiandriver.com/2009/03/30/first-drive-2009-mitsubishi-lancer-sportback.htm |title=First Drives » First Drive: 2009 Mitsubishi Lancer Sportback |publisher=CanadianDriver |date=2009-03-30 |accessdate=2010-04-03}}&lt;/ref&gt;
+
+=== Australia ===
+{{Multiple image
+| align = left
+| direction = vertical
+| width = 200
+
+| image1 = 2010 Mitsubishi Lancer (CJ MY10) Activ sedan 01.jpg
+| alt1 = White sedan automobile
+| image2 = 2010 Mitsubishi Lancer (CJ MY10) Activ sedan 02.jpg
+| alt2 = White sedan automobile
+| caption2 = 2010 Mitsubishi Lancer (CJ MY10) Activ sedan (Australia)
+}}
+
+The Lancer was released in Australia in October 2007, designated the CJ series and is initially available in ES, VR and VRX trims. The ES included cruise control, driver, passenger and knee airbags, stability and traction control as standard. The VR adds alloy wheels, foglights, side skirts, boot lip spoiler, rain-sensing wipers, automatic headlights, 6-disc CD changer, as well as curtain and side airbags. The VRX gets extra skirts, a larger rear spoiler, 18-inch alloys and a premium Rockford Fosgate sound system. All three models shared the same 4B11 2.0-litre engine and can be had with manual or CVT. A Ralliart version has been introduced later, with a turbocharged version of the same engine, 4WD and paired with a 6-speed twin-clutch gearbox. The Evo X also joins the lineup afterwards. In late 2008, another variant, the Aspire, has been introduced. It includes more luxury features and has a 2.4-litre 4B12 engine mated only to the CVT. The VRX also gets the engine upgrade and can still be had with a manual.
+
+The Sportback body followed the sedan and can be had in ES, VR, VRX and Ralliart trims. Special models have also been introduced, such as the Platinum Edition, which is based on the VR but added a chrome grille and window surrounds (sedan only), MMCS satellite navigation and Bluetooth compatibility for handsfree mobile phone usage. A new RX version is derived from the ES but comes with standard alloy wheels.
+
+=== Asia ===
+With the exception of the Lancer Evolution X, the Lancer is marketed as the '''Galant Fortis''' ([[Latin]] for strong, steadfast and courageous) in the [[Japan]]ese domestic market.&lt;ref&gt;{{cite web|url=http://www.autoblog.com/2007/04/26/mitsubishi-unveils-design-study-shots-of-the-production-evo-x/|title=Mitsubishi unveils &quot;design study&quot; shots of the production Evo X|publisher=Autoblog}}&lt;/ref&gt; It comes in 3 trim levels: Exceed, Super Exceed, and Sport.&lt;ref&gt;{{cite web|url=http://www.worldcarfans.com/2070823.003/mitsubishi-galant-fortis-launched-ja|title=Mitsubishi Galant Fortis Launched|publisher=World Car Fans}}&lt;/ref&gt;
+
+The new Lancer was released on September 15, 2007 in Taiwan and has been named '''[[:zh-tw:三菱 Mitsubishi Lancer Fortis / iO (台灣版)|Lancer Fortis]]'''. It's powered by a [[Mitsubishi 4B1 engine|4B11]], 2.0 litre DOHC engine outputting {{Convert|157|hp|kW|0|abbr=on}} and the transmission is a 6-speed (fixed gears in sport mode) version of the CVT. However, unlike other Lancer models in USA and Japan, Mitsubishi has changed the front and rear ends to make it look like a ''family car''.&lt;ref&gt;{{cite web|url=http://paultan.org/archives/2008/03/19/taiwanese-market-mitsubishi-lancer-fortis/|title=Taiwanese Market Mitsubishi Lancer Fortis|publisher=PaulTan.org}}&lt;/ref&gt;
+
+Due to popular demand of the 7th-gen Lancer in Singapore, it will continue to be sold alongside the new Lancer which will be called the Lancer '''EX''' to differentiate itself from the former. The 1.5l, 2.0l and the GTS (marketed as the GT) variants are available in Singapore. For MY2009, the GT has been refreshed all around with updated front grill, darkened clear tail lamps, and chrome lining with an additional floor console internally. Rear brakes has also been upgraded for the 2.0 variants to disc brakes for better stopping power.
+
+In Malaysia, only the GTS is offered and is marketed as the GT. However, [[Proton (carmaker)|Proton]] has renewed cross-licensing and technology transfer agreements with Mitsubishi as of October 2008, and it is expected that a second-generation [[Proton Waja]] (currently codenamed the [[Proton New Sedan]]&lt;ref&gt;{{cite web|title=Gambaran awal Waja Replacement aka Lancer Rebadge!!|work=funtasticko design|date=December 2008|url=http://funtastickodesign.wordpress.com/2010/02/06/gambaran-awal-waja-replacement-aka-lancer-rebadge/|accessdate=16 March 2009}}&lt;/ref&gt;) will be a re-badged ninth generation Lancer but with possibly different engine options, and has minor changes, even less than the Lancer Fortis in Taiwan.&lt;ref&gt;{{cite web|title=PROTON ENTERS INTO PRODUCT COLLABORATION WITH MITSUBISHI MOTORS CORPORATION, JAPAN.|work=Bursa Malaysia|date=December 12, 2008|url=http://announcements.bursamalaysia.com/EDMS%5Cannweb.nsf/LsvAllByID/482568AD00295D074825750E0005C2E7?OpenDocument|accessdate=16 March 2009}}&lt;/ref&gt;
+
+In Indonesia, like Malaysia, only the GTS is sold and is badged as the GT using the new [[Mitsubishi 4B1 engine|2.0L]] engine and is sold alongside the Evolution X, and like Singapore the previous generation Lancer is still sold, marketed as the Lancer Cedia using the same [[Mitsubishi 4G9 engine|1.8L]] engine as the 7th generation Lancer. With the agreement with Proton finalized on October 2008, it is expected that the Lancer-based Waja will be exported to Indonesia.
+
+Hong Kong received its unique edition of the Lancer in 2008, dubbed the Lancer 2.0. The car comes in two trim levels, without a name for either of them. Both are equipped with the [[Mitsubishi 4B1 engine|4B11]] 2.0 4 cylinder engine, 7 airbags, 8 speaker stereo system (manufacturer not known), Adaptive Front-lighting System (AFS)  with [[HID]] as well as 18&quot; alloy wheels. The upper trim has Ralliart style body kit which includes a revised front bumper, side skirt, rear bumper with diffuser and the addition of a correct-to-Evolution-X rear spoiler,while the lower trim make do without the abovementioned features.
+
+In Philippines the Lancer arrived in Mid 2008 known as the Lancer EX to differentiate it from the 7th-generation Lancer still sold in the Philippines. For the 2010 MY, the Lancer EX underwent a facelift, and is now available with 4 trims, the Ralliart paired to the 6-speed TC-SST, which is essentially the Lancer Ralliart from the USDM, the GT-A, now with a redesigned front grille resembling the Lancer Ralliart from the USDM, the GT, essentially identical to the GT-A but is paired to a 5-speed manual, the GLS which is essentially identical to the USDM ES model but with dual SRS airbags and standard front foglamps, and the GLX, which is essentially identical to the USDM DE, but with the same rims as with that of the GLS and with dual SRS airbags. All models sport clear-type black taillamps, ABS, EBD and share the same 2.0L 4B11 MIVEC powerplant, with the Ralliart's engine similar to the USDM Ralliart.
+
+=== Chile ===
+To differentiate it from the previous model, still on sale, this generation Lancer is marketed as '''Lancer Serie R''' in Chile.
+
+=== El Salvador ===
+Because the previous generation is still on sale, this generation Lancer is marketed, depending on the engine and trim, as '''Lancer EX''' or '''Lancer GT''' in El Salvador.
+
+=== Europe ===
+In Europe, a 103 kW (140 PS; 138 bhp) 2000 cc diesel model is also available which is built by [[List of Volkswagen Group diesel engines#2.0 TDI PD 100-125kW|Volkswagen]].
+
+=== Lancer Ralliart ===
+A detuned and cheaper version of the Evo X was announced at the 2008 [[Detroit auto show]]. This model became available for purchase in the United States in October, 2008. {{Convert|177|kW|hp|0|abbr=on}}, {{convert|343|Nm|lbft||abbr=on}} of torque.
+
+For 2009, the Ralliart is available exclusively with the TC-SST transmission,&lt;ref&gt;{{cite web|url=http://www.jbcarpages.com/mitsubishi/lancer/2009/specs/|title=2009 Mitsubishi Lancer Specs|publisher=JB car pages|accessdate=2009-02-25}}&lt;/ref&gt; although Mitsubishi has suggested the possibility of a 5-speed transmission at a later date. The TC-SST transmission equipped in the Ralliart offers 2 modes (Normal, Sport) rather than the 3 modes the same transmission offers in the Lancer Evolution X MR (Normal, Sport, S-Sport). The car also includes a simplified version of the Evolution X's AWD system (taken directly from the EVO IX), with a simple &quot;mechanical limited slip&quot; rear differential.&lt;ref name=&quot;lancer_ralliart&quot;&gt;{{cite web|url=http://www.edmunds.com/insideline/do/News/articleId=124308|title=2008 Detroit Auto Show: 2009 Mitsubishi Lancer Ralliart|publisher=Edmunds}}&lt;/ref&gt; According to [[Edmunds.com]] the Ralliart model underperformed the GTS in certain tests, including the [[skidpad]], [[Zigzag|slalom]], and [[braking distance]]. However, the Ralliart outperformed the GTS in other tests, including [[0-60]] and the [[quarter mile]].&lt;ref&gt;{{cite web|url=http://www.edmunds.com/insideline/do/Drives/FullTests/articleId=127586|title=Testing the 'Tweener'|publisher=Inside Line|accessdate=2008-06-22}}&lt;/ref&gt;
+
+== See also ==
+* [[Mitsubishi Racing Lancer]]
+* [[Mitsubishi Lancer Evolution]]
+* [[Mitsubishi Lancer 1600 GSR]]
+* [[Mitsubishi Lancer WRC]]
+* [[Mitsubishi Lancer Cargo]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{Commons category}}
+* [http://www.new-lancer.com/ Worldwide launch site ]
+* [http://www.mitsubishicars.com/MMNA/jsp/lancer/09/index.do Mitsubishi Lancer official site]
+* [http://media.mitsubishi-motors.com/lineup/e/carspec56.html Mitsubishi Lancer global website]
+* [http://web.archive.org/web/20041122111547/http://www.mitsubishi-motors.co.jp/docs6/history/html/lancer.htm Mitsubishi Lancer official history] from [[archive.org]] (archived November 22, 2004)
+* [http://wikicars.org/en/Mitsubishi_Lancer Wikicars: Mitsubishi Lancer]
+* [http://www.mitsubishi.pe/ Mitsubishi Lancer Club]
+* [http://www.jbcarpages.com/mitsubishi/lancer/ JB car pages: Mitsubishi Lancer]
+* [http://www.theage.com.au/news/a-closer-look/new-mitsubishi-lancer-undergoes-design-revolution/2006/12/12/1165685663450.html Melbourne's ''The Age'' reveals the next generation Mitsubishi Lancer]
+
+{{Mitsubishi Motors vehicles}}
+{{Mitsubishi Motors North America timeline}}
+
+[[Category:Mitsubishi Motors vehicles|Lancer]]
+[[Category:Subcompact cars]]
+[[Category:Compact cars]]
+[[Category:Euro NCAP small family cars]]
+[[Category:Vehicles with CVT transmission]]
+[[Category:Front wheel drive vehicles]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:All wheel drive vehicles]]
+[[Category:1970s automobiles]]
+[[Category:1980s automobiles]]
+[[Category:1990s automobiles]]
+[[Category:2000s automobiles]]
+[[Category:2010s automobiles]]
+[[Category:Vehicles introduced in 1973]]
+[[Category:Coupes]]
+[[Category:Hatchbacks]]
+[[Category:Sedans]]
+[[Category:Station wagons]]
+[[Category:Partial zero-emissions vehicles]]
+
+[[ar:ميتسوبيشي لانسر]]
+[[ca:Mitsubishi Lancer]]
+[[cs:Mitsubishi Lancer]]
+[[de:Mitsubishi Lancer]]
+[[es:Mitsubishi Lancer]]
+[[fa:لانسر]]
+[[fr:Mitsubishi Lancer]]
+[[hi:मित्सुबिशी लैंसर]]
+[[it:Mitsubishi Lancer]]
+[[id:Mitsubishi Lancer]]
+[[ms:Mitsubishi Lancer]]
+[[nah:Mitsubishi Lancer]]
+[[nl:Mitsubishi Lancer]]
+[[ja:三菱・ランサー]]
+[[no:Mitsubishi Lancer]]
+[[pl:Mitsubishi Lancer]]
+[[pt:Mitsubishi Lancer]]
+[[ru:Mitsubishi Lancer]]
+[[simple:Mitsubishi Lancer]]
+[[fi:Mitsubishi Lancer]]
+[[sv:Mitsubishi Lancer]]
+[[th:มิตซูบิชิ แลนเซอร์]]
+[[tr:Mitsubishi Lancer]]
+[[uk:Mitsubishi Lancer]]</text>
+    </revision>
+  </page>
+</mediawiki>

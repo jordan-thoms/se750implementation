@@ -1,0 +1,13 @@
+bin/
+*.dat
+pddata/ChangeLogStoreTest.pds
+pddata/ChangeLogStoreTest1.pds
+pddata/ChangeLogStoreTest2.pds
+pddata/ChangeLogStoreTest3.pds
+pddata/PDStoreTest.pds
+pddata/CachedStoreTest.pds
+pddata/test*.pds
+pddata/PDStoreTest-*.pds
+.metadata/*
+.settings/*
+pddata/*

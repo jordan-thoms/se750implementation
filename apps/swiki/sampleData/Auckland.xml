@@ -1,0 +1,703 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.4/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.4/ http://www.mediawiki.org/xml/export-0.4.xsd" version="0.4" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.16wmf4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Auckland</title>
+    <id>18660332</id>
+    <revision>
+      <id>369688783</id>
+      <timestamp>2010-06-23T06:10:55Z</timestamp>
+      <contributor>
+        <username>Gadfium</username>
+        <id>54381</id>
+      </contributor>
+      <comment>/* Sport */ rm unnecessary word</comment>
+      <text xml:space="preserve">{{About|the Auckland metropolitan area|the [[territorial authority]] within the metropolitan area|Auckland City|the region encompassing the Auckland metropolitan area|Auckland Region|all other uses|Auckland (disambiguation)}}
+{{Infobox settlement
+&lt;!--See Template:Infobox Settlement for additional fields that may be available--&gt;
+&lt;!--See the Table at Infobox Settlement for all fields and descriptions of usage--&gt;
+&lt;!-- Basic info  ----------------&gt;
+|name = Auckland &lt;!-- at least one of the first two fields must be filled in --&gt;
+|official_name =
+|other_name =
+|native_name = Tāmaki-makau-rau &lt;small&gt;([[Māori language|Māori]])&lt;/small&gt;
+|nickname = City of Sails,&lt;br /&gt; Queen City (now rarely used)&lt;!-- http://www.nzherald.co.nz/search/search.cfm?kw1=%22Queen%20city%22&amp;kw2=&amp;op=all&amp;searchorder=2&amp;display=20&amp;start=0&amp;thepage=1 --&gt;
+|settlement_type = [[Urban areas of New Zealand|Main urban area]] &lt;!-- e.g. Town, Village, City, etc.--&gt;
+|total_type = &lt;!-- to set a non-standard label for total area and population rows --&gt;
+|motto =
+&lt;!-- images and maps  -----------&gt;
+|image_skyline = New Auckland Infobox Pic Montage 3.jpg
+|imagesize =
+|image_caption =
+|image_flag =
+|flag_size =
+|image_seal =
+|seal_size =
+|image_shield =
+|shield_size =
+|image_blank_emblem =
+|blank_emblem_type =
+|blank_emblem_size =
+|image_map = Auckland.png
+|mapsize =
+|map_caption =
+|image_map1 =
+|mapsize1 =
+|map_caption1 =
+|image_dot_map =
+|dot_mapsize =
+|dot_map_caption =
+|dot_x = |dot_y =
+|pushpin_map = &lt;!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map --&gt;
+|pushpin_label_position = &lt;!-- the position of the pushpin label: left, right, top, bottom, none --&gt;
+|pushpin_map_caption =
+|pushpin_mapsize =
+&lt;!-- Location ------------------&gt;
+|coordinates_display = inline,title
+|coordinates_region = NZ
+|subdivision_type = Country
+|subdivision_name = {{NZ}}
+|subdivision_type1 = [[Islands of New Zealand|Island]]
+|subdivision_name1 = [[North Island]]
+|subdivision_type2 = [[Regions of New Zealand|Region]]
+|subdivision_name2 = [[Auckland Region]]
+|subdivision_type3 = [[Territorial authorities of New Zealand|Territorial authorities]]
+|subdivision_name3 = [[Auckland City]] &lt;br/&gt; [[Manukau City]] &lt;br/&gt; [[Waitakere City]] &lt;br/&gt; [[North Shore City]] &lt;br/&gt; [[Papakura District]] &lt;br/&gt; [[Rodney District]] (part) &lt;br/&gt; [[Franklin District]] (part)
+&lt;!-- Electorates --------------&gt;
+|parts_type=Electorates
+|p1= [[Auckland Central (New Zealand electorate)|Auckland Central]]
+|p2= [[Botany (New Zealand electorate)|Botany]]
+|p3= [[East Coast Bays (New Zealand electorate)|East Coast Bays]]
+|p4= [[Epsom (New Zealand electorate)|Epsom]]
+|p5= [[Helensville (New Zealand electorate)|Helensville]]
+|p6= [[Hunua (New Zealand electorate)|Hunua]]
+|p7= [[Māngere (New Zealand electorate)|Māngere]]
+|p8= [[Manukau East (New Zealand electorate)|Manukau East]]
+|p9= [[Manurewa (New Zealand electorate)|Manurewa]]
+|p10= [[Maungakiekie (New Zealand electorate)|Maungakiekie]]
+|p11= [[Mount Albert (New Zealand electorate)|Mt Albert]]
+|p12= [[Mount Roskill (New Zealand electorate)|Mt Roskill]]
+|p13= [[New Lynn (New Zealand electorate)|New Lynn]]
+|p14= [[North Shore (New Zealand electorate)|North Shore]]
+|p15= [[Northcote (New Zealand electorate)|Northcote]]
+|p16= [[Pakuranga (New Zealand electorate)|Pakuranga]]
+|p17= [[Papakura (New Zealand electorate)|Papakura]]
+|p18= [[Tāmaki (New Zealand electorate)|Tāmaki]]
+|p19= [[Te Atatū (NZ electorate)|Te Atatū]]
+|p20= [[Waitakere (New Zealand electorate)|Waitakere]]
+&lt;!-- Politics -----------------&gt;
+|government_footnotes =
+|government_type =
+|leader_title1 = Mayor(s)
+|leader_name1 = {{Collapsible list
+|title = Multiple
+|frame_style = border:none; padding: 0;
+|title_style = &lt;!-- (optional) --&gt;
+|list_style = text-align:left;display:none;
+|1 = [[John Banks (New Zealand)|John Banks]]
+|2 = [[Len Brown]]
+|3 = [[Bob Harvey (mayor)|Bob Harvey]]
+|4 = [[John Law (New Zealand)|John Law]]
+|5 = [[Andrew Williams (New Zealand)|Andrew Williams]]
+}}
+|established_title = Settled by Māori
+|established_date = [[circa|c.]] 1350
+|established_title1 = Settled by Europeans
+|established_date1 = 1840
+&lt;!-- Area    ---------------------&gt;
+|area_magnitude =
+|unit_pref = &lt;!--Enter: Imperial, to display imperial  before metric--&gt;
+|area_footnotes =
+|area_urban_km2 = 1086
+|area_metro_km2 =
+|area_land_km2 = &lt;!--See table @ Template:Infobox Settlement for details on unit conversion--&gt;
+|area_water_km2 =
+|area_total_sq_mi =
+|area_land_sq_mi =
+|area_water_sq_mi =
+|area_water_percent =
+&lt;!-- Elevation --------------------------&gt;
+|elevation_footnotes = &lt;!--for references: use &lt;ref&gt; &lt;/ref&gt; tags--&gt;
+|elevation_m =
+|elevation_ft =
+|elevation_max_m = 196
+|elevation_max_ft =
+|elevation_min_m = 0
+|elevation_min_ft =
+&lt;!-- Population   -----------------------&gt;
+|population_as_of = {{NZ population data|||y}}
+|population_footnotes = &lt;ref name=&quot;NZ_population_data&quot;/&gt;
+|population_note =
+|population_urban = {{formatnum:{{NZ population data||y}}|R}}
+|population_density_urban_km2 = auto
+|population_density_sq_mi =
+|population_metro =
+|population_density_metro_km2 =
+|population_blank1_title = [[Demonym]]
+|population_blank1 = Aucklander, [[Jafa]] (often derogatory)
+&lt;!-- General information  ---------------&gt;
+|timezone = [[Time in New Zealand|NZST]]
+|utc_offset = +12
+|timezone_DST = NZDT
+|utc_offset_DST = +13
+|coor_pinpoint = &lt;ref name=&quot;coor&quot;&gt;{{cite web|url=http://earth-info.nga.mil/gns/html/cntry_files.html| accessdate =August 2006|title=GEOnet Names Server (GNS)}}&lt;/ref&gt;
+|latd=36 |latm=50 |lats=25.50 |latNS=S
+|longd=174 |longm=44 |longs=23.53 |longEW=E
+&lt;!-- Area/postal codes &amp; others --------&gt;
+|blank_name = Local [[iwi]]
+|blank_info = [[Ngāti Ākarana]]
+|postal_code_type = Postcode(s)
+|postal_code =
+|area_code = 09
+|website = [http://www.aucklandnz.com/ http://www.aucklandnz.com/]
+|footnotes =
+}}
+
+The '''Auckland metropolitan area''' (commonly {{pron-en|ˈɔːklənd}}), in the [[North Island]] of [[New Zealand]], is the largest and most populous [[urban areas of New Zealand|urban area in the country]] with a population approaching 1.4 million residents, {{Decimals|{{formatnum:{{NZ population data||y}}|R}}/{{formatnum:{{NZ population data|New Zealand|y}}|R}}*100|0}} percent of the country's population.{{NZ population data||||y}} Demographic trends indicate that it will continue to grow faster than the rest of the country. Increasingly cosmopolitan, Auckland also has the largest [[Polynesians|Polynesian]] population of any city in the world,&lt;ref name=&quot;AAAROUND&quot;&gt;{{cite web|url=http://www.roughguides.com/website/travel/destination/content/?titleid=83&amp;xid=idh185804920_0099|title=Auckland and around|work=[[Rough Guides|Rough Guide]] to New Zealand, Fifth Edition|accessdate=16 February 2010}}&lt;/ref&gt; and has seen many people of Asian ethnicity move there in the last two decades. In [[Māori language|Māori]] Auckland's name is '''Tāmaki-makau-rau''', or the transliterated version of Auckland, '''Ākarana'''.
+
+The 2009 [[Mercer Quality of Living Survey]] ranked Auckland 4th place in the world on its list, while [[Economist Intelligence Unit|The Economist's]] [[World's Most Livable Cities]] index of 2010 ranked Auckland in 10th place.
+In 2008, Auckland was classified as an [[Global city|Alpha-City]] in the World Cities Study Group’s inventory by [[Loughborough University]], the only one in the country.&lt;ref&gt;http://www.lboro.ac.uk/gawc/world2008t.html | &quot;The World According to GaWC 2008&quot;&lt;/ref&gt;
+
+Auckland lies between the [[Hauraki Gulf]] of the [[Pacific Ocean]] to the east, the low [[Hunua Ranges]] to the south-east, the [[Manukau Harbour]] to the south-west, and the [[Waitakere Ranges]] and smaller ranges to the west and north-west. The central part of the urban area occupies a narrow [[isthmus]] between the Manukau Harbour on the [[Tasman Sea]] and the [[Waitemata Harbour]] on the [[Pacific Ocean]]. It is one of the few cities in the world to have harbours on two separate major bodies of water.
+
+==History==
+:''Main article [[History of Auckland]]''
+
+===Early Māori and Europeans===
+The isthmus was settled by [[Māori]] around 1350 and was valued for its rich and fertile land. Many ''[[Pā (Māori)|pā]]'' (fortified villages) were created, mainly on the volcanic peaks. Māori population in the area is estimated at about 20,000 people before the arrival of Europeans.&lt;ref&gt;{{cite book|title= New Zealand|author=[[Ferdinand von Hochstetter]]|year=1867|pages=243 |url=http://www.enzb.auckland.ac.nz/document/1867_-_von_Hochstetter%2C_Ferdinand._New_Zealand/CHAPTER_XI%3A_The_Isthmus_of_Auckland}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.arkeologi.uu.se/afr/projects/BOOK/Bulmer/bulmer.pdf|title=''City without a state? Urbanisation in pre-European Taamaki-makau-rau (Auckland, New Zealand)''|author=Sarah Bulmer|accessdate=2007-10-03}}&lt;/ref&gt; The subsequent introduction of firearms, which began in Northland, upset the balance of power and led to devastating inter-tribal warfare, causing [[iwi]] who lacked the new weapons to seek refuge in areas less exposed to coastal raids. As a result, the region had relatively low numbers of Māori when European settlement of New Zealand began. There is, however, nothing to suggest that this was the result of a deliberate European policy.&lt;ref&gt;{{cite web|url=http://www.teara.govt.nz/NewZealanders/MaoriNewZealanders/NgatiWhatua/3/en|title=Ngāti Whātua - European contact|work=[[Te Ara Encyclopedia of New Zealand]]|accessdate=2007-10-03}}&lt;/ref&gt;&lt;ref&gt;{{cite book|title=The Penguin History of New Zealand|author=[[Michael King]]|isbn=0-14-301867-1|year=2003|pages=135|publisher=Penguin Books|location=Auckland, N.Z.}}&lt;/ref&gt; On 27 January 1832, Joseph Brooks Weller, eldest of the [[Weller brothers]] of [[Otago]] and [[Sydney]] bought land including the sites of the modern cities of Auckland and North Shore and part of Rodney District, for &quot;one large cask of powder&quot; from &quot;Cohi Rangatira&quot;.&lt;ref&gt;George Weller’s Claim to lands in the Hauraki Gulf - transcript of original in National Archives, ms-0439/03 (A-H) HC.&lt;/ref&gt;
+
+After the signing of the [[Treaty of Waitangi]] in February 1840, the new Governor of New Zealand, [[William Hobson]], chose the area as his new capital, and named it after [[George Eden, 1st Earl of Auckland|George Eden, Earl of Auckland]], then [[Viceroy of India]].&lt;ref name=&quot;DOING&quot;&gt;''[http://query.nytimes.com/gst/fullpage.html?res=9C0CEFD6123BF936A15752C1A966958260&amp;scp=31&amp;sq=auckland&amp;st=nyt What's Doing In; Auckland]'' - ''[[The New York Times]]'', 25 November 1990&lt;/ref&gt; The land that Auckland was established on was gifted to the Governor by local Maori [[iwi]] [[Ngati Whatua]], as a sign of goodwill and in the hope that the building of a city would attract commercial and political opportunities for the iwi. Auckland was officially declared New Zealand's capital in 1841,&lt;ref&gt;{{cite book|title=From Tamaki-Makau-Rau to Auckland|author=Russell Stone|publisher=University of Auckland Press|year=2002|ISBN=1869402596}}&lt;/ref&gt; and the transfer of the administration from Russell (now [[Okiato|Old Russell]]) in the Bay of Islands was completed in 1842. However, even in 1840 [[Port Nicholson]] (later [[Wellington]]) was seen as a better choice for an administrative capital because of its proximity to the [[South Island]], which was being settled much more rapidly, and Wellington became the capital in 1865. Auckland was the principal city of the [[Auckland Province]] until the provincial system was abolished in 1876.
+
+===Growth up to today===
+In the early 1860s, Auckland became a base against the [[Māori King Movement]]. This, and continued road building towards the south into the [[Waikato]], enabled [[Pākehā]] (European New Zealanders) influence to spread from Auckland. Its population grew fairly rapidly, from 1,500 in 1841 to 12,423 by 1864. The growth occurred similarly to other [[mercantile]]-dominated cities, mainly around the port and with problems of overcrowding and pollution.
+
+Trams and railway lines shaped Auckland's rapid expansion in the early first half of the 20th century, but soon afterward the dominance of the motor vehicle emerged and has not abated since; arterial roads and motorways have become both defining and geographically dividing features of the urban landscape. They also allowed further massive expansion that resulted in the growth of associated urban areas like the [[North Shore, New Zealand|North Shore]] (especially after the construction of the [[Auckland Harbour Bridge]]), and [[Manukau City]] in the south.
+
+A large percentage of Auckland is dominated by a very [[suburban]] style of building, giving the city a very low [[population density]]. Some services like public transport are costlier than in other higher-density cities, but Aucklanders are still able to live in single-family dwellings similar to the rest of the New Zealand population, although lot sizes tend to be smaller than many other centres. [[Image:Aukland night.jpg|thumb|right|301px|View of Auckland CBD from [[Waitemata Harbour]].]]
+
+==Geography and climate==
+[[Image:Rangitoto Island North Head.jpg|thumb|left|270px|[[Rangitoto]] island from [[North Head, New Zealand|North Head]].]]
+===Volcanoes===
+Auckland straddles the [[Auckland Volcanic Field]], which has produced approximately 50 volcanoes. These take the form of cones, lakes, lagoons, islands and depressions, and several have produced extensive lava flows. Most of the cones have been partly or completely [[quarry|quarried]] away. The individual volcanoes are all considered extinct, although the volcanic field itself is merely [[dormant volcano|dormant]].
+
+Unlike the explosive [[subduction]]-driven [[volcanism]] in the central North Island, such as at [[Mount Ruapehu]] and [[Lake Taupo]], Auckland's volcanoes are fuelled entirely by [[basalt]]ic [[magma]].&lt;ref name=&quot;Smith and Allen&quot;&gt;Ian E.M. Smith and Sharon R. Allen, ''[http://www.gns.cri.nz/what/earthact/volcanoes/nzvolcanoes/aucklandprint.htm Volcanic Hazards: Auckland Volcanic Field]'', Volcanic Hazards Working Group, Civil Defence Scientific Advisory Committee. Accessed 13 April 2009.&lt;/ref&gt; The most recent and by far the largest volcano, [[Rangitoto Island]], was formed within the last 1000 years, and its eruptions destroyed the Māori settlements on neighbouring [[Motutapu Island]] some 700 years ago. Rangitoto's size, its symmetry, its position guarding the entrance to [[Waitemata Harbour]] and its visibility from many parts of the Auckland region make it Auckland's most iconic natural feature. Few birds and insects inhabit the island because of the rich acidic soil and the type of flora growing out of the rocky soil.
+
+[[Image:Auckland20061016222837.jpg|thumb|270px|right|Auckland and the inner [[Hauraki Gulf]] from space.]]
+
+===Harbours and gulf===
+Auckland lies on and around an [[isthmus]], less than two kilometres wide at its narrowest point, between [[Mangere Inlet]] and the [[Tamaki River]]. There are two harbours in the Auckland urban area surrounding this isthmus: [[Waitemata Harbour]] to the north, which opens east to the [[Hauraki Gulf]], and [[Manukau Harbour]] to the south, which opens west to the [[Tasman Sea]].
+
+Bridges span parts of both harbours, notably the [[Auckland Harbour Bridge]] crossing the Waitemata Harbour west of the [[Auckland CBD|Auckland Central Business District]] (CBD). The [[Mangere Bridge (bridges)|Mangere Bridge]] and the [[Upper Harbour Bridge]] span the upper reaches of the Manukau and Waitemata Harbours, respectively. In earlier times, [[portage]] paths crossed the narrowest sections of the isthmus.
+
+Several islands of the [[Hauraki Gulf]] are administered as part of Auckland City, though they are not officially part of the Auckland metropolitan area. Parts of [[Waiheke Island]] effectively function as [[Suburbs of Auckland, New Zealand|Auckland suburbs]], while various smaller islands near Auckland are mostly zoned 'recreational open space' or are nature sanctuaries.
+
+===Climate===
+[[Image:Auckland cbd view.jpg|thumb|left|270px|View of the [[Auckland Central Business District|Auckland CBD]].]]
+
+Auckland has a warm-[[temperate climate]], with warm, humid summers and mild, damp winters. Under [[Koppen climate classification|Koppen's climate classification]], the city has an [[oceanic climate]]. It is the warmest main centre of New Zealand and is also one of the sunniest, with an average of 2060 sunshine hours per annum.&lt;ref name=&quot;NIWA&quot;&gt;{{cite web|url=http://www.niwascience.co.nz/edu/resources/climate/summary|title=Climate Summary for 1971-2000|publisher=[[National Institute of Water and Atmospheric Research]]}}&lt;/ref&gt; The average daily maximum temperature is 23.7 [[Celsius|°C]] in February, and 14.5 [[Celsius|°C]] in July. The absolute maximum recorded temperature is 32.4 °C&lt;ref name=&quot;high2009&quot;&gt;{{cite web|url=http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&amp;objectid=10556442|title=Auckland enjoys hottest day ever}}&lt;/ref&gt;, while the absolute minimum is -2.5.&lt;ref name=&quot;NIWA&quot; /&gt; High levels of rainfall occur almost year-round with an average of 1240&amp;nbsp;mm per year spread over 137 'rain days'.&lt;ref name=&quot;NIWA&quot; /&gt; Climatic conditions vary in different parts of the city owing to geography such as hills, land cover and distance from the sea, hence unofficial temperature records exist, such as a maximum of 34°C in west Auckland.&lt;ref name=&quot;high2009&quot;/&gt; On 27 July 1939 Auckland received its only recorded snowfall.&lt;ref name=&quot;snow&quot;&gt;{{cite web|url=http://www.civildefence.govt.nz/memwebsite.NSF/Files/Tephra2003-Snowstorms/$file/Tephra2003-Snowstorms.pdf|accessdate=August 2006|title=Snowstorms ([[PDF]])}}&lt;/ref&gt;
+
+The early morning calm on the isthmus during settled weather, before the sea breeze rises, was described as early as 1853: ''&quot;In all seasons, the beauty of the day is in the early morning. At that time, generally, a solemn stillness holds, and a perfect calm prevails...&quot;'' Many Aucklanders used this time of day to walk and run in parks.&lt;ref name=1853_morning&gt;''Auckland, the Capital of New Zealand'' - [[William Swainson (lawyer)|Swainson, William]], Smith Elder, 1853&lt;/ref&gt;
+
+As car ownership rates are very high and emissions controls relatively weak, Auckland suffers from some [[air pollution]], especially with regard to [[fine particles]] emissions.&lt;ref&gt;{{cite web|url=http://www.arc.govt.nz/albany/index.cfm?6901EAA9-14C2-3D2D-B939-BF1991A4D1E7|title=Air pollutants - Fine particles (PM&lt;sub&gt;10&lt;/sub&gt; and PM&lt;sub&gt;2.5&lt;/sub&gt;)|publisher=[[Auckland Regional Council]]|accessdate=3 August 2009}}&lt;/ref&gt; There are also occasional breaches of guideline levels of [[carbon monoxide]].&lt;ref&gt;{{cite web|url=http://www.arc.govt.nz/environment/air-quality/air-pollutants/carbon-monoxide.cfm|title=Air pollutants - Carbon monoxide (CO)|publisher=[[Auckland Regional Council]]|accessdate=3 August 2009}}&lt;/ref&gt; While maritime winds normally disperse the pollution relatively quickly it can sometimes become visible as [[smog]], especially on calm winter days.&lt;ref&gt;{{cite web|url=http://www.arc.govt.nz/environment/air-quality/aucklands-air-quality/aucklands-air-quality_home.cfm|title=Auckland's air quality|publisher=[[Auckland Regional Council]]|accessdate=3 August 2009}}&lt;/ref&gt;
+
+{{Infobox Weather
+|metric_first=Y
+|single_line=Y
+|location = Auckland
+|Jan_Hi_°C =23.3
+|Feb_Hi_°C =23.7
+|Mar_Hi_°C =22.4
+|Apr_Hi_°C =20.0
+|May_Hi_°C =17.4
+|Jun_Hi_°C =15.2
+|Jul_Hi_°C =14.5
+|Aug_Hi_°C =15.0
+|Sep_Hi_°C =16.2
+|Oct_Hi_°C =17.8
+|Nov_Hi_°C =19.6
+|Dec_Hi_°C =21.6
+|Year_Hi_°C =18.9
+|Jan_Lo_°C =15.3
+|Feb_Lo_°C =15.8
+|Mar_Lo_°C =14.6
+|Apr_Lo_°C =12.3
+|May_Lo_°C =10.0
+|Jun_Lo_°C =8.0
+|Jul_Lo_°C =7.1
+|Aug_Lo_°C =7.6
+|Sep_Lo_°C =8.9
+|Oct_Lo_°C =10.5
+|Nov_Lo_°C =12.1
+|Dec_Lo_°C =13.9
+|Year_Lo_°C =11.3
+|Jan_Precip_mm = 75
+|Feb_Precip_mm = 65
+|Mar_Precip_mm = 94
+|Apr_Precip_mm =105
+|May_Precip_mm =103
+|Jun_Precip_mm =139
+|Jul_Precip_mm =146
+|Aug_Precip_mm =121
+|Sep_Precip_mm =116
+|Oct_Precip_mm = 91
+|Nov_Precip_mm = 93
+|Dec_Precip_mm = 91
+|Year_Precip_mm =1240
+| source = NIWA Science climate data&lt;ref name=&quot;niwa&quot;&gt;{{cite web
+| url =http://www.niwascience.co.nz/edu/resources/climate/
+| title = Climate Data and Activities
+| publisher = NIWA Science }}&lt;/ref&gt;
+|accessdate =
+&lt;!--For a second source
+|source2 = &lt;ref name= &gt;{{cite web
+| url = | title = | accessmonthday = | accessyear =  
+| publisher = | language = }}&lt;/ref&gt; --&gt;
+|accessdate2 =
+}}&lt;!--Infobox ends--&gt;
+
+==People==
+===Cultures===
+{{See also|Culture of New Zealand}}
+
+[[Image:Helen Clark welcomed to Hoani Waititi Marae 2006-02-06.jpg|thumb|right|270px|[[Helen Clark]], &lt;!--Please do not add ex- or former, she was PM at the time --&gt;Prime Minister in this 2006 photo, being welcomed onto Auckland's Hoani Waititi [[Marae]]. ]]
+
+Auckland is home to many cultures. The majority of inhabitants claim [[New Zealand European|European]] - predominantly [[British people|British]] - descent, but substantial [[Māori]], [[Pacific Islander]] and [[Asian people|Asian]] communities exist as well. Auckland has the largest [[Polynesia]]n population of any city in the world and a higher proportion of people of Asian origin than the rest of New Zealand. Ethnic groups from all corners of the world have a presence in Auckland, making it by far the country's most [[Cosmopolitanism|cosmopolitan]] city.
+
+===Demographics===
+{{Main|Demographics of Auckland}}
+The proportion of Asians and other Non-European immigrants has increased during the last decades due to immigration,&lt;ref&gt;{{cite web|url=http://www.stats.govt.nz/NR/rdonlyres/7F0D2AFF-54F4-4CE9-BE7C-974597403FCB/0/Auckland.pdf|format=PDF|title=New Zealand - A Regional Profile - Auckland|publisher=[[Statistics New Zealand]]|accessdate=2007-10-03|year=1999|pages=19–20}}&lt;/ref&gt; and the [[Immigration to New Zealand|removal of restrictions directly or indirectly based on race]]. Immigration to New Zealand is heavily concentrated towards Auckland (partly for job market reasons). This strong focus on Auckland has led the immigration services to award extra points towards immigration visa requirements for people intending to move to other parts of New Zealand.&lt;ref&gt;[http://www.immigration.govt.nz/NR/rdonlyres/4DAD508D-CC26-425A-A57B-D2AF557C8510/0/1003.pdf Residence in New Zealand] ([[PDF]]) (Page 8, from the [[Immigration New Zealand]] website. Accessed 2008-01-18.)&lt;/ref&gt;
+
+The following table shows the ethnic profile of Auckland's population, as recorded in the 2001 and 2006 [[New Zealand Census of Population and Dwellings|New Zealand Census]]. The percentages add up to more than 100%, as some people counted themselves as belonging to more than one ethnic group. Figures for 2006 refer to the whole Auckland Region, not just the urban area. The substantial percentage drop of 'Europeans' was mainly caused by the increasing numbers of people from this group choosing to define themselves as 'New Zealanders' - even though this was not one of the groups listed on the census form.
+
+{| class=&quot;wikitable&quot;
+! Ethnic Group !! 2001 (%)&lt;ref name=&quot;2001 Census&quot;&gt;[http://www.stats.govt.nz/census/2001-census-data/2001-regional-summary/default.htm 2001 Regional Summary] (from the [[Statistics New Zealand]] website)&lt;/ref&gt; !! 2001 (people) !! 2006 (%)&lt;ref name=&quot;2006 Census&quot;&gt;{{NZ Quickstats|1000002|Auckland Region}}&lt;/ref&gt; !! 2006 (people)
+|-
+|[[New Zealand European]] || 66.9 || 684,237 || 56.5 || 698,622
+|-
+|[[Pacific Islander|Pacific Island]] || 14.9 || 152,508 || 14.4 || 177,936
+|-
+|[[Asian people|Asian]] || 14.6 || 149,121 || 18.9 || 234,222
+|-
+|[[Māori]] || 11.5 || 117,513 || 11.1 || 137,133
+|-
+|[[Middle Easterners]]/[[Latin Americans]]/[[Africans]]|| ''n/a'' || ''n/a'' || 1.5 || 18,555
+|-
+|Others || 1.3 || 13,455 || 0.1 || 648
+|-
+|'New Zealanders' || ''n/a'' || ''n/a'' || 8.0 || 99,258
+|-
+|'''Total giving their ethnicity''' || || 1,022,616 (individuals) || || 1,237,239 (individuals)
+|}
+
+The 2006 Census also provides information about the [[multilingual]]ity of the region. 867,825 people in the Auckland Region spoke one language only, 274,863 spoke two, and 57,051 three or more.&lt;ref name=&quot;2006 Census&quot;/&gt;
+[[Image:20041216 auckland skyline night.jpg|thumb|270px|right|[[Sky Tower]] illuminated in [[Christmas]] colours during December.]]
+
+===Religion===
+Similar to the rest of the country, over half of Aucklanders profess [[Christianity]], but fewer than 10% regularly attend church and almost 40% profess no religious affiliation (2001 census figures). The main denominations are [[Roman Catholic]], [[Anglican]] and [[Presbyterian]]. [[Pentecostalism|Pentecostal]] and [[Charismatic movement|charismatic]] churches are the fastest growing. A small community of [[Coptic Orthodox Church of Alexandria|Coptic Orthodox Christians]] is also present.&lt;ref&gt;[http://www.teara.govt.nz/NewZealanders/NewZealandPeoples/Africans/2/ENZ-Resources/Standard/4/en Pope Shenouda III visits New Zealand] (from [[Te Ara Encyclopedia of New Zealand]]. Accessed 2008-05-25.)&lt;/ref&gt;
+
+Recent immigration from Asia has added to the religious diversity of the city, and about 10% of the population follow such beliefs as [[Buddhism]], [[Hinduism]], [[Islam]] and [[Sikhism]], although there are no figures on religious attendance.&lt;ref&gt;{{cite web|url=http://www.stats.govt.nz/NR/rdonlyres/D5B067F9-7A06-483D-A6B9-D438E81ABAC2/0/AucklandCity.pdf|title=What we look like locally|page=7|publisher=Statistics New Zealand}}&lt;/ref&gt; There is also a small, long-established [[Judaism|Jewish]] community.&lt;ref&gt;{{cite web|url=http://www.ahc.org.nz/intro.php|title=Auckland Hebrew Community ~ Introduction page|accessdate=2008-09-18}}&lt;/ref&gt;
+
+==Lifestyle==
+Positive aspects of Auckland life are its mild climate, plentiful employment and educational opportunities, as well as numerous leisure facilities. Meanwhile, traffic problems, the lack of good public transport, and increasing housing costs have been cited by many Aucklanders as among the strongest negative factors of living there,&lt;ref name=criticisms&gt;[http://www.aucklandcity.govt.nz/auckland/transport/ctc/theproject.asp Central Transit Corridor Project] ([[Auckland City]] website, includes mention of effects of transport on public satisfaction)&lt;/ref&gt; together with crime.&lt;ref&gt;{{cite web|url=http://www.aucklandcity.govt.nz/auckland/introduction/safer/crimesafety/police.asp|title=Crime and safety profile - 2003|publisher=[[Auckland City Council]]|accessdate=2007-06-08}}&lt;/ref&gt; Nonetheless, Auckland currently ranks 4th equal in a survey of the [[List of cities by quality of living|quality of life]] of 215 major cities of the world (2009 data).&lt;ref&gt;[http://www.citymayors.com/features/quality_survey.html City Mayors: Best cities in the world (Mercer)&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;&lt;ref name=top_cities&gt;[http://www.mercer.com/referencecontent.htm?idContent=1173105 Quality of Living global city rankings 2009] ([[Mercer Management Consulting]], Accessed 2 May 2009).&lt;/ref&gt;
+In 2006, Auckland placed 23rd on the [[UBS AG|UBS]] list of the world's richest cities.&lt;ref name=&quot;rich city&quot;&gt;[http://www.citymayors.com/economics/richest_cities.html City Mayors: World's richest cities] ([[UBS AG|UBS]] via www.citymajors.com website, August 2006)&lt;/ref&gt;
+
+[[Image:Auckland-CityOfSails2.jpg|270px|right|thumb|City of Sails - View over the [[Westhaven Marina]].]]
+[[Image:Auckland - Skyline.jpg|270px|right|thumb|Skyline from Westhaven Marina.]]
+[[Image:View of Aukland from outside city.JPG|thumb|right|270px|[[Auckland CBD]] from the top of [[Mt Eden]].]]
+
+===Leisure===
+Auckland is popularly known as the &quot;City of Sails&quot; because the harbour is often dotted with hundreds of yachts and has more per capita than any other city in the world, with around 135,000 [[yacht]]s and [[Launch (boat)|launches]]. Around 60,500 of the country's 149,900 registered yachtsmen come from the Auckland Region.&lt;ref&gt;''[http://www.nzherald.co.nz/section/1/story.cfm?c_id=1&amp;objectid=10405832 Punters love City of Sails]'' - ''[[The New Zealand Herald]]'', Saturday 14 October 2006&lt;/ref&gt;&lt;ref name=&quot;Heraldyacht&quot;/&gt; About one in three Auckland households owns a boat.&lt;ref name=&quot;LIVINGGULF&quot;&gt;{{cite news|page=4|title=The Hauraki Gulf Marine Park, Part 2|newspaper=Inset to [[The New Zealand Herald]]|date=2 March 2010}}&lt;/ref&gt;
+
+[[Viaduct Basin]] also hosted two [[America's Cup]] challenges ([[2000 America’s Cup|2000 Cup]] and [[2003 America’s Cup|2003 Cup]]), and its cafes, restaurants, and clubs add to Auckland's vibrant nightlife. With the sheltered Waitemata Harbour at its doorstep, Auckland sees many nautical events, and there are also a large number of sailing clubs in Auckland, as well as [[Westhaven Marina]], the largest of the [[Southern Hemisphere]].&lt;ref name=&quot;Heraldyacht&quot;&gt;''[http://www.nzherald.co.nz/section/1/story.cfm?c_id=1&amp;objectid=10365395 Passion for boating runs deep in Auckland]'' - ''[[The New Zealand Herald]]'', Thursday January 26, 2006&lt;/ref&gt;&lt;ref&gt;[http://www.yachtingnz.org.nz/index.cfm?pageid=124&amp;languageid=1&amp;siteid=135_1 &lt;nowiki&gt;[Sailing Club] directory&lt;/nowiki&gt;] (from the yachtingnz.org website)&lt;/ref&gt;
+
+High Street, [[Queen Street, Auckland|Queen Street]], [[Ponsonby, New Zealand|Ponsonby Road]], and [[Karangahape Road]] are very popular with urban socialites. [[Newmarket, New Zealand|Newmarket]] and [[Parnell, New Zealand|Parnell]] are up-market shopping areas, while [[Otara]]'s and [[Avondale, Auckland|Avondale]]'s fleamarkets offer a colourful alternative shopping experience. Newer shopping malls tend to be outside city centres, with [[Sylvia Park]] (Sylvia Park, Auckland City), [[Botany Town Centre, Howick|Botany Town Centre]] (Howick, Manukau City) and [[Westfield Albany]] (Albany, North Shore City) being the three largest.
+
+The [[Auckland Town Hall]] and [[Aotea Centre]] host conferences and cultural events such as theatre, [[kapa haka]], and [[opera]]. Auckland also boasts a full-time professional [[symphonic orchestra|symphonic ensemble]] in the [[Auckland Philharmonia Orchestra]].
+
+Many national treasures are displayed at the [[Auckland Art Gallery]], such as the work of [[Colin McCahon]], while many other significant cultural artefacts reside at the [[Auckland War Memorial Museum]], the [[New Zealand National Maritime Museum|National Maritime Museum]], or the [[Museum of Transport and Technology]] (MOTAT). Exotic creatures can be observed at the [[Auckland Zoo]] and [[Kelly Tarlton's Underwater World]]. Movies and rock concerts (notably, the &quot;[[Big Day Out]]&quot;) are also well patronised.
+
+The Waitemata Harbour has popular swimming beaches at [[Mission Bay, New Zealand|Mission Bay]], [[Devonport, New Zealand|Devonport]], [[Takapuna]], and the west coast has popular surf spots such as [[Piha]] and [[Muriwai]]. Many Auckland beaches are patrolled by [[surf lifesaving]] clubs, which are part of [[Surf Life Saving Northern Region]].
+
+===Parks and nature===
+[[Auckland Domain]] is one of the largest parks in the city, close to the [[Auckland CBD]] and having a good view of the [[Hauraki Gulf]] and [[Rangitoto Island]]. Smaller parks close to the city centre are [[Albert Park, Auckland|Albert Park]], [[Myers Park, Auckland|Myers Park]], [[Western Park, Auckland|Western Park]] and [[Victoria Park, Auckland|Victoria Park]].
+
+While most volcanic cones in the [[Auckland Volcanic Field]] have been affected by quarrying, many of the remaining cones are now within parks, and retain a more natural character than the surrounding city. Prehistoric earthworks and historic fortifications are in several of these parks, including [[Mount Eden]], [[North Head, New Zealand|North Head]] and [[One Tree Hill, New Zealand|One Tree Hill]] (Maungakiekie).
+
+Other parks around the city are in [[Western Springs]], which has a large park bordering the [[MOTAT]] museum and the [[Auckland Zoo]]. The [[Auckland Botanic Gardens]] are further south, in [[Manurewa]].
+
+Ferries provide transport to parks and nature reserves at [[Devonport, New Zealand|Devonport]], [[Waiheke Island]], [[Rangitoto Island]] and [[Tiritiri Matangi]]. The [[Waitakere Ranges]] Regional Park to the west of Auckland offers beautiful and relatively unspoiled [[The Bush#New Zealand|bush]] territory, as do the [[Hunua Ranges]] to the south.
+
+===Sport===
+;Locations
+
+The most popular sports in Auckland are [[rugby union]] and [[cricket]]. Auckland has a considerable number of rugby union and cricket grounds, and venues for motorsports, tennis, badminton, netball, swimming, soccer, rugby league, and many other sports.
+* [[Eden Park]] is the city's primary [[stadium]] and a frequent home for international [[rugby union]] and [[cricket]] matches, in addition to [[Super 14]] matches where the [[Blues (Super rugby franchise)|Blues]] play their homes games.
+* [[North Harbour Stadium]] is mainly used for [[Rugby Union]] and [[Soccer]] matches, but is also used for concerts.
+* [[Mt Smart Stadium]] is used mainly for [[rugby league]] matches and is home to the [[New Zealand Warriors]] of the [[NRL]], and is also used for concerts, hosting the Auckland stop of the [[Big Day Out]] music festival every January.
+* [[ASB Tennis Centre]] is Auckland's primary tennis centre, hosting international tournaments for men ([[Heineken Open (tennis)|Heineken Open]]) and women ([[ASB Classic]]) in January each year.
+* [[Vector Arena]] is a new multi-purpose indoor arena. It is primarily used for concerts and [[Netball]] matches.
+* [[Trusts Stadium]] is where the [[2007 Netball World Championships]] were held and is the home of the [[Northern Mystics]] of the [[ANZ Championship]].
+
+;Main teams
+* The [[Blues (Super rugby franchise)|Blues]] franchise, a team in [[Super Rugby]], have won three championships in the competition's history. The last time they won the title was in 2003.
+* Previously the Auckland Warriors, the [[New Zealand Warriors]] is a franchise in Australia's [[NRL]] competition. They play their home games at [[Mt Smart Stadium]] in Auckland. Their most successful year came in 2002 when they finished Minor Premiers and qualified for the Grand Final.
+* Auckland's first class cricket team, the [[Auckland Aces]] play the majority of their home matches at [[Eden Park]]'s outer oval, where they have experienced mixed success in recent seasons.
+* The [[Northern Mystics]] compete in the [[ANZ Championship]] and play their home games at [[Trusts Stadium]].
+* Auckland is home to three [[Air New Zealand Cup]] rugby teams: [[Auckland Rugby Football Union|Auckland]], [[North Harbour Rugby Union|North Harbour]] and [[Counties Manukau Rugby Union|Counties Manukau]].
+* The [[New Zealand Breakers]] is a franchise in the [[Australian National Basketball League|NBL]] and play their home matches at the [[North Shore Events Centre]]
+;Major events
+&lt;!-- Please DO NOT include championships/tournaments where individual games occur in Auckland, unless the finals for example traditionally always occurs in Auckland --&gt;
+Popular annual sporting events include:
+* The [[Auckland Harbour Crossing Swim]] swim from [[North Shore City]] to the [[Viaduct Basin]], Auckland CBD, is a yearly summer event, covering 2.8&amp;nbsp;km (often with some considerable counter-currents) and attended by over a thousand mostly amateur competitors. It is New Zealand's largest ocean swim.&lt;ref&gt;[http://www.aucklandcity.govt.nz/whatson/events/harbour/default.asp Harbour Crossing] (from the [[Auckland City Council]] website. Retrieved 2007-10-24.)&lt;/ref&gt;
+* The 'Round the Bays' [[road running|fun-run]], starting in the city and going 8.4 kilometres (5.2 miles) along the waterfront to the suburb of [[Saint Heliers, New Zealand|St Heliers]]. It attracts many tens of thousands of people and has been an annual March event since [[Timeline of New Zealand history#1970s|1972]].
+* The [[Auckland Marathon]] (and half-marathon), an annual marathon which draws thousands of competitors.
+
+Auckland hosted the [[1950 British Empire Games]] and the 14th [[1990 Commonwealth Games|Commonwealth Games in 1990]],&lt;ref name=&quot;DOING&quot;/&gt; and will host a number of matches (including the semi-final and the final) of the [[2011 Rugby World Cup]].&lt;ref&gt;{{cite web|url=http://www.nzrugbyworldcup.com/RugbyWorldCup.aspx|title=Eden Park to host Final and Semi-Finals|date=22 February 2008}}&lt;/ref&gt;
+
+==Economy==
+[[Image:Auckland tower.jpg|thumb|270px|right|The [[Sky Tower]] is the tallest free-standing structure in the [[Southern Hemisphere]] at 328m.]]
+
+Most major international corporations have an Auckland office, as the city is the economic capital of the nation. The most expensive office space is around lower [[Queen Street, Auckland|Queen Street]] and the [[Viaduct Basin]] in the [[Auckland CBD]], where many financial and business services are located, which make up a large percentage of the CBD economy.&lt;ref name=&quot;GLANCE&quot;&gt;[http://www.aucklandcity.govt.nz/auckland/economy/cbd/glance.asp Auckland's CBD at a glance] (CBD website of the [[Auckland City Council]])&lt;/ref&gt; A large proportion of the technical and trades workforce is based in the industrial zones of [[South Auckland]].
+
+The largest commercial and industrial areas of Greater Auckland are in the southeast of Auckland City and the western parts of Manukau City, mostly bordering the [[Manukau Harbour]] and the [[Tamaki River]] estuary.
+
+The sub-national GDP of the Auckland region was estimated at US$47.6 billion in 2003, 36% of New Zealand's national GDP, 15% greater than the entire South Island.&lt;ref&gt;{{cite web|url=http://www.stats.govt.nz/reports/analytical-reports/regional-gross-domestic-product.aspx|title=Regional Gross Domestic Product|publisher=[[Statistics New Zealand]]|year=2007|accessdate=18 February 2010}}&lt;/ref&gt;
+
+Auckland's status as the largest commercial centre of the country reflects in the high median personal income (per working person, per year) which was [[NZ$]]44,304 (approx. [[US$]]33,000) for the region in 2005, with jobs in the Auckland CBD often earning more.&lt;ref name=&quot;income1&quot;&gt;[http://www.labourmarket.co.nz/regionalprofile_ak.htm Auckland Regional Profile] (from labourmarket.co.nz, composed from various sources)&lt;/ref&gt; The median personal income (for all persons older than 15 years of age, per year) was NZ$22,300 (2001),&lt;ref name=&quot;income2&quot;&gt;[http://www.emigratenz.org/nz-cities-compared.html Comparison of New Zealand's cities] (from ENZ emigration consulting)&lt;/ref&gt; behind only [[North Shore City]] (also part of the Greater Auckland area) and [[Wellington]]. While office workers still account for a large part of Auckland's commuters, large office developments in other parts of the city, for example in [[Takapuna]] or [[Albany, New Zealand|Albany]], both [[North Shore City]], are slowly becoming more common, reducing concentration on the Auckland CBD somewhat.
+
+==Education==
+Auckland has a number of important educational institutions, including some of the largest universities in the country. Auckland is a major centre of overseas language education, with large numbers of foreign students (particularly East Asians) coming to the city for several months or years to learn English or study at universities - although numbers New Zealand-wide have dropped substantially since peaking in 2003.&lt;ref&gt;[http://www2.stats.govt.nz/domino/external/pasfull/pasfull.nsf/4c2567ef00247c6a4c2567be0008d2f8/4c2567ef00247c6acc2571b900127ca3?OpenDocument Survey of English Language Providers - Year ended March 2006] (from [[Statistics New Zealand]]. Auckland is assumed to follow national pattern)&lt;/ref&gt; As of 2007, there are around 50 [[NZQA]] certified schools and institutes teaching English in the Auckland area.&lt;ref&gt;[http://www.englishnewzealand.ac.nz/All%20Schools/AUCKLAND.html English Language Schools in New Zealand - Auckland] (list linked from the [[Immigration New Zealand]] website)&lt;/ref&gt;
+
+Auckland has a multitude of [[List of schools in Auckland|primary and secondary schools]]. The city also has several private schools. Auckland contains New Zealand's three largest (by full-time student numbers) high schools: [[Rangitoto College]], [[Avondale College, Auckland|Avondale College]] and [[Massey High School]] respectively. It also contains New Zealand's largest Catholic school, [[St Peter's College, Auckland|St Peter's College]].
+
+Amongst the most important tertiary educational institutes are the [[University of Auckland]] (City, Tamaki, Grafton Campus and satellite campuses) [[Auckland College of Education]] (Epsom and Tai Tokerau Campus), [[AUT]] (City, North Shore and Manakau campus), is New Zealands newest University [[Massey University]] (Albany campus) and the [[Manukau Institute of Technology]] (Otara campus), with [[Unitec New Zealand]] (Mt Albert campus) being the largest technical institute in Auckland.
+
+==Housing==
+Housing varies considerably between some suburbs having [[state housing|state owned housing]] in the lower income neighbourhoods, to palatial waterfront estates, especially on the Waitemata. Traditionally, the most common residence of Aucklanders was a bungalow on a '[[quarter acre]]' (1,000 m²).&lt;ref name=&quot;ARCGRO&quot;/&gt; However, subdividing such properties with 'infill housing', has long been the norm. Aucklanders' housing preferences resulting from a lack of apartments and poor public transport has resulted in a large [[urban sprawl]] and reliance on motor vehicles. This will probably continue, as the vast majority of Aucklanders live in low-density housing, which is expected to remain at up to 70% of the total share even in 2050.&lt;ref name=&quot;ARCGRO&quot;/&gt;
+
+In some areas, the Victorian [[villas]] are being increasingly torn down to make way for large plaster mansions with tennis courts and swimming pools. The demolition of the older properties is being combated by the Auckland City Council passing laws that cover heritage suburbs or streets. Auckland has been described as having 'the most extensive range of timbered housing with its classical details and mouldings in the world', many of them Victorian-Edwardian style houses.&lt;ref&gt;[http://www.aucklandcity.govt.nz/council/documents/district/Part07a.pdf Section 7.6.1.2 - Strategy] ([[PDF]]) (from the [[Auckland City Council]] District Plan - Isthmus Section)&lt;/ref&gt;
+
+==Government==
+===Local===
+{{See also|Auckland Region|Auckland Council}}
+
+The metropolitan area is made up of [[Auckland City]] (excluding the Hauraki Gulf islands), [[North Shore, New Zealand|North Shore City]], the urban parts of [[Waitakere]] and [[Manukau]] cities, and [[Papakura|Papakura District]] and some urban parts of [[Rodney District|Rodney]] and [[Franklin District]]s. The [[Auckland Regional Council]] is the [[Regions of New Zealand|regional council]] with jurisdiction for the area.
+
+In the late 2000s, New Zealand's central government and parts of Auckland's society felt that this large number of Councils, and the lack of strong regional government (with the [[Auckland Regional Council]] only having limited powers) were hindering Auckland's progress. A [[Royal Commission on Auckland Governance]] was set up in 2007,&lt;ref&gt;''[http://www.stuff.co.nz/0a11.html4147429a11.html Auckland governance inquiry welcomed]'' - [[NZPA]], via 'stuff.co.nz', Tuesday 31 July 2007. Retrieved 2007-10-29.&lt;/ref&gt;&lt;ref&gt;''[http://www.infonews.co.nz/news.cfm?l=1&amp;t=97&amp;id=4113 Royal Commission of inquiry for Auckland welcomed]'' - [[NZPA]], via 'infonews.co.nz', Tuesday 31 July 2007. Retrieved 2007-10-29&lt;/ref&gt; and in 2009 recommended a unified local governance structure for Auckland, amalgamating the Councils.&lt;ref&gt;''[http://www.scoop.co.nz/stories/PA0903/S00405.htm Minister Releases Report Of Royal Commission]'' - ''[[Scoop.co.nz]]'', Friday 27 March 2009&lt;/ref&gt; Government subsequently announced that a &quot;super city&quot; would be set up with a single mayor by the time of New Zealand's local body elections in 2010.&lt;ref&gt;{{cite news|url=http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&amp;objectid=10565528|title='Super city' to be in place next year, Maori seats axed|publisher=[[The New Zealand Herald]]|first=Edward|last=Gay|date=7 April 2009}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://media.nzherald.co.nz/webcontent/document/pdf/Making%20Ak%20Greater%20final%20media.pdf|title=Making Auckland Greater|format=PDF|date=7 April 2009}}&lt;/ref&gt;
+
+Many aspects of the proposed reorganisation [[Auckland Council#Establishment|were or are still controversial]], from the matters such as the form of representation for Maori, the inclusion or exclusion of rural Council areas in the super city, to the role of Council controlled organisations that are intended to place much of the day to day business of Council services at arms length from the elected Council.
+
+===National===
+Between 1842 and 1865, Auckland was the capital city of New Zealand. Parliament met in what is now Old Government House on the [[University of Auckland]]'s City campus. The capital was moved to [[Wellington]] in 1865.
+
+Auckland, because of its large population, is currently {{update after|2012|06|reason=Update if new seats established in Auckland region as a result of the 2011 census}} covered by 21 general electorates and three Maori electorates. Prior to 2008, there were only 20 general electorates, with the new seat of Botany being created in 2008 due to the increase in population around Auckland.
+As of the 2008 election, thirteen of the seats are held by the governing [[New Zealand National Party|National Party]], eight seats (seven general, one Maori) being held by the opposing [[New Zealand Labour Party|Labour Party]], one seat by the [[ACT Party]], and two seats (both Maori) by the [[Maori Party]].
+
+{| class=&quot;sortable wikitable&quot; border=&quot;1&quot;
+|-
+! Electorate
+! MP
+! Party
+|-
+| Auckland Central
+| [[Nikki Kaye]]
+| National
+|-
+| Botany
+| [[Pansy Wong]]
+| National
+|-
+| East Coast Bays
+| [[Murray McCully]]
+| National
+|-
+| Epsom
+| [[Rodney Hide]]
+| ACT
+|-
+| Helensville
+| [[John Key]]
+| National
+|-
+| Hunua
+| [[Paul Hutchison]]
+| National
+|-
+| Mangere
+| [[Su'a William Sio]]
+| Labour
+|-
+| Manukau East
+| [[Ross Robertson]]
+| Labour
+|-
+| Manurewa
+| [[George Warren Hawkins|George Hawkins]]
+| Labour
+|-
+| Maungakiekie
+| Peseta [[Sam Lotu-Iiga]]
+| National
+|-
+| Mt Albert
+| [[David Shearer]]
+| Labour
+|-
+| Mt Roskill
+| [[Phil Goff]]
+| Labour
+|-
+| New Lynn
+| [[David Cunliffe]]
+| Labour
+|-
+| North Shore
+| [[Wayne Mapp]]
+| National
+|-
+| Northcote
+| [[Jonathan Coleman (politician)|Jonathan Coleman]]
+| National
+|-
+| Pakuranga
+| [[Maurice Williamson]]
+| National
+|-
+| Papakura
+| [[Judith Collins]]
+| National
+|-
+| Rodney
+| [[Lockwood Smith]]
+| National
+|-
+| Te Atatu
+| [[Chris Carter (politician)|Chris Carter]]
+| Labour
+|-
+| Tāmaki
+| [[Allan Peachey]]
+| National
+|-
+| Waitakere
+| [[Paula Bennett]]
+| National
+|-
+| Hauraki-Waikato (Maori)
+| [[Nanaia Mahuta]]
+| Labour
+|-
+| Tamaki Makaurau (Maori)
+| [[Pita Sharples]]
+| Maori
+|-
+| Te Tai Tokerau (Maori)
+| [[Hone Harawira]]
+| Maori
+|}
+
+==Transport==
+[[Image:Devonport Wharf Kea Ferry.jpg|thumb|right|270px|[[Ferry]] travel is a popular type of public transport for some Auckland destinations.]]
+{{Main|Transport in Auckland|Public transport in Auckland}}
+
+===Travel modes===
+;Road and rail
+Private vehicles are the main form of transportation, with only around 7% of journeys in the Auckland region being undertaken by bus (2006 data),&lt;ref name=&quot;TRAPLAN&quot;&gt;{{cite book|title=Auckland Transport Plan - June 2007|year=2007|publisher=[[Auckland Regional Transport Authority]]|pages=8|url=http://www.arta.co.nz/assets/arta%20publications/publications%20page/Auckland%20Transport%20Plan%20June%202007%20-%20section%202.pdf}}&lt;/ref&gt; though these numbers have since increased somewhat. As of 2009 Auckland still ranks quite low in this regard, having only 41 public transport trips per capita per year, while Wellington has more than twice this number at 91, and Sydney has 114 trips.&lt;ref&gt;[http://www.arta.co.nz/assets/arta%20publications/2009/8-0%20134040%20ART%20RTLP%20Draft%202009_hires.pdf Auckland's Transport Challenges] (from the Draft 2009/10-2011/12 Auckland Regional Land Transport Programme, Page 8, [[Auckland Regional Transport Authority|ARTA]], March 2009. Accessed 2009-04-10.&lt;/ref&gt; This strong roading focus results in substantial [[traffic congestion]] during peak times.&lt;ref name=&quot;NIGHT&quot;&gt;''[http://www.nzherald.co.nz/section/1/story.cfm?c_id=1&amp;objectid=10454503 Welcome to our traffic nightmare]'' - ''[[The New Zealand Herald]]'', Sunday 29 July 2007&lt;/ref&gt;
+
+Bus services in Auckland are mostly radial rather than [[Beltway|ring]]-routes, due to Auckland being on an [[isthmus]]. Late-night services (i.e. past midnight) are limited, even on weekends. Trains service the west and southeast of Auckland, with longer-distance options scarce. In 2007 approximately NZ$5.3 billion worth of large-scale projects was underway or planned (and budgeted for) in the Auckland area to improve rail and public transport patronage over the next decade, 31% of the transport budget.&lt;ref name=&quot;WIKI&quot;&gt;References provided in [[Transport in Auckland]] and [[Public transport in Auckland]]&lt;/ref&gt;&lt;ref&gt;[http://www.arta.co.nz/xxarta/news/media_releasexx.cfm?entryID=B202280C-BCD4-1A24-99B5-C64E69961830 Auckland Transport Plan landmark for transport sector] (from the [[Auckland Regional Transport Authority]] website, 11 August 2007)&lt;/ref&gt; However, policy changes in early 2009 by the incoming National government have meant a shift in emphasis to more highway construction, and have removed the provision of a regional fuel tax that was to pay for [[Auckland Regional Transport Authority|ARTA's]] public transport upgrades.&lt;ref&gt;''[http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&amp;objectid=10562220 Hopes of electric trains for cup fade]'' - ''[[The New Zealand Herald]]'', Wednesday 18 March 2009&lt;/ref&gt; While the government has promised to fund the [[Auckland railway electrification|rail electrification]], the process and associated tenders were delayed by approximately one year, and some rail station upgrades and the funding of the [[integrated ticketing]] upgrade were in doubt. The lack of future funding also forced ARTA to hand over the Auckland region's rail stations to government control.&lt;ref&gt;''[http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&amp;objectid=10562752 Council to give up its rail stations]'' - ''[[The New Zealand Herald]]'', Saturday 21 March 2009&lt;/ref&gt;&lt;ref&gt;[http://www.stuff.co.nz/national/politics/2278362/The-2b-road-ahead The $2b road ahead]'' - ''[[The Dominion Post (Wellington)|The Dominion Post]], unknown date. Accessed 2009-04-06.&lt;/ref&gt;&lt;ref&gt;''[http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&amp;objectid=10562670&amp;pnum=0 Rail 'trench' worries New Lynn]'' - ''[[The New Zealand Herald]]'', Friday 20 March 2009&lt;/ref&gt;
+
+;Other modes
+[[Ports of Auckland|Auckland's ports]] are the largest of the country, and a large part of both inbound and outbound New Zealand commerce travels through them, mostly via the facilities northeast of Auckland CBD. Freight usually arrives at or is distributed from the port via road, though the port facilities also have rail access. Auckland is a major cruise ship stopover point, with the ships usually tying up at [[Princes Wharf]]. Auckland CBD is connected to coastal suburbs, to [[North Shore City]] and to outlying islands by ferry.
+
+Auckland has various small regional airports and [[Auckland Airport]], the busiest of the country.
+
+;Policies
+Research at [[Griffith University]] has indicated that in the last 50 years, Auckland has engaged in some of the most pro-automobile transport policies anywhere in the world.&lt;ref name=&quot;GRIFF&quot;&gt;''[http://www.griffith.edu.au/centre/urp/urp_publications/Issues_Papers/URP_IP5_MeesDodsonAucklandTransport_April, 2006.pdf Backtracking Auckland: Bureaucratic rationality and public preferences in transport planning]'' - Mees, Paul; Dodson, Jago; Urban Research Program Issues Paper 5, [[Griffith University]], April 2006&lt;/ref&gt; With public transport declining heavily during the second half of the 20th century (a trend mirrored in most Western countries such as the US),&lt;ref&gt;[http://www.publicpurpose.com/ut-usptshare45.htm US Urban Personal Vehicle &amp; Public Transport Market Share from 1900] (from publicpurpose.com, a website of the [[Wendell Cox]] Consultancy)&lt;/ref&gt; and increased spending on roads and cars, New Zealand (and specifically Auckland) now has the second-highest vehicle ownership rate in the world, with around 578 vehicles per 1000 people.&lt;ref name=vehicle_ownership&gt;[http://www.northshorecity.govt.nz/ Sustainable Transport] North Shore City Council website&lt;/ref&gt; Auckland has also been called a very pedestrian- and cyclist-unfriendly city, though some efforts are being made to change this.&lt;ref name=&quot;Big steps to change City of Cars&quot;&gt;''[http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&amp;objectid=10539171 Big steps to change City of Cars]'' - ''[[The New Zealand Herald]]'', Friday October 24, 2008&lt;/ref&gt;&lt;ref name=&quot;Big steps to change City of Cars&quot;/&gt; At the same, high-profile gaps in the network, such as the inability for pedestrians and cyclists to cross the Waitemata Harbour, will probably remain for the foreseeable future, with councils generally not considering the costs involved as sensible expense.&lt;ref&gt;''[http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&amp;objectid=10530271 Cycleway for bridge could prove too pricey]'' - ''[[The New Zealand Herald]]'', Wednesday 3 September 2008&lt;/ref&gt;
+
+[[Image:Auckland Harbour Bridge With Flag.jpg|right|thumb|270px|The harbour bridge from [[North Shore City]].]]
+
+===Infrastructure===
+The [[New Zealand State Highway network|State Highway network]] connects the cities in the Auckland urban area through the Northern, Southern, Northwestern and Southwestern Motorways.
+
+The [[Auckland Harbour Bridge]] (Northern Motorway) is the main connection to [[North Shore City]], and also a major traffic bottleneck. The Harbour Bridge does not provide access for rail, pedestrians or cyclists, which has repeatedly (most recently in 2008) led to campaigns for and investigations into retrofitting the structure.
+
+The [[Central Motorway Junction]], also called 'Spaghetti Junction' for its complexity, is the intersection between the two major motorways of Auckland (State Highway 1 and State Highway 16).
+
+Two of the longest arterial roads within Greater Auckland are [[Great North Road, New Zealand|Great North Road]] and [[Great South Road, New Zealand|Great South Road]] - the main connections in those directions before the construction of the State Highway network.
+
+Auckland has three main railway lines, serving the general western, southern, and central eastern directions from the [[Britomart Transport Centre]] in downtown Auckland. It is the terminal station for all lines, and connects them to ferry and bus services.
+
+==Future growth==
+[[Image:Auckland urban area.png|thumb|270px|right|The urbanised extents of Auckland shown in grey, as of approximately 2007.]]
+[[Image:AucklandMuseum edit gobeirne.jpg|thumb|270px|The [[Auckland War Memorial Museum]].]]
+
+Auckland is expecting substantial population growth via immigration and natural population increases (which contribute to growth at about one-third and two-thirds, respectively)&lt;ref&gt;[http://www.arc.govt.nz/arc/auckland-region/growth/can-we-stop-growth.cfm Can We Stop growth?] (from the [[Auckland Regional Council|ARC]] website)&lt;/ref&gt;, and is set to grow to an estimated 1.9 million inhabitants by 2031.&lt;ref name=&quot;STATSNZPOP&quot;&gt;[http://www.stats.govt.nz/Publications/PopulationStatistics/mapping-trends-in-the-auckland-region/population-change.aspx Statistics New Zealand] [[Statistics New Zealand|]], 2010. Retrieved 2010)&lt;/ref&gt;&lt;ref name=&quot;ARCGRO&quot;&gt;[http://www.arc.govt.nz/albany/fms/main/Documents/Auckland/Aucklands%20growth/Auckland%20regional%20growth%20strategy.pdf Executive Summary] ([[PDF]]) (from the Auckland Regional Growth Strategy document, [[Auckland Regional Council|ARC]], November 1999. Retrieved 2007-10-14.)&lt;/ref&gt; This substantial increase in population will have a major impact on transport, housing and other infrastructure that is in many cases already considered under pressure. It is also feared by some organisations, such as the [[Auckland Regional Council]], that [[urban sprawl]] will result from the growth and, as a result, that it is necessary to address this proactively in planning [[policy]].
+
+A 'Regional Growth Strategy' has been adopted that sees limits on further subdivision and intensification of existing use as its main [[sustainability]] measures.&lt;ref&gt;''[http://portal.jarbury.net/thesis.pdf From Urban Sprawl to Compact City: an analysis of Auckland's Urban Growth Management Strategies]'' - Arbury, Joshua - MA Thesis, University of Auckland&lt;/ref&gt; This policy is contentious, as it naturally limits the uses of private land, especially the subdivision of urban fringe properties,&lt;ref name=&quot;GREEN&quot;&gt;''[http://www.nzherald.co.nz/topic/story.cfm?c_id=139&amp;objectid=10436540 Green belt under siege]'' - ''[[The New Zealand Herald]]'', Saturday 28 April 2007&lt;/ref&gt; by setting 'Metropolitan Urban Limits' in planning documents like the [[District Plan]].&lt;ref&gt;[http://www.aucklandcity.govt.nz/council/documents/growthstrategy/docs/Glossary.pdf Growth Strategy: Glossary and References] ([[PDF]]) (from the [[Auckland City Council]])&lt;/ref&gt;
+
+According to the 2006 Census projections, the medium-variant scenario shows that the population is projected to continue growing, to reach 1.93 million by 2031. The high-variant scenario shows the region's population growing to over two million by 2031.&lt;ref&gt;{{cite web|url=http://www.stats.govt.nz/Publications/PopulationStatistics/mapping-trends-in-the-auckland-region/population-change.aspx|title=Mapping Trends in the Auckland Region|work=[[Statistics New Zealand]]|accessdate=11 March 2010}}&lt;/ref&gt;
+
+==Famous sites==
+Tourist attractions and landmarks in the Auckland metropolitan area include:
+
+;Attractions and buildings
+* [[Auckland Civic Theatre]] - a famous heritage [[atmospheric theatre]] in downtown Auckland. It was renovated in 2000 to its original condition.
+* [[Auckland Harbour Bridge|Harbour Bridge]] - connecting Auckland and the [[North Shore, New Zealand|North Shore]], an iconic symbol of Auckland.
+* [[Auckland Town Hall]] - with its concert hall considered to have some of the finest acoustics in the world, this 1911 building serves both council and entertainment functions.
+* [[Auckland War Memorial Museum]] - a large multi-exhibition museum in the [[Auckland Domain]], known for its impressive [[neoclassical architecture|neo-classicist]] style.
+* [[Aotea Square]] - the hub of downtown Auckland beside Queen Street, it is the site of crafts markets, rallies and arts festivals.
+* [[Britomart Transport Centre]] - the main downtown public transport centre in a historic [[Edwardian]] building.
+* [[Eden Park]] - the city's primary [[stadium]] and a frequent home for [[All Blacks]] [[rugby union]] and [[New Zealand cricket team|Black Caps]] [[cricket]] matches. It will be the location of the 2011 Rugby World Cup final.&lt;ref&gt;{{cite web|url=http://www.rugbyworldcup.com/destinationnewzealand/news/newsid=2026277.html|title=Venue allocation options a challenge|work=Official RWC 2011 Site|accessdate=11 March 2010}}&lt;/ref&gt;
+* [[Karangahape Road]] - known as &quot;K' Road&quot;, a street in upper central Auckland famous for its bars, clubs and smaller shops.
+* [[Kelly Tarlton's Underwater World|Kelly Tarlton's Antarctic Encounter &amp; Underwater World]] - a well-known [[aquarium]] and Antarctic environment in the eastern suburb of [[Mission Bay, New Zealand|Mission Bay]], built in a set of former sewage storage tanks, showcasing penguins, turtles, sharks, tropical fish, sting rays and other marine creatures.
+* [[Museum of Transport and Technology|MOTAT]] - Auckland's Museum for Transport and Technology, at [[Western Springs]].
+* [[Mt Smart Stadium]] - a stadium used mainly for [[rugby league]] and [[Association football|soccer]] matches. Also the site of many concerts.
+* [[New Zealand National Maritime Museum]] - features exhibitions and collections relating to New Zealand maritime history at Hobson Wharf, adjacent to the [[Viaduct Basin]].
+* [[Ponsonby, New Zealand|Ponsonby]] - a suburb and main street west of central Auckland known for arts, cafes and culture.
+* [[Queen Street, Auckland|Queen Street]] - the main street of the city, from Karangahape Road down to the harbour.
+* [[Sky Tower]] - the tallest free-standing structure in the [[Southern Hemisphere]], it is {{convert|328|m|ft|0|abbr=on}} tall and has excellent panoramic views.
+* [[Vector Arena]] - events centre in downtown Auckland completed in 2007. Holding 12,000 people, it is used for sports and concert events.
+* [[Viaduct Basin]] - a marina and residential development in downtown Auckland, the venue for the America's Cup regattas in 2000 and 2003.
+* [[Western Springs Stadium]] - a natural [[amphitheatre]] used mainly for [[Race track|speedway]] races, [[rock (music)|rock]] and [[pop (music)|pop]] [[concert]]s.
+
+;Landmarks
+* [[Auckland Domain]] - one of the largest parks of the city, close to the [[Auckland CBD|CBD]] and having a good view of the harbour and of [[Rangitoto]] Island.
+* [[Mount Eden]] - a [[volcanic cone]] with a grassy [[Volcanic crater|crater]]. As the highest natural point in Auckland City, it offers 360-degree views of Auckland and is thus a favorite tourist outlook.
+* [[Mount Victoria, Auckland|Mount Victoria]] - a volcanic cone in [[North Shore City]] offering a spectacular view of Auckland. A brisk walk from the Devonport ferry terminal, the cone is steeped in history, as is nearby [[North Head, New Zealand|North Head]].
+* [[One Tree Hill, New Zealand|One Tree Hill]] (Maungakiekie) - a volcanic cone that dominates the skyline in the southern, inner suburbs. It no longer has a tree on the summit (after a politically motivated attack on the old tree) but is still crowned by an [[obelisk]].
+* [[Rangitoto Island]] - guards the entrance to [[Waitemata Harbour]], and forms a prominent feature on the eastern horizon.
+* [[Waiheke Island]] - the second largest island in the [[Hauraki Gulf]] and is well known for its beaches, forests, vineyards and olive groves.
+[[Image:View from Sky Tower Akl.jpg|thumb|600px|center|360-degree view from [[Sky Tower]], showing many landmarks in the [[Auckland CBD|CBD]].]]
+
+==See also==
+{{Portal|New Zealand}}
+* [[1998 Auckland power crisis]]
+* [[Auckland City]]
+* [[East Auckland]]
+* [[Jafa]] (slang term for Aucklander, article also contains a range of Aucklander stereotypes)
+* [[South Auckland]]
+* [[Suburbs of Auckland, New Zealand|Suburbs of Auckland]]
+
+==References==
+{{Refbegin}}{{Reflist|2}}{{Refend}}
+
+==Further reading==
+* {{cite book | author= Gordon McLauchlan| title= The Illustrated Encyclopedia of New Zealand | publisher = David Bateman Ltd, Glenfield, NZ | year= 1992| isbn=1-86953-007-1}}
+
+==External links==
+{{commons|Auckland}}
+* [http://www.aucklandnz.com/ Auckland] - Visitor-oriented official website
+* [http://www.newzealand.com/travel/destinations/regions/auckland/auckland.cfm] - Auckland Travel Guide - NewZealand.com (New Zealand's Official Visitor Guide and Information)
+* [http://www.teara.govt.nz/Places/Auckland/en Auckland] in Te Ara the Encyclopedia of New Zealand
+* [http://maps.arc.govt.nz/website/maps/default.htm Maps &amp; Aerial Photos] (from the [[Auckland Regional Council|ARC]] map website
+
+{{Territorial Authorities of New Zealand}}
+{{New Zealand topics}}
+{{Commonwealth Games Host Cities}}
+
+[[Category:Auckland| ]]
+[[Category:Populated places established in 1840]]
+[[Category:Port cities in New Zealand]]
+[[Category:Populated coastal places in New Zealand]]
+[[Category:Host cities of the Commonwealth Games]]
+[[Category:Isthmuses]]
+[[Category:Former national capitals of New Zealand]]
+
+&lt;!--Interwiki--&gt;
+{{Link GA|es}}
+
+{{Link FA|mk}}
+
+[[af:Auckland]]
+[[ar:أوكلاند]]
+[[roa-rup:Auckland]]
+[[bg:Окланд]]
+[[ca:Auckland]]
+[[cs:Auckland]]
+[[cy:Auckland]]
+[[da:Auckland]]
+[[de:Auckland]]
+[[et:Auckland]]
+[[el:Ώκλαντ]]
+[[es:Auckland]]
+[[eo:Auckland]]
+[[eu:Auckland]]
+[[fa:آوکلند]]
+[[hif:Auckland]]
+[[fr:Auckland]]
+[[gl:Auckland]]
+[[ko:오클랜드 (뉴질랜드)]]
+[[hy:Օկլենդ]]
+[[hi:आकलैंड]]
+[[hr:Auckland]]
+[[io:Auckland]]
+[[id:Auckland]]
+[[ie:Auckland (Nov-Zeland)]]
+[[os:Окленд (Ног Зеланди)]]
+[[it:Auckland]]
+[[he:אוקלנד (ניו זילנד)]]
+[[ka:ოკლენდი]]
+[[sw:Auckland]]
+[[kv:Окленд (Выль Зеландия)]]
+[[la:Aucopolis]]
+[[lv:Oklenda]]
+[[lt:Oklandas (Naujoji Zelandija)]]
+[[mk:Окленд]]
+[[mi:Tāmaki-makau-rau]]
+[[mr:ऑकलंड]]
+[[ms:Auckland]]
+[[mn:Окленд]]
+[[nl:Auckland]]
+[[ja:オークランド (ニュージーランド)]]
+[[no:Auckland]]
+[[nn:Auckland]]
+[[oc:Auckland]]
+[[pl:Auckland]]
+[[pt:Auckland]]
+[[ro:Auckland]]
+[[ru:Окленд (Новая Зеландия)]]
+[[sco:Auckland]]
+[[scn:Auckland]]
+[[simple:Auckland]]
+[[sk:Auckland]]
+[[sr:Окланд]]
+[[fi:Auckland]]
+[[sv:Auckland]]
+[[ta:ஆக்லன்ட்]]
+[[tr:Auckland]]
+[[uk:Окленд (Нова Зеландія)]]
+[[ug:ئاۋكلاند]]
+[[vi:Auckland]]
+[[war:Auckland]]
+[[zh:奧克蘭 (紐西蘭)]]</text>
+    </revision>
+  </page>
+</mediawiki>

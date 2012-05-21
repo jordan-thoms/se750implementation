@@ -1,0 +1,164 @@
+<!DOCTYPE html PUBLIC "XHTML 1.0 Transitional"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Gerald's Project Requirements: Model-Based Editor</title>
+  <meta http-equiv="Content-Type" content="text/html" />
+</head>
+
+<body bgcolor="#FFFFFF">
+  
+  <h1> Project Requirements: Model-Based Editor </h1>
+  
+  <p>
+  This document captures the requirements for all of Gerald's model-based editor projects.
+  All these editors have key features in common. They do not only allow you to edit a document in 
+  a most comfortable way: In fact they allow you to do this together with others on remote computers and
+  to see the edits of the other person immediately! Have a look at the <a href = "http://www.cs.auckland.ac.nz/courses/compsci705s2c/lectures/GW-HCI-2010-Model-Based-Editor.pdf">slides</a>. The following list of requirements
+  contains some longer and some very short explanations or just keywords (groups, layers) and will of course be 
+  discussed in more detail at project commencement.
+  
+  
+    <h2> Requirements common for all Model-Based Editor Projects </h2>
+	
+   <ul>
+    <li>For a single user, the tool has two main views, called the history pane and the artifact pane.
+	</li>
+    <li> The artifact pane is the pane where the user makes the ordinary edits of the document.
+	</li>
+    <li> The history pane gives a logical view of the changes in the document so far and is used to perform the novel higher-level edits. The history pane is similar for all the model-based editors
+	</li>
+    <li> If the user makes edits in the artifact pane, the logical representation of the edit appears in the history pane.
+	</li>
+    <li> The simplest view of the history pane shows a list. The user can select a part of the artifact view and only sees changes relevant to the selection. This should also work for the current field of view in place of the marked section.
+	</li>
+	
+    <li> The content of both panes is remotely updated in a best-effort manner. If another collaborator makes an edit, it appears in the user's history pane and artifact pane, provided that it is in the user's field of view. 
+	</li>
+    <li> The history pane  allows us to perform higher order operations: User operations can be rearranged.
+	</li>
+    <li> In particular, the history pane  allows us to perform counterfactual edits, by adding operations back in time:
+  If the artifact view is set back to a certain point in time, then operations can be inserted. If one then goes forward to a later point in time, then later operations are applied to the result of the new operation.
+	</li>
+    <li>Both panes supports logical tags. Both panes support a nice blame feature. 
+	</li>
+    <li> The user edits have to have suitable rubberbands, animations and stills associated with them. They are used to show updates by the collaborators as well as to replay the document history. Replaying the history allows the user to jump to places where edits have been made.
+	</li>
+    <li>There must be a copy operation. If both copies were edited, the copy operation can be moved to later, resulting in a merge. 
+	</li>
+    <li>On copied objects, the counterfactual edit that applies the changes directly to the original can be performed as an option.
+	</li>
+   </ul>
+ 
+ <h4> Technical requirements </h4>
+   <ul>
+    <li>The tool has to follow a strict model-view pattern.
+	</li>
+    <li>Both panes are views of an internal model. The tool stores its model in the PDStore lightweight database system. Due to this technology this model is automatically synchronized, no further programming is required for this. The views however have to be updated with the observer pattern.
+	</li>
+    <li>Uninterruptible user interface: No popups like errors, warnings - they are provided as a status field.
+	</li>
+  </ul>
+ 
+ 
+  <h2> Diagram Editor </h2>
+   <ul>
+    <li>Double Buffering
+	</li>
+    <li>Groups
+	</li>
+    <li>Layers
+	</li>
+    <li>Affine Transformations
+	</li>
+    <li>Snap to x- and y-tabstops.
+	</li>
+    <li>Replace graphical basic shapes late (not through counterfactual history)
+	</li>
+  </ul>
+
+  <h4> Nice possible examples for elegant solutions </h4>
+   <ul>
+    <li> The palette pane in a graphical editor is just another	document.
+	</li>
+    <li>Layers are expressed through higher-order edits.
+	</li>
+    <li>The clipboard is just another document.
+	</li>
+  </ul>
+
+  <h2>Semantic Text editor</h2>
+  
+  This is instant messenger meets wiki talk.
+  
+   <ul>
+    <li>Text can be marked, history is only shown for that part. Local undo as simple application of general higher edits.
+	</li>
+    <li>Between lines, a syntax tree can be unfolded.
+	</li>
+    <li>Syntax highlighting based on the syntax tree.
+	</li>
+    <li> The syntax tree can be manually edited, can support later automatic generation.
+	</li>
+    <li>Graphical Support for tabs.
+	</li>
+    <li> Nice search and replace, copied with higher-level edits: Selected replacements are counterfactually replaced with copy/pastes.
+	</li>
+    <li>Other important known features: making special characters visible, convert to uppercase,  
+	</li>
+  </ul>
+
+  
+  <h2> Tree Editor </h2>
+  
+ There will be some nice novel presentation features, but another focus is on synchronizing with and acting on an outside system, e.g. a file system.
+   <ul>
+    <li>recognition and update of external changes. They are also included into the history! Means some reverse engineering.
+	</li>
+    <li>Execution of changes in the outside world. Check for intended effect.
+	</li>
+    <li>Planning stage: Actions can be done "in the future", are not yet executed.
+	</li>
+    <li>Timed execution of planned operations.
+	</li>
+    <li>Path view at the top.
+	</li>
+    <li>Neighbor frame: If a parent is about to scroll out of the top, it remains visible. These remaining parents form part of the path representation on top.  If the direct lower neighbor of a parent is scrolling out of the bottom it remains visible as well.
+	</li>
+    <li>Presentation improvements for trees. Vertical lines in the tree view enable fast scrolling. 
+	</li>
+  </ul>
+
+
+  
+  <h2> Deliverables </h2>
+   <ul>
+    <li>The code as an eclipse project, submitted through the version control system. All submitted code must be under a free license.
+	
+	</li>
+    <li>Part of the projects should be unit tests of all important test cases.
+	</li>
+  </ul>
+  
+  <h2> Requirements concerning Project Management</h2>
+   <ul>
+    <li>After the project assignment we will create a repository for each group.
+You must use the provided repository for software development and other project resources. 
+	</li>
+    <li>Regular check-ins are expected.	
+	</li>
+  </ul>
+
+
+  <hr />
+
+  <table width="100%" summary="table">
+    <tr>
+      <td valign="top"></td>
+
+      <td align="right"><img src="" height="100" width= "100" alt="image" /></td>
+    </tr>
+  </table>
+</body>
+</html>

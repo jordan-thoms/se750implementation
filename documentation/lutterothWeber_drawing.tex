@@ -1,0 +1,213 @@
+\documentclass{sig-alternate}
+\begin{document}
+\conferenceinfo{CHINZ '05,}{July 6-8, 2005 Auckland, NZ}
+\CopyrightYear{2005}
+\crdata{1-59593-036-1/04/10}
+
+\title{The change history can give structure to a vector graphics drawing tool}
+
+\numberofauthors{2}
+\author {
+	\alignauthor Christof Lutteroth\\
+       \affaddr{Department of Computer Science}\\
+       \affaddr{The University of Auckland}\\
+       \affaddr{38 Princes Street}\\
+       \affaddr{Auckland 1020, New Zealand}\\
+       \email{\hspace*{1.2cm}\{lutteroth,g.weber\}@cs.auckland.ac.nz}
+	\alignauthor Gerald Weber\\
+       \affaddr{Department of Computer Science}\\
+       \affaddr{The University of Auckland}\\
+       \affaddr{38 Princes Street}\\
+       \affaddr{Auckland 1020, New Zealand}
+}
+\date{}
+\maketitle
+
+\begin{abstract}
+The new XML-based standards for office documents also include a log of the changes to the document. To make this information available for users creates new challenges and new possibilities. In this paper we will discuss this question for a vector graphics drawing component, as it is found in various office applications, including word editors, slide shows and drawing tools. We identify functionalities that can make use of the change log. We make a proposal, how the change track should be integrated with the object and group model of the vector graphics tool component. We discuss the semantic problems that arise in the interpretation of changes if the change track itself is manipulated. We obtain a terminology for such operations. Finally we conclude that in order to support maximum flexibility, the coordinates itself, called tabstops, gain a higher priority and should be considered first class concepts.
+Primary focus of the paper is the editing of 2D diagrams, but the design works as well for more general tasks.
+\end{abstract}
+
+\category{H.4}{Information Interfaces and Presentation}{User Interfaces}[Theory and methods]
+\terms{user interface design, usability}
+\keywords{form-oriented user interfaces, robustness, content creation, configuration}
+
+\section{Introduction}
+
+How often have you tried to draw a diagram for one of your papers and spent a ludicrous amount of time battling with the drawing program? 
+Vector graphics drawing tools are with us since Sutherland's sketchpad~\cite-{Sutherland-DAC88}. 
+
+In current XML-based standards for office documents, like OpenDocument, the feature to track changes creates a change log.
+The change log can be useful in comparing different versions side by side, and for merging. 
+Being part of the document, the change log can in principle be edited, too.
+We call such edits {\em higher-order} edits. If, after such a higher order edit, the change log is reexecuted, in order 
+to view the result of this change log, we call it a {\em counterfactual} execution of the later edits. Counterfactual it is, because we consider the results of the edit under the assumption that the history is different from what it has been in first place.
+Counterfactual execution is semantically difficult, but only if the higher-order edits were preformed on edits that have an influence on the later edits. Take a slide show with two independently created slides. If higher order edits are performed on the first slide's edits, this should be without influence on the edits on the second slide. 
+Higher order inserts are inserting edit operations into the change log. Higher order insert are semantically equivalent to a branch on the version tree before the operation to be inserted, edits on both branches and a subsequent merge.
+Higher order deletes are deleting edit operations from the change log. Higher order deletes are semantically equivalent to a branch on the version tree after the operation to be deleted, edits on one branch and an undo on the other branch, and a subsequent merge.
+In simple terms, a merge tool is merging all easy counterfactual edits and reporting the conflicting ones. 
+One typical problem with counterfactual edits is moving or nudging an object: If a higher order edit changes the original position of the edit, should then the counterfactual execution of the move ally the same translation, resulting in a different end position, or should it result in the same end position, thus using a different translation?
+In general, direct manipulation edits done by the user will be underspecified in this regard. Vector graphics drawing has therefore some challenges with regard to higher order edits. 
+If we want to support higher-order edits, it would therefore be advisable to motivate the user to provide as much information as possible, with regard to the intended meaning of his operations. In the following we will see that for this purpose, the actual coordinates that are determined by direct manipulation become more important. Currently the mouse is arguably an object manipulation tool. It will be helpful to re-expose the character of the mouse as an xy-input device, operating on coordinates rather than objects. 
+
+We will use commutativity of changes in the log in order to define a directed acyclic graph instead of a total order. this graph will roughly match the scene graph. Hence the data structures of the tool are semantically reduced to the modified change log.
+
+The editor offers an augmented WYSIWYG view as well as a structured view for the document under creation. 
+
+We will investigate, how we can use constraints in the process of defining the meaning of counterfactual execution. 
+
+This paper in principle describes the requirements for a vectorgraphics editor. 
+
+One aim is to achieve a semantically clearer structure than present in many other editors, in order to improve understanding and autonomy of the user in working with the tool. Also, a goal is a simplification of the software in order to achieve higher robustness.
+Tools like Powerpoint or OpenOffice Impress are referred to as conventional tools in the following.
+
+
+\section{Current Tools}
+Currently, for all serious work on diagrams, an object oriented graphics editor has to be chosen.
+Object oriented editors allow to operate on logical elements of the drawing and to move, copy and paste
+objects within a picture.
+
+The easiest graphics editors are not object oriented and represented by tools like MS Paint. 
+They render graphics command directly into bitmaps, and undo is only possible in the order of
+action for a limited amount of steps. They are not appropriate for diagrams.
+
+Direct manipulation vector graphics editors stared with Sutherlands Sketchpad. Vector graphics editors have dadapted the object oriented metaphor in order to explain manipulation of drawings. 
+A vector graphics 
+format in itself offers already a level of abstraction. A vector graphics data set (for
+example a single file) can be seen as a sequence of drawing commands. These drawing commands are 
+not command types, but actual commands to be executed when the picture is to be rendered. 
+Each drawing command is supplied with actual parameters. We assume that each drawing command
+has an identity, and each of its actual parameter slots has an identity as well. 
+The parameter slots can be seen as variables and are called actual parameter variables (APVs) in later discussions.
+Such a format is amenable to reverse engineering, and it allows logical editing.
+
+\section{A model of Basic Tool interaction}
+In this section we define the basic operations a user can perform on a vector graphics tool.
+\begin{itemize}
+	\item Copying of an object. Insertions of objects are reduced to this copy operation.
+	\item Deletion of objects
+\end{itemize}
+With all the following transfromation operations we want to highlight that they
+can be given different interpretations, that then influence the counterfactual interpretation:
+Translation, so that a certain coordinate aligns, versus translation by a fixed vector.
+
+
+\section{Conflict resolution}
+The following conflicts created by counterfactual execution can be resolved. We describe the higher order change and then the 
+following conflicting operation:
+\begin{itemize}
+	\item adding delete(x), then modify(x): The modification is deleted.
+	\item adding modify(x) then copy(x): No resolution necessary.
+\end{itemize}
+
+
+
+\section{An Initial Vector Graphics Tool}
+The concept of vector graphics in itself motivates the presence of two views in the tool: The WYSIWYG view and the logical view (or structured source view). 
+Things that should be shown in the logical view:
+
+\begin{itemize}
+	\item For the resulting drawing, the sequence of the drawing commands in a vector graphics data set is only of importance, 
+if several shapes occlude each other and the painters algorithm has to be applied. The painters order is the minimal partial order on the drawing commands that defines an order for all drawing commands that occlude each other. The painters order should be shown.
+
+	\item the change log, in a tabular fashion. For example can be ordered only in time, or lexicographically first for objects, then time.
+	\item One minimal order on changes is determined by the set of objects involved.  Two changes only have to be ordered, if they involve the same object.
+  \item 
+
+\end{itemize}
+
+We will discuss a set of more and more powerful tools. They offer the opportunity to edit the format or to provide annotations. The tools have a logical and a graphical component.
+
+
+First, edit single actual parameters. Graphically this can be done with the mouse.
+An edit on a single parameter is de-facto a replacement of the value.
+Then, form groupings of actual parameters. Groupings might be chosen by picking parameters individually, or by 
+graphical paradigms, like selecting with a box.
+Groupings can be specifically made consistent with the graphics commands, so that a grouping does
+exactly contain the parameters for a set of graphics commands. These together form a group.
+Groups can be cloned. 
+Groupings and groups can be stored, but in the sense that the grouping can repeatedly be invoked:
+The groupings and groups do not have exclusive ownership of the objects, but annotate them. 
+Both concepts are not primarily recursive. They are flat sets.
+
+Inserting graphical objects like rectangles and ellipses is modeled the following way. For every
+graphical object there is a single example object on a certain point. New instances 
+are created by cloning this object and then moving it. The original dimensions of the template 
+objects will be typically of unit values, so that the transformation is a substitution of the 
+parameters. 
+
+The graphical toolbar is therefore semantically fully integrated.
+Groupings and groups can be stored, but in the sense that the grouping can be repeatedly be invoked.
+Chosen groups can be linearly transformed.
+
+\subsection{Storing a Log}
+
+The edits in the initial tool, particularly the group edits, can be stored in a change log. 
+The aim is that we can change an earlier state, and then replay the log.
+But for this purpose, the edits must be stored as logical operations. The problem becomes clear
+with single parameter edits. In the log, we must distinguish substitutions from adding of an offset,
+for instance.
+ The linear transforms are stored as 
+assignments, that is equations between different temporal instantiations of the variables. Edits on groupings are in principle just groups of edits; they might be stored compressed, but in principle they are a set of primitive edits.
+
+beside the authentic log we might want to have the option to store or create a simplified log, where for example consecutive movements are simplified to a single movement.
+
+\subsection{Format with Equations}
+A refinement of the format stores graphics commands separate from the definition of the APVs.
+A set of equations defines all APVs. If all such equations are simply providing constants, then it is equivalent to the old format. 
+The set of equations can introduce new non-APV variables (NAPVs). Such a file is \textit{drawable}, if all APVs are uniquely defined. It is \textit{reusable} if there are n free NAPVs and all APVs are defined if the NAPVs are given.  
+The equations are often assignments, since this ensures that they are solvable, even if the system is nonlinear.
+
+\subsection{Format with reusable Groups}
+Reusable files will be called reusable groups in the following, and their reuse happens by providing actual parameters
+for their free NAPVs. Hence a reusable Group defines a new command.
+Reusable groups must offer default values for the free NAPVs.  
+Affine groups are reusable groups that have a frame of reference as part of the free NAPVs.
+
+Groups can be arranged in a dictionary and made available for other documents. Every group has its own frame of reference, and this frame of reference can be adjusted in every instantiation. 
+A problem with a frame of reference is that the preferred representation is a bounding box. The semantics of the tool should be such, that all corners of the bounding box are acting identically, so that none acts as the origin. The most natural origin for the reference system is the center of the bounding box.
+
+The group structure can be represented in a scene graph, with the groups as nodes.
+
+\subsection{Unified Format}
+In this section we bring the two development directions, formats with functional decomposition, and formats with changelogs, together.
+The format with affine groups can be seen as a format with a simplified log.
+
+\section{Features}
+
+\subsection{Augmented WYSIWYG}
+We use the term augmented WYSIWYG for an editing view that does not only contain the final view of the document, but also information important for editing, such as highlighting and the  of objects. this term helps us to remember that there is a danger that the correspondence between edit view and presentation view might often be worse than  the user expects.
+The following feature belong to augmented WYSIWYG: 
+Highlighting of objects and visualization of groups. Visualization of invisible (completely transparent) objects and visualization of hidden objects or parts of objects.
+
+\subsection{graphical primitives as Groups}
+
+
+Typical graphical objects with complex behavior are consistently defined as groups of objects. Groups are first class citizens can can be reused in the same way as conventionally inbuilt types like Ellipses.
+For example, what would be a rectangle in conventional tool, could be defined as a group consisting of a polygon for the outline, a textbox for the text, and a borderless rectangular fill area for the colour. Furthermore, the snap points on the boundary are individual objects.  Such objects like snap points can be considered as optional elements, that means they are only present, if they are used.
+
+\subsection{Linear Constraints}
+Linear constraints can be entered.
+For instance, objects of groups can have a fixed aspect ratio. 
+One such constraint is an alignment line or an alignment point. 
+For objects participating in the alignment line, it has to be specified, how they react to movements of the line. For example rectangle might either move or change their shape. If an object is directly manipulated, and this manipulation changes the alignment line, then this of course overrides the change specification for this object. 
+
+\subsection{Alignment Tabs}
+An alignment tab is a separate object. Other objects can participate in this alignment tab. They must specify, how the alignment should be achieved, that is, by which linear operation. Probably it means, that they must specify one degree of freedom, that will be adjusted.
+If the object itself is manipulated, then this specification for this particular object will not be used, but the specification for the other objects.
+
+\subsection{Further Requirements}
+
+\subsubsection{Replaceable Shapes}
+Shapes like squares and circles are the same type, and the particular appearance can be changed for the same entity.
+
+\subsubsection{Extendible Connectors}
+in conventional tools, connectors have a predefined number of adjustment points. In the new tool, the number of adjustment points can be extended. 
+
+
+
+
+\bibliographystyle{abbrv}
+\bibliography{../../RELATEDWORK/bibliography}
+
+\end{document}

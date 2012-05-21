@@ -1,0 +1,14 @@
+This is the PDStore main TODO  file.
+It is organized as a CSV file, but should be kept fairly readable and editable as an ASCII file as well.
+
+datesolved, whosays, whodoes,    dateadded,  kind,  codeUnit, description
+9999-12-31, gerald, unassigned,  2010-??-??, ISSUE, PDGen,    the generated getter methods still use the CACHE load, and should use the static load method of the classes.
+9999-12-31, gerald, unassigned,  2010-10-01, PLAN,  GenericPDCore, add and implement atomic addTransaction() in all 
+9999-12-31, gerald, gerald,      2010-10-02, BUG,   GenericIndexStore,  does not support abort.
+9999-12-31, gerald, unassigned,  2010-10-18, ISSUE, stresstest, Testcases are not independent, we circumvent the teardown/prepare logic
+9999-12-31, gerald, unassigned,  2010-10-18, PLAN,  stresstest, add asserts, dependent on computer speed (measure with microbenchmark)
+2010-??-??, gerald, gerald,      2010-10-20, BUG,   GenericIndexStore, Transaction ID's are not replaced at commit with durable transaction. solved, now transactionID is destrcutuively updated.
+2011-01-31, gerald, zhe,      	 2010-12-02, PLAN,   pdstore.histedit, operations follow standard look-and-feel
+9999-12-31, gerald, mark,        2011-05-31, PLAN,  pdstore.sparql,  create MatchIterator that encapsulates match function and gets IndexIterator as input
+2011-09-23, gerald, gerald, 2011-08-39, BUG, interceptor results are not added to indexstore.
+9999-12-31, gerald, unassigned,  2011-09-23, ISSUE,  pdstore.changeindex,  the index does not deal with transactions added by other processes. Should add them to index.

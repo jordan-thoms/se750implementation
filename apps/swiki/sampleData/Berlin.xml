@@ -1,0 +1,884 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.4/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.4/ http://www.mediawiki.org/xml/export-0.4.xsd" version="0.4" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.16wmf4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Berlin</title>
+    <id>3354</id>
+    <revision>
+      <id>369778900</id>
+      <timestamp>2010-06-23T18:29:47Z</timestamp>
+      <contributor>
+        <username>ClueBot</username>
+        <id>4928500</id>
+      </contributor>
+      <minor/>
+      <comment>Reverting possible vandalism by [[Special:Contributions/82.47.153.180|82.47.153.180]] to version by Jared Preston. False positive? [[User:ClueBot/FalsePositives|Report it]]. Thanks, [[User:ClueBot|ClueBot]]. (636790) (Bot)</comment>
+      <text xml:space="preserve">{{About|the capital of Germany}}
+{{Infobox German State
+| Name          = Berlin
+| German_name   =
+| image_photo   = Assemblage Berlin.jpg
+| state_coa     = Coat of arms of Berlin.svg
+| coa_size      = 70
+| map           = Berlin in Germany and EU.png
+| map_size      = 270
+| map_text      = Location within [[European Union]] and [[Germany]]
+| flag          = Flag_of_Berlin.svg
+| area          = 891.82
+| area_source   =
+| population    = 3439100
+| pop_ref       =&lt;ref name=&quot;Population&quot;&gt;{{cite web|url=http://www.statistik-berlin-brandenburg.de/pms/2010/10-03-24a.pdf|title=Pressemitteilung vom 24.3.2010 – Nr. 85|work=[[Amt für Statistik Berlin-Brandenburg]]|date=24 March 2010|accessdate=24 March 2010|language=German}}&lt;/ref&gt;
+| pop_date      = 2009-09-30
+| pop_metro     = 5000000
+| elevation     = 34 - 115
+| GDP           = 90.1&lt;ref&gt;http://www.berlin.de/imperia/md/content/sen-wirtschaft/konjunkturdaten/a_03.pdf?start&amp;ts=1272613011&amp;file=a_03.pdf&lt;/ref&gt;
+| GDP_year      = 2009
+| Website       = [http://www.berlin.de/international/index.en.php berlin.de] / [http://www.3d-stadtmodell-berlin.de/3d/en/seite0.jsp 3D Berlin]
+| leader_title  = [[List of mayors of Berlin|Governing Mayor]]
+| leader = Klaus Wowereit
+| leader_party  = SPD
+| ruling_party1 = SPD
+| ruling_party2 = [[Die Linke]]
+| votes         = 4
+| divisions     = 12 [[Boroughs of Berlin|boroughs]]
+| NUTS          = DE3
+| State         = Berlin
+| Vorwahl       = 030
+| Kfz=B |iso region=DE-BE |PLZ=10001–14199
+| coordinates_display      = display=inline, title
+| latd=52 |latm=30 |lats=2 |longd=13 |longm=23 |longs=56 |
+}}
+
+'''Berlin''' ({{IPA-en|bɜrˈlɪn}}; {{IPA-de|bɛɐ̯ˈliːn|-|de-Berlin.ogg}}) is the [[Capital of Germany|capital]] city and one of 16 [[States of Germany|states]] of [[Germany]]. With a population of 3.4 million people,&lt;ref name=&quot;Population&quot; /&gt; Berlin is Germany's largest city. It is the second [[Largest cities of the European Union by population within city limits|most populous city proper]] and the eighth [[Largest urban areas of the European Union|most populous urban area]] in the [[European Union]].&lt;ref&gt;{{cite web|url=http://www.insee.fr/fr/themes/tableau.asp?ref_id=cmptef01103&amp;id=18|title=Population des villes et unités urbaines de plus de 1 million d'habitants de l'Union européenne|author=[[INSEE]]|accessdate=17 August 2008|language=French}}&lt;/ref&gt; Located in northeastern Germany, it is the center of the Berlin-[[Brandenburg]] [[Metropolitan Area]], comprising 5 million people from over 190 nations.&lt;ref name=LUZ&gt;{{cite web|url=http://www.urbanaudit.org/CityProfiles.aspx|title=City Profiles Berlin|work=Urban Audit|accessdate=20 August 2008}}&lt;/ref&gt; Geographically embedded in the [[European Plain]]s, Berlin is influenced by a [[temperate]] seasonal climate. Around one third of the city's territory is composed of forests, parks, gardens, rivers and lakes.&lt;ref&gt;{{cite book|url=http://books.google.de/books?id=94LP4xCb-KcC&amp;pg=PA23&amp;lpg=PA23&amp;dq=%22Berlin+%22+rivers+lakes+foreests+%22one+third%22&amp;source=bl&amp;ots=OoT9TA0ZWR&amp;sig=ZN0MSyam43OC5321qPitypjubUg&amp;hl=en&amp;ei=VWTPStrdKabEmwPdx9yEAw&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1#v=onepage&amp;q=&amp;f=false|title=Gren Berlin|work=[[Lonely Planet]]|accessdate=9 October 2009}}&lt;/ref&gt;
+
+First documented in the 13th century, Berlin was successively the capital of the [[Kingdom of Prussia]] (1701–1918), the [[German Empire]] (1871–1918), the [[Weimar Republic]] (1919–1933) and the [[Third Reich]] (1933–1945).&lt;ref&gt;{{cite web|url=http://www.fordham.edu/halsall/mod/germanunification.html|title=Documents of German Unification, 1848–1871|work=Modern History Sourcebook|accessdate=18 August 2008}}&lt;/ref&gt; During the [[1920s Berlin|1920s]], Berlin was the third largest municipality in the world.&lt;ref&gt;{{cite web|url=http://www.h-net.org/reviews/showrev.php?id=23505|title=Topographies of Class: Modern Architecture and Mass Society in Weimar Berlin (Social History, Popular Culture, and Politics in Germany).|work=/www.h-net.org|accessdate=9 October 2009}}&lt;/ref&gt; After [[World War II]], the city was divided; [[East Berlin]] became the capital of [[East Germany]] while [[West Berlin]] became a de facto [[West German]] [[exclave]], surrounded by the [[Berlin Wall]] (1961–1989).&lt;ref&gt;{{cite web|url=http://www.britannica.com/EBchecked/topic/62202/Berlin-Wall|title=Berlin Wall|work=[[Encyclopædia Britannica]]|accessdate=18 August 2008}}&lt;/ref&gt; Following [[German reunification]] in 1990, the city regained its status as the capital of all Germany hosting 147 foreign embassies.&lt;ref&gt;{{cite web|url=http://www.germany.info/relaunch/info/archives/background/berlin.html|title=Berlin{{ndash}} Capital of Germany|work=German Embassy in Washington|accessdate=18 August 2008}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.magazine-deutschland.de/en/artikel-en/article/article/das-diplomatische-berlin.html|title=Diplomatic Berlin|work=Deutschland Online|accessdate=7 March 2009}}&lt;/ref&gt;
+
+Berlin is a [[world city]] of culture, politics, media, and science.&lt;ref&gt;{{cite news|url=http://edition.cnn.com/2010/BUSINESS/04/10/cities.dominate.world/?hpt=C2|title=Revealed: Cities that rule the world -- and those on the rise|first=Catriona|last=Davies|work=[[CNN]]|date=10 April 2010|accessdate=11 April 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.nytimes.com/2008/06/22/travel/22iht-22berlin.13882912.html?_r=1|title=Berlin, the big canvas|first=Sam|last=Sifton|work=[[The New York Times]]|accessdate=18 August 2008}} See also: {{cite web|url=http://www.lboro.ac.uk/gawc/rb/rb146.html#t5|title=Sites and situations of leading cities in cultural globalisations/Media|work=GaWC Research Bulletin 146|accessdate=18 August 2008}}&lt;/ref&gt;&lt;ref name=innovation/&gt;&lt;ref&gt;
+{{cite journal|title=&quot;Global Power City Index 2009&quot;|work=Institute for Urban Strategies at The Mori Memorial Foundation|location=Tokyo, Japan|date=22 October 2009|url=http://www.mori-m-foundation.or.jp/english/research/project/6/pdf/GPCI2009_English.pdf|accessdate=29 October 2009}}&lt;/ref&gt; Its economy is primarily based on the service sector, encompassing a diverse range of [[creative industries]], media corporations, congress and convention venues. Berlin serves as a continental hub for air and rail transport,&lt;ref name=congress&gt;{{cite web|url=http://www.iccaworld.com/npps/story.cfm?ID=1577|title=ICCA publishes top 20 country and city rankings 2007|work=ICCA|accessdate=18 August 2008}}&lt;/ref&gt;&lt;ref name=Cityofdesign&gt;{{cite web|url=http://portal.unesco.org/culture/en/ev.php-URL_ID=29376&amp;URL_DO=DO_TOPIC&amp;URL_SECTION=201.html|title=Berlin City of Design Press Release|work=[[UNESCO]]|accessdate=18 August 2008}}&lt;/ref&gt; and is one of the most visited tourist destinations in the EU.&lt;ref name=third/&gt; Significant industries include IT, pharmaceuticals, biomedical engineering, biotechnology, optoelectronics, traffic engineering, and renewable energy.
+
+The [[metropolis]] is home to renowned universities, research institutes, sporting events, orchestras, museums and personalities.&lt;ref name=UNESCO&gt;{{cite web|url=http://whc.unesco.org/en/list/896|title=World Heritage Site Museumsinsel|work=[[UNESCO]]|accessdate=18 August 2008}}&lt;/ref&gt; The urban and historical legacy has made it a popular setting for international film productions.&lt;ref&gt;{{cite web|url=http://www.dw-world.de/dw/article/0,2144,3549403,00.html|title=Hollywood Helps Revive Berlin's Former Movie Glory|work=[[Deutsche Welle]]|date=9 August 2008|accessdate=18 August 2008}}&lt;/ref&gt; The city is recognized for its festivals, diverse architecture, nightlife, contemporary arts, public transportation networks and a [[World's Most Livable Cities|high quality of living]].&lt;ref&gt;{{cite news|url=http://travel2.nytimes.com/2004/12/12/travel/12surf.html?ex=1150862400&amp;en=f2c1cc6c507fea18&amp;ei=5070|title=The Club Scene, on the Edge|work=[[The New York Times]]|accessdate=18 August 2008|first=Sunshine|last=Flint|date=12 December 2004}} See also: {{cite web|url=http://www.citymayors.com/features/quality_survey.html|title=Ranking of best cities in the world|work=City mayors|accessdate=18 August 2008}} and {{cite web|url=http://www.denmark.dk/NR/rdonlyres/60B9101D-B656-438E-A755-E441D41E0AA7/0/top_20_cities.pdf|format=PDF|title=The Monocle Quality Of Life Survey|work=www.denmark.dk|accessdate=18 August 2008}}&lt;/ref&gt;
+Berlin has evolved into a global focal point for young individuals and artists attracted by a liberal lifestyle and modern [[zeitgeist]].&lt;ref&gt;{{cite news|url=http://travel2.nytimes.com/2005/03/13/travel/13berlin.html?ex=1150862400&amp;en=aa7cfc51a1aa6cbc&amp;ei=5070|title=For Young Artists, All Roads Now Lead to a Happening Berlin|work=[[The New York Times]]|accessdate=18 August 2008|first=Richard B.|last=Woodward|date=13 May 2005}} See also: {{cite web|url=http://www.newsweek.com/id/45590|title=Poor But Sexy|work=[[Newsweek]]|accessdate=18 August 2008}}&lt;/ref&gt;
+
+==History==
+{{Main|History of Berlin}}
+
+The name ''Berlin'' is of unknown origin, but may be related to the Old [[Polabian language|Polabian]] stem ''berl-''/''birl-'' &quot;swamp&quot;.&lt;ref&gt;{{citebook|last=Berger|first=Dieter|title=Geographische Namen in Deutschland|publisher=Bibliographisches Institut|year=1999|isbn=3411062525}}&lt;/ref&gt;
+
+[[File:ZLB-Berliner Ansichten-Januar.jpg|thumb|left|Map of Berlin in 1688]]
+
+The earliest evidence of settlements in today's Berlin central areas is a wooden beam dated from approximately 1192.&lt;ref name = &quot;zycwaq&quot;&gt;{{citenews|work=Associated Press|title=Berlin dig finds city older than thought|accessdate=18 August 2008}}&lt;/ref&gt; The first written mention of towns in the area of present-day Berlin dates from the late 12th century. The settlement of [[Spandau]] is first mentioned in 1197, and [[Köpenick]] in 1209, though these areas did not join Berlin until 1920.&lt;ref&gt;{{cite web|url=http://www.berlin.de/tourismus/sehenswuerdigkeiten.en/00175.html|title=Spandau Citadel|work=Berlin tourist board|accessdate=18 August 2008}}&lt;/ref&gt; The central part of Berlin can be traced back to two towns. [[Cölln]] on the [[Fischerinsel]] is first mentioned in a 1237 document, and Berlin, across the [[Spree]] in what is now called the [[Nikolaiviertel]], is referenced in a document from 1244.&lt;ref name = &quot;zycwaq&quot;/&gt; The former is considered to be the &quot;founding date&quot;. From the beginning, the two cities formed an economic and social unit. In 1307, the two cities were united politically. Over time, the twin cities came to be known simply as Berlin.
+
+In 1435, [[Frederick I, Margrave of Brandenburg|Frederick I]] became the [[prince-elector|elector]] of the [[Margraviate of Brandenburg]], which he ruled until 1440.&lt;ref&gt;{{cite web|url=http://www.west.net/~antipas/protected_files/news/europe/hohenzollerns.html|title=The Hohenzollern Dynasty|work=Antipas|accessdate=18 August 2008}}&lt;/ref&gt; His successor, [[Frederick II, Elector of Brandenburg|Frederick II Irontooth]], established Berlin as capital of the margraviate, and subsequent members of the [[Hohenzollern]] family ruled until 1918 in Berlin, first as electors of Brandenburg, then as kings of Prussia, and finally as [[German emperor]]s. In 1448 citizens rebelled in the &quot;Berlin Indignation&quot; against the construction of a new royal palace by Frederick II Irontooth. This protest was not successful, however, and the citizenry lost many of its political and economic privileges. In 1451 Berlin became the royal residence of the Brandenburg electors, and Berlin had to give up its status as a free [[Hanseatic League|Hanseatic]] city. In 1539, the electors and the city officially became [[Lutheran]].&lt;ref&gt;{{cite web|url=http://www.smp-protein.de/SMPConference/berlin.htm|archiveurl=http://web.archive.org/web/20060818100934/http://www.smp-protein.de/SMPConference/berlin.htm|archivedate=18 August 2006|title=Berlin Cathedral|work=SMPProtein|accessdate=18 August 2008}}&lt;/ref&gt;
+
+===17th to 19th centuries===
+[[File:Friedrich Zweite Alt.jpg|thumb|upright|[[Frederick the Great]] (1712–1786) was one of Europe's [[enlightened monarch]]s.]]
+
+The [[Thirty Years' War]] between 1618 and 1648 had devastating consequences for Berlin. A third of the houses were damaged and the city lost half of its population.&lt;ref&gt;{{cite web|url=http://www.zum.de/whkmla/region/germany/bra30.html|title=Brandenburg during the 30 Years War|work=WHKMLA|accessdate=18 August 2008}}&lt;/ref&gt; [[Frederick William, Elector of Brandenburg|Frederick William]], known as the &quot;Great Elector&quot;, who had succeeded his father [[George William of Brandenburg|George William]] as ruler in 1640, initiated a policy of promoting immigration and religious tolerance. With the [[Edict of Potsdam]] in 1685, Frederick William offered asylum to the French [[Huguenot]]s. More than 15,000 Huguenots went to Brandenburg, of whom 6,000 settled in Berlin. By 1700, approximately 20 percent of Berlin's residents were French, and their cultural influence on the city was immense. Many other immigrants came from [[Bohemia]], [[Polish-Lithuanian Commonwealth|Poland]], and [[Archbishopric of Salzburg|Salzburg]].
+
+[[File:Berlin Unter den Linden Victoria Hotel um 1900.jpg|thumb|left|Berlin became the capital of the German Empire in 1871 and expanded rapidly in the following years. (Unter den Linden in 1900)]]
+
+With the coronation of [[Frederick I of Prussia|Frederick I]] in 1701 as king (in [[Königsberg]]), Berlin became the new capital of the Kingdom of Prussia (instead of [[Königsberg]]); this was a successful attempt to centralize the capital in the very outspread Prussian Kingdom, and it was the first time the city began to grow. In 1740 Frederick II, known as [[Frederick the Great]] (1740–1786), came to power. Berlin became, under the rule of the philosophically oriented Frederick II, a center of [[the Enlightenment]]. Following [[First French Empire|France's]] victory in the [[War of the Fourth Coalition]], [[Napoleon Bonaparte]] marched into Berlin in 1806, but granted self-government to the city. In 1815 the city became part of the new [[Province of Brandenburg]].
+
+The [[Industrial Revolution]] transformed Berlin during the 19th century; the city's economy and population expanded dramatically, and it became the main rail hub and economic center of Germany. Additional suburbs soon developed and increased the area and population of Berlin. In 1861, outlying suburbs including [[Wedding (Berlin)|Wedding]], [[Moabit]], and several others were incorporated into Berlin. In 1871, Berlin became capital of the newly founded German Empire. On 1 April 1881 it became a city district separate from Brandenburg.
+
+===20th century===
+[[File:Potsdamer Platz 1945.jpg|thumb|Berlin in ruins after [[World War II]] (Potsdamer Platz, 1945).]]
+
+At the end of [[World War I]] in 1918, the Weimar Republic was proclaimed in Berlin. In 1920, the [[Greater Berlin Act]] incorporated dozens of suburban cities, villages, and estates around Berlin into an expanded city. This new area encompassed Spandau and Charlottenberg in the west, as well as several other areas that are now major municipalities. After this expansion, Berlin had a population of around four million. During the Weimar era, Berlin became internationally renowned as a center of cultural transformation, at the heart of the [[Roaring Twenties]].
+
+On 30 January 1933 ([[Machtergreifung]]), [[Adolf Hitler]] and the [[Nazi Party]] came to power. Nazi rule destroyed Berlin's Jewish community, which had numbered 170,000 before 1933. After the [[Kristallnacht]] pogrom in 1938, thousands of the city's German Jews were imprisoned in the nearby [[Sachsenhausen concentration camp]] or, in early 1943, were shipped to [[death camp]]s, such as [[Auschwitz]]. During the Second World War, large parts of Berlin were destroyed in [[Battle of Berlin (air)|the 1943–45 air raids]] and during the [[Battle of Berlin]]. Among the hundreds of thousands who died during the Battle for Berlin, an estimated 125,000 were civilians.&lt;ref&gt;{{citation|last=Clodfelter|first=Michael|title=Warfare and Armed Conflicts- A Statistical Reference to Casualty and Other Figures, 1500-2000|edition=2nd|publisher=McFarland &amp; Company|year=2002|isbn=0786412046}}&lt;/ref&gt; After the [[end of World War II in Europe|end of the war in Europe]] in 1945, Berlin received large numbers of refugees from the Eastern provinces. The victorious powers divided the city into four sectors, analogous to the [[Allied Occupation Zones in Germany|occupation zones]] into which Germany was divided. The sectors of the Western Allies (the [[United States]], the [[United Kingdom]] and France) formed [[West Berlin]], while the [[Soviet Union|Soviet sector]] formed [[East Berlin]].&lt;ref&gt;{{cite web|url=http://www.fdrlibrary.marist.edu/psf/box31/t297c01.html|title=Agreement to divide Berlin|work=FDR-Library|accessdate=18 August 2008}}&lt;/ref&gt;
+
+[[File:Berlinermauer.jpg|thumb|left|The [[Berlin Wall]] in 1986, painted on the western side. People crossing the so-called &quot;death strip&quot; on the eastern side were at risk of being shot.]]
+
+All four allies retained shared responsibility for Berlin. However, in 1948, when the Western allies extended the currency reform in the Western zones of Germany to the three western sectors of Berlin, the [[USSR|Soviet Union]] imposed a [[Berlin Blockade|blockade]] on the access routes to and from West Berlin, which lay entirely inside Soviet controlled territory. The allies successfully overcame the blockade by the [[Berlin airlift]], which flew in food and other supplies to the city from 24 June 1948 to 11 May 1949.&lt;ref&gt;{{cite web|url=http://www.western-allies-berlin.com/historic-events/detail/airlift-blockade|title=Berlin Airlift / Blockade|work=Western Allies Berlin|accessdate=18 August 2008}}&lt;/ref&gt; In 1949, the Federal Republic of Germany was founded in West Germany, and eventually included all of the American, British, and French zones, excluding those three countries' zones in Berlin, while the [[Marxist-Leninist]] German Democratic Republic was proclaimed in East Germany. West Berlin officially remained an occupied city, but for all practical purposes, it was assimilated to the Federal Republic of Germany without actually being a part of it. West Berlin issued its own postage stamps which were often the same as West German postage stamps but with the additional word 'Berlin' added. Airline service to West Berlin was granted only to American, British, and French airlines.
+
+[[File:Thefalloftheberlinwall1989.JPG|thumb|The fall of the Berlin Wall in 1989.]]
+
+The founding of the two German states increased [[Cold War]] tensions. West Berlin was surrounded by East German territory. East Germany, however, proclaimed East Berlin (which it described only as &quot;Berlin&quot;) as its capital, a move that was not recognized by the Western powers. Although half the size and population of West Berlin, it included most of the historic center of the city. The West German government, meanwhile, established itself provisionally in [[Bonn]].&lt;ref&gt;{{cite web|url=http://www.berlin.de/berlin-im-ueberblick/geschichte/1945.en.html|title=Berlin official website; History after 1945|work=City of Berlin|accessdate=8 April 2009}}&lt;/ref&gt;
+
+The tensions between east and west culminated in the construction of the [[Berlin Wall]] between East and West Berlin and other barriers around West Berlin by East Germany on 13 August 1961 and were exacerbated by a tank standoff at [[Checkpoint Charlie]] on 27 October 1961. West Berlin was now [[de facto]] a part of West Germany with a unique legal status, while East Berlin was de facto a part of East Germany.
+
+[[File:Berlin skyline 2009w.jpg|thumb|left|300px|Berlin Mitte in the 21st century.]]
+
+Berlin was completely separated. It was possible for Westerners to pass from one to the other only through strictly controlled checkpoints. For most Easterners, travel to West Berlin or West Germany was no longer possible. In 1971, a [[Four Power Agreement on Berlin|Four-Power agreement]] guaranteed access across East Germany to West Berlin and ended the potential for harassment or closure of the routes.&lt;ref&gt;{{cite web|url=http://usa.usembassy.de/etexts/ga5-710903.htm|title=Ostpolitik: The Quadripartite Agreement of September 3, 1971|work=US Berlin Embassy|accessdate=18 August 2008}}&lt;/ref&gt;
+
+In 1989, pressure from the East German population broke free across the Berlin Wall on 9 November 1989, which was subsequently mostly demolished. Not much is left of it today; the [[East Side Gallery]] in [[Friedrichshain]] near the ''Oberbaumbrücke'' over the Spree preserves a portion of the Wall. Democracy and market economy changed East Germany and East Berlin.
+
+On 3 October 1990 the two parts of Germany were [[German reunification|reunified]] as the Federal Republic of Germany, and Berlin became the German capital according to the unification treaty. In June 1991 the German Parliament, the [[Bundestag]], voted to move the (West) German capital back from Bonn to Berlin. In 1999, the German parliament and government began their work in Berlin.
+
+==Geography==
+[[File:Berlin.svg|thumb|Natural and built environment.]]
+
+Berlin is located in eastern Germany, about {{convert|70|km|sp=us}} west of the border with Poland in an area with marshy terrain. The Berlin–Warsaw ''Urstromtal'' (ice age melt water flow), between the low Barnim plateau to the north and the Teltow plateau to the south, was formed by water flowing from melting ice sheets at the end of the last ice age. The [[Spree]] follows this valley now. In [[Spandau]], Berlin's westernmost borough, the Spree meets the river [[Havel]], which flows from north to south through western Berlin. The course of the Havel is more like a chain of lakes, the largest being the Tegeler See and [[Großer Wannsee]]. A series of lakes also feeds into the upper Spree, which flows through the [[Müggelsee|Großer Müggelsee]] in eastern Berlin.&lt;ref&gt;{{cite web|url=http://maps.google.com/maps?ll=52.5333,13.38000&amp;spn=0.060339,0.085316&amp;t=k&amp;hl=en|title=Satellite Image Berlin|work=[[Google Maps]]|accessdate=18 August 2008}}&lt;/ref&gt;
+
+[[File:Über den Dächern von Berlin.jpg|thumb|left|View over central Berlin.]]
+
+Substantial parts of present-day Berlin extend onto the low plateaus on both sides of the Spree Valley. Large parts of the boroughs [[Reinickendorf]] and [[Pankow]] lie on the Barnim plateau, while most of the boroughs [[Charlottenburg-Wilmersdorf]], [[Steglitz-Zehlendorf]], [[Tempelhof-Schöneberg]], and [[Neukölln]] lie on the Teltow plateau. The borough of Spandau lies partly within the Berlin ''Urstromtal'' and partly on the Nauen Plain, which stretches to the west of Berlin. The highest elevations in Berlin are the [[Teufelsberg]] and the [[Müggelberge]]. Both hills have an elevation of about {{convert|115|m|ft|abbr=off}}. The Teufelsberg is in fact an artificial pile of rubble from the ruins of World War II.
+
+===Climate===
+[[File:Potsdam view from above.jpg|thumb|The outskirts of Berlin are covered with woodlands and numerous lakes]]
+Berlin has an [[Oceanic climate]] (Cfb) according to the [[Köppen climate classification]] system. The city features a [[temperate climate]].
+
+Summers are warm with average high temperatures of {{convert|22|-|25|C|F}} and lows of {{convert|12|-|14|C|F}}. Winters are cold with average high temperatures of {{convert|4|C|F}} and lows of {{convert|-2|to|0|C|F}}. Spring and autumn are generally chilly to mild. Berlin's built-up area creates a microclimate, with heat stored by the city's buildings. Temperatures can be {{convert|4|C-change|sigfig=1}} higher in the city than in the surrounding areas.&lt;ref&gt;www.weather.com&lt;/ref&gt;
+
+Annual precipitation is {{convert|570|mm|in|sp=us}} with moderate rainfall throughout the year. Light snowfall mainly occurs from December through March, but snow cover does not usually remain for long. The recent winter of 2009/2010 was an exception as there was a permanent snow cover from late December till early March.&lt;ref name=worldweather&gt;{{cite web|url=http://www.worldweather.org/016/c00059.htm|title=Climate figures|work=World Weather Information Service|accessdate=18 August 2008}}&lt;/ref&gt;
+{{-}}
+{{Infobox Weather
+|metric_first = yes
+|single_line = yes
+|location = Berlin
+|Jan_Hi_°C = 2.9
+|Feb_Hi_°C = 4.2
+|Mar_Hi_°C = 8.5
+|Apr_Hi_°C = 13.2
+|May_Hi_°C = 18.9
+|Jun_Hi_°C = 21.6
+|Jul_Hi_°C = 23.7
+|Aug_Hi_°C = 23.6
+|Sep_Hi_°C = 18.8
+|Oct_Hi_°C = 13.4
+|Nov_Hi_°C = 7.1
+|Dec_Hi_°C = 4.4
+|Year_Hi_°C = 13.4
+|Jan_Lo_°C = −1.9
+|Feb_Lo_°C = −1.5
+|Mar_Lo_°C = 1.3
+|Apr_Lo_°C = 4.2
+|May_Lo_°C = 9.0
+|Jun_Lo_°C = 12.3
+|Jul_Lo_°C = 14.3
+|Aug_Lo_°C = 14.1
+|Sep_Lo_°C = 10.6
+|Oct_Lo_°C = 6.4
+|Nov_Lo_°C = 2.2
+|Dec_Lo_°C = −0.4
+|Year_Lo_°C = 5.9
+|Jan_MEAN_°C = 0.5
+|Feb_MEAN_°C = 1.4
+|Mar_MEAN_°C = 4.9
+|Apr_MEAN_°C = 8.7
+|May_MEAN_°C = 14.0
+|Jun_MEAN_°C = 17.0
+|Jul_MEAN_°C = 19.0
+|Aug_MEAN_°C = 18.9
+|Sep_MEAN_°C = 14.7
+|Oct_MEAN_°C = 9.9
+|Nov_MEAN_°C = 4.7
+|Dec_MEAN_°C = 2.0
+|Year_MEAN_°C = 9.6
+| Jan_Rain_mm =42
+| Feb_Rain_mm =33
+| Mar_Rain_mm =41
+| Apr_Rain_mm =37
+| May_Rain_mm =54
+| Jun_Rain_mm =69
+| Jul_Rain_mm =56
+| Aug_Rain_mm =58
+| Sep_Rain_mm =45
+| Oct_Rain_mm =37
+| Nov_Rain_mm =44
+| Dec_Rain_mm =55
+| Year_Rain_mm =571
+|Jan_Sun= 46.5
+|Feb_Sun= 73.5
+|Mar_Sun= 120.9
+|Apr_Sun= 159.0
+|May_Sun= 220.1
+|Jun_Sun= 222.0
+|Jul_Sun= 217.0
+|Aug_Sun= 210.8
+|Sep_Sun= 156.0
+|Oct_Sun= 111.6
+|Nov_Sun= 51.0
+|Dec_Sun= 37.2
+|Year_Sun= 1625.6
+|Jan_Rain_days = 10.0
+|Feb_Rain_days = 8.0
+|Mar_Rain_days = 9.1
+|Apr_Rain_days = 7.8
+|May_Rain_days = 8.9
+|Jun_Rain_days = 9.8
+|Jul_Rain_days = 8.4
+|Aug_Rain_days = 7.9
+|Sep_Rain_days = 7.8
+|Oct_Rain_days = 7.6
+|Nov_Rain_days = 9.6
+|Dec_Rain_days = 11.4
+|source = [[World Meteorological Organization]] ([[United Nations|UN]])&lt;ref&gt;{{cite web|url=http://www.worldweather.org/016/c00059.htm|title=Weather Information for Berlin|accessdate=}}&lt;/ref&gt;
+| source2 = HKO &lt;ref name= HKO &gt;{{cite web|url=http://www.hko.gov.hk/wxinfo/climat/world/eng/europe/ger_pl/berlin_e.htm|title=Climatological Normals of Berlin|accessdate=20 May 2010|work=[[Hong Kong Observatory]]}}&lt;/ref&gt;
+| accessdate2=20 May 2010}}
+
+==Cityscape==
+[[File:Berlin night.jpg|thumb|right|Berlin along the Spree river and the [[Fernsehturm Berlin|Fernsehturm]] by night.]]
+
+The city's appearance today is predominantly shaped by the key role it played in Germany's history in the twentieth century. Each of the national governments based in Berlin&amp;#8203;—&amp;#8203;the 1871 German Empire, the Weimar Republic, Nazi Germany, East Germany, and now the reunified Germany&amp;#8203;—&amp;#8203;initiated ambitious construction programs, each with its own distinctive character. Berlin was devastated by bombing raids during World War II and many of the old buildings that escaped the bombs were eradicated in the 1950s and 1960s in both West and East. Much of this destruction was initiated by municipal architecture programs to build new residential or business quarters and main roads.
+
+In the eastern part, many ''[[Plattenbau]]ten'' can be found, reminders of [[Eastern Bloc]] ambitions to create complete residential areas with fixed ratios of shops, kindergartens and schools. Berlin's unique recent history has left the city with a highly eclectic array of architecture and buildings.
+
+===Architecture===
+[[File:Berlin - Haus des Lehrers &amp; BCC.jpg|thumb|right|&quot;Haus des Lehrers&quot; and Congress Hall at Alexanderplatz.]]
+
+The [[Fernsehturm Berlin|Fernsehturm]] (TV tower) at [[Alexanderplatz]] in [[Mitte]] is the second-tallest structure in the European Union at {{m to ft|368|precision=0}}. Built in 1969, it is visible throughout most of the central districts of Berlin. The city can be viewed from its {{convert|204|m|ft|abbr=on}} high observation floor. Starting here the [[Karl-Marx-Allee]] heads east, an avenue lined by monumental residential buildings, designed in the Socialist Classicism Style of the [[Stalin]] era. Adjacent to this area is the [[Rotes Rathaus]] (City Hall), with its distinctive red-brick architecture. The previously built-up part in front of it is the [[Neptunbrunnen]], a fountain featuring a mythological scene.
+
+[[File:Brandenburger Tor 2005 006.JPG|thumb|left|The [[Brandenburg Gate]].]]
+The [[East Side Gallery]] is an open-air exhibition of art painted directly on the last existing portions of the Berlin Wall. It is the largest remaining evidence of the city's historical division. It has recently undergone a restoration.
+
+The [[Brandenburg Gate]] is an iconic landmark of Berlin and Germany. It also appears on German [[euro]] coins (10&amp;nbsp;cent, 20&amp;nbsp;cent, and 50&amp;nbsp;cent). The [[Reichstag (building)|Reichstag building]] is the traditional seat of the German Parliament, renovated in the 1950s after severe World War II damage. The building was again remodeled by British architect [[Norman Foster (architect)|Norman Foster]] in the 1990s and features a glass dome over the session area, which allows free public access to the parliamentary proceedings and magnificent views of the city.
+
+[[File:PotsdamerplatzBerlin.JPG|thumb|right|[[Potsdamer Platz]] at dusk.]]
+The [[Gendarmenmarkt]], a [[neoclassical architecture|neoclassical]] square in Berlin whose name dates back to the Napoleonic occupation of the city, is bordered by two similarly designed cathedrals, the [[Französischer Dom]] with its observation platform and the German Cathedral. The Konzerthaus (Concert Hall), home of the Berlin Symphony Orchestra, stands between the two cathedrals.
+
+The [[Berliner Dom]], a Protestant cathedral and the third church on this site, is located on the [[Museum Island|Spree Island]] across from the site of the [[Berliner Stadtschloss]] and adjacent to the [[Lustgarten]]. A large crypt houses the remains of some of the earlier Prussian royal family. Like many other buildings, it suffered extensive damage during the Second World War. The [[Cathedral of St. Hedwig]] is Berlin's [[Roman Catholic]] cathedral.
+
+[[File:ReichstagDomeInside.jpg|thumb|left|upright|Inside the glass dome of the Reichstag.]]
+
+[[Unter den Linden]] is a tree lined east-west avenue from the Brandenburg Gate to the site of the former Berliner Stadtschloss, and was once Berlin's premier promenade. Many Classical buildings line the street and part of [[Humboldt University]] is located there. [[Friedrichstraße]] was Berlin's legendary street during the [[Roaring Twenties]]. It combines twentieth century traditions with the modern architecture of today's Berlin.
+
+[[Potsdamer Platz]] is an entire quarter built from scratch after 1995 after the Wall came down.&lt;ref&gt;{{cite web|url=http://www.stadtentwicklung.berlin.de/bauen/baubilanz/en/potsdamer_platz.html|title=Construction and redevelopment since 1990|work=Senate Department of Urban Development|accessdate=18 August 2008}}&lt;/ref&gt; To the west of Potsdamer Platz is the Kulturforum, which houses the [[Gemäldegalerie (Berlin)|Gemäldegalerie]], and is flanked by the [[Neue Nationalgalerie]] and the [[Berliner Philharmonie]]. The [[Memorial to the Murdered Jews of Europe]], a [[Holocaust]] memorial, is situated to the north.&lt;ref&gt;{{cite news|url=http://travel2.nytimes.com/2005/05/09/arts/design/09holo.html?ex=1162962000&amp;en=272335914d8b80d6&amp;ei=5070|title=A Forest of Pillars, Recalling the Unimaginable|work=[[The New York Times]]|accessdate=18 August 2008|first=Nicolai|last=Ouroussoff|date=9 May 2005}}&lt;/ref&gt;
+
+The area around Hackescher Markt is home to the fashionable culture, with countless clothing outlets, clubs, bars, and galleries. This includes the Hackesche Höfe, a conglomeration of buildings around several courtyards, reconstructed around 1996. Oranienburger Straße and the nearby [[New Synagogue (Berlin)|New Synagogue]] were the center of Jewish culture before 1933, and they have regained that status today.
+
+[[File:Schloss Charlottenburg 2005 282.JPG|thumb|[[Schloss Charlottenburg]] is the largest existing palace in Berlin.]]
+
+The [[Straße des 17. Juni]], connecting the Brandenburg Gate and Ernst-Reuter-Platz, serves as central East-West-Axis. Its name commemorates the [[Uprising of 1953 in East Germany|uprisings in East Berlin of 17 June 1953]]. Approximately half-way from the Brandenburg Gate is the Großer Stern, a circular traffic island on which the [[Siegessäule]] (Victory Column) is situated. This monument, built to commemorate Prussia's victories, was relocated 1938–39 from its previous position in front of the Reichstag.
+
+The [[Kurfürstendamm]] is home to some of Berlin's luxurious stores with the [[Kaiser Wilhelm Memorial Church]] at its eastern end on [[Breitscheidplatz]]. The church was destroyed in the Second World War and left in ruins. Near by on Tauentzienstraße is [[KaDeWe]], claimed to be continental Europe's largest department store. The [[Rathaus Schöneberg]], where [[John F. Kennedy]] made his famous &quot;[[Ich bin ein Berliner]]!&quot; speech, is situated in [[Tempelhof-Schöneberg]].
+
+West of the center, [[Schloss Bellevue]] is the residence of the German President. [[Schloss Charlottenburg]], which was burnt out in the Second World War and largely destroyed, has been rebuilt and is the largest surviving historical palace in Berlin.
+
+The [[Funkturm Berlin]] is a {{convert|150|m|ft|abbr=on}} tall lattice radio tower at the fair area, built between 1924 and 1926. It is the only observation tower which stands on insulators, and has a restaurant {{m to ft|55|precision=0|abbr=on}} and an observation deck {{m to ft|126|precision=0|abbr=on}} above ground, which is reachable by a windowed elevator.
+
+==Government==
+[[File:Reichstag building Berlin view from west before sunset.jpg|thumb|270px|The [[Reichstag (building)|Reichstag building]] is the site of the German parliament.]]
+
+Berlin is the capital of the Federal Republic of Germany and is the seat of the [[President of Germany]], whose official residence is [[Schloss Bellevue]].&lt;ref&gt;[http://www.bundespraesident.de/en Bundespräsident Horst Köhler], www.bundespraesident.de. Retrieved 12 November 2006.&lt;/ref&gt; Since German reunification on 3 October 1990, it has been one of the three city states, together with [[Hamburg]] and [[Bremen (state)|Bremen]], among the present sixteen states of Germany. The [[Bundesrat of Germany|Bundesrat]] (&quot;federal council&quot;) is the representation of the Federal States (''Bundesländer'') of Germany and has its seat at the former Prussian [[Herrenhaus]] (House of Lords). Though most of the ministries are seated in Berlin, some of them, as well as some minor departments, are seated in Bonn, the former capital of West Germany. The [[European Union]] invests in several projects within the city of Berlin. Infrastructure, education and social programs are co-financed with budgets taken from EU cohesion funds.&lt;ref&gt;[http://www.erasmuspc.com/index.php?option=com_content&amp;task=view&amp;id=303&amp;Itemid=61 URBAN regeneration, a European Commission initiative], ErasmusPC. Retrieved 12 March 2007.&lt;/ref&gt;
+
+===City state===
+[[File:Wowereit2008.JPG|upright|thumb|Governing Mayor since 2001, [[Klaus Wowereit]]]]
+
+The city and state parliament is the [[Abgeordnetenhaus von Berlin|House of Representatives]] (''Abgeordnetenhaus''), which currently has 141 seats. Berlin's [[executive (government)|executive]] body is the Senate of Berlin (''Senat von Berlin''). The Senate of Berlin consists of the [[List of mayors of Berlin|Governing Mayor]] (''Regierender Bürgermeister'') and up to eight senators holding ministerial positions, one of them holding the official title &quot;Mayor&quot; (''Bürgermeister'') as deputy to the Governing Mayor. The [[Social Democratic Party of Germany|Social Democratic Party]] (SPD) and [[The Left (Germany)|The Left]] (Die Linke) took control of the city government after the [[Berlin state election, 2001|2001 state election]] and won another term in the [[Berlin state election, 2006|2006 state election]].&lt;ref&gt;{{cite web|url=http://www.statistik-berlin.de/wahlen/|title=Berlin state election, 2006|work=Der Landeswahlleiter für Berlin|accessdate=17 August 2008|language=German}}&lt;/ref&gt;
+
+The Governing Mayor is simultaneously Lord Mayor of the city (''Oberbürgermeister der Stadt'') and Prime Minister of the Federal State (''Ministerpräsident des Bundeslandes''). The office of Berlin's Governing Mayor is in the [[Rotes Rathaus|Rotes Rathaus (Red City Hall)]]. Since 2001 this office has been held by [[Klaus Wowereit]] of the SPD.&lt;ref&gt;{{cite news|url=http://www.time.com/time/europe/html/050516/wowereit.html|title=The Glamor Guy|work=[[Time (magazine)|Time Europe]]|date=8 May 2005|accessdate=17 August 2008}} See also: {{cite news|url=http://www.nytimes.com/2006/09/23/world/europe/23wowereit.html?ex=1161489600&amp;en=2129daf9965bf613&amp;ei=5070|title=Berlin Mayor, Symbol of Openness, Has National Appeal|work=[[The New York Times]]|accessdate=17 August 2008|first=Mark|last=Landler|date=23 September 2006}}&lt;/ref&gt; The city's government is based on a coalition between the Social Democratic Party and The Left.
+
+The total annual state budget of Berlin in 2007 exceeded €20.5 ($28.7) billion including a budget surplus of €80 ($112) million. The figures indicate the first surplus in the history of the city state.&lt;ref&gt;[http://www.spiegel.de/wirtschaft/0,1518,527721,00.html Berlin schafft erstes Etatplus seit dem Krieg](German), SpiegelOnline. Retrieved February, 2008.&lt;/ref&gt; Due to increasing growth rates and tax revenues, the Senate of Berlin calculates an increasing budget surplus in 2008. The total budget includes an estimated amount of €5.5 ($7.7) bn, which is directly financed by either the German government or the German Bundesländer.&lt;ref&gt;{{cite web|url=http://www.morgenpost.de/printarchiv/berlin/article199345/Sarrazin_Keine_neuen_Schulden_mehr_ab_2008.htm|title=Sarrazin: Keine neuen Schulden mehr ab 2008|first=Joachim|last=Fahrun|work=[[Berliner Morgenpost]]|date=10 June 2008|accessdate=17 August 2008}}&lt;/ref&gt; Mainly due to reunification-related expenditures, Berlin as a German state has accumulated more debt than any other city in Germany, with the most current estimate being €60 ($84)bn in December 2007.&lt;ref&gt;{{cite web|url=http://www.dw-world.de/dw/article/0,2144,1983556,00.html|title=Debt-Laden Berlin Goes to Court For Federal Aid|work=[[Deutsche Welle]]|date=29 April 2006|accessdate=20 October 2006}}&lt;/ref&gt;
+
+===Boroughs===
+{{Main|Boroughs and localities of Berlin}}
+[[File:BerlinDistricts.svg|thumb|right|Map of Berlin's twelve boroughs and their localities.]]
+
+Berlin is subdivided into [[Boroughs and localities of Berlin|twelve boroughs]] (''Bezirke''), but before [[Berlin's 2001 administrative reform]] there were 23. Each borough is subdivided into a number of localities (''Ortsteile''), which represent the traditional [[urbanized]] areas that inhabitants identify with. Some of these have been rearranged several times over the years. At present the city of Berlin consists of 95 such localities. The localities often consist of a number of city neighborhoods (usually called ''[[Kiez]]'' in the [[Berlin dialect]]) representing small residential areas.
+
+Each borough is governed by a Borough Council (''Bezirksamt'') consisting of five Councilors (''Bezirksstadträte'') and a Borough Mayor (''Bezirksbürgermeister''). The Borough Council is elected by the Borough Assembly (''Bezirksverordnetenversammlung''). The boroughs of Berlin are not independent municipalities. &lt;!-- ([[urban district]], ''Stadtkreis'') --&gt; The power of borough governments is limited and subordinate to the Senate of Berlin. The borough mayors form the Council of Mayors (''Rat der Bürgermeister''), led by the city's Governing Mayor, which advises the Senate.
+
+The localities have no government bodies of their own, even though most of the localities have historic roots in older municipalities that predate the formation of Greater Berlin on 1 October 1920. The subsequent position of locality representative (''Ortsvorsteher'') was discontinued in favor of borough mayors.
+
+===Sister cities===
+Berlin maintains official partnerships with 17 cities.&lt;ref name=Berlinsistercities&gt;{{cite web|url=http://www.berlin.de/rbmskzl/staedteverbindungen/index.en.html|title=Berlin's international city relations|work=Berlin Mayor's Office|accessdate=17 August 2008}}&lt;/ref&gt; Town twinning between Berlin and other cities began with Los Angeles in 1967. East Berlin's partnerships were canceled at the time of German reunification and later partially reestablished. West Berlin's partnerships had previously been restricted to the borough level. During the Cold War era, the partnerships had reflected the different power blocs, with West Berlin partnering with capitals in the West, and East Berlin mostly partnering with cities from the [[Warsaw Pact]] and its allies.
+
+There are several joint projects with many other cities, such as [[Copenhagen]], [[Helsinki]], [[Johannesburg]], [[Shanghai]], [[Seoul]], [[Sofia]], [[Sydney]], and [[Vienna]]. Berlin participates in international city associations such as the Union of the Capitals of the European Union, Eurocities, Network of European Cities of Culture, Metropolis, Summit Conference of the World's Major Cities, Conference of the World's Capital Cities. Berlin's official sister cities are:&lt;ref name=Berlinsistercities/&gt;
+{| style=&quot;background:none;&quot;
+|-
+|valign=&quot;top&quot;|
+* 1967 {{Flagicon|US}} '''[[Los Angeles]]''', [[United States]]
+* 1987 {{Flagicon|France}} '''[[Paris]]''', [[France]]
+* 1988 {{Flagicon|Spain}} '''[[Madrid]]''', [[Spain]]
+* 1989 {{Flagicon|Turkey}} '''[[Istanbul]]''', [[Turkey]]
+* 1990 {{Flagicon|Russia}} '''[[Moscow]]''', [[Russia]]
+* 1991 {{Flagicon|Poland}} '''[[Warsaw]]''', [[Poland]]&lt;ref name=&quot;Warsaw&quot;&gt;{{cite web|url=http://um.warszawa.pl/v_syrenka/new/index.php?dzial=aktualnosci&amp;ak_id=3284&amp;kat=11|title=Miasta partnerskie Warszawy|work=um.warszawa.pl|publisher=Biuro Promocji Miasta|date=4 May 2005|accessdate=29 August 2008}}&lt;/ref&gt;
+|valign=&quot;top&quot;|
+* 1991 {{Flagicon|Hungary}} '''[[Budapest]]''', [[Hungary]]
+* 1992 {{Flagicon|Belgium}} '''[[Brussels]]''', [[Belgium]]
+* 1993 {{Flagicon|Indonesia}} '''[[Jakarta]]''', [[Indonesia]]
+* 1993 {{Flagicon|Uzbekistan}} '''[[Tashkent]]''', [[Uzbekistan]]
+* 1993 {{Flagicon|Mexico}} '''[[Mexico City]]''', [[Mexico]]
+* 1994 {{Flagicon|PRC}} '''[[Beijing]]''', [[People's Republic of China|China]]
+|valign=&quot;top&quot;|
+* 1994 {{Flagicon|Japan}} '''[[Tokyo]]''', [[Japan]]
+* 1994 {{Flagicon|Brazil}} '''[[Brasília]]''', [[Brazil]]
+* 1994 {{Flagicon|Argentina}} '''[[Buenos Aires]]''', [[Argentina]]
+* 1995 {{Flagicon|Czech Republic}} '''[[Prague]]''', [[Czech Republic]]
+* 2000 {{Flagicon|Namibia}} '''[[Windhoek]]''', [[Namibia]]
+* 2000 {{Flagicon|UK}} '''[[London]]''', [[United Kingdom]]
+|}
+
+==Demographics==
+{{See also|Berlin population statistics}}
+[[File:Berlin Population Development 1880-2007.svg|thumb|Berlin's population 1880–2007.]]
+
+As of September 2009, the city-state of Berlin had a population of 3,439,100 registered inhabitants &lt;ref name=&quot;Population&quot; /&gt; in an area of {{convert|891.82|km2|sqmi|sp=us}}.&lt;ref name=&quot;statoffice&quot;&gt;{{cite web|url=http://www.statistik-berlin.de/|title=Berlin statistical figures|work=[[Amt für Statistik Berlin-Brandenburg]]|accessdate=19 August 2008|language=German}}&lt;/ref&gt; The city's population density was 3,848 inhabitants per km² (9,966/sq&amp;nbsp;mi). The [[urban area]] of Berlin stretches beyond the city limits and comprises about 3.7&amp;nbsp;million people while the metropolitan area of the Berlin-Brandenburg region is home to about 4.3&amp;nbsp;million in an area of {{convert|5370|km2|sqmi|abbr=on}}. The [[Larger Urban Zones (LUZ) in the European Union|Larger Urban Zone]] was home to over 4.9 million people in an area of 17,385&amp;nbsp;km² in the year 2004.&lt;ref name=LUZ/&gt;
+
+[[File:800px-PeopleMyfest.jpg|thumb|left|Crowd in [[Kreuzberg]]]]
+
+National and international migration into the city has a long history. In 1685, following the revocation of the [[Edict of Nantes]] in France, the city responded with the [[Edict of Potsdam]], which guaranteed religious freedom and tax-free status to French Huguenot refugees for ten years. The [[Greater Berlin Act]] in 1920 incorporated many suburbs and surrounding cities of Berlin. It formed most of the territory that comprises modern Berlin. The act increased the area of Berlin from {{convert|66|km2|sqmi|abbr=on}} to {{convert|883|km2|sqmi|abbr=on}} and the population from 1.9&amp;nbsp;million to 4&amp;nbsp;million.
+&lt;br /&gt;
+Active immigration and asylum politics in West Berlin have initiated waves of immigrants in the 1960s and 1970s. Currently, Berlin is home to about 250,000 [[Turks in Germany|Turks]] (especially in [[Kreuzberg]], [[Neukölln]] and [[Wedding (Berlin)|Wedding]], a locality in the [[Boroughs of Berlin|borough]] of [[Berlin-Mitte|Mitte]])&lt;ref name=&quot;250k Turks&quot;&gt;{{cite news|url=http://www.independent.co.uk/travel/europe/berlin-shish-and-sauerkraut-to-go-448678.html|title=Berlin: Shish And Sauerkraut To Go|first=Andrew|last=Spooner|work=[[The Independent]]|date=2007-05-13|accessdate=2010-05-24}}&lt;/ref&gt; making it the largest Turkish community outside of Turkey.
+
+In the 1990s the ''Aussiedlergesetze'' made immigration from the former [[Soviet Union]] possible. Today ethnic [[History of Germans in Russia and the Soviet Union|Germans]] from countries of the former Soviet Union make up the largest portion of the Russian-speaking community.&lt;ref&gt;[http://www.russiajournal.com/node/4653 Berlin is speaking Russians' language]. The Russia Journal. 2001-03-10.&lt;/ref&gt; The current decade experiences an increasing influx from various Western countries. Especially young EU-Europeans are settling in the city.
+
+In December 2008, 470,051 residents (13.9% of the population) were of foreign nationality, originating from 195 different countries.&lt;ref&gt;{{cite web|url=http://www.statistik-berlin-brandenburg.de/pms/2008/08-09-02.pdf|format=PDF|title=Foreign residents of Berlin|work=[[Amt für Statistik Berlin-Brandenburg]]|accessdate=19 August 2008|language=German}}&lt;/ref&gt; An estimated 394,000 citizens (11.7%) are descendants of international migrants and have either become naturalized German citizens or obtained citizenship by virtue of birth in Germany.&lt;ref&gt;{{cite web|url=http://www.tagesspiegel.de/berlin/;art270,2563533|title=Jeder vierte Berliner ist ausländischer Herkunft|work=[[Der Tagesspiegel]]|accessdate=19 August 2008|language=German}}&lt;/ref&gt; The largest groups of foreign national are those from Turkey (111,285), Poland (43,700), Serbia (22,251), Italy (14,964), Russia (14,915), the United States (14,186), France (13,113), Vietnam (12,494), Croatia (10,752), Bosnia and Herzegovina (10,556), and the United Kingdom (10,196).&lt;ref&gt;{{cite web|url=http://www.statistik-berlin-brandenburg.de/Publikationen/Stat_Berichte/2009/SB_A1-6_hj2-08_BE.pdf|format=PDF|title=Foreign residents of Berlin|work=[[Amt für Statistik Berlin-Brandenburg]]|accessdate=23 August 2009|language=German}}&lt;/ref&gt; There is also a large Arab community, mostly from Palestine and Iraq, but there are no statistics about them, because they are often [[stateless]].&lt;ref&gt;{{cite web|author=Kurka|url=http://www.muz-online.de/leute/araber1.html|title=Araber in Berlin|work=Muz-online.de|accessdate=8 June 2010}}&lt;/ref&gt;
+
+===Religion===
+[[File:Dom Berlin abends (jha).jpg|thumb|Berlin's largest church is the [[Berliner Dom]], a Protestant cathedral.]]
+Sixty percent of Berlin residents have no registered religious affiliation.&lt;ref&gt;{{cite web|url=http://www.guardian.co.uk/world/2009/apr/26/berlin-germany-religious-education-ethics|title=Atheist Berlin to decide on religion's place in its schools|author=Connolly, Kate|work=[[guardian.co.uk|The Guardian]]|date=26 April 2009|accessdate=10 May 2010}}&lt;/ref&gt; The largest denominations are the [[Evangelical Church of Berlin-Brandenburg-Silesian Upper Lusatia]] (a [[united church]] within the [[Evangelical Church in Germany]]) with 19.4% of the population as of 2008, and the [[Roman Catholic Church]] with 9.4%.&lt;ref&gt;Evangelische Kirche im Rheinland, [http://www.ekir.de/ekir/dokumente/Tab01.pdf Table 1.3: Bevölkerung und Kirchenzugehörigkeit nach Bundesländern]. Retrieved 13 April 2010.&lt;/ref&gt;&lt;ref&gt;Evangelical Church in Germany, [http://www.ekd.de/download/kirchenmitglieder_2007.pdf Kirchenmitglieder 2007]. Tabelle 2: Evangelische Kirchenmitglieder und Bevölkerung nach Bundesländern am 31.12.2007 and also Tabelle 3: Evangelische Kirchenmitglieder, Katholiken und Bevölkerung nach Bundesländern am 31.12.2007. Retrieved 2010-04-14.&lt;/ref&gt;&lt;ref&gt;Die Deutsche Bischofskonferenz - German Catholic Church, [http://www.dbk.de/fileadmin/redaktion/Zahlen%20und%20Fakten/Kirchliche%20Statistik/Bevoelkerung%20und%20Katholiken%20BL/bev-kath-l__nd-2008.pdf Population and Catolics by Bundesstaat]. Retrieved 14 April 2010.&lt;/ref&gt; 2.7% of the population adhere to other Christian denominations and 8.8% are [[Muslims]]. Most of the 120,000 Jews in Berlin have come from the former Soviet Union.&lt;ref&gt;[http://www.rferl.org/content/Article/1078688.html Germany: Berlin Facing Challenge Of Assimilating Russian-Speaking Jews]. Radio Free Europe. 17 September 2007.&lt;/ref&gt;
+
+Berlin is seat of both a Roman Catholic bishop ([[Roman Catholic Archdiocese of Berlin]]) and a Protestant bishop ([[Evangelical Church of Berlin-Brandenburg-Silesian Upper Lusatia]]). The [[Independent Evangelical-Lutheran Church]] has eight parishes of different sizes in Berlin.&lt;ref&gt;{{cite web|url=http://www.selk-berlin.de/|title=Lutheran Diocese Berlin-Brandenburg|work=Selbständige Evangelisch-Lutherische Kirche|accessdate=19 August 2008}}&lt;/ref&gt;
+
+There are 36 [[Baptist]] congregations, 29 [[New Apostolic Church]]es, 15 [[United Methodist]] churches, eight Free Evangelical Congregations, six congregations of [[the Church of Jesus Christ of Latter-day Saints]], an [[Old Catholic]] church and an [[Anglican]] church in Berlin.&lt;ref&gt;{{cite web|url=http://www.atlas.emk.de/emk_gemeindeatlas_1.html|work=Evangelisch-methodistische Kirche|accessdate=19 August 2008|title=Gemeindeübersicht nach Postleitzahl}} See also: {{cite web|url=http://www.feg.de/index.php?id=299&amp;no_cache=1|title=Gemeindeliste A–C: FeG Deutschland|accessdate=19 August 2008|work=Bund Freier evangelischer Gemeinden Deutschland}}&lt;/ref&gt;
+
+Berlin has 76 [[mosque]]s, 11 [[synagogue]]s, and two [[Buddhist]] temples. There are also a number of [[humanism|humanist]] and [[atheist]] groups in the city.
+
+==Economy==
+{{Main|Economy of Berlin}}
+[[File:ICC Funkturm Berlin.jpg|thumb|right|The economy of the city is mainly based on the service sector. The ICC and the Funkturm are part of the city's exhibition and congress center.]]
+
+In 2009, the nominal [[GDP]] of the citystate Berlin experienced a growth rate of 1.7% (-3.5% in Germany) and totaled €90.1 (~$117) billion.&lt;ref&gt;{{cite web|url=http://de.reuters.com/article/topNews/idDEBEE51O0CG20090225|title=Exporteinbruch stürzt deutsche Wirtschaft in die Krise|work=[[Reuters]]|accessdate=19 August 2008|language=German}}&lt;/ref&gt; Berlin's economy is today dominated by the service sector, around 80% of all companies are operating in this field. The unemployment rate steadily decreased in the last decade and reached a 13 year-low in 2008, it currently totals 14,2 % in April 2010 (German average: 7.9%).
+
+Among the [[Fortune Global 500]] and the 30 German [[DAX]] companies, [[Siemens]] (sharing its seat with Munich) controls a headquarter in Berlin. The stateowned firm [[Deutsche Bahn]] has its headquarters in Berlin as well. A multitude of German and international companies established secondary departments or service offices in the city. Among the 20 largest employers in Berlin are the railway company Deutsche Bahn, the hospital company [[Charité]], the local public transport company [[BVG]], the service provider ''Dussmann and the Piepenbrock Group''. [[Daimler AG|Daimler]] manufactures cars, and BMW builds [[BMW motorcycles|motorcycles]] in Berlin. [[Bayer Schering Pharma]] and ''Berlin Chemie'' are major pharmaceutical companies headquartered in the city. The second most important German airline [[Air Berlin]] and the rail company Deutsche Bahn are headquartered in Berlin.&lt;ref&gt;&quot;[http://www.airberlin.com/site/kontakt_db_a.php?LANG=eng Air Berlin: Contact].&quot; Retrieved on 12 May 2009.&lt;/ref&gt;&lt;ref&gt;&quot;[http://www.deutschebahn.com/site/bahn/en/db__group/corporate__group/ata__glance/facts__figures/facts__figures.html Deutsche Bahn AG at a glance].&quot; Retrieved on 12 May 2009.&lt;/ref&gt; In Germany, [[Universal Music]] and [[Sony Music]] are headquartered in Berlin as well.
+
+Fast-growing sectors are communications, life sciences, mobility and services with information and communication technologies, media and music, advertising and design, biotechnology and environmental services, transportation and medical engineering.&lt;ref&gt;{{cite news|url=http://www.economist.com/displayStory.cfm?story_id=7953479|title=Poor but sexy|publisher=The Economist|accessdate=19 August 2008}}&lt;/ref&gt; The Science and Business Park of Berlin-Adlershof is among the 15 largest technology parks worldwide. Research and development have established economic significance, and the Berlin Brandenburg region ranks among the top three innovative regions in the EU.&lt;ref name=innovation&gt;{{cite web|url=http://www.tagesspiegel.de/wirtschaft/;art271,2149415|title=News analysis: innovation index November 2006|work=[[Der Tagesspiegel]]|accessdate=19 August 2008|language=German}}{{dead link|date=June 2010}}&lt;/ref&gt;&lt;ref name=&quot;factsheet&quot;&gt;{{cite web|url=http://www.berlin.de/imperia/md/content/rbm-skzl/fifawm/factsheetwmenglisch.pdf|format=PDF|title=Berlin fact sheet|work=berlin.de|accessdate=19 August 2008}}&lt;/ref&gt; Berlin is among the top three convention cities in the world and is home to Europe's biggest convention center in the form of the [[Internationales Congress Centrum]] (ICC).&lt;ref name=congress /&gt; It contributes to the rapidly increasing tourism sector encompassing more than 700 hotels offering more than 100,000 beds. The city numbered 18.9 million overnight hotel stays, 8,3 million hotel guests and estimated 135 million daily visitors in 2009.&lt;ref name=third&gt;{{cite web|url=http://www.morgenpost.de/printarchiv/berlin/article1264296/Das-beste-Tourismusjahr-aller-Zeiten.html|title=Das beste Tourismusjahr aller Zeiten|work=[[Berliner Morgenpost]]|accessdate=17 May 2010|language=German}}&lt;/ref&gt; Berlin has established itself as the third most-visited city destination in the European Union.
+{| class=&quot;wikitable&quot;
+! style=&quot;background:#d8e2ef; color:navy;&quot; |2007 EUROSTAT&lt;ref&gt;{{cite web|url=http://docs.google.com/viewer?a=v&amp;q=cache:_JgilxNoYRQJ:epp.eurostat.ec.europa.eu/cache/ITY_PUBLIC/1-18022010-AP/EN/1-18022010-AP-EN.PDF+eurostat+Regional+GDP+per+inhabitant+in+the+EU+27&amp;hl=de&amp;gl=de&amp;pid=bl&amp;srcid=ADGEESimOFSZQ3D5aE2vWgMR3IFlQCzBcdl7NBIWfHjdZMvpwFW1fLwhHg2jvwx0OOnFsKVvbCm1fTNaTNtQ3K0o-8wEm_TAREoTOuCvqMDqLZZwKbZuQJ-jezQV5k1r5FHvP2qj1v6_&amp;sig=AHIEtbQqggVoFeopAcI9aBQ75d0RvwSVRQ|format=PDF|title=Regional GDP per inhabitant in the EU 27|work=Eurostat|accessdate=17 May 2010}}&lt;/ref&gt;
+!! style=&quot;background:#d8e2ef; color:navy;&quot; colspan=&quot;2&quot; |Area
+! style=&quot;background:#d8e2ef; color:navy;&quot; |Population
+! style=&quot;background:#d8e2ef; color:navy;&quot; |Nominal GDP in billion
+! style=&quot;background:#d8e2ef; color:navy;&quot; |Nominal GDP per capita
+|-
+| align=left |{{Flag|Berlin}}
+|{{convert|892|km2|sqmi|0|abbr=on|disp=table}}
+| align=right |3,420,000
+| align=right |€ 85 / ~$110
+| align=right |€ 24,900 / ~$32,370
+|-
+| align=left |{{Flag|Germany}}
+|{{convert|357050|km2|sqmi|0|abbr=on|disp=table}}
+| align=right |82,000,000
+| align=right |€ 2,482 / ~$3,227
+| align=right |€ 29,500 / ~$38,350
+|-
+| align=left |{{Flag|European Union|name=EU27}}
+|{{convert|4325675|km2|sqmi|0|abbr=on|disp=table}}
+| align=right |498,000,000
+| align=right |€ 12,363 / ~$16,072
+| align=right |€ 24,900 / ~$32,370
+|}
+
+== Education ==
+{{See also|Universities, colleges, and research institutions in Berlin|Education in Berlin}}
+[[File:Humboldt monument.jpg|thumb|upright|Statue of [[Alexander von Humboldt]] outside the [[Humboldt University]]]]
+
+The Berlin-Brandenburg capital region is one of the most prolific centers of higher education and research in the European Union. The city has four universities and 27 private, professional and technical colleges (Hochschulen), offering students a wide range of disciplines.&lt;ref&gt;{{cite web|url=http://www.berlin-partner.de/622/?L=1|title=Metropolis of Sciences|work=Berlin Partner GmbH|accessdate=19 August 2008}}{{Dead link|date=November 2009}}&lt;/ref&gt; 135,327 students were registered at the 31 universities and colleges in 2008/09.&lt;ref&gt;{{cite web|url=http://www.tagesspiegel.de/berlin/abgeschlagen-auf-den-hinteren-raengen/1820474.html|title=Wirtschaftsstandort Berlin|work=[[Der Tagesspiegel]]|date=11 May 2010|accessdate=11 May 2010|language=German}}&lt;/ref&gt; The three largest universities account for around 100,000 students. These are the [[Humboldt Universität zu Berlin]] with 35,000 students, the [[Freie Universität Berlin]] (Free University of Berlin) with around 35,000 students, and the [[Technische Universität Berlin]] with 30,000 students. The [[Universität der Künste]] has about 4,300 students.
+
+The city has a high concentration of research institutions, such as the [[Fraunhofer Society]], [[Leibniz-Gemeinschaft]] and the [[Max Planck Society]], which are independent of, or only loosely connected to its universities. A total number of 62,000 scientists are working in [[research and development]].&lt;ref name=&quot;factsheet&quot;/&gt;
+
+In addition to the libraries affiliated with the various universities, the [[Staatsbibliothek zu Berlin]] is a major research library. It has two main locations: one near Potsdamer Platz on Potsdamer Straße and one on [[Unter den Linden]]. There are 108 public libraries to be found in the city.&lt;ref name=&quot;factsheet&quot;/&gt;
+
+[[File:Solartankstelle.jpg|thumb|left|Solar filling station at the science and technology park in Adlershof.]]
+
+Berlin has 878 schools teaching 340,658 children in 13,727 classes and 56,787 trainees in businesses and elsewhere.&lt;ref name=&quot;factsheet&quot;/&gt; The city has a six-year primary education program. After completing primary school, students will progress to the Sekundarschule (a comprehensive school) or Gymnasium (college preparatory school). Berlin has a unique bilingual school program embedded in the &quot;Europaschule&quot;. At these schools children get taught the curriculum in German and a foreign language, starting in primary school and later in secondary school. Throughout nearly all boroughs, a range of 9 major European languages in 29 schools can be chosen.&lt;ref&gt;{{cite web|url=http://www.tagesspiegel.de/berlin/;art270,2185300|title=Jahrgangsstufe Null|work=[[Der Tagesspiegel]]|accessdate=19 August 2008|language=German}} {{Failed verification|date=May 2010}}&lt;/ref&gt;
+
+The [[Französisches Gymnasium Berlin]] which was founded in 1689 for the benefit of Huguenot refugees, offers (German/French) instruction.&lt;ref&gt;{{cite web|url=http://www.fg-berlin.de/WebObjects/FranzGym.woa/wa/CMSshow/1064384|title=Geschichte des Französischen Gymnasiums|publisher=Französisches Gymnasium Lycée Français Berlin|accessdate=17 August 2008|language=German}}&lt;/ref&gt; The [[John F. Kennedy School, Berlin|John F. Kennedy School]], a bilingual German–American public school located in [[Zehlendorf]], is particularly popular with children of Diplomats and the expat community. There are also four schools (&quot;Humanistische Gymnasien&quot;) teaching [[Latin]] and [[Classical Greek]], which are traditionally renowned for highest academic standards{{Citation needed|date=November 2009}}. Two of them are state schools (Steglitzer Gymnasium in [[Steglitz]] and Goethe-Gymnasium in [[Wilmersdorf]]), one is Protestant ([[Evangelisches Gymnasium zum Grauen Kloster]] in Wilmersdorf) and one Jesuit ([[Canisius-Kolleg]] in the &quot;Embassy Quarter&quot; in [[Tiergarten]]).
+
+Berlin is one of the co-location centres of Knowledge and Innovation Communities (Future information and communication society and Climate Change Mitigation and Adaptation) of the [[European Institute of Innovation and Technology]] (EIT).&lt;ref&gt;{{cite web|url=http://eit.europa.eu/home.html|title=European Institute of Innovation and Technology: Home|work=Eit.europa.eu|accessdate=8 June 2010}}&lt;/ref&gt;
+
+==Culture==
+{{See also|1920s Berlin}}
+[[File:Bodemuseum - Front.jpeg|thumb|The [[Museum Island]] is a World Heritage Site.]]
+
+Berlin is noted for its numerous cultural institutions, many of which enjoy international reputation.&lt;ref name=UNESCO /&gt;&lt;ref name=UNESCO2&gt;{{cite web|url=http://whc.unesco.org/en/list/532|title=World Heritage Site Palaces and Parks of Potsdam and Berlin|work=[[UNESCO]]|accessdate=19 August 2008}}&lt;/ref&gt; The diversity and vivacity of the ''Zeitgeist Metropolis'' led to an ever-changing and trendsetting image among major cities.&lt;ref&gt;{{cite web|url=http://www.hubculture.com/groups/hubnews/news/162/|title=Hub Culture's 2009 Zeitgeist Ranking|work=Hub Culture|accessdate=30 April 2009}}&lt;/ref&gt; The city has a very diverse art scene, and is home to around 420 art galleries.&lt;ref&gt;{{cite web|url=http://kunst.zitty.de/14539/berliner-galerien.html|title=Sprung in die Wolken|work=Zitty|date=2 July 2008|accessdate=19 August 2008|language=German}}&lt;/ref&gt; Young Germans and international artists continue to settle in the city, and Berlin has established itself as a center of youth and popular culture in Europe.&lt;ref&gt;{{cite web|url=http://www.observer.com/node/39370|title=A New Williamsburg! Berlin's Expats Go Bezirk|first=Nicholas|last=Boston|work=[[The New York Observer]]|date=10 September 2006|accessdate=17 August 2008}} See also: {{cite web|url=http://www.magazine-deutschland.de/magazin/J-Kunstszene_2-05.php|archiveurl=http://web.archive.org/web/20071211095052/http://www.magazine-deutschland.de/magazin/J-Kunstszene_2-05.php|archivedate=11 December 2007|title=Die Kunstszene|publisher=Deutschland Online|accessdate=19 August 2008|language=German}} and {{cite web|url=http://www.metropolis2005.org/en/berlin/kultur.html|archiveurl=http://web.archive.org/web/20070928020742/http://www.metropolis2005.org/en/berlin/kultur.html|archivedate=28 September 2007|title=Culture of Berlin|work=Metropolis|accessdate=19 August 2008}}&lt;/ref&gt;
+
+Signs of this expanding role was the 2003 announcement that the annual Popkomm, Europe's largest music industry convention, would move to Berlin after 15 years in [[Cologne]].&lt;ref&gt;{{cite web|url=http://www.taipeitimes.com/News/feat/archives/2005/09/05/2003270493|title=Saucy Berlin transforms itself into a 'music city'|work=Taipei Times|accessdate=19 August 2008}}&lt;/ref&gt; Shortly thereafter, the [[Universal Music Group]] and [[MTV]] also decided to move their European headquarters and main studios to the banks of the River Spree in [[Friedrichshain]].&lt;ref&gt;{{cite web|url=http://www.stadtentwicklung.berlin.de/bauen/bueroflaechen/en/friedrichshain.shtml|archiveurl=http://web.archive.org/web/20070911125347/http://www.stadtentwicklung.berlin.de/bauen/bueroflaechen/en/friedrichshain.shtml|archivedate=11 September 2007|title=Berlin's music business booms|work=Expatica|accessdate=19 August 2008}}&lt;/ref&gt; In 2005, Berlin was awarded the title of &quot;City of Design&quot; by [[UNESCO]].&lt;ref name=Cityofdesign /&gt;
+
+===Media===
+{{See also|List of films featuring Berlin}}
+[[File:Cate blanchett.jpg|thumb|The prestigious [[Berlin International Film Festival|Berlin Film Festival]] is annually held in February. It is considered the largest publicly attended film festival worldwide.]]
+
+Berlin is the home of many television and radio stations; international, national as well as regional.&lt;ref&gt;{{cite web|url=http://www.medienboard.de/WebObjects/Medienboard.woa/1/wa/CMSshow/1004207?wosid=hiEOPTbF9prwo7TP5bvOt0|title=Media Companies in Berlin and Potsdam|work=medienboard|accessdate=19 August 2008}}&lt;/ref&gt; The public broadcaster [[Rundfunk Berlin-Brandenburg|RBB]] has its headquarters there as well as the commercial broadcasters [[MTV Europe]], [[Viva (TV station)|VIVA]], [[TVB]], [[FAB]], [[N24 (Germany)|N24]] and [[Sat.1]]. German international public broadcaster [[Deutsche Welle]] has its TV production unit in Berlin. Additionally, most national German broadcasters have a studio in the city. American radio programming from National Public Radio [[National Public Radio|NPR]] is also broadcast on the FM dial.
+
+Berlin has Germany's largest number of daily newspapers, with numerous local [[broadsheet]]s (''[[Berliner Morgenpost]]'', ''[[Berliner Zeitung]]'', ''[[Der Tagesspiegel]]''), and three major [[tabloid]]s, as well as national dailies of varying sizes, each with a different political affiliation, such as ''[[Die Welt]]'', ''[[Junge Welt]]'', ''[[Neues Deutschland]]'', and ''[[Die Tageszeitung]]''. The ''[[Exberliner]]'', a monthly magazine, is Berlin's English-language periodical focusing on arts and entertainment. Berlin is also the headquarters of two major German-language [[publishing house]]s: [[Walter de Gruyter]] and [[Axel Springer AG|Springer]], each of which publishes books, periodicals, and multimedia products.
+
+Berlin is an important center in the European and [[Cinema of Germany|German film industry]].&lt;ref&gt;{{cite web|url=http://www.theage.com.au/news/arts/walltowall-culture/2007/11/09/1194329483873.html|title=Wall-to-wall culture|work=[[The Age]]|date=10 November 2007|accessdate=30 November 2007}}&lt;/ref&gt; It is home to more than one thousand film and television production companies, 270 movie theaters, and around 300 national and international co-productions are filmed in the region every year.&lt;ref name=&quot;factsheet&quot;/&gt; The venerable [[Babelsberg Studios]] and the production company [[Universum Film AG|UFA]] are located outside Berlin in [[Potsdam]]. The city is also home of the [[European Film Academy]] and the German Film Academy, and hosts the annual [[Berlin Film Festival]]. Founded in 1951, the festival has been celebrated annually in February since 1978. With over 430,000 admissions it is the largest publicly attended film festival in the world.&lt;ref&gt;[http://www.europeanfilmacademy.org/ European Film Academy], www.europeanfilmacademy.org, Accessed 19 December 2006. See also: [http://www.berlinale.de/ Berlin Film Festival], www.berlinale.de. Retrieved 12 November 2006.&lt;/ref&gt;
+
+===Nightlife, festivals===
+[[File:BerlinKarnevalderKulturen.JPG|thumb|upright|Karneval der Kulturen.]]
+
+Berlin has one of the most diverse and vibrant nightlife scenes in Europe.&lt;ref&gt;{{cite web|url=http://www.metrotimes.com/editorial/story.asp?id=6949|title=Losing your mind in Berlin|first=Walter|last=Wasacz|work=[[Metro Times]]|date=11 October 2004|accessdate=18 November 2006}}&lt;/ref&gt; Throughout the 1990s, twentysomethings from surrounding countries, particularly those in Eastern and Central Europe, made Berlin's club scene the premier nightlife destination of Europe. After the fall of the Berlin Wall in 1989, many buildings in Mitte, the former city center of East Berlin, were renovated. Many had not been rebuilt since the Second World War. Illegally occupied by young people, they became a fertile ground for all sorts of underground and [[counter-culture]] gatherings. It is also home to many nightclubs, including [[Kunst Haus Tacheles]], [[techno]] clubs [[Tresor]], WMF, Ufo, [[E-Werk]], the infamous [[Kitkatclub]] and [[Berghain]]. The Linientreu, near the [[Kaiser Wilhelm Memorial Church]], has been well known since the 1990s for techno music. The LaBelle discothèque in [[Friedenau]] became famous as the location of the [[1986 Berlin discotheque bombing]].&lt;ref&gt;[http://www.germany.info/relaunch/politics//new/pol_libya_labelle_2004.html Compensating Victims of the La Belle Attack], German Embassy, Washington D.C.. Retrieved 18 November 2006.&lt;/ref&gt;
+
+SO36 in Kreuzberg originally focused largely on [[punk music]] but today has become a popular venue for dances and parties of all kinds. SOUND, located from 1971 to 1988 in Tiergarten and today in Charlottenburg, gained notoriety in the late 1970s for its popularity with heroin users and other drug addicts as described in [[Christiane F.]]'s book ''Wir Kinder vom Bahnhof Zoo''.&lt;ref&gt;[http://christiane.hurz.at/ Christiane F.-Page], christianef. Retrieved 18 November 2006.&lt;/ref&gt;
+
+The Karneval der Kulturen, a multi-ethnic street parade celebrated every [[Pentecost]] weekend,&lt;ref&gt;[http://www.karneval-berlin.de/de/english.175.html ENGLISH SUMMARY], www.karneval-berlin.de, . Retrieved 10 August 2008.&lt;/ref&gt; and the [[Christopher Street Day]], which is Central Europe's largest gay-lesbian pride event and is celebrated the last weekend of June, are openly supported by the city's government.&lt;ref&gt;[http://www.berlin-tourist-information.de/english/zielgruppen/e_zg_gay_bezirke.php Berlin for Gays and Lesbians], Berlin Tourismus Marketing GmbH. Retrieved 20 October 2006.&lt;/ref&gt; Berlin is also well known for the techno carnival [[Love Parade]], [[club transmediale]] and the cultural festival [[Berliner Festspiele]], which include the jazz festival [[JazzFest Berlin]]. Several technology and media art festivals and conferences are held in the city, including [[Transmediale]] and [[Chaos Communication Congress]].
+
+===Museums, galleries===
+{{See also|List of museums and galleries in Berlin}}
+[[File:Jewishmuseumberlin2007.jpg|thumb|upright|The [[Jewish Museum Berlin|Jewish Museum]] presents a standing exhibition on two millennia of [[history of the Jews in Germany|German–Jewish history]].]]
+
+Berlin is home to 153 museums.&lt;ref name=&quot;factsheet&quot;/&gt; The ensemble on the [[Museum Island]] is a UNESCO [[World Heritage Site]] and is situated in the northern part of the Spree Island between the Spree and the Kupfergraben.&lt;ref name=UNESCO /&gt; As early as 1841 it was designated a &quot;district dedicated to art and antiquities&quot; by a royal decree. Subsequently, the [[Altes Museum]] (Old Museum) in the Lustgarten displaying the [[Nefertiti Bust|bust of Queen Nefertiti]],&lt;ref&gt;[http://www.expatica.com/de/life_in/leisure/a-3000-year-old-smile-the-strange-history-of-queen-nefertiti-22752.html A 3,000-year-old smile], Expatica.Com. Retrieved 1 November 2006.&lt;/ref&gt; and the [[Neues Museum]] (New Museum), [[Alte Nationalgalerie]] (Old National Gallery), [[Pergamon Museum]], and [[Bode Museum]] were built there. While these buildings once housed distinct collections, the names of the buildings no longer necessarily correspond to the names of the collections they house. Opposite the Museum Island there is the [[DDR Museum]] about the life in the GDR.
+
+Apart from the Museum Island, there are a wide variety of other museums. The [[Gemäldegalerie]] (Painting Gallery) focuses on the paintings of the &quot;old masters&quot; from the thirteenth to the eighteenth centuries, while the [[Neue Nationalgalerie]] (New National Gallery, built by [[Ludwig Mies van der Rohe]]) specializes in twentieth century European painting. The [[Hamburger Bahnhof]], located in [[Moabit]], exhibits a major collection of modern and contemporary art. In spring 2006, the expanded [[Deutsches Historisches Museum]] re-opened in the Zeughaus with an overview of German history through the fall of the Berlin Wall in 1989. The [[Bauhaus-Archive]] is an architecture museum.
+
+[[File:Ishtar Gate at Berlin Museum.jpg|thumb|left|The reconstructed [[Ishtar Gate]] of Babylon at the [[Pergamon Museum]].]]
+
+The [[Jewish Museum Berlin|Jewish Museum]] has a standing exhibition on two millennia of German-Jewish history.&lt;ref&gt;{{cite web|url=http://www.juedisches-museum-berlin.de/site/EN/01-Exhibitions/exhibitions.php|title=Exhibitions|work=[[Jewish Museum Berlin]]|accessdate=10 August 2008}}&lt;/ref&gt; The [[German Museum of Technology (Berlin)|German Museum of Technology]] in [[Kreuzberg]] has a large collection of historical technical artifacts. The [[Museum für Naturkunde]] exhibits natural history near [[Berlin Hauptbahnhof]]. It has the largest mounted dinosaur in the world (a [[brachiosaurus]]), and a preserved specimen of the early bird [[Archaeopteryx]].&lt;ref&gt;[http://www.naturkundemuseum-berlin.de/ausstellungen/ausstellungen_2201.asp?lang=1 The World of Dinosaurs], Museum für Naturkunde. Retrieved 10 August 2008.&lt;/ref&gt;
+
+In [[Dahlem (Berlin)|Dahlem]], there are several museums of world art and culture, such as the [[Museum of Indian Art]], the Museum of East Asian Art, the Ethnological Museum, the Museum of European Cultures, as well as the Allied Museum (a museum of the Cold War), the Brücke Museum (an art museum). In [[Lichtenberg]], on the grounds of the former East German Ministry for State Security ''([[Stasi]])'', is the Stasi Museum. The site of [[Checkpoint Charlie]], one of the renowned crossing points of the Berlin Wall, is still preserved and also has a museum. The museum, which is a private venture, exhibits a comprehensive array of material about people who devised ingenious plans to flee the East. The [[Beate Uhse Erotic Museum]] near [[Berlin Zoologischer Garten railway station|Zoo Station]] claims to be the world's largest erotic museum.&lt;ref&gt;[http://www.washingtonpost.com/wp-srv/travel/index/stories/beck04181999.htm In Berlin, the Art of Sex], Washington Post. Retrieved 10 August 2008.&lt;/ref&gt;
+
+===Performing arts===
+{{See also|Music in Berlin}}
+[[File:Rattle BPH-Rittershaus1-Wikipedia.jpg|thumb|Sir [[Simon Rattle]] conducting the renowned [[Berlin Philharmonic Orchestra|Berlin Philharmonic]].]]
+
+Berlin is home to more than 50 theaters.&lt;ref name=&quot;factsheet&quot;/&gt; The [[Deutsches Theater]] in Mitte was built in 1849–50 and has operated continuously since then, except for a one-year break (1944–45) due to the Second World War. The [[Volksbühne]] on Rosa Luxemburg Platz was built in 1913–14, though the company had been founded already in 1890. The [[Berliner Ensemble]], famous for performing the works of [[Bertolt Brecht]], was established in 1949, not far from the Deutsches Theater. The [[Schaubühne]] was founded in 1962 in a building in Kreuzberg, but moved in 1981 to the building of the former Universum Cinema on Kurfürstendamm.
+
+[[File:German Cathedral and Concert Hall.JPG|thumb|left|German Cathedral and Concert Hall at the Gendarmenmarkt.]]
+
+Berlin has three major [[opera house]]s: the [[Deutsche Oper]], the [[Berlin State Opera]], and the [[Komische Oper]]. The Berlin State Opera on [[Unter den Linden]] is the oldest; it opened in 1742. Its current musical director is [[Daniel Barenboim]]. The Komische Oper has traditionally specialized in [[operetta]]s and is located at Unter den Linden as well. The Deutsche Oper opened in 1912 in Charlottenburg. During the division of the city from 1961 to 1989 it was the only major opera house in West Berlin.
+
+There are seven symphony orchestras in Berlin. The [[Berlin Philharmonic Orchestra]] is one of the preeminent orchestras in the world;&lt;ref&gt;[http://www.guardian.co.uk/world/2004/apr/29/germany.arts Is Rattle's Berlin honeymoon over?], The Guardian. Retrieved 12 November 2006.&lt;/ref&gt; it is housed in the [[Berliner Philharmonie]] near Potsdamer Platz on a street named for the orchestra's longest-serving conductor, [[Herbert von Karajan]].&lt;ref&gt;{{cite web|url=http://travel2.nytimes.com/2005/09/25/travel/25berlin.html?ex=1162962000&amp;en=36217d7f20459f88&amp;ei=5070|title=Music: Berlin|first=Daniel J.|last=Wakin|work=[[The New York Times]]|date=25 September 2005|accessdate=7 November 2006}}&lt;/ref&gt; The current principal conductor is [[Simon Rattle]].&lt;ref&gt;[http://www.culturekiosque.com/klassik/news/rherattle.htm Berlin Philharmonic elects Sir Simon Rattle], Culturekiosque. Retrieved 12 November 2006.&lt;/ref&gt; The [[Konzerthausorchester Berlin]] was founded in 1952 as the orchestra for East Berlin, since the Philharmonic was based in West Berlin. Its current principal conductor is [[Lothar Zagrosek]]. The [[Haus der Kulturen der Welt]] presents various exhibitions dealing with intercultural issues and stages world music and conferences.&lt;ref&gt;[http://www.hkw.de/en/bottom/impressum/impressum.php Haus der Kulturen der Welt], www.hkw.de. Retrieved 12 November 2006.&lt;/ref&gt;
+
+===Cuisine===
+[[File:CurryWurst.jpg|thumb|The [[currywurst]] was invented in Berlin]]
+
+Frederick the Great (king of Prussia) had a role in establishing some of Berlin's traditional foods after he ordered his subjects to eat primarily cucumbers and potatoes in the 18th century, because they were cheap and fit the frugal Prussian lifestyle. They remain favorites in Berlin along with rustic and hearty dishes using pork, goose, fish, peas, beans and potatoes.
+
+Typical Berliner dishes include [[Currywurst]] (invented in Berlin in 1949&lt;ref&gt;{{cite news|url=http://www.independent.co.uk/life-style/food-and-drink/news/spicy-sausage-that-is-worthy-of-a-shrine-in-berlin-1772530.html|title=Spicy sausage that is worthy of a shrine in Berlin|newspaper=[[The Independent]]|first=Tony|last=Paterson|date=15 August 2009|location=London}}&lt;/ref&gt;), the corresponding [[Ketwurst]], [[Eisbein]] and the [[Berliner (pastry)|Berliner]] (which however is known as a {{lang|de|''Pfannkuchen''}}, not a {{lang|de|''Berliner''}}, in Berlin).
+One renowned dish that actually bears the name of Berlin is Berlin style [[Offal#Central Europe|liver]] (''Leber Berliner Art''); floured liver with apples and onions.&lt;ref&gt;{{cite web|url=http://www.germancorner.com/recipes/A-B/berlin_style_liver_.html|title=Berlin Style Liver - Gebratene Kalbsleber auf Berliner Art, Germanic|work=Germancorner.com|accessdate=8 June 2010}}&lt;/ref&gt;
+[[Turks in Germany|Turkish immigrant workers]] have brought their culinary traditions to the city, for example the [[döner kebab]], which has become a common fast-food staple.&lt;ref&gt;[http://www.germanfoods.org/consumer/facts/berlin.cfm Berlin] German Foods&lt;/ref&gt;
+
+===Recreation===
+[[File:Giraffe-berlin-zoo.jpg|thumb|left|The [[Zoologischer Garten Berlin]] is the most visited zoo in Europe and presents the most diverse range of species in the world.]]
+
+[[Zoologischer Garten Berlin]], the older of two zoos in the city, was founded in 1844, and presents the most diverse range of species in the world.&lt;ref&gt;{{cite web|url=http://www.rbb-online.de/_/nachrichten/vermischtes/beitrag_jsp/key=news4382800.html|archiveurl=http://web.archive.org/web/20061007155448/http://www.rbb-online.de/_/nachrichten/vermischtes/beitrag_jsp/key=news4382800.html|archivedate=2006-10-07|title=Hauptstadt-Zoo beliebtester Tierpark|work=[[Rundfunk Berlin-Brandenburg]]|accessdate=17 August 2008}}&lt;/ref&gt; It is the home of the captive-born celebrity polar bear [[Knut (polar bear)|Knut]],&lt;ref name=&quot;knutbbc1&quot;&gt;{{cite news|first=Tristana|last=Moore|title=Baby bear becomes media star|date=23 March 2007|url=http://news.bbc.co.uk/1/hi/world/europe/6486993.stm|work=[[BBC News]]|accessdate=17 August 2008}}&lt;/ref&gt; born in December 2006.&lt;ref name=&quot;cult&quot;&gt;{{cite news|title=Berlin Zoo culls creator of the cult of Knut|work=[[The Times]]|date=13 December 2007|url=http://www.timesonline.co.uk/tol/news/world/europe/article3042791.ece|accessdate=17 August 2008|location=London|first=Roger |last=Boyes}}&lt;/ref&gt; Tierpark Friedrichsfelde, founded in 1955 in the grounds of Schloss Friedrichsfelde in the Borough of [[Lichtenberg]], is Europe's largest zoo in terms of square meters.
+
+[[Botanical Garden in Berlin|Berlin's Botanischer Garten]] includes the Botanic Museum Berlin. With an area of {{convert|43|ha|acre|abbr=off|lk=off}} and around 22,000 different plant species it is one of the largest and most diverse gardens in the world.
+
+The [[Tiergarten]] is Berlin's largest park located in Mitte and was designed by [[Peter Joseph Lenné]].&lt;ref&gt;[http://www.stadtentwicklung.berlin.de/aktuell/wettbewerbe/lenne/en/biographie.shtml Peter Joseph Lenné], Senate Department of Urban Development. Retrieved 18 November 2006.&lt;/ref&gt; In Kreuzberg the [[Viktoriapark]] provides a good viewing point over the southern part of inner city Berlin. [[Treptower Park]] beside the Spree in [[Treptow]] has a [[Soviet War Memorial (Treptower Park)|monument]] honoring the Soviet soldiers killed in the 1945 [[Battle of Berlin]]. The Volkspark in [[Friedrichshain]], which opened in 1848, is the oldest park in the city. Its summit is man-made and covers a Second World War bunker and rubble from the ruins of the city; at its foot is Germany's main [[Memorial to Polish Soldiers and German Anti-Fascists|memorial to Polish soldiers]].
+
+Berlin is known for its numerous beach bars along the river Spree. Together with the countless cafés, restaurants and green spaces in all districts, they create an important source of recreation and leisure time.&lt;ref&gt;[http://travel.nytimes.com/2006/12/10/travel/10hours.html 36 Hours in Berlin], NYT, Accessed 29 May 2007.&lt;/ref&gt;
+
+===Sports===
+[[File:Berlin Olympiastadion during footballmatch herta bsc berlin vs borussia dortmund 02 20070421.jpg|thumb|The [[Olympic Stadium (Berlin)|Olympiastadion]] hosted the 1936 Summer Olympics and the 2006 FIFA World Cup final.]]
+[[File:Berlin marathon.jpg|thumb|The annual [[Berlin Marathon]] is known as a flat and fast course.]]
+
+Berlin has established a high profile reputation as a host city of international sporting events.&lt;ref&gt;{{cite web|url=http://www.abc.net.au/news/stories/2008/04/01/2204562.htm?section=sport|title=Melbourne retains ultimate sports city title|work=[[ABC News (Australia)|ABC News]]|date=1 April 2008|accessdate=1 July 2008}}&lt;/ref&gt; Berlin hosted the [[1936 Summer Olympics|1936 Olympics]] and was the host city for the [[2006 FIFA World Cup]] Final.&lt;ref&gt;[http://www.olympic.org/uk/games/past/index_uk.asp?OLGT=1&amp;OLGY=1936 Berlin 1936 Games of the XI Olympiad], www.olympic.org, Accessed 18 November 2006. See also: {{cite web|url=http://www.fifa.com/worldcup/archive/germany2006/overview.html|title=Italy conquer the world as Germany wins friends}}&lt;/ref&gt; The [[IAAF World Championships in Athletics]] were held in the [[Olympiastadion]] in August 2009.&lt;ref&gt;[http://www.berlin2009.org/ 12. IAAF Leichtathletik WM berlin 2009], www.berlin2009.org. Retrieved 1 July 2008.&lt;/ref&gt; The annual [[Berlin Marathon]] and the annual [[ÅF Golden League]] event [[Internationales Stadionfest|ISTAF]] for athletics are also held here.&lt;ref&gt;[http://www.scc-events.com/index.en.php Berlin Marathon], www.scc-events.com. Retrieved 12 November 2006.&lt;/ref&gt; The [[WTA Tour]] holds the [[Qatar Total German Open]] annually in the city. Founded in 1896, it is one of the oldest tennis tournaments for women. The [[FIVB]] World Tour has chosen an inner-city site near Alexanderplatz to present a beach volleyball Grand Slam every year.
+
+Open Air gatherings of several hundred thousands spectators have become popular during international football competitions like the World Cup or the [[UEFA European Football Championship]]. Fans of the respective national football squads are coming together to watch the match on huge videoscreens. The event is known as the ''Fan Mile'' and takes place at the Brandenburg Gate every two years.&lt;ref&gt;[http://english.sabah.com.tr/B984DF3032754A828EA6DD8C80B16A8A.html 500,000 spectators to watch the game together]{{Dead link|date=November 2009}}, SABAH Newspaper. Retrieved 1 July 2008.&lt;/ref&gt;
+
+Several major clubs representing the most popular spectator sports in Germany have their base in Berlin.
+
+{| class=&quot;wikitable&quot;
+|-
+! style=&quot;background:#d8e2ef; color:navy;&quot; |Club
+! style=&quot;background:#d8e2ef; color:navy;&quot; |Sport
+! style=&quot;background:#d8e2ef; color:navy;&quot; |Founded
+! style=&quot;background:#d8e2ef; color:navy;&quot; |League
+! style=&quot;background:#d8e2ef; color:navy;&quot; |Venue
+! style=&quot;background:#d8e2ef; color:navy;&quot; |Head Coach
+|-
+|[[Hertha BSC]] &lt;ref&gt;[http://www.herthabsc.de/ Hertha BSC], www.herthabsc.de/. Retrieved 1 July 2008.&lt;/ref&gt;
+|[[Association football|Football]]
+|1892
+|[[2. Fußball-Bundesliga|2. Bundesliga]]
+|[[Olympic Stadium (Berlin)|Olympiastadion]]
+|[[Markus Babbel|M. Babbel]]
+|-
+|[[1. FC Union Berlin]] &lt;ref&gt;[http://www.fc-union-berlin.de/ Union Berlin], www.fc-union-berlin.de/. Retrieved 3 April 2010.&lt;/ref&gt;
+|[[Association football|Football]]
+|1966
+|[[2. Fußball-Bundesliga|2. Bundesliga]]
+|[[Alte Försterei]]
+|[[Uwe Neuhaus|U. Neuhaus]]
+|-
+|[[ALBA Berlin]] &lt;ref&gt;[http://www.albaberlin.de/ ALBA Berlin], www.albaberlin.de. Retrieved 1 July 2008.&lt;/ref&gt;
+|[[Basketball]]
+|1991
+|[[Basketball Bundesliga|BBL]]
+|[[O2 World|O&lt;sub&gt;2&lt;/sub&gt; World]]
+|L. Pavicevic
+|-
+|[[Eisbären Berlin]] &lt;ref&gt;[http://www.eisbaeren.de/content/index.php Eisbären Berlin], www.eisbaeren.de. Retrieved 1 July 2008.&lt;/ref&gt;
+|[[Ice hockey]]
+|1954
+|[[Deutsche Eishockey Liga|DEL]]
+|[[O2 World|O&lt;sub&gt;2&lt;/sub&gt; World]]
+|[[Don Jackson (ice hockey)|D. Jackson]]
+|-
+|[[Füchse Berlin]] &lt;ref&gt;[http://www.fuechse-berlin.de/2007/o.red.c/home-start.php Füchse Berlin], www.fuechse-berlin.de. Retrieved 1 July 2008.&lt;/ref&gt;
+|[[Team handball|Handball]]
+|1891
+|[[Bundesliga (handball)|HBL]]
+|[[Max-Schmeling-Halle]]
+|D. Sigurdsson
+|-
+|[[SC Charlottenburg Berlin|SCC Berlin]] &lt;ref&gt;[http://www.scc-berlin.de/abteilungen.html SCC Berlin], www.scc-berlin.de. Retrieved 1 July 2008.&lt;/ref&gt;
+|[[Volleyball]]
+|1911
+|DVL &lt;ref&gt;[http://www.volleyball-bundesliga.de/volleyball/ligen.php?menuid=192&amp;topmenu=395&amp;liga=1&amp;runden=130&amp;keepmenu=inactive] Retrieved 21 May 2010&lt;/ref&gt;
+|Sporthalle Charlottenburg
+|A. Urnaut
+|-
+|Köpenicker SC Berlin &lt;ref&gt;[http://www.k-sc.de/index.php?option=com_content&amp;task=view&amp;id=238&amp;Itemid=123], www.k-sc.de. Retrieved 10 May 2010.&lt;/ref&gt;
+|[[Volleyball]]
+|1991
+| DVL &lt;ref&gt;[http://www.volleyball-bundesliga.de/volleyball/ligen.php?menuid=405&amp;topmenu=394&amp;liga=1&amp;runden=131&amp;keepmenu=inactive] Retrieved 21 May 2010&lt;/ref&gt;
+| Sporthalle Hämmerlingstraße
+| Jürgen Treppner
+|}
+
+==Infrastructure==
+===Transportation===
+{{Main|Transport in Berlin}}
+[[File:BlnHauptbahnhof28.jpg|thumb|[[Berlin Hauptbahnhof]] is the largest crossing station in Europe and has operated since 2006.]]
+
+Berlin has developed a highly complex transportation infrastructure providing very diverse modes of urban mobility.&lt;ref&gt;{{cite web|url=http://www.iht.com/articles/2005/05/01/news/mayor5.php|title=Broke but dynamic, Berlin seeks new identity|work=IHT|accessdate=19 August 2008}}&lt;/ref&gt; 979 bridges cross 197 kilometers of innercity waterways, {{km to mi|5334|precision=0}} of roads run through Berlin, of which {{km to mi|73|precision=0}} are motorways (&quot;[[Autobahn]]&quot;).&lt;ref name=&quot;factsheet&quot;/&gt; In 2006, 1.416&amp;nbsp;million motor vehicles, were registered in the city.&lt;ref&gt;{{cite web|url=http://www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/DE/Content/Statistiken/Verkehr/VerkehrsmittelbestandInfrastruktur/Tabellen/Content75/Fahrzeugbestand,templateId=renderPrint.psml|title=Kraftfahrzeuge und Schienenbestand|work=Destatis|accessdate=19 August 2008}}&lt;/ref&gt; With 358 cars per 1000 inhabitants in 2008 (570/1000 in Germany), Berlin as a German state and as a major European city has one of the lowest numbers of cars per capita.&lt;ref&gt;{{cite web|url=http://www.berlinonline.de/berliner-zeitung/archiv/.bin/dump.fcgi/2009/0811/berlin/0025/index.html|title=Die Hauptstadt des umweltfreundlichen Verkehrs|work=[[Berliner Zeitung]]|accessdate=11 August 2009|language=German}}&lt;/ref&gt;
+
+Long-distance rail lines connect Berlin with all of the major cities of Germany and with many cities in neighboring European countries. Regional rail lines provide access to the surrounding regions of Brandenburg and to the [[Baltic Sea]]. The [[Berlin Hauptbahnhof]] is the largest crossing station in Europe.&lt;ref&gt;{{cite web|url=http://www.hbf-berlin.de/site/berlin__hauptbahnhof/en/start.html|title=Berlin Hauptbahnhof|work=[[Deutsche Bahn]]|accessdate=2 May 2009}}&lt;/ref&gt; [[Deutsche Bahn]] runs trains to domestic destinations like [[Nuremberg]], [[Hamburg]], [[Freiburg]] and more. It also runs the Airport express, as well as trains to international destinations like [[Moscow]], [[Vienna]], and [[Salzburg]].
+
+Berlin is known for its highly developed bike lane system.&lt;ref&gt;{{cite web|url=http://www.treehugger.com/files/2007/07/bike_city_berli.php|title=Bike City Berlin|work=Treehugger|accessdate=19 August 2008}}&lt;/ref&gt; 710 bicycles per 1000 inhabitants are estimated. Around 500,000 daily riders accounting for 13% of total traffic in 2008. The Senate of Berlin aims to increase the number to 15% of city traffic by the year 2010. Riders have access to {{convert|620|km|abbr=on}} of bike paths including approx. {{convert|150|km|abbr=on}} mandatory bicycle paths, {{convert|190|km|abbr=on}} off-road bicycle routes, {{convert|60|km|abbr=on}} of bike lanes on the roads, {{convert|70|km|abbr=on}} of shared bus lanes which are also open to bicyclists, {{convert|100|km|abbr=on}} of combined pedestrian/bike paths and {{convert|50|km|abbr=on}} of marked bike lanes on the sidewalks.&lt;ref&gt;{{cite web|url=http://www.stadtentwicklung.berlin.de/verkehr/radverkehrsanlagen/en/radwege.shtml|title=Bicycle Routes and Facilities Bicycle Paths|work=Senate Department of urban development|accessdate=19 September 2008}}&lt;/ref&gt; The {{lang|de|[[Berliner Verkehrsbetriebe]]}} and the Deutsche Bahn manage several dense urban public transport systems.&lt;ref&gt;Amt für Statistik Berlin-Brandenburg, [http://www.statistik-berlin-brandenburg.de/produkte/KleineStatistik/kBEst_2008.pdf Die kleine Berlin-Statistik]. (German) Accessed 2009-01-06.&lt;/ref&gt;
+
+{| class=&quot;wikitable&quot;
+|-
+! style=&quot;background:#d8e2ef; color:navy;&quot; |System
+! style=&quot;background:#d8e2ef; color:navy;&quot; |Stations/ Lines/ Net length
+! style=&quot;background:#d8e2ef; color:navy;&quot; |Passengers per year
+! style=&quot;background:#d8e2ef; color:navy;&quot; |Operator/ Notes
+|-
+|[[Berlin S-Bahn|S-Bahn]]
+|166 / 15 / {{convert|331|km|abbr=on}}
+|376 million
+|[[Deutsche Bahn|DB]]/ Mainly overground rail system. Some suburban stops.
+|-
+|[[Berlin U-Bahn|U-Bahn]]
+|173 / 10 / {{convert|147|km|abbr=on}}
+|457 million
+|[[BVG]]/ Mainly underground rail system. 24hour-service on weekends.
+|-
+|[[Berlin Straßenbahn|Tram]]
+|398 / 22 / {{convert|192|km|abbr=on}}
+|171 million
+| BVG/ Operates predominantly in eastern boroughs.
+|-
+|[[Bus]]
+|2627 / 147 / {{convert|1626|km|abbr=on}}
+|407 million
+|BVG/ Extensive services in all boroughs. 46 Night Lines
+|-
+|[[Ferry]]
+|6 lines
+|
+|BVG/ All modes of transport can be accessed with the same ticket.&lt;ref name=&quot;statoffice&quot;/&gt;
+|}
+
+[[File:EDDT Empfang &amp; Tower.jpg|thumb|[[Tegel International Airport]]]]
+
+Berlin has two commercial airports. [[Tegel International Airport]] (TXL), the busier, and [[Schönefeld International Airport]] (SXF) handled more than 21 million passengers combined in 2009. Together they serve 166 destinations (123 European) in 50 countries (summer 2010).&lt;ref&gt;{{cite web|url=http://notizie.virgilio.it/notizie/economia/2010/3_marzo/24/aeroporti_nel_2011_unico_scalo_a_berlino_da_27_mln_di_2,23530301.html|title=n 2009 nei 3 scali berlinesi sono transitati 21 mln passeggeri|work=notizie.virgilio.it|accessdate=2 April 2010}}&lt;/ref&gt; Tegel lies within the city limits and is the European hub of [[Air Berlin]]. Whereas Schönefeld handles mainly low-cost-aviation and is situated just outside Berlin's south-eastern border in the state of Brandenburg.
+
+Berlin's airport authority aims to transfer all of Berlin's air traffic in November 2011 to a newly built airport at Schönefeld, to be renamed [[Berlin-Brandenburg International Airport|Berlin Brandenburg Airport]].&lt;ref&gt;{{cite web|url=http://www.berlin-airport.de/EN/BBI/|title=Airport Berlin Brandenburg International|work=Airports Berlin|accessdate=18 August 2008}}&lt;/ref&gt; City authorities aim to establish a European aviation hub with a gateway to Asia.
+
+===Utilities===
+[[File:Berlin HKW Mitte.jpg|thumb|upright|Heizkraftwerk Mitte.]]
+
+Berlin's power supply is mainly provided by the Swedish firm [[Vattenfall]] and relies more heavily than other electricity producers in Germany on [[lignite]] as an energy source. Because burning lignite produces harmful emissions, Vattenfall has announced a commitment to shift towards reliance on cleaner, [[renewable energy]] sources.&lt;ref&gt;{{cite web|url=http://www.taz.de/index.php?id=archivseite&amp;dig=2006/05/30/a0166|title=Abgase tiefer gelegt|first=Nick|last=Reimer|work=[[Die Tageszeitung|taz]]|date=30 May 2006|accessdate=18 August 2008|language=German}}&lt;/ref&gt; Former West Berlin's electricity supply was provided by thermal power stations. To facilitate buffering during load peaks, [[Accumulator (energy)|accumulators]] were installed during the 1980s at some of these power stations. These were connected by static inverters to the power grid and were loaded during times of low power consumption and unloaded during times of high consumption.
+
+In 1993 the power connections to the surrounding areas, which had been capped in 1951, were restored. In the western districts of Berlin, nearly all power lines are underground cables; only a 380&amp;nbsp;kV and a 110&amp;nbsp;kV line, which run from Reuter substation to the urban [[Autobahn]], use overhead lines. The [[Berlin 380-kV electric line]] was constructed when West Berlin's electrical system was a totally independent system and not connected to those of East or West Germany. This has now become the backbone of the whole city's power system.
+
+Carmaker [[Daimler AG]] and utility RWE AG are going to begin a joint electric car and [[charging station]] test project in Berlin called &quot;E-Mobility Berlin.&quot;&lt;ref&gt;[http://money.cnn.com/news/newsfeeds/articles/apwire/3e8bc7ee811bd771be83c3bf1960bbbc.htm]{{Dead link|date=November 2009}}&lt;/ref&gt;
+
+===Health system===
+[[File:Charité (Berlin).jpg|thumb|The [[Charité]] main building.]]
+
+Berlin has a long tradition as a city of medicine and medical technology.&lt;ref&gt;{{cite web|url=http://www.tagesspiegel.de/magazin/wissen/Elitewettbewerb-Universitaeten;art304,2400973|title=Berlin leuchtet|first1=Anja|last1=Kühne|first2=Tilmann|last2=Warnecke|work=[[Der Tagesspiegel]]|date=17 October 2007|accessdate=18 August 2008|language=German}}&lt;/ref&gt; The history of medicine has been widely influenced by scientists from Berlin. [[Rudolf Virchow]] was the founder of cellular pathology, while [[Robert Koch]], discovered the vaccinations for anthrax, cholera, and tuberculosis bacillus.&lt;ref&gt;{{cite web|url=http://www.charite.de/ch/neuro/lokales/charite/geschichte.html|title=History of the Charité of Berlin|work=[[Charité]]|date=6 September 2005|accessdate=18 August 2008}}&lt;/ref&gt;
+
+The [[Charité]] hospital complex is today the largest [[university hospital]] in Europe tracing back its origins to the year 1710. The Charité is spread over four sites and comprises 3,300 beds, around 14,000 staff, 8,000 students, over 60 operating theatres with an annual turnover of over one billion euros.&lt;ref&gt;{{cite web|url=http://www.anselleurope.com/medical/index.cfm?Include=testimonials&amp;lang=EN&amp;I=4166|title=Customer company profile|work=Ansell Healthcare|accessdate=18 August 2008}}&lt;/ref&gt;
+It is a joint institution of the [[Free University of Berlin]] and the [[Humboldt University of Berlin]], including a wide range of institutes and medical competence centers. Among them are the German Heart Center, one of the most renowned transplantation centers, the Max-Delbrück-Center for Molecular Medicine and the Max-Planck-Institute for Molecular Genetics. Scientific research is complemented by many industry research departments of companies such as Siemens, Schering or debis.
+
+==Quotations==
+{{See also|List of quotes featuring Berlin}}
+[[File:Marlene Dietrich in Stage Fright trailer.jpg|thumb|right|[[Marlene Dietrich]] was born in Berlin-[[Schöneberg]].]]
+* &quot;Berlin ist eine Stadt, verdammt dazu, ewig zu werden, niemals zu sein&quot; (&quot;Berlin is a city condemned always to become, never to be.&quot;)&lt;br /&gt;&lt;small&gt;(Karl Scheffler, author of ''Berlin: Ein Stadtschicksal, 1910'')&lt;ref&gt;{{citebook|last=Scheffler|first=Karl|title=Berlin: Ein Stadtschicksal|publisher=Fannei &amp; Walz|isbn=3927574023}}&lt;/ref&gt;&lt;/small&gt;
+* &quot;Ich hab noch einen Koffer in Berlin&quot; (&quot;I still have a suitcase in Berlin&quot;)&lt;br /&gt;&lt;small&gt;([[Marlene Dietrich]], 1951 song by the actress and singer born in Berlin-Schöneberg.)&lt;ref&gt;{{cite web|url=http://www.newcolonist.com/cs-berlin.html|title=Citysongs|work=The New Colonist|accessdate=18 August 2008}}&lt;/ref&gt;&lt;/small&gt;
+* &quot;[[Ich bin ein Berliner]].&quot; (&quot;I am a citizen of Berlin&quot;)&lt;br /&gt; &lt;small&gt;([[John F. Kennedy]], President of the United States, 1963 while visiting Berlin)&lt;/small&gt;
+* &quot;The greatest cultural extravaganza that one could imagine.&quot;&lt;br /&gt;&lt;small&gt;([[David Bowie]], singer, on 1970s Berlin)&lt;ref&gt;{{cite web|url=http://www.expatica.com/de/life_in/feature/david-bowies-golden-years-in-berlin-31468.html|title=David Bowie's golden years in Berlin|publisher=Expatica|accessdate=18 August 2008}}&lt;/ref&gt;&lt;/small&gt;
+* &quot;Berlin wird leben und die Mauer wird fallen.&quot; (&quot;Berlin will live and the wall will fall.&quot;)&lt;br /&gt;&lt;small&gt;([[Willy Brandt]], Former Governing Mayor of West Berlin and chancellor of Germany, 10 November 1989)&lt;ref&gt;{{cite news|url=http://www.guardian.co.uk/world/1989/nov/11/berlinwall.germany3|title=Kohl: We are one nation|first1=Anna|last1=Tomforde|first2=Michael|last2=Farr|work=[[guardian.co.uk|The Guardian]]|location=London|date=11 November 1999|accessdate=18 August 2008}}&lt;/ref&gt;&lt;/small&gt;
+* &quot;Berlin ist arm, aber sexy.&quot; (&quot;Berlin is poor, but sexy.&quot;)&lt;br /&gt; &lt;small&gt;([[Klaus Wowereit]], Governing Mayor, in a press interview, 2003)&lt;ref&gt;{{cite web|url=http://www.focus.de/politik/deutschland/wowereits-berlin-slogan_aid_117712.html|title=&quot;Arm, aber sexy&quot;|work=[[Focus (German magazine)|Focus]]|accessdate=18 August 2008|language=German}}&lt;/ref&gt;&lt;/small&gt;
+{{-}}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==Bibliography==
+{{Portal|Germany}}
+{{Wikisource1911Enc|Berlin}}
+&lt;div class=&quot;references-small&quot;&gt;
+* {{citebook|last=Chandler|first=Tertius|title=Four Thousand Years of Urban Growth: An Historical Census|publisher=Edwin Mellen Pr|year=1987|isbn=0889462070}}
+* {{citebook|last=Gill|first=Anton|title=A Dance Between Flames: Berlin Between The Wars|publisher=John Murray|year=1993|isbn=0719549868}}
+* {{citebook|last=Gross|first=Leonard|title=The Last Jews in Berlin|publisher=Carroll &amp; Graf Publishers|year=1999|isbn=0786706872}}
+* {{citebook|last=Large|first=David Clay|title=Berlin|publisher=Basic Books|year=2001|isbn=046502632X}}
+* {{citebook|last=Read|first=Anthony|coauthors=David Fisher|title=Berlin Rising: Biography of a City|publisher=W.W. Norton|year=1994|isbn=0393036065}}
+* {{citebook|last=Ribbe|first=Wolfgang|title=Geschichte Berlins|publisher=Bwv — Berliner Wissenschafts-Verlag|year=2002|isbn=3830501668}}
+* {{citebook|last=Roth|first=Joseph|title=What I saw: Reports from Berlin 1920-33|publisher=Granta Books|year=2004|isbn=1-86207-636-7}}
+* {{citebook|last=Taylor|first=Frederick|title=The Berlin Wall: 13 August 1961 - 9 November 1989|publisher=Bloomsbury|year=2007|isbn=0060786140}}
+&lt;/div&gt;
+
+==External links==
+{{Sister project links|Berlin}}
+* [http://www.berlin.de/international/index.en.php/ Official Website Berlin.de]
+* [http://www.hauptstadtregion-berlin-brandenburg.de/ Official Website of the Berlin-Brandenburg Metropolitan Area]
+* [http://www.berlin-regional.de/ Regional directory] {{de icon}}
+* [http://www.berlin-tourist-information.de/index.en.php Berlin Tourist Information]
+* [http://www.museumsportal-berlin.de/en.html Museumsportal Berlin: All museums, memorials, castles and collections with detailled information]
+* [http://www.exberliner.com Monthly English-language magazine for Berlin]
+* [http://berlin.unlike.net/ English-language city guide for Berlin]
+* {{Wikitravel}}
+* [http://www.flickr.com/photos/41182695@N08/sets/72157622725699696/ Berlin photo gallery] Images of Berlin and its most popular monuments.
+
+{{Geographic location
+|Centre    = Berlin
+|North     = [[Neubrandenburg]], [[Rostock]]
+|Northeast = [[Szczecin]] ([[Poland]])
+|East      = [[Frankfurt (Oder)]]
+|Southeast = [[Cottbus]]
+|South     = [[Dresden]]
+|Southwest = [[Potsdam]], [[Dessau]], [[Halle, Saxony-Anhalt|Halle]], [[Leipzig]]
+|West      = [[Brandenburg an der Havel]], [[Braunschweig]]
+|Northwest = [[Hamburg]], [[Lübeck]]
+}}
+
+{{Navboxes
+|list=
+{{Berlin}}
+{{Boroughs of Berlin}}
+{{Cities in Germany}}
+{{Germany states}}
+{{Capital cities of the European Union}}
+{{List of European capitals by region}}
+{{European Capital of Culture}}
+{{Olympic Summer Games Host Cities|nocat=yes}}
+{{Hanseatic League}}
+}}
+
+[[Category:Berlin| ]]
+[[Category:States of Germany]]
+[[Category:German state capitals]]
+[[Category:Capitals in Europe]]
+[[Category:Host cities of the Summer Olympic Games]]
+[[Category:Members of the Hanseatic League]]
+[[Category:States and territories established in 1237]]
+[[Category:Populated places established in the 13th century]]
+[[Category:City-states]]
+[[Category:European Capitals of Culture]]
+
+{{Link GA|da}}
+{{Link GA|de}}
+{{Link GA|fi}}
+{{Link GA|no}}
+{{Link FA|af}}
+{{Link FA|la}}
+{{Link FA|vi}}
+[[ace:Berlin]]
+[[af:Berlyn]]
+[[als:Berlin]]
+[[am:በርሊን]]
+[[ang:Berlin]]
+[[ar:برلين]]
+[[an:Berlín]]
+[[arc:ܒܪܠܝܢ]]
+[[roa-rup:Berlin]]
+[[frp:Bèrlin]]
+[[ast:Berlín]]
+[[gn:Berlin]]
+[[az:Berlin]]
+[[bn:বার্লিন]]
+[[zh-min-nan:Berlin]]
+[[ba:Берлин]]
+[[be:Горад Берлін]]
+[[be-x-old:Бэрлін]]
+[[bi:Berlin]]
+[[bar:Berlin]]
+[[bo:པེ་ལིང་།]]
+[[bs:Berlin]]
+[[br:Berlin]]
+[[bg:Берлин]]
+[[ca:Berlín]]
+[[cv:Берлин]]
+[[cs:Berlín]]
+[[cbk-zam:Berlín]]
+[[co:Berlinu]]
+[[cy:Berlin]]
+[[da:Berlin]]
+[[pdc:Berlin]]
+[[de:Berlin]]
+[[dsb:Barliń]]
+[[et:Berliin]]
+[[el:Βερολίνο]]
+[[myv:Берлин ош]]
+[[es:Berlín]]
+[[eo:Berlino]]
+[[ext:Berlín]]
+[[eu:Berlin]]
+[[fa:برلین]]
+[[hif:Berlin]]
+[[fo:Berlin]]
+[[fr:Berlin]]
+[[fy:Berlyn]]
+[[fur:Berlin]]
+[[ga:Beirlín]]
+[[gv:Berleen]]
+[[gd:Berlin]]
+[[gl:Berlín - Berlin]]
+[[gan:柏林]]
+[[ko:베를린]]
+[[haw:Pelelina]]
+[[hy:Բեռլին]]
+[[hi:बर्लिन]]
+[[hsb:Berlin]]
+[[hr:Berlin]]
+[[io:Berlin]]
+[[ilo:Berlin, Alemania]]
+[[id:Berlin]]
+[[ia:Berlin]]
+[[ie:Berlin]]
+[[os:Берлин]]
+[[zu:IBerlin]]
+[[is:Berlín]]
+[[it:Berlino]]
+[[he:ברלין]]
+[[jv:Berlin]]
+[[kn:ಬರ್ಲಿನ್]]
+[[pam:Berlin]]
+[[ka:ბერლინი]]
+[[ks:बर्लिन]]
+[[csb:Berlëno]]
+[[kk:Берлин]]
+[[kw:Berlin]]
+[[sw:Berlin]]
+[[kv:Берлин]]
+[[ht:Bèlen]]
+[[ku:Berlîn]]
+[[la:Berolinum]]
+[[lv:Berlīne]]
+[[lb:Berlin]]
+[[lt:Berlynas]]
+[[lij:Berlin]]
+[[li:Berlien]]
+[[ln:Berlin]]
+[[jbo:berlin]]
+[[lg:Berlin]]
+[[lmo:Berlin]]
+[[hu:Berlin]]
+[[mk:Берлин]]
+[[mg:Berlin]]
+[[ml:ബെർലിൻ]]
+[[mt:Berlin]]
+[[mi:Pearīni]]
+[[mr:बर्लिन]]
+[[arz:بيرلين]]
+[[ms:Berlin]]
+[[mwl:Berlin]]
+[[mn:Берлин]]
+[[my:ဘာလင်မြို့]]
+[[nah:Berlin]]
+[[na:Berlin]]
+[[fj:Berlin]]
+[[nl:Berlijn]]
+[[ja:ベルリン]]
+[[nap:Berlino]]
+[[pih:Berlin]]
+[[no:Berlin]]
+[[nn:Berlin]]
+[[nrm:Bèrlîn]]
+[[nov:Berlin]]
+[[oc:Berlin]]
+[[mhr:Берлин]]
+[[uz:Berlin]]
+[[pnb:برلن]]
+[[pap:Berlin]]
+[[ps:برلين]]
+[[pms:Berlin]]
+[[tpi:Berlin]]
+[[nds:Berlin]]
+[[pl:Berlin]]
+[[pt:Berlim]]
+[[crh:Berlin]]
+[[ty:Berlin]]
+[[ksh:Bälliin (Bundesland)]]
+[[ro:Berlin]]
+[[rmy:Berlin]]
+[[rm:Berlin]]
+[[qu:Berlin]]
+[[ru:Берлин]]
+[[sah:Берлин]]
+[[se:Berlin]]
+[[sc:Berlino]]
+[[sco:Berlin]]
+[[stq:Berlin]]
+[[sq:Berlini]]
+[[scn:Birlinu]]
+[[simple:Berlin]]
+[[sk:Berlín]]
+[[cu:Бєрли́нъ]]
+[[sl:Berlin]]
+[[szl:Berlin]]
+[[so:Berlin]]
+[[ckb:بەرلین]]
+[[srn:Berlin]]
+[[sr:Берлин]]
+[[sh:Berlin]]
+[[fi:Berliini]]
+[[sv:Berlin]]
+[[tl:Berlin]]
+[[ta:பெர்லின்]]
+[[kab:Berlin]]
+[[roa-tara:Berline]]
+[[tt:Берлин]]
+[[te:బెర్లిన్]]
+[[tet:Berlín]]
+[[th:เบอร์ลิน]]
+[[tg:Берлин]]
+[[tr:Berlin]]
+[[udm:Берлин]]
+[[uk:Берлін]]
+[[ur:برلن]]
+[[ug:Bérlin]]
+[[vec:Berlin]]
+[[vi:Berlin]]
+[[vo:Berlin]]
+[[fiu-vro:Berliin]]
+[[zh-classical:柏林]]
+[[vls:Berlyn]]
+[[war:Berlin]]
+[[wo:Berlin]]
+[[yi:בערלין]]
+[[yo:Berlin]]
+[[zh-yue:柏林]]
+[[diq:Berlin]]
+[[bat-smg:Berlīns]]
+[[zh:柏林]]</text>
+    </revision>
+  </page>
+</mediawiki>

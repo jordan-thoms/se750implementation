@@ -1,0 +1,320 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.4/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.4/ http://www.mediawiki.org/xml/export-0.4.xsd" version="0.4" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.16wmf4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Lamborghini Gallardo</title>
+    <id>623020</id>
+    <revision>
+      <id>367361001</id>
+      <timestamp>2010-06-11T04:45:59Z</timestamp>
+      <contributor>
+        <ip>66.98.12.187</ip>
+      </contributor>
+      <comment>/* LP 560-4 (2008-) */</comment>
+      <text xml:space="preserve">{{Infobox Automobile
+| name           = Lamborghini Gallardo
+| image          = [[Image:Lamborghini Gallardo silver.jpg|250px|Lamborghini Gallardo]]
+| manufacturer   = [[Lamborghini]]
+| parent_company = [[Audi AG]]
+| aka            = 
+| production     = 2003&amp;ndash;present&lt;br/&gt;9,510 built (2003-2009)&lt;ref&gt;[http://www.audi.de/etc/medialib/cms4imp/audi2/company/financial_information/pdf_0803.Par.0017.File.pdf Audi 2006-2007 annual report]&lt;/ref&gt;&lt;ref&gt;[http://www.audi.de/etc/medialib/ngw/company/investor_relations/pdf/finanzberichte/geschaeftsbericht.Par.0007.File.pdf/audi_gb_2008_de_finanz.pdf Audi 2008 annual report]&lt;/ref&gt;
+| assembly       = [[Sant'Agata Bolognese]], [[Italy]]
+| predecessor    = [[Lamborghini Jalpa]]
+| successor      = 
+| class          = [[Sports car]]
+| body_style     = 2-door [[coupé]]&lt;br/&gt;2-door [[spyder]]
+| layout         = [[Mid-engine, four-wheel drive layout|Mid-engine, four-wheel drive]]&lt;br&gt;Mid-engine, rear wheel drive (Balboni Edition)
+| platform       = 
+| engine         = 5.0&amp;nbsp;L [[V10 engine|V10]]&lt;br/&gt;5.2 L [[V10 engine|V10]]
+| transmission   = 6-speed [[Manual transmission|manual]]&lt;br/&gt;6-speed single clutch [[electrohydraulic manual transmission]]
+| wheelbase      = {{convert|2560|mm|1|abbr=on}}
+| length         = {{convert|4300|mm|1|abbr=on}}
+| width          = {{convert|1900|mm|1|abbr=on}}
+| height         = {{convert|1165|mm|1|abbr=on}}&lt;br /&gt;Spyder: {{convert|46.6|in|1|abbr=on}}
+| weight         = {{convert|1569|kg|0|abbr=on}}
+| related        = [[Audi R8 (road car)|Audi R8]]&lt;br /&gt;[[Lamborghini Concept S]]
+| designer       = [[Luc Donckerwolke]]
+| sp             = us
+}}
+The '''Lamborghini Gallardo''' ({{IPA-it|ɡaˈʎarðo}}{{Citation needed|date=May 2010}}) is a [[sports car]] built by [[Lamborghini]]. The Gallardo is Lamborghini's most-produced model to date, with over 5000 built in its first three years of production.&lt;ref name=&quot;gallardo&quot;&gt;{{cite web | url=http://www.lambocars.com/new/5000.htm | title=Automobili Lamborghini starts the year with production record of five thousandth Gallardo | work=lambocars.com | date=January 22, 2007 }}&lt;/ref&gt;  Each car costs about $180,000 to $210,000.
+The car is named after a famous breed of fighting bull. The [[Italian (language)|Spanish]] word ''gallardo'' translates into &quot;gallant,&quot; and from Italian into &quot;striking&quot;.
+
+The Gallardo offers two choices of transmissions, a conventional (H-Box) six-speed [[manual transmission]], and an advanced six-speed electro-hydraulically controlled [[Semi-automatic transmission|semi-automatic]] [[electrohydraulic manual transmission|robotized manual]], which Lamborghini abbreviates to &quot;E-gear&quot;. The &quot;E-gear&quot; allows the driver to make shifts much faster than a manual transmission would. The driver shifts up and down via paddles behind the steering wheel, and does not and cannot manually actuate the [[clutch]].
+
+For the MY2006 (launched in late 2005) Lamborghini introduced many changes to the car to counter some criticisms garnered by the press and owners. These were derived from the limited edition Gallardo SE. The exhaust system was changed to a more sporty one (including a flap to make it quieter around town), the suspension was revised and a new steering rack was fitted, the engine power was increased by 20&amp;nbsp;bhp to a maximum of {{convert|512|bhp|kW|0|lk=on}}, the biggest change was an overall lowering of the gearing especially in 1st to 5th. The result was a much improved car, it handled and turned in better, sounded better under full throttle and the extra power and lower gearing turned an already fast car into a seriously quick one.
+
+The [[Audi R8 (road car)|Audi R8]] sports car, launched in early 2007, is based on the Gallardo [[automobile platform|platform]], and uses a 4.2 litre [[V8]] in place of the Gallardo's V10 to avoid competing directly with the Gallardo. In December 2008, Audi unveiled a V10 Audi R8, with a detuned version of the Gallardo's, placed between the R8 V8 and the Gallardo.
+
+For the 2008 model year, features added to the Gallardo included an onboard computer, [[iPod]] connectivity with USB, heated mirrors, Q-citura stitching that originally could only be found on the Nera model, and a beige soft-top on the Spyder.&lt;ref&gt;[http://www.autoblog.com/2007/08/14/lamborghini-releases-2008-model-year-changes/ AutoBlog.com&lt;!-- Bot generated title --&gt;], Lamborghini releases 2008 model year changes&lt;/ref&gt;
+
+== Variants ==
+===Lamborghini Concept S (2005)===
+{{Main|Lamborghini Concept S}}
+It is a concept vehicle based on contemporary Gallardo, but without roof. The car was designed by [[Luc Donckerwolke]], Head of Lamborghini Design.
+
+The car was unveiled in 2004 Geneva Motor Show.&lt;ref&gt;[http://www.ultimatecarpage.com/car/2219/Lamborghini-Concept-S.html UltimateCarpage.com], Lamborghini Concept S&lt;/ref&gt;
+
+===SE (2005)===
+[[Image:CIMG8207 (Medium) (2).JPG|thumb|right|2006 Verde Ithaca Gallardo SE on Angeles Crest Hwy in Los Angeles.]]
+Gallardo SE (Special Edition) is a limited (250 unit) version introduced in late 2005. The SE is distinguished from the regular Gallardo externally by having a black-roofed two-tone color scheme as well as specially-designed &quot;Callisto&quot; rims shod with [[Pirelli]] tires. Note that the Gallardo SE could only be ordered in a very small selection of exterior colors: two grey shades as well as white (Balloon white), yellow (Giallo Midas), Orange (Arancio Borealis) and green (Verde Ithaca)
+
+[[Image:IMG 7110 -1(Small).JPG|thumb|left|2006 Verde Ithaca Gallardo SE Interior.]]
+The Gallardo SE comes with a two-tone interior. All piping and stitching on the ultra-quality leather are executed in the same color as the bodywork of the car. The mid sections of the seats are finished in color-coded upholstery and even the black floormats have a color coded borders.
+
+A rear-view camera is also standard issue on the Gallardo SE, as is a multimedia system and a navigation system. The sport suspension and an exclusive cover also came with the car but there are still several other options available, like the E-gear, which featured a 'thrust' mode to offer even more impressive acceleration by improving the gearchange through the different gears.
+
+This &quot;thrust&quot; mode automatically revs the car to 5,000 rpm, drops the [[clutch]] engaging all four wheels in a controlled [[burnout]], and ensures the car performs maximum acceleration. This &quot;launch&quot; only requires the driver to engage the &quot;thrust&quot; mode and step on the gas pedal, similar to the launch technology in pre-2008 Formula 1 race cars.
+
+===Nera (2006)===
+[[Image:LamborghiniGallardoNero2.JPG|thumb|Lamborghini Gallardo Nera]]
+Gallardo Nera (Special Edition) is a limited (185 unit) version of contemporary Gallardo coupe introduced at the [[Mondial de l'Automobile 2006|Paris Motor Show]]. The car was designed to showcase the customization options available to the customer in the Ad Personam program.
+
+The Nera features special matte black body panels, and is only available in black—actually a combination of Nero Serapis and Nero Noctis. Brake calipers are painted a special silver, and the taillights are smoked to match the darker paint scheme. The interior is stitched from high-contrast black and white [[leather]] in the Q-Citura (lozenge shaped) fashion. Note that the glass engine cover remained an option, even on the Nera.
+
+Among the produced Gallardo Nera, 60 were destined for the American market, 91 were sold in Europe.
+
+===Gallardo Spyder (2006-2007)===
+[[Image:White Lambo Gallardo Spyder on display.jpg|thumb|left|Lamborghini Gallardo Spyder]]
+The production [[spyder]] model of the Gallardo was unveiled at the [[Los Angeles Auto Show]] in January 2006.  It is considered by the company to be an entirely new model, with {{convert|520|PS|kW hp|0|abbr=on}} and a lower-ratio six-speed [[manual transmission]].  The soft top is fully [[convertible|retractable]].
+
+[[Aerosmith]] [[drummer]] [[Joey Kramer]] was the first person in North America to take delivery of the Gallardo Spyder.
+
+''[[Top Gear (current format)|Top Gear]]'' presenter [[Jeremy Clarkson]] announced on 18 February 2007 that he had bought a Gallardo Spyder, replacing his [[Ford GT]].
+
+{{Clear}}
+
+===Racing (2007-)===
+In 2007, a Lamborghini Gallardo was entered in FIA GT3, as well as the Japanese '[[SUPER GT]]' Championship in the GT300 class, the lower of the two classes in the series.
+
+The FIA GT3 car was built with help from German motorsport specialists Reiter Engineering, who previously made the Murcielago GT1 and the Diablo GTR Super Trophy racers. All the extra aerodynamics were bolt-on parts, conforming with cost-effective regulations that meant the finished car had to closely resemble its road-going counterpart. Brembo racing brakes and OZ Racing wheels were also added. It remained All-Wheel-Drive.&lt;ref&gt;[http://www.supercars.net/cars/3475.html SuperCars.net]&lt;/ref&gt; It produced {{convert|512|bhp|kW|0|lk=on}} @ 7800rpm and 376.2&amp;nbsp;lb.ft of Torque @ 4500 rpm, barely more than the road car, and only as a result of adding an unsilenced racing exhaust system and better cooling.
+
+The SUPER GT car had to conform to rather different regulations. It could produce no more than 300PS (295&amp;nbsp;bhp/224&amp;nbsp;kW) and must be Rear-Wheel-Drive. The power is limited by air restrictors placed in the engine bay. The gearbox is a sequential 6-Speed twin-clutch setup. The rules regarding aerodynamics are far looser than those in FIA GT, meaning the SUPER GT car has more advanced aero, including a much bigger rear wing. It took a while to be competitive, only being consistently at the top this 2009 season.&lt;ref&gt;[http://supergt.net/en/ SuperGT.net]&lt;/ref&gt;
+
+'''LP560-4 Super Trofeo (2009-)'''
+
+Lamborghini introduced what it calls the 'Fastest one-make series in the world', featuring a 570&amp;nbsp;bhp, All-Wheel-Drive race-prepared version of the newer Gallardo LP560-4. The series suppourted European race series such as Deutsche Tourenwagen Meisterschaft (DTM), FIA GT Series and the World Touring Car Championship (WTCC), featuring 18 races overall and having a 30-car grid consisting of privateer teams as well as Lamborghini dealer teams and one factory team featuring guest drivers.&lt;ref&gt;[http://www.netcarshow.com/lamborghini/2009-gallardo_lp560-4_super_trofeo/ NetCarShow.com]&lt;/ref&gt;
+
+===Superleggera (2007-2008)===
+[[Image:Gallardosuperleggera.jpg|thumb|left|Lamborghini Gallardo Superleggera.]]
+A version of the Gallardo, dubbed the ''Superleggera'' (super light), was launched at the 2007 [[Geneva Auto Show]] supposedly in preparation for the next [[Ferrari F430#430 Scuderia|Ferrari 430 Scuderia]].{{Citation needed|date=April 2009}} The Superleggera paid tribute to the first Lamborghini production model, the famous 350GT, which was designed and built by the Carrozzeria Touring in Milan, a coachbuilding company that recently restarted its activities. The Lamborghini Gallardo doesn't have a Superleggera style constructed body, only the name.&lt;ref name=&quot;channel4.com&quot;&gt;{{cite web|url=http://www.channel4.com/4car/di/road+test/driving+impression/8154/1|title=Lamborghini Gallardo Superleggera (2007-)|accessdate=2009-03-14|work=channel4.com}}&lt;/ref&gt;
+
+The engine's improved intake, exhaust and ECU added {{convert|10|PS|kW hp|0|abbr=on}} for a total of {{convert|530|PS|kW hp|0|abbr=on}}. The 6-speed e-gear transmission, usually a US$ 10,000 option, now comes as a standard.
+
+The Superleggera is lighter than the base Gallardo by {{convert|100|kg|lb|abbr=on}} ({{convert|70|kg|lb|abbr=on}} in US model) from {{convert|1430|kg|lb|abbr=on}} via the use of carbon fibre panels for the rear diffuser, undertray, the rearview-mirror housings, the interior door panels, the central tunnel, engine cover; titanium wheel nuts, carbon fibre sports seats with Alcantara.
+
+Colour choices include Midas Yellow, Borealis Orange, Telesto Gray and Noctis Black.&lt;ref&gt;[http://www.autoblog.com/2007/02/26/lamborghini-gallardo-superleggera-revealed/ AutoBlog.com]&lt;/ref&gt;
+
+The vehicle was unveiled in 2007 [[Geneva Auto Show]].&lt;ref&gt;[http://www.autoblog.com/2007/03/07/geneva-motor-show-lamborghini-gallardo-superleggera/ AutoBlog.com], Geneva Motor Show: Lamborghini Gallardo Superleggera&lt;/ref&gt;
+
+The full price for a Superleggera with everything on it runs for over $200,000. Lamborghini began offering the Gallardo Superleggera in June 2007.&lt;ref&gt;[http://www.caranddriver.com/autoshows/12572/2007-lamborghini-gallardo-superleggera.html Car &amp; Driver: 2007 Lamborghini Gallardo Superleggera - Auto Shows]&lt;/ref&gt; 
+
+In March 2008, Lamborghini announced that they had ceased production of the Gallardo Superleggera.&lt;ref&gt;[http://www.autoblog.com/2008/03/27/lamborghini-ceases-production-of-gallardo-superleggera Lamborghini ceases production of Gallardo Superleggera - Autoblog&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; During its production life, 172 were produced, with 10 in white, 34 in grey, 37 in black, 45 in yellow and 46 in orange.&lt;ref&gt;[http://www.topgear.com/uk/car-news/superleggera-dead TopGear.com], Silence of the Lambs&lt;/ref&gt;
+
+===LP 560-4 (2008-)===
+[[Image:Lamborghini Gallardo LP560 - 1.jpg|thumb|right|Lamborghini Gallardo LP 560-4]]
+It is powered by a new 5.2L V10 with [[gasoline direct injection|direct injection]], with improved power and torque. Unlike the precedent engine, this engine no longer has [[split crankpins]], so it is not even firing, but Lamborghini says that due to the stiffer [[crankshaft]] it has less vibrations than the previous engine.&lt;ref&gt;[http://www.evo.co.uk/news/evonews/218484/lamborghini_gallardo_lp5604.html EVO.co.uk &lt;!-- Bot generated title --&gt;], Lamborghini Gallardo LP 560-4&lt;/ref&gt;
+
+Transmission choices include six-speed manual or a six-speed E-gear, with E-gear revised to change gears by a rotational selector instead of a fore/aft movement, which offers 40% quicker shifts. E-gear also added Corsa setting and Thrust Mode launch control system.
+
+The car was also {{convert|20|kg|lb|abbr=on}} lighter than 2008 base Gallardo. Other changes include a new front bumper influenced by the Murcielago and exterior lights influenced by the [[Lamborghini Reventón]].
+
+Gallardo LP 560-4 has base price of US$201,000, but can go over $222,000 with e-gear, carbon ceramic brakes, navigation and other options.&lt;ref&gt;[http://www.autoblog.com/2008/05/22/how-much-will-that-new-lamborghini-actually-cost-you/ AutoBlog.com], How much will that new Lamborghini actually cost you?&lt;/ref&gt; Other factory options are available with Ad Personam program.&lt;ref&gt;[http://www.autoblog.com/2009/01/11/detroit-2009-lamborghini-ups-the-personalization-options/ AutoBlog.com], Detroit 2009: Lamborghini ups the personalization options&lt;/ref&gt; The British version has MSRP of £147,330.00 ($235,730 USD), including NavTrak vehicle tracking system and delivery package.&lt;ref&gt;[http://www.autoblog.com/2008/06/06/lamborghini-prices-gallardo-lp560-4-for-uk-releases-new-pics/ AutoBlog.com], Lamborghini prices Gallardo LP560-4 for UK, releases new pics&lt;/ref&gt;
+
+The vehicle was unveiled at 2008 [[Geneva Auto Show]].&lt;ref&gt;[http://www.autoblog.com/2008/03/03/geneva-2008-lamborghini-gallardo-lp560-4-caught-hanging-around/ AutoBlog.com Geneva '08 Preview: Lamborghini Gallardo LP 560-4 caught hanging out]&lt;/ref&gt;
+
+In an episode of ''[[Top Gear (2002 TV series)|Top Gear]]'', the LP 560-4 managed a lap of 1:19.5, faster than the [[Ferrari F430]] Scuderia.
+
+The first production LP560-4 was built with help of an ''[[Automobile Magazine]]'' journalist.&lt;ref&gt;[http://www.automobilemag.com/auto_shows/2008_geneva/0803_2009_lamborghini_gallardo_lp560-4/index.html AutomobileMag.com], Auto Shows: 2009 Lamborghini Gallardo LP560-4&lt;/ref&gt;
+
+The first US car was sold in 16th Annual Race to Erase MS charity auction for $270,000 to former True Religion Jeans co-founder/co-creator Kymberly Gold and music producer Victor Newman.&lt;ref&gt;[http://www.autoblog.com/2009/05/11/first-us-bound-lamborghini-gallardo-lp560-4-spyder-raises-270k/ AutoBlog.com], First US-bound Lamborghini Gallardo LP560-4 Spyder raises $270k at charity auction&lt;/ref&gt;
+
+====LP 560-4 Spyder (2008-)====
+[[Image:Lamborghini Gallardo LP560-4 Spyder.jpg|thumb|Lamborghini Gallardo LP 560-4 Spyder]]
+Lamborghini Gallardo LP 560-4 Spyder was unveiled at 2008 LA Auto Show.&lt;ref&gt;[http://www.dieselstation.com/cars/2009-lamborghini-gallardo-lp560-4-spyder-a1871.html 2009 DieselStation.com], Lamborghini Gallardo LP560-4 Spyder&lt;/ref&gt;&lt;ref&gt;[http://www.netcarshow.com/lamborghini/2009-gallardo_lp560-4_spyder/ NetCarShow.com], 2009 Lamborghini Gallardo LP560-4 Spyder&lt;/ref&gt;&lt;ref&gt;[http://www.autoblog.com/2008/11/19/la-2008-lamborghini-gallardo-lp560-4-spyder-unveiled-live/ AutoBlog.com], LA 2008: Lamborghini Gallardo LP560-4 Spyder unveiled Live&lt;/ref&gt; The LP560-4 Spyder has a slightly more limited top speed than the LP560-4 coupe. The drop-top limiting this version's top speed to around 200&amp;nbsp;mph.
+
+===Super Trofeo (2009)===
+[[File:Lamborghini Super Trofeo 99 2010 amk.JPG|thumb|Lamborghini Super Trofeo]]
+It is a limited (30 units) version designed for Lamborghini Blancpain Super Trofeo one-make racing series. The series began in May 2009.
+
+The Super Trofeo race car is based on the Gallardo LP 560-4 sports car, but with a reworked chassis and a direct injection V10 engine rated {{convert|570|PS|kW hp|0|abbr=on}} with higher compression ratio of 12.5:1, variable valve timing. The car has dry weight of {{convert|1300|kg|lb|abbr=on}}. E-gear transmission is standard.
+ 
+The Super Trofeo car and parts package cost €200,000 (US$284,300) plus tax, available via Lamborghini dealerships, with support and parts sales trackside.
+
+The car set the fastest lap time at the [[Vallelunga Circuit]], with [[Giorgio Sanna]] as driver.&lt;ref&gt;[http://www.autoblog.com/2008/11/26/lamborghini-super-trofeo-hits-the-racetrack-for-first-test/ AutoBlog.com], Lamborghini Super Trofeo hits the racetrack for first test&lt;/ref&gt;
+
+===LP 550-2 Valentino Balboni (2009)===
+It is a limited (250 units) version named after Lamborghini test driver [[Valentino Balboni]]. The engine was rated at {{convert|550|PS|kW hp|0|abbr=on}}. The vehicle had dry weight of {{convert|1380|kg|lb|abbr=on}}. Unlike the contemporary line-up, this model is [[rear wheel drive]] (because the standard [[all-wheel drive]] system was removed).
+
+The CORSA ESP setting allows greater drift angles over regular models. 
+
+Other features include re-calibrated optional e-gear transmission, redeveloped 45% limited slip differential, full leather black upholstery with white colour strips, Polar white centre console, a stripe down the centre of the car, and a badge below the left side window bears the signature of Valentino Balboni and the production number of the car.
+
+The Lamborghini LP 550-2 Valentino Balboni can reach a top speed of 199&amp;nbsp;mph and reach 0–100&amp;nbsp;km/h in 3.9 seconds.&lt;ref&gt;{{cite web|url=http://www.automoblog.net/2009/06/30/lamborghini-gallardo-lp550-2|title=Lamborghini LP550-2 - the First RWD Lambo in 10 Years|publisher=Automoblog.net}}&lt;/ref&gt;
+
+The vehicle has MSRP of €162000 (Europe), £137900 (UK), $219800 (US).&lt;ref&gt;[http://www.autoblog.com/2009/06/30/officially-official-lamborghini-gallardo-lp-550-2-valentino-bal/ AutoBlog.com], Official: Lamborghini Gallardo LP 550-2 Valentino Balboni&lt;/ref&gt;
+
+In 2009, the car was voted ''[[Top Gear]]''{{'}}s car of the year; Richard Hammond explained: &quot;We were impressed with its stripe, its V10 engine, its rear wheel drive, the savagery of its exhaust, and its, er, stripe.&quot;
+
+===LP 570-4 Superleggera===
+[[File:Lamborghini Gallardo LP570-4 Superleggera.jpg|thumb|LP 570-4 Superleggera.]]
+In March 2010, Lamborghini announced the release of the LP 570-4 Superleggera - a lightweight and more powerful version of the Gallardo LP 560-4. Carbon fiber is used extensively inside and out to reduce weight to only {{Convert|2954|lb|abbr=on}} - enough to make the LP 570-4 the lightest road-going Lamborghini in the range. 
+
+The 5.2-liter V10 engine produces 570 horsepower, and can travel from zero to {{Convert|100|km/h|mi/h|0|abbr=on}} in 3.4 seconds, up to a {{Convert|202|mi/h|km/h|abbr=on}} top speed.&lt;ref&gt;{{cite web|url=http://www.dieselstation.com/cars/lamborghini-gallardo-lp-570-4-superleggera-2011-a2535.html|title=Lamborghini Gallardo LP 570-4 Superleggera|publisher=DieselStation.com}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.automoblog.net/2010/03/01/lamborghini-gallardo-lp-570-4-superleggera/|title=Lamborghini Gallardo LP 570-4 Superleggera|publisher=Automoblog.net}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.usedcarscentre.com/News/38|title=Lamborghini Gallardo LP 570-4 Superleggera|publisher=usedcarscentre.com}}&lt;/ref&gt;&lt;ref&gt;[http://www.usedcarscentre.com/News/38/ Usedcarscentre.com 2010: Lamborghini Gallardo LP 570-4 Superleggera]&lt;/ref&gt;
+
+== Specifications ==
+{| class=&quot;wikitable collapsible&quot; style=&quot;font-size:97%; text-align:center;&quot;
+|-
+!Models!! Coupe 2003-2005 !! SE (2005) !! Spyder 2006-2008 !! Nera (2006), Coupe 2006-2008 !! Superleggera (2007–2008) !! LP 560-4 !! LP 560-4 Spyder !! LP 550-2 Valentino Balboni &lt;br&gt;&lt;small&gt;rear wheel drive&lt;/small&gt; !! LP 570-4 Superleggera
+|-
+! colspan=10 | Engine
+|-
+| align=&quot;right&quot; | Type
+| colspan=5 | {{convert|4961|cc|L cuin|abbr=on}} V10 40 valves DOHC
+| colspan=4 | {{convert|5204|cc|L cuin|abbr=on}} V10 40 valves DOHC
+|-
+| align=&quot;right&quot; | Power@rpm
+| {{convert|500|PS|kW hp|0|abbr=on}}@7800 ||colspan=3|{{convert|520|PS|kW hp|0|abbr=on}}@8000|| {{convert|530|PS|kW hp|0|abbr=on}}@8000 ||colspan=2 | {{convert|560|PS|kW hp|0|abbr=on}}@8000 ||{{convert|550|PS|kW hp|0|abbr=on}}@8000 ||{{convert|570|PS|kW hp|0|abbr=on}}@8000
+|-
+| align=&quot;right&quot; | Torque@rpm
+| colspan=2 | {{convert|509.8|Nm|lbft|abbr=on}}@4500|| colspan=3 | {{convert|509.8|Nm|lbft|abbr=on}}@4250||colspan=4 | {{convert|539|Nm|lbft|abbr=on}}@6500
+|-
+! colspan=10 | Performance
+|-
+| align=&quot;right&quot; | 0 to {{convert|100|km/h|mph|abbr=on}} (sec)
+| 4.2 || 4.0 || 4.3|| 4.0 ||3.8 || 3.7 &lt;br&gt; 3.2+ (R&amp;T)&lt;ref&gt;[http://www.roadandtrack.com/assets/download/1108_rt_lambo_dp.pdf Road &amp; Track: Lamborghini Gallardo LP560-4]&lt;/ref&gt; || 4.0 || 3.9 || 3.4
+|-
+| align=&quot;right&quot; | 0 to {{convert|200|km/h|mph|abbr=on}} (sec)
+| 14.0||13.6||14.3||13.6||12.4||11.8||13.1||?||10.2
+|-
+| align=&quot;right&quot; | 1/4 mile
+| 12.4 s @ {{convert|118|mph|km/h|abbr=on}} || 12.1 s @ {{convert|120|mph|km/h|abbr=on}}|| - || 12.1 s @ {{convert|120|mph|km/h|abbr=on}}|| 11.7 s @ {{convert|123|mph|km/h|abbr=on}} || 11.2 s @ {{convert|129.5|mph|km/h|abbr=on}} (R&amp;T) &lt;br&gt; 11.9s @ {{convert|120.5|mph|km/h|abbr=on}} (MT)&lt;ref&gt;{{cite web | url = http://www.motortrend.com/features/performance/112_0906_maserati_granturismo_audi_r8_ferrari_f430_lamborghini_lp5604_mercedes_mclaren_slr/2009_lamborghini_lp560_4.html | title = The Ultimate Play Date: Maserati GranTurismo, Audi R8, Ferrari F430, Lamborghini LP560-4, Mercedes McLaren SLR | work = [[Motor Trend]] | date = 22 April 2009 | first = Frank | last = Markus}}&lt;/ref&gt; || - || 11.5s @ {{convert|126.7|mph|km/h|abbr=on}} (R&amp;T)&lt;ref&gt;[http://www.roadandtrack.com/article.asp?section_id=10&amp;article_id=8381&amp;page_number=2 RoadandTrack.com]&lt;/ref&gt; &lt;br&gt; 11.5s @ {{convert|125.6|mph|km/h|abbr=on}}&lt;ref&gt;[http://www.motortrend.com/roadtests/exotic/112_1001_lamborghini_gallardo_lp550_balboni_test/specs.html MotorTrend.com] (MT)&lt;/ref&gt; || - 
+|-
+| align=&quot;right&quot; | Top speed
+| {{convert|309|km/h|mph|abbr=on}} || {{convert|314|km/h|mph|abbr=on}} || {{convert|314|km/h|mph|abbr=on}} || {{convert|314|km/h|mph|abbr=on}} || {{convert|315|km/h|mph|abbr=on}} || {{convert|324|km/h|mph|abbr=on}} || {{convert|324|km/h|mph|abbr=on}} || {{convert|320|km/h|mph|abbr=on}} || {{convert|325|km/h|mph|abbr=on}}
+|}
+
+== Police cars ==
+[[Image:Lamborghini Polizia.JPG|thumb|left|[[Polizia di Stato|Italian State Police]] Gallardo]]
+[[Image:Lamborghini Gallardo British police 1.JPG|thumb|right|[[Policing in the United Kingdom|British police]] Gallardo]]
+In December 2004, two Gallardos were donated to the [[Italy|Italian]] [[Polizia di Stato|police]] in honour of the force's 152nd anniversary, one came from Automobili Lamborghini SpA while a second was donated by an independent organization.
+
+The Gallardo Police Cars are used by the traffic police ([[Polizia Stradale]]) during emergencies and alarm situations on the [[Autostrada A3 (Italy)|Salerno-Reggio Calabria]] highway, also under the powers of the special safety operative which is already being employed along that tract of highway and above all, for the transport of body organs destined for transplantation.
+
+In October 2008, a private ceremony was held at the Viminale Palace where Automobili Lamborghini S.p.A. donated the newest Gallardo, the LP560-4, to the head of the Italian State Police, Prefect Antonio Manganelli. The new Lamborghini Gallardo LP560-4 Polizia will replace its predecessor to fulfill roles with the Lazio Highway Police Department.&lt;ref&gt;[http://www.desktopmachine.com/press/612/Lamborghini_Gallardo_LP560-4_Polizia//14474/  Desktopmachine.com], Lamborghini Donates new Gallardo&lt;/ref&gt;
+
+In November 2009, one of the Gallardos was involved in a serious accident near the northern Italian town of Cremona where it was on display at a student jobs fair. A vehicle had come on to the road and had smashed into the front of the Gallardo. This caused it to drive into a set of parked cars, damaging it quite severely on the front.
+
+Yellow Gallardos have been &quot;temporary&quot; police cars for the [[Metropolitan Police Service|Metropolitan Police]] in [[London]], [[England]], one in 2005 and one in 2006, for specific publicity events.  The 2006 vehicle was seen at the start of the 2006 [[Gumball 3000|Gumball Rally]].  Both vehicles were lent by Lamborghini London and were fitted with yellow and blue [[battenburg markings]], police logos and a small blue [[lightbar]].
+
+==Production==
+[[File:Two Lamborghini Gallardos together.jpg|thumb|220px|Two Gallardos together]]
+{| class=&quot;wikitable&quot;
+|-
+!Year!!Units
+|-
+|2003||
+|-
+|2004||
+|-
+|2005||
+|-
+|2006||1651
+|-
+|2007||1951
+|-
+|2008||1787
+|-
+|2009||922
+|-
+|2010||?
+|-
+|Total||?
+|}
+
+== Racing ==
+[[DP7 Racing]] has currently entered two Gallardos in the [[Speed World Challenge]] GT Series, driven by [[Dan Pastorini (race car driver)|Dan Pastorini]] and [[Chip Herr]].&lt;ref&gt;{{cite web|url=http://www.world-challenge.com/drivers/ |title=SCCA Pro Racing SPEED World Challenge - Drivers |publisher=World-challenge.com |date= |accessdate=2009-06-18}}&lt;/ref&gt;
+
+The Super Trofeo car was also used in the 18-race [http://www.lamborghini.com/supertrofeo/ Lamborghini Blancpain Super Trofeo] one-make racing series, with Swiss watch maker [[Blancpain]] as sponsor.
+
+==Receptions==
+In a test drive of LP550-2 Valentino Balboni, the test driver bearing the name of the car said he was against E-gear because it takes some amount of vehicle control away from the driver, and all-wheel drive Lamborghinis from the beginning, and the company was divided over AWD cars. In that review, a LP550-2 with e.gear was tested.&lt;ref&gt;[http://www.autoblog.com/2009/08/26/first-drive-kinda-2010-lamborghini-gallardo-lp550-2-valentino/ AutoBlog.com]&lt;/ref&gt;
+
+===Awards and recognition===
+* 2006 [[Top Gear (2002 TV series)|Top Gear]] Dream Car of the Year
+* 2009 [[Top Gear]] Dream Car of the Year - Lamborghini LP 550-2 Valentino Balboni
+
+== References ==
+{{Reflist|2}}
+* [http://www.wheelsnews.com/5125/video-valentino-balboni-introduces-his-namesake-lamborghini-gallardo-lp550-2-/ WheelsNews.com], Video: Valentino Balboni introduces his namesake Lamborghini Gallardo LP550-2
+
+== External links ==
+{{Commons category|Lamborghini Gallardo}}
+* [http://www.lamborghini.com Lamborghini Lamborghini.com], official website
+* [http://www.reiter-engineering.com/reiter-engineering-tuning-lamborghini-gallardo-gt3.php Reiter-Engineering.com], Gallardo GT3
+
+{{Lamborghini modern timeline}}
+{{Lamborghini}}
+
+[[Category:Lamborghini vehicles|Gallardo]]
+[[Category:Roadsters]]
+[[Category:All wheel drive vehicles]]
+[[Category:Coupes]]
+[[Category:Mid-engined vehicles]]
+[[Category:2000s automobiles]]
+[[Category:2010s automobiles]]
+[[Category:Automobiles powered by 10 cylinder engines]]
+
+[[ar:لامبورجيني جالاردو]]
+[[bg:Ламборгини Галярдо]]
+[[cs:Lamborghini Gallardo]]
+[[de:Lamborghini Gallardo]]
+[[es:Lamborghini Gallardo]]
+[[fa:لامبورگینی گالاردو]]
+[[fr:Lamborghini Gallardo]]
+[[ko:람보르기니 가야르도]]
+[[hr:Lamborghini Gallardo]]
+[[it:Lamborghini Gallardo]]
+[[he:למבורגיני גאייארדו]]
+[[nl:Lamborghini Gallardo]]
+[[ja:ランボルギーニ・ガヤルド]]
+[[no:Lamborghini Gallardo]]
+[[pnb:لامبورغینی گالارڈو]]
+[[pl:Lamborghini Gallardo]]
+[[pt:Lamborghini Gallardo]]
+[[ru:Lamborghini Gallardo]]
+[[fi:Lamborghini Gallardo]]
+[[sv:Lamborghini Gallardo]]
+[[tr:Lamborghini Gallardo]]
+[[uk:Lamborghini Gallardo]]
+[[zh:蘭博基尼Gallardo]]</text>
+    </revision>
+  </page>
+</mediawiki>
