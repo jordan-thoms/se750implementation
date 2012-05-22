@@ -43,5 +43,12 @@ public class DataSetTableModel extends AbstractTableModel {
 		PDDataRecord record = (PDDataRecord) dataSet.getRecords().toArray()[row];
 		return wc.getInstance(record, (GUID) accessibleRoles.toArray()[column]);
 	}
-
+	
+	@Override
+	public String getColumnName(int column) {
+		GUID transaction = store.begin();
+		String str = store.getName(transaction, accessibleRoles.toArray()[column]);
+		store.commit(transaction);
+		return str;
+	}
 }
