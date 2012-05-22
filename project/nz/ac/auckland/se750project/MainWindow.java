@@ -11,6 +11,10 @@ import pdstore.dal.PDSimpleWorkingCopy;
 import pdstore.dal.PDWorkingCopy;
 
 import java.awt.BorderLayout;
+import javax.swing.JScrollPane;
+import java.awt.Color;
+import javax.swing.border.BevelBorder;
+import javax.swing.border.MatteBorder;
 
 public class MainWindow {
 	static PDStore store;
@@ -52,11 +56,14 @@ public class MainWindow {
 		frame = new JFrame();
 		frame.setBounds(100, 100, 450, 300);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-
+		
+		JScrollPane scrollPane = new JScrollPane();
+		scrollPane.setViewportBorder(new BevelBorder(BevelBorder.LOWERED, null, null, null, null));
+		frame.getContentPane().add(scrollPane, BorderLayout.CENTER);
+		
 		table = new JTable();
-		table.setFillsViewportHeight(true);
+		scrollPane.setViewportView(table);
 		table.setModel(new DataSetTableModel(new GUID("20479fc0a3f711e1a319742f68b11197"), store,  wc));
-		frame.getContentPane().add(table, BorderLayout.CENTER);
 	}
 
 }
