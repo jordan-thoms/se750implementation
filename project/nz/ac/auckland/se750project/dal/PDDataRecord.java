@@ -14,10 +14,10 @@ public class PDDataRecord implements PDInstance {
 
 	public static final GUID typeId = new GUID("661937aaa3f111e19924742f68b11197"); 
 
-	public static final GUID roleRow2Id = new GUID("005319b236ed11e08144001e8c7f9d82");
 	public static final GUID roleRow3Id = new GUID("005319b336ed11e08144001e8c7f9d82");
-	public static final GUID roleContained_inId = new GUID("005319b036ed11e08154001e8c7f9d82");
+	public static final GUID roleRow2Id = new GUID("005319b236ed11e08144001e8c7f9d82");
 	public static final GUID roleRow1Id = new GUID("005319b136ed11e08144001e8c7f9d82");
+	public static final GUID roleContained_inId = new GUID("005319b036ed11e08154001e8c7f9d82");
 
 	static {
 		register();
@@ -170,6 +170,91 @@ public class PDDataRecord implements PDInstance {
 	
 
 	/**
+	 * Returns the instance connected to this instance through the role "Row3".
+	 * @return the connected instance
+	 * @throws PDStoreException
+	 */
+	 public Long getRow3() throws PDStoreException {
+	 	return (Long)pdWorkingCopy.getInstance(this, roleRow3Id);
+	 }
+
+	/**
+	 * Returns the instance(s) connected to this instance through the role "Row3".
+	 * @return the connected instance(s)
+	 * @throws PDStoreException
+	 */
+	 public Collection<Long> getRow3s() throws PDStoreException {
+	 	Set<Long> result = new HashSet<Long>();
+	 	GUID LongTypeId = new GUID("4b8a986c4062db11afc0b95b08f50e2f");
+		pdWorkingCopy.getInstances(this, roleRow3Id, Long.class, LongTypeId, result);
+	 	return result;
+	 }
+	 
+   /**
+	 * Connects this instance to the given instance using role "Row3".
+	 * If the given instance is null, nothing happens.
+	 * @param row3 the instance to connect
+	 * @throws PDStoreException
+	 */
+	public void addRow3(Long row3) throws PDStoreException {
+
+			if (row3 != null) {
+				
+				pdWorkingCopy.addLink(this.id, roleRow3Id, row3);
+			}
+
+	}
+
+	/**
+	 * Connects this instance to the given instances using role "Row3".
+	 * If the given collection of instances is null, nothing happens.
+	 * @param row3 the Collection of instances to connect
+	 * @throws PDStoreException
+	 */
+	public void addRow3s(Collection<Long> row3s) throws PDStoreException {
+		if (row3s == null)
+			return;
+
+		for (Long instance : row3s)
+			addRow3(instance);
+	}
+
+
+	/**
+	 * Removes the link from this instance through role "Row3".
+	 * @throws PDStoreException
+	 */
+	public void removeRow3() throws PDStoreException {
+		pdWorkingCopy.removeLink(this.id, roleRow3Id, 
+			pdWorkingCopy.getInstance(this, roleRow3Id));
+	}
+
+	/**
+	 * Removes the link from this instance through role "Row3" to the given instance, if the link exists.
+	 * If there is no such link, nothing happens.
+	 * If the given instance is null, nothing happens.
+	 * @throws PDStoreException
+	 */
+	public void removeRow3(Object row3) throws PDStoreException {
+		if (row3 == null)
+			return;
+		pdWorkingCopy.removeLink(this.id, roleRow3Id, row3);
+	}
+
+
+   /**
+	 * Connects this instance to the given instance using role "Row3".
+	 * If there is already an instance connected to this instance through role "Row3", the link will be overwritten.
+	 * If the given instance is null, an existing link is removed."
+	 * @param row3 the instance to connect
+	 * @throws PDStoreException
+	 */
+	public void setRow3(Long row3) throws PDStoreException {
+		pdWorkingCopy.setLink(this.id,  roleRow3Id, row3);	
+	}
+
+
+	/**
 	 * Returns the instance connected to this instance through the role "Row2".
 	 * @return the connected instance
 	 * @throws PDStoreException
@@ -255,87 +340,87 @@ public class PDDataRecord implements PDInstance {
 
 
 	/**
-	 * Returns the instance connected to this instance through the role "Row3".
+	 * Returns the instance connected to this instance through the role "Row1".
 	 * @return the connected instance
 	 * @throws PDStoreException
 	 */
-	 public Long getRow3() throws PDStoreException {
-	 	return (Long)pdWorkingCopy.getInstance(this, roleRow3Id);
+	 public Long getRow1() throws PDStoreException {
+	 	return (Long)pdWorkingCopy.getInstance(this, roleRow1Id);
 	 }
 
 	/**
-	 * Returns the instance(s) connected to this instance through the role "Row3".
+	 * Returns the instance(s) connected to this instance through the role "Row1".
 	 * @return the connected instance(s)
 	 * @throws PDStoreException
 	 */
-	 public Collection<Long> getRow3s() throws PDStoreException {
+	 public Collection<Long> getRow1s() throws PDStoreException {
 	 	Set<Long> result = new HashSet<Long>();
 	 	GUID LongTypeId = new GUID("4b8a986c4062db11afc0b95b08f50e2f");
-		pdWorkingCopy.getInstances(this, roleRow3Id, Long.class, LongTypeId, result);
+		pdWorkingCopy.getInstances(this, roleRow1Id, Long.class, LongTypeId, result);
 	 	return result;
 	 }
 	 
    /**
-	 * Connects this instance to the given instance using role "Row3".
+	 * Connects this instance to the given instance using role "Row1".
 	 * If the given instance is null, nothing happens.
-	 * @param row3 the instance to connect
+	 * @param row1 the instance to connect
 	 * @throws PDStoreException
 	 */
-	public void addRow3(Long row3) throws PDStoreException {
+	public void addRow1(Long row1) throws PDStoreException {
 
-			if (row3 != null) {
+			if (row1 != null) {
 				
-				pdWorkingCopy.addLink(this.id, roleRow3Id, row3);
+				pdWorkingCopy.addLink(this.id, roleRow1Id, row1);
 			}
 
 	}
 
 	/**
-	 * Connects this instance to the given instances using role "Row3".
+	 * Connects this instance to the given instances using role "Row1".
 	 * If the given collection of instances is null, nothing happens.
-	 * @param row3 the Collection of instances to connect
+	 * @param row1 the Collection of instances to connect
 	 * @throws PDStoreException
 	 */
-	public void addRow3s(Collection<Long> row3s) throws PDStoreException {
-		if (row3s == null)
+	public void addRow1s(Collection<Long> row1s) throws PDStoreException {
+		if (row1s == null)
 			return;
 
-		for (Long instance : row3s)
-			addRow3(instance);
+		for (Long instance : row1s)
+			addRow1(instance);
 	}
 
 
 	/**
-	 * Removes the link from this instance through role "Row3".
+	 * Removes the link from this instance through role "Row1".
 	 * @throws PDStoreException
 	 */
-	public void removeRow3() throws PDStoreException {
-		pdWorkingCopy.removeLink(this.id, roleRow3Id, 
-			pdWorkingCopy.getInstance(this, roleRow3Id));
+	public void removeRow1() throws PDStoreException {
+		pdWorkingCopy.removeLink(this.id, roleRow1Id, 
+			pdWorkingCopy.getInstance(this, roleRow1Id));
 	}
 
 	/**
-	 * Removes the link from this instance through role "Row3" to the given instance, if the link exists.
+	 * Removes the link from this instance through role "Row1" to the given instance, if the link exists.
 	 * If there is no such link, nothing happens.
 	 * If the given instance is null, nothing happens.
 	 * @throws PDStoreException
 	 */
-	public void removeRow3(Object row3) throws PDStoreException {
-		if (row3 == null)
+	public void removeRow1(Object row1) throws PDStoreException {
+		if (row1 == null)
 			return;
-		pdWorkingCopy.removeLink(this.id, roleRow3Id, row3);
+		pdWorkingCopy.removeLink(this.id, roleRow1Id, row1);
 	}
 
 
    /**
-	 * Connects this instance to the given instance using role "Row3".
-	 * If there is already an instance connected to this instance through role "Row3", the link will be overwritten.
+	 * Connects this instance to the given instance using role "Row1".
+	 * If there is already an instance connected to this instance through role "Row1", the link will be overwritten.
 	 * If the given instance is null, an existing link is removed."
-	 * @param row3 the instance to connect
+	 * @param row1 the instance to connect
 	 * @throws PDStoreException
 	 */
-	public void setRow3(Long row3) throws PDStoreException {
-		pdWorkingCopy.setLink(this.id,  roleRow3Id, row3);	
+	public void setRow1(Long row1) throws PDStoreException {
+		pdWorkingCopy.setLink(this.id,  roleRow1Id, row1);	
 	}
 
 
@@ -458,89 +543,4 @@ public class PDDataRecord implements PDInstance {
 		setContained_in(contained_in.getId());
 	}
 
-
-
-	/**
-	 * Returns the instance connected to this instance through the role "Row1".
-	 * @return the connected instance
-	 * @throws PDStoreException
-	 */
-	 public Long getRow1() throws PDStoreException {
-	 	return (Long)pdWorkingCopy.getInstance(this, roleRow1Id);
-	 }
-
-	/**
-	 * Returns the instance(s) connected to this instance through the role "Row1".
-	 * @return the connected instance(s)
-	 * @throws PDStoreException
-	 */
-	 public Collection<Long> getRow1s() throws PDStoreException {
-	 	Set<Long> result = new HashSet<Long>();
-	 	GUID LongTypeId = new GUID("4b8a986c4062db11afc0b95b08f50e2f");
-		pdWorkingCopy.getInstances(this, roleRow1Id, Long.class, LongTypeId, result);
-	 	return result;
-	 }
-	 
-   /**
-	 * Connects this instance to the given instance using role "Row1".
-	 * If the given instance is null, nothing happens.
-	 * @param row1 the instance to connect
-	 * @throws PDStoreException
-	 */
-	public void addRow1(Long row1) throws PDStoreException {
-
-			if (row1 != null) {
-				
-				pdWorkingCopy.addLink(this.id, roleRow1Id, row1);
-			}
-
-	}
-
-	/**
-	 * Connects this instance to the given instances using role "Row1".
-	 * If the given collection of instances is null, nothing happens.
-	 * @param row1 the Collection of instances to connect
-	 * @throws PDStoreException
-	 */
-	public void addRow1s(Collection<Long> row1s) throws PDStoreException {
-		if (row1s == null)
-			return;
-
-		for (Long instance : row1s)
-			addRow1(instance);
-	}
-
-
-	/**
-	 * Removes the link from this instance through role "Row1".
-	 * @throws PDStoreException
-	 */
-	public void removeRow1() throws PDStoreException {
-		pdWorkingCopy.removeLink(this.id, roleRow1Id, 
-			pdWorkingCopy.getInstance(this, roleRow1Id));
-	}
-
-	/**
-	 * Removes the link from this instance through role "Row1" to the given instance, if the link exists.
-	 * If there is no such link, nothing happens.
-	 * If the given instance is null, nothing happens.
-	 * @throws PDStoreException
-	 */
-	public void removeRow1(Object row1) throws PDStoreException {
-		if (row1 == null)
-			return;
-		pdWorkingCopy.removeLink(this.id, roleRow1Id, row1);
-	}
-
-
-   /**
-	 * Connects this instance to the given instance using role "Row1".
-	 * If there is already an instance connected to this instance through role "Row1", the link will be overwritten.
-	 * If the given instance is null, an existing link is removed."
-	 * @param row1 the instance to connect
-	 * @throws PDStoreException
-	 */
-	public void setRow1(Long row1) throws PDStoreException {
-		pdWorkingCopy.setLink(this.id,  roleRow1Id, row1);	
-	}
 }
