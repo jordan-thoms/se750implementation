@@ -119,7 +119,7 @@ public class MainWindow {
 		final Map<GUID, JTextField> fields = new HashMap<GUID, JTextField>();
 		for (GUID guid : accessibleRoles) {
 			String str = store.getName(transaction, guid);
-			if (!str.equals("contained_in")) {
+			if (str != null && !str.equals("contained_in")) {
 				lblNewLabel = new JLabel(str);
 				panel.add(lblNewLabel);
 				
