@@ -154,6 +154,11 @@ public class PDStoreServer implements ServerInterface {
 		return store.instanceExists(transaction, instance);
 	}
 
+	
+	public Collection<GUID> getAccessibleRoles(GUID transaction, Object type)  throws RemoteException {
+		return store.getAccessibleRoles(transaction, type);
+	}
+
 	public void merge(GUID transaction, GUID parentTransaction)
 			throws PDStoreException, RemoteException {
 		store.merge(transaction, parentTransaction);

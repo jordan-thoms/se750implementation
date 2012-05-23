@@ -279,6 +279,14 @@ public class PDStore extends pdstore.PDStore {
 			throw new PDStoreException("Server error", e);
 		}
 	}
+	
+	public Collection<GUID> getAccessibleRoles(GUID transaction, Object type) {
+		try {
+			return server.getAccessibleRoles(transaction, type);
+		} catch (RemoteException e) {
+			throw new PDStoreException("Server error", e);
+		}
+	}
 
 	public void addLink(GUID transaction, Object instance1, GUID role2,
 			Object instance2) throws PDStoreException {

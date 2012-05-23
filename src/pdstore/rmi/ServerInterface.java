@@ -95,6 +95,7 @@ public interface ServerInterface extends Remote {
 	List<PDListener<GUID, Object, GUID>> getInterceptorList()
 			throws PDStoreException, RemoteException;
 	
+	Collection<GUID> getAccessibleRoles(GUID transaction, Object type)  throws RemoteException;
 	/**
 	 * This method is a method specifically for the remote PDStore
 	 * It serves as the reverse implementation of a listener.

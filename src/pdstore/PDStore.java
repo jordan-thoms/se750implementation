@@ -211,7 +211,7 @@ public class PDStore extends GenericPDStore<GUID, Object, GUID> {
 	}
 
 	public PDStore() {
-		this(DEFAULT_FILENAME);
+		
 	}
 
 	private void initPDStore() {
