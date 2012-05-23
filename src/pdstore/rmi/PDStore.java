@@ -193,10 +193,6 @@ public class PDStore extends pdstore.PDStore {
 	}
 
 	public GUID getRepository() throws PDStoreException {
-		if (server == null) {
-			return new GUID();
-		}
-
 		try {
 			return server.getRepository();
 		} catch (RemoteException e) {
@@ -215,9 +211,6 @@ public class PDStore extends pdstore.PDStore {
 	 */
 	public void createModel(GUID transaction, GUID modelId, String modelName) {
 		try {
-			if (server == null) {
-				return;
-			}
 			server.createModel(transaction, modelId, modelName);
 		} catch (RemoteException e) {
 			throw new PDStoreException("Server error", e);
@@ -234,9 +227,6 @@ public class PDStore extends pdstore.PDStore {
 	 */
 	public void createType(GUID transaction, GUID modelId, GUID typeId,
 			String typeName) {
-		if (server == null) {
-			return;
-		}
 		try {
 			server.createType(transaction, modelId, typeId, typeName);
 		} catch (RemoteException e) {
@@ -274,9 +264,6 @@ public class PDStore extends pdstore.PDStore {
 	 */
 	public void createRelation(GUID transaction, GUID typeId1,
 			String role1Name, String role2Name, GUID role2, GUID typeId2) {
-		if (server == null) {
-			return;
-		}
 		try {
 			server.createRelation(transaction, typeId1, role1Name, role2Name,
 					role2, typeId2);
@@ -298,9 +285,6 @@ public class PDStore extends pdstore.PDStore {
 		Debug.assertTrue(instance1 != null, "instance1 must not be null.");
 		Debug.assertTrue(role2 != null, "role2 must not be null.");
 		Debug.assertTrue(instance2 != null, "instance2 must not be null.");
-		if (server == null) {
-			return;
-		}
 
 		try {
 			server.addLink(transaction, instance1, role2, instance2);
@@ -339,9 +323,6 @@ public class PDStore extends pdstore.PDStore {
 			throws PDStoreException {
 		Debug.assertTrue(instance1 != null, "instance1 must not be null.");
 		Debug.assertTrue(role2 != null, "role2 must not be null.");
-		if (server == null) {
-			return null;
-		}
 
 		try {
 			return server.getInstance(transaction, instance1, role2);
@@ -376,10 +357,6 @@ public class PDStore extends pdstore.PDStore {
 
 	public void merge(GUID transaction, GUID parentTransaction)
 			throws PDStoreException {
-		if (server == null) {
-			return;
-		}
-
 		try {
 			server.merge(transaction, parentTransaction);
 		} catch (RemoteException e) {
@@ -414,9 +391,6 @@ public class PDStore extends pdstore.PDStore {
 	}
 
 	public GUID commit(GUID transaction) throws PDStoreException {
-		if (server == null) {
-			return null;
-		}
 		try {
 			return server.commit(transaction);
 		} catch (RemoteException e) {
@@ -438,18 +412,11 @@ public class PDStore extends pdstore.PDStore {
 
 	public List<PDListener<GUID, Object, GUID>> getDetachedListenerList()
 			throws PDStoreException {
-		if (server == null) {
-			return new ArrayList<PDListener<GUID, Object, GUID>>();
-		}
-
 		return detachedListenerList;
 	}
 
 	public List<PDListener<GUID, Object, GUID>> getInterceptorList()
 			throws PDStoreException {
-		if (server == null) {
-			return new ArrayList<PDListener<GUID, Object, GUID>>();
-		}
 		return interceptorList;
 	}
 
