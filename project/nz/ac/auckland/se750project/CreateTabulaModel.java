@@ -26,14 +26,15 @@ public class CreateTabulaModel {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-//		PDStore store = new PDStore("Tabula");
-		PDStore store = PDStore.connectToServer("localhost");
+		PDStore store = new PDStore("Tabula");
+//		PDStore store = PDStore.connectToServer("localhost");
 
 		createModel(store);
 		// use the PDGen class to automatically create PDPage and PDAction
 		// classes with their get/set/add methods
 //		PDWorkingCopy wc = new PDSimpleWorkingCopy(store);
 //		PDGen.generateModel("loadmodel", "project", wc, "nz.ac.auckland.se750project.dal");
+		System.exit(0);
 	}
 	
 	public static void createModel(PDStore store) {

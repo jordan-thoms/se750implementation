@@ -53,8 +53,8 @@ public class MainWindow {
 	 * Launch the application.
 	 */
 	public static void main(String[] args) {
-//		store = new PDStore("Tabula");
-		store = PDStore.connectToServer("localhost");
+		store = new PDStore("Tabula");
+//		store = PDStore.connectToServer("localhost");
 		wc = new PDSimpleWorkingCopy(store);
 		Collection<PDInstance> dataSets = wc.getAllInstancesOfType(PDDataSet.typeId);
 		if (dataSets.size() == 0) {
