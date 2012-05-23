@@ -76,6 +76,9 @@ public class MainWindow {
 				try {
 					MainWindow window = new MainWindow();
 					window.frame.setVisible(true);
+					
+					MainWindow window2 = new MainWindow();
+					window2.frame.setVisible(true);
 				} catch (Exception e) {
 					e.printStackTrace();
 				}
