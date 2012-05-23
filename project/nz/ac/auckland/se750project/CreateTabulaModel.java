@@ -26,7 +26,17 @@ public class CreateTabulaModel {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		PDStore store = new PDStore("Tabula");
+//		PDStore store = new PDStore("Tabula");
+		PDStore store = PDStore.connectToServer("localhost");
+
+		createModel(store);
+		// use the PDGen class to automatically create PDPage and PDAction
+		// classes with their get/set/add methods
+//		PDWorkingCopy wc = new PDSimpleWorkingCopy(store);
+//		PDGen.generateModel("loadmodel", "project", wc, "nz.ac.auckland.se750project.dal");
+	}
+	
+	public static void createModel(PDStore store) {
 		GUID transaction = store.begin();
 		
 		
@@ -46,11 +56,6 @@ public class CreateTabulaModel {
 		
 		// Commit all the changes to pdstore Loadtest.pds
 		store.commit(transaction);
-		
-		// use the PDGen class to automatically create PDPage and PDAction
-		// classes with their get/set/add methods
-		PDWorkingCopy wc = new PDSimpleWorkingCopy(store);
-		PDGen.generateModel("loadmodel", "project", wc, "nz.ac.auckland.se750project.dal");
 	}
 
 }

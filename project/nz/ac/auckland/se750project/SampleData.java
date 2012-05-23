@@ -12,7 +12,7 @@ public class SampleData {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		PDStore store = new PDStore("Tabula");
+		PDStore store = PDStore.connectToServer("localhost");
 		PDWorkingCopy wc = new PDSimpleWorkingCopy(store);
 		PDDataSet dataSet = new PDDataSet(wc);
 		PDDataRecord record = new PDDataRecord(wc);

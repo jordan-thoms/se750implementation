@@ -12,6 +12,7 @@ import pdstore.PDStore;
 import pdstore.dal.PDInstance;
 import pdstore.dal.PDSimpleWorkingCopy;
 import pdstore.dal.PDWorkingCopy;
+import texteditor.dal.PDInsert;
 
 import java.awt.BorderLayout;
 import javax.swing.JScrollPane;
@@ -47,13 +48,29 @@ public class MainWindow {
 	private JTextField textField;
 	private JButton btnNewButton;
 
+	private static GUID dataSetGUID;
 	/**
 	 * Launch the application.
 	 */
 	public static void main(String[] args) {
-		store = new PDStore("Tabula");
+//		store = new PDStore("Tabula");
+		store = PDStore.connectToServer("localhost");
 		wc = new PDSimpleWorkingCopy(store);
-
+		Collection<PDInstance> dataSets = wc.getAllInstancesOfType(PDDataSet.typeId);
+		if (dataSets.size() == 0) {
+			PDDataSet dataSet = new PDDataSet(wc);
+			wc.commit();
+			System.out.println("Added: " + dataSet.getId());
+			dataSets.add(dataSet);
+			PDDataRecord record = new PDDataRecord(wc);
+			dataSet.addRecord(record);
+			record.setRow1(5l);
+			record.setRow2(10l);
+			record.setRow3(15l);
+			wc.commit();
+		}
+		
+		dataSetGUID = ((PDInstance) dataSets.toArray()[0]).getId();
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
@@ -85,7 +102,6 @@ public class MainWindow {
 		JScrollPane scrollPane = new JScrollPane();
 		scrollPane.setViewportBorder(new BevelBorder(BevelBorder.LOWERED, null, null, null, null));
 		frame.getContentPane().add(scrollPane);
-		final GUID dataSetGUID = new GUID("20479fc0a3f711e1a319742f68b11197");
 		table = new JTable();
 		scrollPane.setViewportView(table);
 		table.setModel(new DataSetTableModel(dataSetGUID, store,  wc));
