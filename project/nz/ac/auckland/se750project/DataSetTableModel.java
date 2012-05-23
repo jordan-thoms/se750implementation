@@ -46,7 +46,7 @@ public class DataSetTableModel extends AbstractTableModel {
 			@Override
 			public Collection<PDChange<GUID, Object, GUID>> getMatchingTemplates() {
 				Collection<PDChange<GUID, Object, GUID>> templates = new ArrayList<PDChange<GUID, Object, GUID>>();
-				templates.add(new PDChange<GUID, Object, GUID>(null, null, dataSet, null, null));
+				templates.add(new PDChange<GUID, Object, GUID>(null, null, null, null, null));
 				return templates;
 			}
 		});
